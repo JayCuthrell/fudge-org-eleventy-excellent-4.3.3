@@ -3,11 +3,22 @@ node_modules
 
 # generated files
 dist
-src/_includes/css
-src/_includes/scripts
+src/assets/og-images/*.jpeg
 
 # cache
 .cache
 
 # secret data
 .env
+
+# other
+.DS_Store
+.vscode
+
+# python env
+.venv
+
+# Local testing; prevents committing the test configuration
+.eleventyignore
+.eleventyignore-*
+build.log

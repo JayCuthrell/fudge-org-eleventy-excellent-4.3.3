@@ -1,34 +1,26 @@
 export default {
-  top: [
+   top: [
+    {
+      text: 'Archive',
+      url: '/archive/'
+    },
     {
       text: 'About',
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
+      text: 'Sponsorship',
+      url: '/sponsorship/'
     },
     {
-      text: 'Built with',
-      url: '/built-with/'
-    },
-    {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'Subscribe',
+      url: 'https://buttondown.com/hot-fudge-daily#subscribe-form'
     }
   ],
   bottom: [
     {
-      text: 'Style guide',
-      url: '/styleguide/'
-    },
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Disclosure',
+      url: 'https://jaycuthrell.com/disclosure'
     }
   ]
 };

@@ -1,24 +1,24 @@
-export const url = process.env.URL || 'http://localhost:8080';
+export const url = process.env.URL || 'https://fudge.org';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
-export const siteName = 'Eleventy Excellent';
-export const siteDescription = 'Eleventy starter for building modern, resilient websites';
+export const siteName = 'Fudge Factor 🤔💡🤯🤓';
+export const siteDescription = 'Fudge Factor is a newsletter and blog by Jay Cuthrell';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
 export const author = {
-  name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
-  avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
-  email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-  website: 'https://www.lenesaile.com', // i.e. https.://www.lenesaile.com - the personal site of the author
-  fediverse: '@lene@front-end.social' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
+  name: 'Jay Cuthrell', 
+  avatar: '/icon-512x512.png', 
+  email: 'jay@cuthrell.com', 
+  website: 'https://jaycuthrell.com', 
+  fediverse: '@jay@cuthrell.com'
 };
 export const creator = {
-  name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-  email: 'hola@lenesaile.com',
-  website: 'https://www.lenesaile.com',
-  social: 'https://front-end.social/@lene'
+  name: 'Jay Cuthrell', 
+  email: 'jay@cuthrell.com',
+  website: 'https://jaycuthrell.com',
+  social: 'https://cuthrell.com/@jay'
 };
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#dd4462'; // used in manifest, for example primary color value
@@ -26,17 +26,22 @@ export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light 
 export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
 export const opengraph_default = '/assets/images/template/opengraph-default.jpg'; // fallback/default meta image
 export const opengraph_default_alt =
-  "Visible content: An Eleventy starter with CUBE CSS, Cube CSS, Every Layout, Design Tokens and Tailwind for uitility classes. A workflow for building modern and resilient websites, introduced by Andy Bell's project buildexcellentwebsit.es"; // alt text for default meta image"
+  "Visible content: Fudge Factor is the on again off again blog and steady running newsletter by Jay Cuthrell published at fudge.org"; // alt text for default meta image"
 export const blog = {
   // RSS feed
-  name: 'My Web Development Blog',
-  description: 'Tell the word what you are writing about in your blog. It will show up on feed readers.',
+  name: 'Fudge Factor is the newsletter and blog of Jay Cuthrell',
+  description: 'Fudge Factor is the newsletter and blog of Jay Cuthrell',
   // feed links are looped over in the head. You may add more to the array.
   feedLinks: [
     {
       title: 'Atom Feed',
       url: '/feed.xml',
       type: 'application/atom+xml'
+    },
+    {
+      title: 'RSS Feed',
+      url: '/rss.xml',
+      type: 'application/rss+xml'
     },
     {
       title: 'JSON Feed',
@@ -94,4 +99,11 @@ export const viewRepo = {
   allow: true,
   infoText: 'View this page on GitHub'
 };
-export const easteregg = true;
+export const viewSponsor = {
+  allow: true,
+  name: 'NexusTek',
+  infoText: 'Thanks to NexusTek for sponsoring the free version of this newsletter post 🤓',
+  url: 'https://nexustek.com?utm_campaign=Blog%20Promotion&utm_source=email&utm_medium=newsletter&utm_term=nexustek&utm_content=jaycuthrell',
+  logo: '/assets/images/sponsors/nexustek.jpg'
+};
+export const easteregg = false;
