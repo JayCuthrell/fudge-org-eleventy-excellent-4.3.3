@@ -30,7 +30,7 @@ Plants telling stories with data that becomes music is such a wonderful fusion o
 
 ## Wayback Machine
 
-To understand my sheer delight and joy about [Data Garden](https://youtu.be/e8a8mOZSAEw), some Fudge Sunday readers might already my love of [music](https://jaycuthrell.com/music/), data, telemetry / remote-sensing, and convergence. Now, add in my past experiences with co-ops, mutuals, and independent local exchange companies (ILECs) across the rural US, and various industry conferences and you'll start to see a picture emerge.
+To understand my sheer delight and joy about [Data Garden](https://www.youtube.com/watch?v=e8a8mOZSAEw), some Fudge Sunday readers might already my love of [music](https://jaycuthrell.com/music/), data, telemetry / remote-sensing, and convergence. Now, add in my past experiences with co-ops, mutuals, and independent local exchange companies (ILECs) across the rural US, and various industry conferences and you'll start to see a picture emerge.
 
 Convergence is on display at your grocery store. For example, if you've flown over the rural US, you might recall seeing [green and brown circles or semi-circles from your airplane window seat](https://www.flickr.com/photos/wessexman/18743017212).
 
