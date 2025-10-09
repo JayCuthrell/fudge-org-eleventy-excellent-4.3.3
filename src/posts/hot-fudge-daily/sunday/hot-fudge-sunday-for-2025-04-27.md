@@ -13,7 +13,7 @@ https://www.prnewswire.com/news-releases/nexustek-expands-secure-by-design-solut
 
 https://www.prnewswire.com/news-releases/nexustek-recognized-on-crns-2025-msp-500-list-302432599.html
 
-https://youtu.be/T2lfhcZbInA?feature=shared
+https://www.youtube.com/watch?v=T2lfhcZbInA?feature=shared
 
 More to come... 🤓
 

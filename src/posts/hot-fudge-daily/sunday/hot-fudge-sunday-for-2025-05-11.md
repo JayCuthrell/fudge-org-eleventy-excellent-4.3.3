@@ -118,7 +118,7 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
    
 ## 🤪 Wacky Wednesday for 2025-05-07
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p>https://youtu.be/JmYXrf0TMis</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/">https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/</a></p><p>https://www.youtube.com/watch?v=qtM-5lhZ-yo</p><p></p><p></p>
+<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p>https://www.youtube.com/watch?v=JmYXrf0TMis</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/">https://arstechnica.com/tech-policy/2025/05/dont-watermark-your-legal-pdfs-with-purple-dragons-in-suits/</a></p><p>https://www.youtube.com/watch?v=qtM-5lhZ-yo</p><p></p><p></p>
    
 ## 🔙 Throwback Thursday for 2025-05-08
  

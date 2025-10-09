@@ -6,7 +6,7 @@ date: 2022-06-19
 
 *Note: Thank you readers for the great migration feedback and helpful suggestions. I’m happy this newsletter continues to provide so many of you with utility.*
 
-*[Rivers Cuomo - Me and My Posse (2020)](https://youtu.be/uPAzNXk59P8)*
+*[Rivers Cuomo - Me and My Posse (2020)](https://www.youtube.com/watch?v=uPAzNXk59P8)*
 
 Getting Informed
 ================

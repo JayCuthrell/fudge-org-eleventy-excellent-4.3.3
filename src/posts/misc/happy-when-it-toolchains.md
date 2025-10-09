@@ -58,6 +58,6 @@ Until then… Place your bets!
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
-[^matrix]: \_Have you ever been to the\_ [\_engineering level?\_](https://youtu.be/cD4nhYR-VRA?t=54)
+[^matrix]: \_Have you ever been to the\_ [\_engineering level?\_](https://www.youtube.com/watch?v=cD4nhYR-VRA?t=54)
 [^apple]: iPhone 3G [circa 2009)](https://www.youtube.com/watch?v=szrsfeyLzyg)
 [^DavidAdeyemi]: Shout out to [David Adeyemi](https://www.linkedin.com/in/davidfadeyemi/)
