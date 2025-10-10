@@ -24,7 +24,9 @@ export const svgToJpeg = async () => {
 
   console.log(`🚀 Found ${svgFiles.length} SVG(s) to convert to JPEG...`);
 
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+  });
 
   for (const filename of svgFiles) {
     const outputFilename = filename.substring(0, filename.length - 4);
