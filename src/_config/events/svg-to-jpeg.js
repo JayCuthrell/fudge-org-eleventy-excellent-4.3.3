@@ -1,33 +1,53 @@
-import {promises as fsPromises, existsSync} from 'node:fs';
+import { promises as fsPromises, existsSync } from 'node:fs';
 import path from 'node:path';
-import Image from '@11ty/eleventy-img';
+import puppeteer from 'puppeteer';
 
-const ogImagesDir = './src/assets/og-images';
+const ogImagesSourceDir = 'dist/assets/og-images/';
+const ogImagesOutputDir = 'src/assets/og-images/';
 
 export const svgToJpeg = async () => {
-  const socialPreviewImagesDir = 'dist/assets/og-images/';
+  // ✅ FIX: Ensure the output directory exists before we start.
+  await fsPromises.mkdir(ogImagesOutputDir, { recursive: true });
 
-  if (!existsSync(socialPreviewImagesDir)) {
-    console.log('⚠ No OG images dir found');
+  if (!existsSync(ogImagesSourceDir)) {
+    console.log('⚠ No OG images source directory found, skipping conversion.');
     return;
   }
 
-  const files = await fsPromises.readdir(socialPreviewImagesDir);
-  if (files.length > 0) {
-    files.forEach(async function (filename) {
-      const outputFilename = filename.substring(0, filename.length - 4);
-      if (filename.endsWith('.svg') & !existsSync(path.join(ogImagesDir, outputFilename))) {
-        const imageUrl = socialPreviewImagesDir + filename;
-        await Image(imageUrl, {
-          formats: ['jpeg'],
-          outputDir: ogImagesDir,
-          filenameFormat: function (id, src, width, format, options) {
-            return `${outputFilename}.${format}`;
-          }
-        });
-      }
-    });
-  } else {
-    console.log('⚠ No images found on OG images dir');
+  const files = await fsPromises.readdir(ogImagesSourceDir);
+  const svgFiles = files.filter((file) => file.endsWith('.svg'));
+
+  if (svgFiles.length === 0) {
+    console.log('⚠ No SVG images found to convert.');
+    return;
   }
+
+  console.log(`🚀 Found ${svgFiles.length} SVG(s) to convert to JPEG...`);
+
+  const browser = await puppeteer.launch();
+
+  for (const filename of svgFiles) {
+    const outputFilename = filename.substring(0, filename.length - 4);
+    const jpegPath = path.join(ogImagesOutputDir, `${outputFilename}.jpeg`);
+
+    if (!existsSync(jpegPath)) {
+      const page = await browser.newPage();
+      await page.setViewport({ width: 1200, height: 630 });
+      
+      const svgPath = path.resolve(ogImagesSourceDir, filename);
+      await page.goto(`file://${svgPath}`);
+
+      await page.screenshot({
+        path: jpegPath,
+        type: 'jpeg',
+        quality: 80,
+      });
+
+      console.log(`✅ Converted ${filename} to JPEG.`);
+      await page.close();
+    }
+  }
+
+  await browser.close();
+  console.log('✨ JPEG conversion complete.');
 };

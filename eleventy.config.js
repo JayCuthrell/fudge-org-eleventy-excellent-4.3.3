@@ -28,8 +28,8 @@ export default async function (eleventyConfig) {
     await events.buildAllJs();
   });
 
-  // --------------------- custom wtach targets
-  eleventyConfig.addWatchTarget('./src/assets/**/*.{css,js,svg,png,jpeg}');
+  // --------------------- custom watch targets
+  eleventyConfig.addWatchTarget('./src/assets/**/*.{css,js}');
   eleventyConfig.addWatchTarget('./src/_includes/**/*.{webc}');
 
   // --------------------- layout aliases

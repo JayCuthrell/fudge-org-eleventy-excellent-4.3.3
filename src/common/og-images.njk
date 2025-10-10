@@ -1,6 +1,8 @@
 ---
 fontDisplay: "'Red Hat Display', Ubuntu" # needed created in local development, font must be installed on your system.
 fontBody: "'Atkinson Hyperlegible', Ubuntu" # needed created in local development, font must be installed on your system.
+fontEmoji: "'Noto Color Emoji', sans-serif" # needed created in local development, font must be installed on your system.
+fontAppleEmoji: "'Apple Color Emoji', sans-serif" # needed created in local development, font must be installed on your system.
 background: '#FB923C'
 text: '#000000'
 contrastText: '#FFFFFF'
@@ -38,7 +40,7 @@ eleventyExcludeFromCollections: true
   </g>
 
   <text
-    font-family="{{ fontBody }}, sans-serif"
+    font-family="{{ fontBody }}, {{ fontEmoji }}, sans-serif"
     font-size="28"
     font-weight="600"
     fill="{{ text }}"
@@ -51,7 +53,7 @@ eleventyExcludeFromCollections: true
 
   <text
     id="text"
-    font-family="{{ fontDisplay }}, sans-serif"
+    font-family="{{ fontDisplay }}, {{ fontEmoji }}, sans-serif"
     font-size="70"
     font-weight="900"
     fill="{{ text }}"
@@ -63,7 +65,7 @@ eleventyExcludeFromCollections: true
   </text>
 
   <text
-    font-family="{{ fontBody }}, sans-serif"
+    font-family="{{ fontBody }}, {{ fontEmoji }}, sans-serif"
     font-size="28"
     font-weight="600"
     fill="{{ text }}"
@@ -76,7 +78,7 @@ eleventyExcludeFromCollections: true
 
 
   <text
-    font-family="{{ fontDisplay }}, sans-serif"
+    font-family="{{ fontAppleEmoji }}, {{ fontEmoji }}, sans-serif"
     font-size="22"
     font-weight="900"
     fill="{{ text }}"
