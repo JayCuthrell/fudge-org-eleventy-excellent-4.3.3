@@ -25,7 +25,7 @@ First, a wacky wonderful video. Second, a wayback nostalgia moment. Third, a who
 
 #### Whoa
 
-[Spyglass: Spotify & Netflix Gun for YouTube's Eyeballs](https://spyglass.org/r/dc40a161)
+[Spyglass: Spotify & Netflix Gun for YouTube's Eyeballs](https://spyglass.org/spotify-netflix-video-podcasts-youtube/)
 
 * User-generated content (UGC)
 * Streaming
