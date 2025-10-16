@@ -99,6 +99,7 @@ export const viewRepo = {
   allow: true,
   infoText: 'View this page on GitHub'
 };
+export const subscribeUrl = 'https://buttondown.com/api/emails/embed-subscribe/hot-fudge-daily';
 export const viewSponsor = {
   allow: true,
   name: 'NexusTek',

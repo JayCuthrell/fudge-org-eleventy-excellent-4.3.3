@@ -1,65 +1,46 @@
-/* © https://piccalil.li/complete-css */
+/*
+  Replace the old CSS in: src/assets/css/local/forms.css
+  with this new, more specific version.
+*/
 
-form > * + * {
-  margin-top: var(--flow-space, 1rem);
+/* --- The main container for the subscription form --- */
+.subscription-card {
+  --flow-space: var(--space-s);
+  background-color: var(--color-bg-accent);
+  border: 10px solid var(--color-bg-accent-2);
+  border-radius: var(--border-radius-medium);
+  padding: var(--space-l);
 }
 
-:is(input:not([type='checkbox'], [type='radio'], [type='color']), select, textarea) {
-  padding: 0.5em 0.8em;
+/* --- Base styles for the form input (layout, padding, etc.) --- */
+.form-input {
+  appearance: none;
+  border: 10px solid var(--color-bg-accent-2);
   border-radius: var(--border-radius-small);
-  border: var(--stroke);
-  background: var(--color-bg-accent);
-  color: var(--color-text);
-  width: 100%;
-
-  &::placeholder {
-    color: var(--color-mid);
-    opacity: 1;
-  }
+  padding: var(--space-xs) var(--space-s);
+  flex-grow: 1;
+  min-width: 20ch;
 }
 
-label {
-  line-height: var(--leading-fine);
-  font-weight: var(--font-bold);
+/* --- EXPLICIT LIGHT THEME OVERRIDE --- */
+:root[data-theme='light'] .form-input {
+  background-color: var(--color-gray-100); /* light background */
+  color: var(--color-gray-800);           /* dark text */
 }
 
-label::after {
-  content: '\A';
-  white-space: pre;
+/* --- EXPLICIT DARK THEME OVERRIDE --- */
+:root[data-theme='dark'] .form-input {
+  background-color: var(--color-gray-800); /* dark background */
+  color: var(--color-gray-100);           /* light text */
 }
 
-/* Usually label wraps checkbox and radio buttons, so we give ourselves more layout and text-flow control with flex */
-label:has(input) {
-  display: flex;
-  align-items: baseline;
-  gap: var(--space-s);
-  font-weight: var(--font-normal);
+/* --- Placeholder and Focus Styles --- */
+.form-input::placeholder {
+  color: var(--color-text-accent);
+  opacity: 0.8;
 }
 
-label:has(input) + label:has(input) {
-  --flow-spce: var(--space-s-m);
-}
-
-/* Slightly adjusts the vertical position of the check/radio */
-label:has(input) input {
-  transform: translateY(-0.1ex);
-}
-
-input:disabled {
-  background: var(--color-mid);
-}
-
-input:disabled,
-label input:disabled + * {
-  cursor: not-allowed;
-}
-
-fieldset {
-  border: var(--stroke);
-  padding: var(--space-m);
-}
-
-legend {
-  font-weight: var(--font-bold);
-  padding-inline: var(--space-xs);
+.form-input:focus {
+  outline: 10px solid var(--color-primary);
+  outline-offset: 10px;
 }

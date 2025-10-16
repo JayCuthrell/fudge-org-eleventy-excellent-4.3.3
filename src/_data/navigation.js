@@ -11,10 +11,6 @@ export default {
     {
       text: 'Sponsorship',
       url: '/sponsorship/'
-    },
-    {
-      text: 'Subscribe',
-      url: 'https://buttondown.com/hot-fudge-daily#subscribe-form'
     }
   ],
   bottom: [

@@ -6,3 +6,9 @@ layout: base
   <h1 class="gradient-text">{{ title }}</h1>
   {{ content | safe }}
 </div>
+
+{% include 'partials/subscribe.njk' %}
+
+{%- css "local" -%}
+  {%- include 'css/forms.css' -%}
+{%- endcss -%}
