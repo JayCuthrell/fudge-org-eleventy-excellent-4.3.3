@@ -5,14 +5,15 @@ description: "Hot Fudge Daily digest for the week of 10-13-2025 to 10-18-2025."
 date: 2025-10-19
 ---
 
-
-
 ## Last Week
 
-* [NexusTek](https://www.nexustek.com/insights/cybersecurity-awareness-month-training) published [The Cybersecurity Awareness Month Challenge: Can Your Team Pass This Real-World Test?](https://www.nexustek.com/insights/cybersecurity-awareness-month-training)
+[NexusTek](https://www.nexustek.com/insights/cybersecurity-awareness-month-training) published [The Cybersecurity Awareness Month Challenge: Can Your Team Pass This Real-World Test?](https://www.nexustek.com/insights/cybersecurity-awareness-month-training)
+
+[NexusTek Earns CRN's 2025 Triple Crown--Honored for Growth, Innovation, and Technical Excellence](https://www.prnewswire.com/news-releases/nexustek-earns-crns-2025-triple-crownhonored-for-growth-innovation-and-technical-excellence-302582457.html)
 
 ## This Week
-A look at the week ahead...
+
+Work travel picks up again this week and through end of year.
 
 ---
 
