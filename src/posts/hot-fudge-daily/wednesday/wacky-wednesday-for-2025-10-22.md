@@ -9,7 +9,7 @@ Wacky. Wayback. Whoa.
 
 #### Wacky Wonderful
 
-[In the air tonight)](https://www.youtube.com/watch?v=HH9MQmMtilU)
+[In the air tonight](https://www.youtube.com/watch?v=HH9MQmMtilU)
 
 * The scene.
 * The build.
