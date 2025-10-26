@@ -97,6 +97,7 @@ export default async function (eleventyConfig) {
   }
     if (process.env.ELEVENTY_RUN_MODE === 'build') {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
+    ['src/assets/og-images'].forEach(path => eleventyConfig.addPassthroughCopy(path));
   }
 
   // --------------------- Passthrough File Copy
