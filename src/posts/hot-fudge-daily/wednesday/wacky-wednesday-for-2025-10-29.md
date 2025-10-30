@@ -9,7 +9,7 @@ First, a wacky wonderful video. Second, a wayback nostalgia tome. Third, a whoa 
 
 #### Wacky Wonderful
 
-[I trapped an AI model inside an art installation](https://www.youtube.com/watch?v=7fNYj0EXxMs)
+[Captured AI art](https://www.youtube.com/watch?v=7fNYj0EXxMs)
 
 * Custom displays
 * SoC brain

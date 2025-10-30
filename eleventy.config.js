@@ -92,14 +92,8 @@ export default async function (eleventyConfig) {
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   // --------------------- Events: after build
-  if (process.env.ELEVENTY_RUN_MODE === 'serve') {
-    eleventyConfig.on('eleventy.after', events.svgToJpeg);
-  }
-    if (process.env.ELEVENTY_RUN_MODE === 'build') {
-    eleventyConfig.on('eleventy.after', events.svgToJpeg);
-    ['src/assets/og-images'].forEach(path => eleventyConfig.addPassthroughCopy(path));
-  }
-
+  eleventyConfig.on('eleventy.after', events.svgToJpeg);
+  
   // --------------------- Passthrough File Copy
 
   // -- same path
