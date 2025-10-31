@@ -3,7 +3,7 @@ import path from 'node:path';
 import puppeteer from 'puppeteer';
 
 const ogImagesSourceDir = 'dist/assets/og-images/';
-const ogImagesOutputDir = 'src/assets/og-images/';
+const ogImagesOutputDir = 'dist/assets/og-images/';
 
 export const svgToJpeg = async () => {
   // ✅ FIX: Ensure the output directory exists before we start.
