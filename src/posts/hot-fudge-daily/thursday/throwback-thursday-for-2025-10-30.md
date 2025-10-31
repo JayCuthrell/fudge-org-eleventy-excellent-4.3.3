@@ -1,5 +1,5 @@
 ---
-title: "🕰️ Throwback Thursday for 2025-10-30"
+title: "🔙 Throwback Thursday for 2025-10-30"
 permalink: "/archive/throwback-thursday-for-2025-10-30/"
 description: "Your weekly look back at tech news from 5, 10, and 15 years ago today."
 date: 2025-10-30
