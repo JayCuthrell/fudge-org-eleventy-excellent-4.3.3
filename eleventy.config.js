@@ -26,7 +26,6 @@ export default async function (eleventyConfig) {
   eleventyConfig.on('eleventy.before', async () => {
     await events.buildAllCss();
     await events.buildAllJs();
-    await events.svgToJpeg();
   });
 
   // --------------------- custom watch targets
@@ -93,7 +92,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   // --------------------- Events: after build
-  // eleventyConfig.on('eleventy.after', events.svgToJpeg);
+  eleventyConfig.on('eleventy.after', events.svgToJpeg);
   
   // --------------------- Passthrough File Copy
 
