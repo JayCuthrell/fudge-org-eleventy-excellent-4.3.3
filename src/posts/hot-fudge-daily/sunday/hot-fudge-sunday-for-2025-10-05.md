@@ -151,7 +151,7 @@ https://fudge.org/archive/my-fifth-year-at-vce/
 
 ## 🔮 Sneak Peak Saturday for 2025-10-04
 
-I try to avoid political discourse in my newsletter and writing. This week, I cannot. As I sifted through the Friday news cycle for stories meant to be forgotten by Monday, it became clear that in the world of peak patronizing publishing, Washington, D.C., has served up a masterclass in burying news.
+I try to avoid political discourse in my newsletter and writing. This week, I cannot. As I sifted through the Friday news cycle for stories meant to be forgotten by Monday, it became clear that in the world of peak patronizing publishing, Washington, D.C., has served up a best-in-class burying of the news.
 
 While the loud, headline-grabbing drama of our U.S. government shutdown dominated the week, the truly messy consequences were saved for a quiet Friday morning reveal. Indeed, truth is stranger and increasingly more disappointing than fiction.
 
