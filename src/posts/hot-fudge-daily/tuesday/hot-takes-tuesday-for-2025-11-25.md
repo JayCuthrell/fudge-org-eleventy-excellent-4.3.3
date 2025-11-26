@@ -1,7 +1,7 @@
 ---
 title: "🔥 Hot Takes Tuesday for 2025-11-25"
 permalink: "/archive/hot-takes-tuesday-for-2025-11-25/"
-description: "Funding for AI, security, and nuclear energy"
+description: "Funding for AI-powered everything continues"
 date: 2025-11-25
 ---
 
