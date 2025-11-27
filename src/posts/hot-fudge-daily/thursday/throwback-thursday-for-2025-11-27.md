@@ -9,7 +9,7 @@ Looking back on this day in tech history... Let's take a look at what was making
 
 #### 5 Years Ago: [November 27, 2020](https://www.techmeme.com/201127/h2355)
 
-Five years ago, [SignalFrame (Wireless Registry)](https://www.techmeme.com/201127/p6#a201127p6) briefly entered the lexicon of [IoT data harvesting](https://web.archive.org/web/20240324140903/https://jackpoulson.substack.com/p/the-apps-are-not-what-they-seem) via mobile app SDKs that enabled smart phones to canvas "billions of detectable WiFi and Bluetooth signals"(https://web.archive.org/web/20201208202327/https://signalframe.com/)... and is now part of [PWC](https://www.pwc.com/us/en/products/connected-solutions.html).
+Five years ago, [SignalFrame (Wireless Registry)](https://www.techmeme.com/201127/p6#a201127p6) briefly entered the lexicon of [IoT data harvesting](https://web.archive.org/web/20240324140903/https://jackpoulson.substack.com/p/the-apps-are-not-what-they-seem) via mobile app SDKs that enabled smart phones to canvas "[billions of detectable WiFi and Bluetooth signals](https://web.archive.org/web/20201208202327/https://signalframe.com/)"... and is now part of [PWC](https://www.pwc.com/us/en/products/connected-solutions.html).
 
 #### 10 Years Ago: [November 27, 2015](https://www.techmeme.com/151127/h2355)
 
