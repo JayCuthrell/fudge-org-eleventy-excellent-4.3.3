@@ -6,7 +6,7 @@ schema: BlogPosting
 <div class="region" style="--region-space-top: var(--space-xl-2xl)">
   <div class="wrapper flow prose">
     <h1 class="gradient-text-none">{{ title }}</h1>
-
+    <h2 class="gradient-text-none">{{ description }}</h2>
     {% if image %}
       <!-- image -->
       {% image image, alt or "", credit, "eager", "feature" %}
