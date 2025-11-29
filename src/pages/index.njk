@@ -16,6 +16,35 @@ blog:
     {% svg "divider/waves", null, "divider" %}
   </header>
 
+<div class="region flow">
+  <div id="search" class="search-ui"></div>
+</div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: true,
+      showImages: false 
+    });
+  });
+</script>
+
+<style>
+  /* Optional: Tweak these variables to match your site's colors */
+  .search-ui {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: var(--color-primary, #333);
+    --pagefind-ui-text: var(--color-text, #333);
+    --pagefind-ui-background: var(--color-bg, #fff);
+    --pagefind-ui-border: var(--color-border, #ccc);
+    --pagefind-ui-font: var(--font-base, sans-serif); 
+  }
+</style>
+
   <article class="full | region">
     <div class="wrapper flow prose">
       <h2 id="an-eleventy-starter"></h2>
