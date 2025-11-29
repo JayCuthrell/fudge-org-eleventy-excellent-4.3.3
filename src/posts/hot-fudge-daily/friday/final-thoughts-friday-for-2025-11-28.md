@@ -11,4 +11,4 @@ As for why this caught my eye, [NVIDIA's defensive "delighted" PR message](https
 
 Or, said another way, NVIDIA's wording may be a subtle attempt to get ahead of future government regulatory bodies that could delay (prevent?) value chain vertical integration M&A approvals that would harm competition. Then again, any OLESTRA / EPG to HBM / SRAM analogies could lead to more (unique) digestive discussion than these very different industries would care to encourage.
 
-Flaky crust vs. antitrust anyone? 🍪🤖
+Flaky crust vs. antitrust, anyone? 🍪🤖
