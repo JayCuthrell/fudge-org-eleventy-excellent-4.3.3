@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-11-23"
 permalink: "/archive/hot-fudge-sunday-for-2025-11-23/"
 description: "Hot Fudge Daily digest for the week of 11-17-2025 to 11-22-2025."
 date: 2025-11-23
+tags: ['Hot Fudge Sunday']
 ---
 
 ## Last Week

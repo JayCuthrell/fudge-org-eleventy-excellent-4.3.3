@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-10-05"
 permalink: "/archive/hot-fudge-sunday-for-2025-10-05/"
 description: "Hospitality IT challenges, build time optimization, AI funding, interesting acquisition strategies, and more"
 date: 2025-10-05
+tags: ['Hot Fudge Sunday']
 ---
 
 ## Last Week

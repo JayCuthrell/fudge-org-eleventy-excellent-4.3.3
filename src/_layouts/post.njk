@@ -31,7 +31,57 @@ schema: BlogPosting
     </p>
 
     {{ content | safe }}
+
+  <hr class="divider" />
+    <nav class="pagination" aria-label="Post navigation">
+      <ul class="cluster" role="list">
+        {%- set previousPost = collections.allPosts | getPreviousCollectionItem(page) -%}
+        {%- set nextPost = collections.allPosts | getNextCollectionItem(page) -%}
+        
+        {%- if previousPost -%}
+          <li>
+            <span>Previous:</span>
+            <a href="{{ previousPost.url }}" rel="prev">{{ previousPost.data.title }}</a>
+          </li>
+        {%- endif -%}
+        
+        {%- if nextPost -%}
+          <li>
+            <span>Next:</span>
+            <a href="{{ nextPost.url }}" rel="next">{{ nextPost.data.title }}</a>
+          </li>
+        {%- endif -%}
+      </ul>
+    </nav>
+
     {% include 'partials/edit-on.njk' %}
+
+  {% set relatedPosts = [] %}
+    {% for post in collections.allPosts %}
+      {% if post.url != page.url %}
+        {% set match = false %}
+        {% for tag in post.data.tags %}
+          {% if tags.includes(tag) and tag != "posts" %}
+            {% set match = true %}
+          {% endif %}
+        {% endfor %}
+        {% if match %}
+          {% set relatedPosts = (relatedPosts.push(post), relatedPosts) %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if relatedPosts.length > 0 %}
+      <div class="prose flow margin-top-l-xl">
+        <h2>Related Reading</h2>
+        <ul>
+        {% for related in relatedPosts.slice(0, 3) %}
+          <li><a href="{{ related.url }}">{{ related.data.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
     {% include 'partials/subscribe.njk' %}
   </div>
 
