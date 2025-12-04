@@ -35,20 +35,20 @@ schema: BlogPosting
   <hr class="divider" />
     <nav class="pagination" aria-label="Post navigation">
       <ul class="cluster" role="list">
-        {%- set previousPost = collections.allPosts | getPreviousCollectionItem(page) -%}
-        {%- set nextPost = collections.allPosts | getNextCollectionItem(page) -%}
+        {%- set olderPost = collections.allPosts | getNextCollectionItem(page) -%}
+        {%- set newerPost = collections.allPosts | getPreviousCollectionItem(page) -%}
         
-        {%- if previousPost -%}
+        {%- if olderPost -%}
           <li>
             <span>Previous:</span>
-            <a href="{{ previousPost.url }}" rel="prev">{{ previousPost.data.title }}</a>
+            <a href="{{ olderPost.url }}" rel="prev">{{ olderPost.data.title }}</a>
           </li>
         {%- endif -%}
         
-        {%- if nextPost -%}
+        {%- if newerPost -%}
           <li>
             <span>Next:</span>
-            <a href="{{ nextPost.url }}" rel="next">{{ nextPost.data.title }}</a>
+            <a href="{{ newerPost.url }}" rel="next">{{ newerPost.data.title }}</a>
           </li>
         {%- endif -%}
       </ul>
