@@ -2,6 +2,7 @@
 title: "Fudge Factor: Telemetry Challenges"
 description: 'Edition 4 of my new newsletter on our increasingly connected world'
 date: 2024-08-25
+tags: [Fudge Factor]
 ---
 This is Edition 4 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

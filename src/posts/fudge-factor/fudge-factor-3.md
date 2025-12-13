@@ -2,6 +2,7 @@
 title: "Fudge Factor: Calibration and Validation"
 description: 'Edition 3 of my new newsletter on our increasingly connected world'
 date: 2024-08-18
+tags: [Fudge Factor]
 ---
 This is Edition 3 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

@@ -2,6 +2,7 @@
 title: "Fudge Factor: Edge to Core to Cloud"
 description: 'Edition 6 of my new newsletter on our increasingly connected world'
 date: 2024-09-08
+tags: [Fudge Factor]
 ---
 This is Edition 6 of my [newest](/topics/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

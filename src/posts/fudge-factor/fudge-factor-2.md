@@ -2,6 +2,7 @@
 title: "Fudge Factor Format"
 description: 'Edition #2 of my new newsletter and what to expect'
 date: 2024-08-11
+tags: [Fudge Factor]
 ---
 This is edition #2 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

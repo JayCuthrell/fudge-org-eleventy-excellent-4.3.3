@@ -2,6 +2,7 @@
 title: "Fudge Factor: Practical IIoT"
 description: 'Edition 5 of my new newsletter on our increasingly connected world'
 date: 2024-09-01
+tags: [Fudge Factor]
 ---
 This is Edition 5 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

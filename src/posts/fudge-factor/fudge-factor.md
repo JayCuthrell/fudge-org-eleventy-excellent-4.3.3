@@ -2,6 +2,7 @@
 title: "Fudge Factor"
 description: 'First edition of my new newsletter on our increasingly connected world'
 date: 2024-08-04
+tags: [Fudge Factor]
 ---
 
 This is the First edition of my new newsletter on our [increasingly connected](/archive/increasingly-connected) world.

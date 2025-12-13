@@ -2,6 +2,7 @@
 title: "Fudge Factor: Holiday Updates"
 description: 'Edition 7 of my new newsletter'
 date: 2024-11-30
+tags: [Fudge Factor]
 ---
 This is Edition 7 of my [newest](/topics/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 
