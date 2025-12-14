@@ -36,7 +36,7 @@ For example, the service provider may decide that a service should be available 
 
 At this point, we have wordy definitions of SLI, SLO, and SLA. So, let’s walk through some history of the terms so far. We’ll also introduce a few more neologisms along the way.
 
-Back in the late 1980s, data center uptime and Internet access were becoming more commercially visible. [Uptime Institute](https://uptimeinstitute.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) was founded during this time and became associated with the desirable traits of availability relating to various facilities-based service providers that underpinned a growing Internet and World Wide Web.
+Back in the late 1980s, datacenter uptime and Internet access were becoming more commercially visible. [Uptime Institute](https://uptimeinstitute.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) was founded during this time and became associated with the desirable traits of availability relating to various facilities-based service providers that underpinned a growing Internet and World Wide Web.
 
 If you’ve ever heard the phrase “99% uptime,” then you know there is a remaining 1% that is not uptime. Saying the words *“not uptime”* is cumbersome, so [the engineering term Error Budget](https://web.stanford.edu/group/cits/pdf/lectures/ghanem.pdf?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) is also used today in certain circles to convey the remaining 1% of the time that is not uptime.
 

@@ -1,7 +1,7 @@
 ---
 title: "🔙 Throwback Thursday for 2025-08-28"
 permalink: "/archive/throwback-thursday-for-2025-08-28/"
-description: "Google's data center investment evolution over the years"
+description: "Google's datacenter investment evolution over the years"
 date: 2025-08-28
 ---
 

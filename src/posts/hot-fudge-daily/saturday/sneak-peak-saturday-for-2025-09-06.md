@@ -19,7 +19,7 @@ What could $600B mean? Well, what if it applied to:
   - US Southwest, Northeast, and Central
   - Sweden 
   - Australia
-- Commitment to 3 year "get to green' AI data center designs
+- Commitment to 3 year "get to green' AI datacenter designs
   - strategic land purchases for thousands of acres
   - state and regional vPPA negotiations with investments
 - Construction of data centers optimized for AI workloads
@@ -39,6 +39,6 @@ What could $600B mean? Well, what if it applied to:
 
 ![What If](https://assets.buttondown.email/images/f2010e72-743e-4c6d-8f90-a04b74d3affe.png?w=960&fit=max)
 
-This would be the equivalent of a cookie-cutter approach to building multiple sites with a [Topaz Solar Farm](https://en.wikipedia.org/wiki/Topaz_Solar_Farm), dual SMRs, and enough vPPA to keep an AI-first design data center footprint humming along. Also, by adding to and evolving the latest generation of AI chips with an eye towards the quantum computing future, it could easily use up $600B (or more) in less than 3 years.
+This would be the equivalent of a cookie-cutter approach to building multiple sites with a [Topaz Solar Farm](https://en.wikipedia.org/wiki/Topaz_Solar_Farm), dual SMRs, and enough vPPA to keep an AI-first design datacenter footprint humming along. Also, by adding to and evolving the latest generation of AI chips with an eye towards the quantum computing future, it could easily use up $600B (or more) in less than 3 years.
 
 Oh, and just by setting aside even ~$30B might enable some of that AI compute to be flying over our heads one day.

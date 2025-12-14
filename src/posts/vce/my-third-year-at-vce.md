@@ -8,7 +8,7 @@ Next month I’ll reach my 3 year mark with VCE.
 
 The VCE rocketship has only continued to [accelerate](http://www.vce.com/accelerate) since I jumped on board. I’m consistently amazed at what VCE has been able to accomplish in this short amount of time. There is still much work to do but I am happy and fortunate to be part of the team.
 
-The vision from 2010 is the reality of 2013. Ubiquitous workload substrate and an everything just works data center world are not so much a destination but an ever advancing goal. Here’s to the vision of 2014 and beyond. Combinatorial optimization FTW!!!
+The vision from 2010 is the reality of 2013. Ubiquitous workload substrate and an everything just works datacenter world are not so much a destination but an ever advancing goal. Here’s to the vision of 2014 and beyond. Combinatorial optimization FTW!!!
 
 To that end, VCE is launching the next generation of market leading true converged infrastructure solutions on [September 17, 2013](http://www.vce.com/accelerate).
 
@@ -28,7 +28,7 @@ Since my last [timely](http://fudge.org/archive/a-timely-question/) post a few t
 Survey says: Buy a Vblock
 =========================
 
-What has been really great is seeing the wider audience of pundits, analysts, and the market realize that Vblock Systems from VCE are about accelerating the transformation that is taking place in the data center. In short — buy a Vblock.
+What has been really great is seeing the wider audience of pundits, analysts, and the market realize that Vblock Systems from VCE are about accelerating the transformation that is taking place in the datacenter. In short — buy a Vblock.
 
 Here is a sample of what I mean in their own words:
 
@@ -68,7 +68,7 @@ Here is a sample of what I mean in their own words:
 > 
 
 
-> [It was a tall order, but by standardizing on the Vblock architecture and virtualizing applications our dedicated team of engineers and technicians were able to complete the initial Cloud Data Center build on schedule.](http://itblog.emc.com/2013/07/18/emc-durham-data-center-the-first-90-days-mad-dash-teamwork-brings-success/) — *EMC*
+> [It was a tall order, but by standardizing on the Vblock architecture and virtualizing applications our dedicated team of engineers and technicians were able to complete the initial Cloud Datacenter build on schedule.](http://itblog.emc.com/2013/07/18/emc-durham-data-center-the-first-90-days-mad-dash-teamwork-brings-success/) — *EMC*
 > 
 > 
 

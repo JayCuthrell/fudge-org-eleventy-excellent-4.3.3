@@ -38,7 +38,7 @@ Orchestration software builds on ITIL best practices and disciplines, which def
 
 Want to get your OAM&P/OSS/BSS on? Holler!
 
-Orchestration is *far more* than automating processes, adopting new management software, provisioning, configuration management, charge-back/billing, mediation, security, disaster recovery, operational support, and so on or making the transition to a lights out data center. You might say that orchestration is really what everything that you’d want to know is there and that most users assume already IS there. If your software developers and the stuff you use that comes from software developers is increasingly agile… it just makes sense to expect that [the depth](https://plus.google.com/112218872649456413744/posts/dfydM2Cnepe) it sits upon should be just as agile.
+Orchestration is *far more* than automating processes, adopting new management software, provisioning, configuration management, charge-back/billing, mediation, security, disaster recovery, operational support, and so on or making the transition to a lights out datacenter. You might say that orchestration is really what everything that you’d want to know is there and that most users assume already IS there. If your software developers and the stuff you use that comes from software developers is increasingly agile… it just makes sense to expect that [the depth](https://plus.google.com/112218872649456413744/posts/dfydM2Cnepe) it sits upon should be just as agile.
 
 So again… check out the [Software Engineers](http://www.linkedin.com/jobs?viewJob=&jobId=1470398) and [Software QA Test Engineers](http://www.linkedin.com/jobs?viewJob=&jobId=2055889) listings and ping me if you have any questions or want to send your CV/resume over to jay.cuthrell at vce.com
 

@@ -73,7 +73,7 @@ Last month, multiple updates to Nuance and Microsoft Azure features were publish
 
 Next, let's pivot over to placement of workloads that will increasingly integrate other solutions like voice applications. 
 
-In terms of workload placement in non-hyperscale cloud service providers, there are growing numbers of options closer to a data center or data closet near you too.
+In terms of workload placement in non-hyperscale cloud service providers, there are growing numbers of options closer to a datacenter or data closet near you too.
 
 - [How Dell Claims Apex Smooths out 'Ground to Cloud with Azure HCI](https://thenewstack.io/how-dell-claims-apex-smooths-out-ground-to-cloud-azure-hci-connections/)
 - [HPE GreenLake for VMware Cloud Foundation delivers cloud’s operational efficiency on-premises](https://siliconangle.com/2023/09/25/hpe-greenlake-for-vmware-cloud-foundation-delivers-clouds-operational-efficiency-on-prem-vmwareexplore/)

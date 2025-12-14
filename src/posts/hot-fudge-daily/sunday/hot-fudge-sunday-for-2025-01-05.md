@@ -158,7 +158,7 @@ Per our reader survey, each week, I’m going to be highlighting those in my net
 
 ### [Matthew Leib](https://www.linkedin.com/in/matthewleib/)
 
-> After many years as an engineer and presales architect, with specialties in data center, cloud, virtualization and most particularly storage, I've become noted for my writing and analytical expertise in those categories. My blogging has been ongoing since 2009, and I use those writing and focused IT value propositions to write for a number of analytics firms. I specialize in architectures surrounding Kubernetes, Converged and hyper-converged architectures in storage, cloud, AI, and virtualization, containers focused.
+> After many years as an engineer and presales architect, with specialties in datacenter, cloud, virtualization and most particularly storage, I've become noted for my writing and analytical expertise in those categories. My blogging has been ongoing since 2009, and I use those writing and focused IT value propositions to write for a number of analytics firms. I specialize in architectures surrounding Kubernetes, Converged and hyper-converged architectures in storage, cloud, AI, and virtualization, containers focused.
 > 
 > Source: [Matthew Leib](https://www.linkedin.com/in/matthewleib/)
 

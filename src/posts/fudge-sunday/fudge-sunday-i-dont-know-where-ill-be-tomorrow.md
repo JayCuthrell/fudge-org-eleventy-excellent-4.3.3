@@ -22,7 +22,7 @@ Journey - Wheel in the Sky (Official Video - 1978)
 
 This is the fifth and final of the series. By now, we’ve talked a bit about data centers that are on the surface of the Earth and those that might be above it in the sky and beyond.
 
-While we haven’t spent much time on the majority of what covers the earth, it’s a good time to remember it’s the seas that dominate and make this the blue planet. The point being, where there can be data there may very well be a data center that follows.
+While we haven’t spent much time on the majority of what covers the earth, it’s a good time to remember it’s the seas that dominate and make this the blue planet. The point being, where there can be data there may very well be a datacenter that follows.
 
 Example: Microsoft’s Project Natick
 

@@ -1,7 +1,7 @@
 ---
 title: "✅ Final Thoughts Friday for 2025-09-26"
 permalink: "/archive/final-thoughts-friday-for-2025-09-26/"
-description: "Stargate, Oracle co-CEOs, data center funding and construction"
+description: "Stargate, Oracle co-CEOs, datacenter funding and construction"
 date: 2025-09-26
 ---
 

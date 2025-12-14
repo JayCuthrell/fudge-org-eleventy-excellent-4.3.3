@@ -36,7 +36,7 @@ But what about edge, core, and cloud that all the pundits describe?
 
 Edge, for example, is more about things at the proverbial edge of the network. Edge is called edge due to the marketing, rhetoric, and punditry around everything that’s considered to be 5G or an Internet of (all the) Things.
 
-Core, on the other hand, is the traditional data center world. Most likely the marketers of *core routers* wanted to squeeze out that last marketing dollar. Yet, a private cloud can exist in the core too. Again, marketing is hard.
+Core, on the other hand, is the traditional datacenter world. Most likely the marketers of *core routers* wanted to squeeze out that last marketing dollar. Yet, a private cloud can exist in the core too. Again, marketing is hard.
 
 Cloud, while a simple word, is the notion that hyperscale cloud service providers like AWS, GCP, Azure, OCI, IBM, AliCloud, and perhaps others are what represents the public cloud or just *Cloud* or *The Cloud* for short. Perhaps, marketing ran out of ink?
 

@@ -72,7 +72,7 @@ So until next time… enjoy these press clippings:
 * [Dell Technologies Unveils Dell EMC PowerOne](https://www.storagereview.com/news/dell-technologies-unveils-dell-emc-powerone)
 * [ESG First Look: Automating IT Infrastructure with Dell EMC PowerOne Autonomous Infrastructure](https://www.esg-global.com/validation/automating-it-Infrastructure-with-dell-emc-powerone-autonomous-infrastructure)
 * [Dell’s PowerOne Infrastructure Is ‘What Customers Are Screaming For’](https://www.crn.com/news/data-center/dell-s-powerone-infrastructure-is-what-customers-are-screaming-for-)
-* [Dell Intros All-In-One PowerOne Data Center Automation Solution](https://www.datacenterknowledge.com/dell-emc/dell-intros-all-one-powerone-data-center-automation-solution)
+* [Dell Intros All-In-One PowerOne Datacenter Automation Solution](https://www.datacenterknowledge.com/dell-emc/dell-intros-all-one-powerone-data-center-automation-solution)
 * [Dell Tech’s PowerOne approach to hybrid cloud](https://www.networkworld.com/article/3453727/dell-techs-powerone-approach-to-hybrid-cloud.html)
 * [Dell debuts Dell EMC PowerOne](https://www.itworldcanada.com/article/dell-debuts-dell-emc-powerone-cto-says-competition-incapable-of-doing-what-were-doing-in-automation-space/423962)
 * [Michael Dell on Dell cloud strategy: On-premises cloud rules](https://searchstorage.techtarget.com/news/252474002/Michael-Dell-on-Dell-cloud-strategy-On-premises-cloud-rules)

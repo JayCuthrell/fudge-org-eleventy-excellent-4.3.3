@@ -8,7 +8,7 @@ This is edition #2 of my [newest](/archive/fudge-factor) newsletter on our [incr
 
 ## What To Expect 🤓
 
-[Fudge Factor](/) will bridge the gap between theory and real-world data applications harnessing converged technologies at the edge that encompasses the cloud and the core data center. As we journey across that bridge, [Fudge Factor](/) will highlight the importance of the engineering "fudge factor" that drives modern outcomes from possible to permissible, sustainable, repeatable, and advisable.
+[Fudge Factor](/) will bridge the gap between theory and real-world data applications harnessing converged technologies at the edge that encompasses the cloud and the core datacenter. As we journey across that bridge, [Fudge Factor](/) will highlight the importance of the engineering "fudge factor" that drives modern outcomes from possible to permissible, sustainable, repeatable, and advisable.
 
 Each edition of [Fudge Factor](/) will include a feature story, news, technology, use cases, standards, analysis, and events. Essentially, the goal is to provide readers with a more consistent format than my previous newsletter format (Long Live Fudge Sunday!).
 

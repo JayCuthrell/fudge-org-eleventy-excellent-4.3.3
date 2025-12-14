@@ -33,7 +33,7 @@ I'm also pleased to add an Alumni 🎉 section this week for those that have tra
 >
 Before my current position, I was a Senior Partner Development Manager at Amazon Web Services (AWS), where my responsibilities included leading strategic partnership frameworks and initiatives. In this capacity, I successfully launched four new offers integrated with professional and managed services. My efforts led to transformative changes in partner processes and metrics, improving the results of our partnerships by 50%. These achievements were instrumental in driving significant growth and enhancing the overall partner ecosystem at AWS.
 >
-Before AWS, I managed business development solutions at Insight, focusing on cloud and data center transformations. My work involved optimizing key business segments, managing substantial investments, and directing innovative solution architectures that accounted for 80% of Cisco’s $1 billion business. My strategic initiatives resulted in a 39% revenue increase and an 11% growth in services in FY20 alone.
+Before AWS, I managed business development solutions at Insight, focusing on cloud and datacenter transformations. My work involved optimizing key business segments, managing substantial investments, and directing innovative solution architectures that accounted for 80% of Cisco’s $1 billion business. My strategic initiatives resulted in a 39% revenue increase and an 11% growth in services in FY20 alone.
 >
 Throughout my career, I have been deeply involved in program development, digital marketing, and integrating marketing strategies that amplify community outreach and fundraising efforts. My approach has consistently been to leverage digital media and marketing to expand reach and impact, underscoring my commitment to not just meeting but exceeding organizational goals.
 >
@@ -263,7 +263,7 @@ I also like meeting new people over a cup of coffee. Feel free to reach out via 
 
 ### [Matthew Leib](https://www.linkedin.com/in/matthewleib/)
 
-> After many years as an engineer and presales architect, with specialties in data center, cloud, virtualization and most particularly storage, I've become noted for my writing and analytical expertise in those categories. My blogging has been ongoing since 2009, and I use those writing and focused IT value propositions to write for a number of analytics firms. I specialize in architectures surrounding Kubernetes, Converged and hyper-converged architectures in storage, cloud, AI, and virtualization, containers focused.
+> After many years as an engineer and presales architect, with specialties in datacenter, cloud, virtualization and most particularly storage, I've become noted for my writing and analytical expertise in those categories. My blogging has been ongoing since 2009, and I use those writing and focused IT value propositions to write for a number of analytics firms. I specialize in architectures surrounding Kubernetes, Converged and hyper-converged architectures in storage, cloud, AI, and virtualization, containers focused.
 > 
 > Source: [Matthew Leib](https://www.linkedin.com/in/matthewleib/)
 
@@ -309,7 +309,7 @@ I also like meeting new people over a cup of coffee. Feel free to reach out via 
 
 > Engineering leader and technologist with over 20 years of experience in the Enterprise technology industry, most recently specializing in engineering and validation for Dell's enterprise software as a service (SaaS) subscriptions. My expertise lies in management, particularly in leading end-to-end development and integration of various Converged Infrastructure platforms. This includes spearheading formation of a global engineering organization to create next-gen automated converged systems.
 > 
-> My portfolio boasts successful projects like the establishment of VCE's Customer Technology Centers worldwide, where I managed multiple teams and streamlined product demonstration processes through automation. My leadership has consistently accelerated customer adoption of converged data center platforms.
+> My portfolio boasts successful projects like the establishment of VCE's Customer Technology Centers worldwide, where I managed multiple teams and streamlined product demonstration processes through automation. My leadership has consistently accelerated customer adoption of converged datacenter platforms.
 > 
 > Additionally, as a Solutions Architect, I've had the opportunity to provide pre-sales and implementation solutions for numerous vendors to meet customer business objectives, further solidifying my skills in storage, networking, VMware, high availability and cloud computing among others.
 > 

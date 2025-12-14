@@ -35,7 +35,7 @@ A gaggle of analysts, practitioners, and pundits were present at DTW. I enjoyed 
 
 ☕️🥞 Hot Take Tuesday ☕️🥞
  
-🏢🍪 NVIDIA is all well and good and the chips are zeitgeist for press coverage for those baking A.I. cookies in a data center or clouds. Intel and AMD make chips too.
+🏢🍪 NVIDIA is all well and good and the chips are zeitgeist for press coverage for those baking A.I. cookies in a datacenter or clouds. Intel and AMD make chips too.
  
 🏋️ [Dave McCrory](https://www.linkedin.com/in/davemccrory/)'s [Data Gravity](https://www.digitalrealty.com/resources/reports/data-gravity-index?utm_medium=content_syndication&utm_source=dcd&utm_campaign=EMEA-CS-20240312-DCD-MG-DGx_Blog-7533&utm_content=h) is still very much with us at this time and when _large_ amounts of data are involved... Move / Copy are still, arguably, four letter words.
 

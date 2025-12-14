@@ -9,4 +9,4 @@ date: 2025-10-24
 
 For perspective, this would require approvals of new power grid connections for data centers in terms of months vs. years.
 
-Perhaps the AI companies will [donate data center excess heat to warm homes in the winter as a form of industrial symbiosis in a circular economy](https://www.stockholmexergi.se/en/heat-recovery/).
+Perhaps the AI companies will [donate datacenter excess heat to warm homes in the winter as a form of industrial symbiosis in a circular economy](https://www.stockholmexergi.se/en/heat-recovery/).

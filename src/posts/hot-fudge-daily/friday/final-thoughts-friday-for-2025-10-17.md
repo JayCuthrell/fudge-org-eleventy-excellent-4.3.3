@@ -5,7 +5,7 @@ description: "Power vs. Ping vs. Plate"
 date: 2025-10-17
 ---
 
-Ping. Power. Plate. This was the appeal of a data center.
+Ping. Power. Plate. This was the appeal of a datacenter.
 
 The biggest story of the week was the [$40B acquisition of ping, POWER, and plate represented by Aligned Data Centers](https://www.techmeme.com/251015/p19#a251015p19).
 

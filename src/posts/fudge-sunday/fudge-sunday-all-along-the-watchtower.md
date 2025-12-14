@@ -44,9 +44,9 @@ Using ground relays with Starlink
 
  **Two riders were approaching**
 
-Stepping back a bit, what if we had the possibility of more data centers in more locations. Imagine rich data services accessible via Internet for machine to machine communications as well as human to human voice over IP or even IP video conferencing.
+Stepping back a bit, what if we had the possibility of more datacenters in more locations. Imagine rich data services accessible via Internet for machine to machine communications as well as human to human voice over IP or even IP video conferencing.
 
-Anywhere the satellites could see permit thinking about full ubiquity of access connectivity to IP networking. Now, let’s go back to that data center example.
+Anywhere the satellites could see permit thinking about full ubiquity of access connectivity to IP networking. Now, let’s go back to that datacenter example.
 
 So, in the past you might have been in the middle of a field in the middle of no place in particular. Now, you are now in a very particular place and with very particular capabilities if you can see the sky and the sky can see you.
 
@@ -54,9 +54,9 @@ For lack of better example, let’s take rural Montana as an example where there
 
 Again, you need not have cellular communication in this rural Montana example – in fact you’re going to have far more performance lower latency Satellite grade Internet connectivity that is actually on par with probably what you would find with traditional facilities based terrestrial broadband in less rural parts of Montana.
 
-Next, challenge the idea that a large data center is always the next connection to a service accessed over the Internet. Consider the network overlays that will enable unique and novel patterns for services and the creation of companies that increasingly operate outside of purely terrestrial modality.
+Next, challenge the idea that a large datacenter is always the next connection to a service accessed over the Internet. Consider the network overlays that will enable unique and novel patterns for services and the creation of companies that increasingly operate outside of purely terrestrial modality.
 
-What happens when the edges of the network become the data centers?
+What happens when the edges of the network become the datacenters?
 
 What happens when edge and hyperscale distance isn’t terrestrial?
 

@@ -42,7 +42,7 @@ A few years later...
 
 https://twitter.com/MrJaba/status/412600177694756864
 
-Next, speaking of Ruby on Rails, long before [repatriation from the cloud to a [ checks notes ] data center in Chicago](https://www.linkedin.com/posts/david-heinemeier-hansson-374b18221\_the-hardware-we-need-for-our-cloud-exit-has-activity-7049745099068473344-k-gL)... there was this gem (no pun intended):
+Next, speaking of Ruby on Rails, long before [repatriation from the cloud to a [ checks notes ] datacenter in Chicago](https://www.linkedin.com/posts/david-heinemeier-hansson-374b18221\_the-hardware-we-need-for-our-cloud-exit-has-activity-7049745099068473344-k-gL)... there was this gem (no pun intended):
 
 https://twitter.com/dhh/status/557303944183951360?s=20
 

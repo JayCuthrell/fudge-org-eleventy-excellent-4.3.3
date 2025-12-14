@@ -99,7 +99,7 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
 - [Ricardo Perez - Virtualization Architect | PowerFlex & VxRail Specialist](https://www.linkedin.com/in/ricardo-perez-atx)
 - [Mike Berteletti, CISSP - Experienced IT Professional | Infrastructure & Security](https://www.linkedin.com/in/mike-berteletti-cissp/)
 - [Chris Mojica - Technical Sales & Solutions Architect](https://www.linkedin.com/in/pcmojica/)
-- [Matthew Leib - Data Center, Cloud & Storage Architect | Technical Writer & Analyst](https://www.linkedin.com/in/matthewleib/)
+- [Matthew Leib - Datacenter, Cloud & Storage Architect | Technical Writer & Analyst](https://www.linkedin.com/in/matthewleib/)
 - [Michael Joffe - Global Technology Leader | P&L Management | SaaS & OEM](https://www.linkedin.com/in/joffemichael/)
 - [Colleen Coll - Event Technology & Digital Media Specialist | Live Reporting](https://www.linkedin.com/in/colleen-coll-b971505/)
 - [Thomas Chatham - Engineering Leader | SaaS & Converged Infrastructure](https://www.linkedin.com/in/thomaschatham/)

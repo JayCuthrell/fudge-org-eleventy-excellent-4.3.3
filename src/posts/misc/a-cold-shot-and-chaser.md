@@ -29,7 +29,7 @@ data centers < information centers < knowledge centers < wisdom centers
 
 ### Shot (August 2021)
 
-A year ago my thinking was that the data center being everywhere meant the progress wasn’t the proliferation of *things* but the proliferation of *means*.
+A year ago my thinking was that the datacenter being everywhere meant the progress wasn’t the proliferation of *things* but the proliferation of *means*.
 
 > Beyond data there is a progression to seek meaning as information with a transformation of context into knowledge before it can be applied as wisdom. So, to be clear, up to now we’ve really been talking about data centers not information centers, knowledge centers, let alone wisdom centers.[4](#footnote-4)
 >

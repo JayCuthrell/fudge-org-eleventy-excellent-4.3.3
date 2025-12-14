@@ -67,11 +67,11 @@ More soon...
 
    
 ## ✅ Final Thoughts Friday for 2025-08-08
-I believe the biggest story this week was electrical power grid resilience and the law within data center friendly states like Texas.
+I believe the biggest story this week was electrical power grid resilience and the law within datacenter friendly states like Texas.
 
 https://www.techmeme.com/250807/p47#a250807p47
 
-In modern data center site selection, the electrical power grid has become increasingly important. However, the ability to self-generate power in the form of on-site generation is becoming essential to operational excellence.
+In modern datacenter site selection, the electrical power grid has become increasingly important. However, the ability to self-generate power in the form of on-site generation is becoming essential to operational excellence.
    
 ## 🔮 Sneak Peak Saturday for 2025-08-09
 Friday arrives and the bury begins, or was it stage craft with storytelling savvy?
@@ -142,7 +142,7 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
 - [Ricardo Perez - Virtualization Architect | PowerFlex &amp; VxRail Specialist](https://www.linkedin.com/in/ricardo-perez-atx)
 - [Mike Berteletti, CISSP - Experienced IT Professional | Infrastructure &amp; Security](https://www.linkedin.com/in/mike-berteletti-cissp/)
 - [Chris Mojica - Technical Sales &amp; Solutions Architect](https://www.linkedin.com/in/pcmojica/)
-- [Matthew Leib - Data Center, Cloud &amp; Storage Architect | Technical Writer &amp; Analyst](https://www.linkedin.com/in/matthewleib/)
+- [Matthew Leib - Datacenter, Cloud &amp; Storage Architect | Technical Writer &amp; Analyst](https://www.linkedin.com/in/matthewleib/)
 - [Michael Joffe - Global Technology Leader | P&amp;L Management | SaaS &amp; OEM](https://www.linkedin.com/in/joffemichael/)
 - [Colleen Coll - Event Technology &amp; Digital Media Specialist | Live Reporting](https://www.linkedin.com/in/colleen-coll-b971505/)
 - [Sam Aiello, Ph.D. - Cybersecurity &amp; Technology Strategist | Pre-Sales Leadership](https://www.linkedin.com/in/samaiello/)

@@ -34,7 +34,7 @@ So, perhaps Kris would say we're all going to need our own _"moulding"_ of ourse
 
 As I'm turning fifty-something (52!) this year, I'm reflecting on how fortunate I am to have various avatars. I acknowledge that I benefitted from and am still benefitting from my societal privileges and social privileges to be able to write in this in a digital newsletter medium.
 
-In addition to my online writer avatar, much of the avatar collection that I carry with me is a function of who is looking or remembering. I still remember my telco ISP consultant nerd avatar of the late 1990s and 2000s and the data center cloud consultant nerd avatar of the 2010s.
+In addition to my online writer avatar, much of the avatar collection that I carry with me is a function of who is looking or remembering. I still remember my telco ISP consultant nerd avatar of the late 1990s and 2000s and the datacenter cloud consultant nerd avatar of the 2010s.
 
 Perhaps, if social media had existed in the early 1990s, I could have been a mediocre engineering student avatar or a materials science lab grunt avatar. Perhaps, if social media had existed in the 1980s, I could have been a seafood restaurant busboy avatar or a building supplies retail assistant avatar.
 

@@ -97,7 +97,7 @@ When I started at VCE there were some accomplishments I had in mind. Ubiquitous 
 
 When I think about the biggest take away from all of this work so far I think it is still just a beginning. Sometimes it isn’t that you are going to make a dent in the universe but you have to get a running start before you run into something.
 
-If I was to put the past 12 months into perspective the theme would be about finding balance in the work / life mix. The mythical sirens are calling you back to the repositories and the demands are nonstop. That said, we aren’t a company of a few dozen people these days. We are a global workforce with a purpose and a mission to transform the data center. You get to see people step up now. You get to see people rewarded. You get to see people move on in their lives and careers. It isn’t the same crazy as when we started but it is still pretty crazy but just in a larger more global way.
+If I was to put the past 12 months into perspective the theme would be about finding balance in the work / life mix. The mythical sirens are calling you back to the repositories and the demands are nonstop. That said, we aren’t a company of a few dozen people these days. We are a global workforce with a purpose and a mission to transform the datacenter. You get to see people step up now. You get to see people rewarded. You get to see people move on in their lives and careers. It isn’t the same crazy as when we started but it is still pretty crazy but just in a larger more global way.
 
 Riding the rocket.
 

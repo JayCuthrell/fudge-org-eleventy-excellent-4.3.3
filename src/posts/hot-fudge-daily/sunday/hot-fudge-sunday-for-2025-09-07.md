@@ -133,7 +133,7 @@ What could $600B mean? Well, what if it applied to:
   - US Southwest, Northeast, and Central
   - Sweden 
   - Australia
-- Commitment to 3 year "get to green' AI data center designs
+- Commitment to 3 year "get to green' AI datacenter designs
   - strategic land purchases for thousands of acres
   - state and regional vPPA negotiations with investments
 - Construction of data centers optimized for AI workloads
@@ -153,7 +153,7 @@ What could $600B mean? Well, what if it applied to:
 
 ![What If](https://assets.buttondown.email/images/f2010e72-743e-4c6d-8f90-a04b74d3affe.png?w=960&fit=max)
 
-This would be the equivalent of a cookie-cutter approach to building multiple sites with a [Topaz Solar Farm](https://en.wikipedia.org/wiki/Topaz_Solar_Farm), dual SMRs, and enough vPPA to keep an AI-first design data center footprint humming along. Also, by adding to and evolving the latest generation of AI chips with an eye towards the quantum computing future, it could easily use up $600B (or more) in less than 3 years.
+This would be the equivalent of a cookie-cutter approach to building multiple sites with a [Topaz Solar Farm](https://en.wikipedia.org/wiki/Topaz_Solar_Farm), dual SMRs, and enough vPPA to keep an AI-first design datacenter footprint humming along. Also, by adding to and evolving the latest generation of AI chips with an eye towards the quantum computing future, it could easily use up $600B (or more) in less than 3 years.
 
 Oh, and just by setting aside even ~$30B might enable some of that AI compute to be flying over our heads one day.
 
@@ -196,6 +196,6 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
 - [Ricardo Perez - Virtualization Architect | PowerFlex & VxRail Specialist](https://www.linkedin.com/in/ricardo-perez-atx)
 - [Mike Berteletti, CISSP - Experienced IT Professional | Infrastructure & Security](https://www.linkedin.com/in/mike-berteletti-cissp/)
 - [Chris Mojica - Technical Sales & Solutions Architect](https://www.linkedin.com/in/pcmojica/)
-- [Matthew Leib - Data Center, Cloud & Storage Architect | Technical Writer & Analyst](https://www.linkedin.com/in/matthewleib/)
+- [Matthew Leib - Datacenter, Cloud & Storage Architect | Technical Writer & Analyst](https://www.linkedin.com/in/matthewleib/)
 - [Michael Joffe - Global Technology Leader | P&L Management | SaaS & OEM](https://www.linkedin.com/in/joffemichael/)
 - [Colleen Coll - Event Technology & Digital Media Specialist | Live Reporting](https://www.linkedin.com/in/colleen-coll-b971505/)

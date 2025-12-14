@@ -34,7 +34,7 @@ A look back at this week in…
 * 2019 - [NS1 took $33M Series C](https://www.techmeme.com/191003/p11?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a191003p11)
 * 2018 - [M&A of Hortonworks + Cloudera for $5.2B](https://www.techmeme.com/181003/p39?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a181003p39)
 * 2017 - [Yahoo’s 2013 breach impacted all 3B users](https://www.techmeme.com/171003/p30?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a171003p30)
-* 2016 - [Microsoft Azure plans a data center in France](https://www.techmeme.com/161003/p6?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a161003p6)
+* 2016 - [Microsoft Azure plans a datacenter in France](https://www.techmeme.com/161003/p6?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a161003p6)
 * 2015 - [Google Inc. became a subsidiary of Alphabet](https://www.techmeme.com/151002/p9?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a151002p9)
 * 2014 - [M&A: Facebook + WhatsApp for $19B (EU approved)](https://www.techmeme.com/141003/p5?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a141003p5)
 * 2013 - [Twitter filed for IPO](https://www.techmeme.com/131003/p41?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a131003p41)

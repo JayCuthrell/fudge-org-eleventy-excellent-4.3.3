@@ -1,7 +1,7 @@
 ---
 title: "🔙 Throwback Thursday for 2025-05-08"
 permalink: "/archive/throwback-thursday-for-2025-05-08/"
-description: "Exploring evolution in power outages and impact on data center resilience."
+description: "Exploring evolution in power outages and impact on datacenter resilience."
 date: 2025-05-09 06:50:09.768784+00:00
 ---
 

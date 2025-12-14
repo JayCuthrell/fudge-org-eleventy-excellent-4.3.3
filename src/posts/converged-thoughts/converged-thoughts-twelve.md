@@ -105,7 +105,7 @@ Will the licensing math become related to the number of page faults?
 
 Perhaps, when considering pricing models, it would be wise for any ISV or full stack company to avoid “punching your customer in the face” as Chad Sakac most recently reminded us all in the IT industry. Don’t be that kind of company, right?
 
-[Disrupt Your Data Center with Transformative CI & HCI Technologies](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=wA7wt6IzpcE)
+[Disrupt Your Datacenter with Transformative CI & HCI Technologies](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=wA7wt6IzpcE)
 
 [www.youtube.com](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=wA7wt6IzpcE) – [Share](http://rev.vu/6O8le?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 

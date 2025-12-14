@@ -141,7 +141,7 @@ Fifteen years ago, the "app economy" was just beginning to explode with Apple's 
 ---
 
 ### ✅ Final Thoughts Friday for 2025-10-17
-Ping. Power. Plate. This was the appeal of a data center.
+Ping. Power. Plate. This was the appeal of a datacenter.
 
 The biggest story of the week was the [$40B acquisition of ping, POWER, and plate represented by Aligned Data Centers](https://www.techmeme.com/251015/p19#a251015p19).
 
@@ -193,6 +193,6 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
 - [Ricardo Perez - Virtualization Architect | PowerFlex & VxRail Specialist](https://www.linkedin.com/in/ricardo-perez-atx)
 - [Mike Berteletti, CISSP - Experienced IT Professional | Infrastructure & Security](https://www.linkedin.com/in/mike-berteletti-cissp/)
 - [Chris Mojica - Technical Sales & Solutions Architect](https://www.linkedin.com/in/pcmojica/)
-- [Matthew Leib - Data Center, Cloud & Storage Architect | Technical Writer & Analyst](https://www.linkedin.com/in/matthewleib/)
+- [Matthew Leib - Datacenter, Cloud & Storage Architect | Technical Writer & Analyst](https://www.linkedin.com/in/matthewleib/)
 - [Michael Joffe - Global Technology Leader | P&L Management | SaaS & OEM](https://www.linkedin.com/in/joffemichael/)
 - [Colleen Coll - Event Technology & Digital Media Specialist | Live Reporting](https://www.linkedin.com/in/colleen-coll-b971505/)
