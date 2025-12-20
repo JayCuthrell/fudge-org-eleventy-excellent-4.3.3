@@ -24,9 +24,9 @@ excludeFromSitemap: true
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
       <updated>{{ post.date | dateToRfc3339 }}</updated>
-      <link rel="enclosure" type="image/jpeg" href="{{ previewImageUrl }}" />
-      <media:content url="{{ previewImageUrl }}" medium="image" type="image/jpeg" />
-      <media:thumbnail url="{{ previewImageUrl }}" />
+      <link rel="enclosure" type="image/jpeg" href="{{- meta.url -}}/assets/og-images/{{ post.data.title | slugify }}-preview.jpeg" />
+      <media:content url="{{- meta.url -}}/assets/og-images/{{ post.data.title | slugify }}-preview.jpeg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="{{- meta.url -}}/assets/og-images/{{ post.data.title | slugify }}-preview.jpeg" />
       <id>{{ absolutePostUrl }}</id>
       <content type="html">
 				{{ post.content | renderTransforms(post.data.page, meta.url) }}
