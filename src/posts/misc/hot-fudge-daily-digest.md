@@ -3,7 +3,7 @@ title: "Hot Fudge Daily Digest"
 description: "A weekly digest of Hot Fudge Daily"
 date: 2024-06-16
 ---
-This week is a weekly digest of [Hot Fudge Daily](https://hot.fudge.org).
+This week is a weekly digest of [Hot Fudge Daily](https://fudge.org).
 
 ## Housekeeping
 
@@ -28,17 +28,17 @@ Now, back to our regularly scheduled Fudge Sunday newsletter! 🤓
 
 ## Hot Fudge Daily Digest
 
-As promised, a seven ( 7 ) day roundup of [Hot Fudge Daily](https://hot.fudge.org) will be included in [Fudge Sunday](/) going forward until feedback arrives asking for it to be removed. I'll try to keep this compact. 🤓
+As promised, a seven ( 7 ) day roundup of [Hot Fudge Daily](https://fudge.org) will be included in [Fudge Sunday](/) going forward until feedback arrives asking for it to be removed. I'll try to keep this compact. 🤓
 
-### [🌶️ Spicy Edition Sunday](https://hot.fudge.org/archive/spicy-edition-sunday/)
+### [🌶️ Spicy Edition Sunday](https://fudge.org/archive/spicy-edition-sunday/)
 
-Fudge Sunday readers have asked me about my writing process. So, I'm [sharing my writing process](https://hot.fudge.org/archive/spicy-edition-sunday/) each Sunday.
+Fudge Sunday readers have asked me about my writing process. So, I'm [sharing my writing process](https://fudge.org/archive/spicy-edition-sunday/) each Sunday.
 
-### [📈 Markets Monday](https://hot.fudge.org/archive/markets-monday/)
+### [📈 Markets Monday](https://fudge.org/archive/markets-monday/)
 
-Generally, I will experiment on Monday with what I think might matter in the market. For example, on Monday we heard from Apple WWDC, and while not an explicitly investor-oriented event, it was fascinating to hear [what was said and what was not said](https://hot.fudge.org/archive/markets-monday/).
+Generally, I will experiment on Monday with what I think might matter in the market. For example, on Monday we heard from Apple WWDC, and while not an explicitly investor-oriented event, it was fascinating to hear [what was said and what was not said](https://fudge.org/archive/markets-monday/).
 
-### [🔥 Hot Takes Tuesday](https://hot.fudge.org/archive/hot-takes-tuesday-for-2024-06-11/)
+### [🔥 Hot Takes Tuesday](https://fudge.org/archive/hot-takes-tuesday-for-2024-06-11/)
 
 Big funding and M&A moves in tech - from cutting-edge language models to cybersecurity startups.
 
@@ -53,7 +53,7 @@ Big funding and M&A moves in tech - from cutting-edge language models to cyberse
 - [Tenderd AI raises $30M](https://www.techmeme.com/240611/p8?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=hot-takes-tuesday-for-2024-06-11#a240611p8) \- 🤖 Because as we burn more fossil fuels to energize A.I. processing capacity we can probably use... A.I. to wrangle emissions data.
 - [Nexus Labs raises $25M](https://www.techmeme.com/240611/p3?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=hot-takes-tuesday-for-2024-06-11#a240611p3) \- 🔐 Zero Knowledge is getting more interesting outside of niche communities now that the zkVM (zero-knowledge virtual machine) written in Rust stories are getting wider coverage.
 
-### [🤪 Wacky Wednesday](https://hot.fudge.org/archive/wacky-wednesday-for-2024-06-12/)
+### [🤪 Wacky Wednesday](https://fudge.org/archive/wacky-wednesday-for-2024-06-12/)
 
 https://www.youtube.com/watch?v=X8woa_wSrmA
 
@@ -67,20 +67,20 @@ https://www.youtube.com/watch?v=CQW22EN-F-8
 
 [![](https://www.fooddive.com/imgproxy/lorgD6Fb90yUKzfFbVtd70jCP9VPMFMubf-xWgzfVBo/g:ce/rs:fit:770:435/bG9jYWw6Ly8vZGl2ZWltYWdlL1RoaW5fTWludHNfUGFja19TaG90XzEuanBn.webp)](https://www.fooddive.com/news/kraft-heinz-jell-o-girl-scout-cookies-pudding-cups/715404/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=wacky-wednesday-for-2024-06-12)
 
-### [🔙 Throwback Thursday](https://hot.fudge.org/archive/throwback-thursday-for-2024-06-13/)
+### [🔙 Throwback Thursday](https://fudge.org/archive/throwback-thursday-for-2024-06-13/)
 
 If you were to look back at IPOs from 20 years ago, you’d probably recognize several companies. Considering just technology, a handful are quite notable.
 
 - [Google](https://en.wikipedia.org/wiki/Google?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday-for-2024-06-13) - While it might be hard to imagine a time before Google, the company that once took attention away from the TV and drove us all to use browsers has expanded to… well, [go back after the TV under different terms](https://www.techmeme.com/240610/p41?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday-for-2024-06-13#a240610p41).
 - [CBRE Group](https://en.wikipedia.org/wiki/CBRE_Group?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday-for-2024-06-13) \- If you've been to a major city with what appears to be empty buildings, it is worth noting that return to office (RTO) will likely become an equilibrium as the democratization of technology and [thinking remotely](https://fudge.org/archive/thinking-remotely/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday-for-2024-06-13) and [data centers are growing more than ever in the REIT category](https://www.techmeme.com/240608/p8?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday-for-2024-06-13#a240608p8).
 
-### [✅ Final Thoughts Friday](https://hot.fudge.org/archive/final-thoughts-friday-for-2024-06-14/)
+### [✅ Final Thoughts Friday](https://fudge.org/archive/final-thoughts-friday-for-2024-06-14/)
 
 It was a busy week. The final round table content from Qlik Connect in Orlando was posted to YouTube.
 
 https://www.youtube.com/watch?v=6GYNh1clfEQ
 
-### [🔮 Sneak Peak Saturday](https://hot.fudge.org/archive/sneak-peak-saturday-for-2024-06-15/)
+### [🔮 Sneak Peak Saturday](https://fudge.org/archive/sneak-peak-saturday-for-2024-06-15/)
 
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. 
 
@@ -94,7 +94,7 @@ In that spirit, here are the stories that you might have missed on the slow news
 - [Insert That Wasn't Me, That Was Patricia Meme](https://www.techmeme.com/240614/p5?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=sneak-peak-saturday-for-2024-06-15#a240614p5)
 - [Insert Anthony Adams Rubbing Hands Meme](https://www.techmeme.com/240614/p4?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=sneak-peak-saturday-for-2024-06-15#a240614p4)
 
-That's all for this week. As a reminder, [Hot Fudge Daily](https://hot.fudge.org) is available as a [$9.99 yearly subscription](https://hot.fudge.org). 🤓
+That's all for this week. As a reminder, [Hot Fudge Daily](https://fudge.org) is available as a [$9.99 yearly subscription](https://fudge.org). 🤓
 
 ## Disclosure
 

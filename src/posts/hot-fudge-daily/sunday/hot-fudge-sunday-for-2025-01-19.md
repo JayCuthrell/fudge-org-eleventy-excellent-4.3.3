@@ -5,7 +5,7 @@ description: "This edition spotlights professionals eager for new opportunities�
 date: 2025-01-19 19:30:00+00:00
 ---
 
-[Hot Fudge Sunday](https://hot.fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [hot.fudge.org](https://hot.fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
 

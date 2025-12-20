@@ -5,7 +5,7 @@ description: "This week&#39;s newsletter highlights talented professionals in my
 date: 2025-01-12 17:00:00+00:00
 ---
 
-[Hot Fudge Sunday](https://hot.fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [hot.fudge.org](https://hot.fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
 
@@ -237,7 +237,7 @@ As a reminder, per our reader survey, each week, I’m going to be highlighting 
    
 ## 🔙 Throwback Thursday for 2025-01-09
  
-<p>I noticed the aggregated coverage of Wiz on Techmeme.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250109/p20#a250109p20">https://www.techmeme.com/250109/p20#a250109p20</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://hot.fudge.org/archive/throwback-thursday-for-2024-11-21/">Looking back</a> on my (still) most popular LinkedIn post of my time on the site is fascinating.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/posts/jaycuthrell_wiz-ceo-2024-will-be-the-year-of-acquisitions-activity-7182523881671282688-mGaO?utm_source=share&amp;utm_medium=member_desktop">https://www.linkedin.com/posts/jaycuthrell_wiz-ceo-2024-will-be-the-year-of-acquisitions-activity-7182523881671282688-mGaO?utm_source=share&amp;utm_medium=member_desktop</a></p><p>Now, imagine the post-IPO capabilities for M&amp;A of a cybersecurity juggernaut in an economic period where post-ZIRP funded cybersecurity companies can be combined, aligned, and unified.</p><p></p>
+<p>I noticed the aggregated coverage of Wiz on Techmeme.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250109/p20#a250109p20">https://www.techmeme.com/250109/p20#a250109p20</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/throwback-thursday-for-2024-11-21/">Looking back</a> on my (still) most popular LinkedIn post of my time on the site is fascinating.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/posts/jaycuthrell_wiz-ceo-2024-will-be-the-year-of-acquisitions-activity-7182523881671282688-mGaO?utm_source=share&amp;utm_medium=member_desktop">https://www.linkedin.com/posts/jaycuthrell_wiz-ceo-2024-will-be-the-year-of-acquisitions-activity-7182523881671282688-mGaO?utm_source=share&amp;utm_medium=member_desktop</a></p><p>Now, imagine the post-IPO capabilities for M&amp;A of a cybersecurity juggernaut in an economic period where post-ZIRP funded cybersecurity companies can be combined, aligned, and unified.</p><p></p>
    
 {{ subscribe_form }}
    

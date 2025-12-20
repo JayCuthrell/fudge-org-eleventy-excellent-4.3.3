@@ -23,7 +23,7 @@ The feedback from readers on paid newsletters yielded several common suggestions
 
 I am happy to share that [Fudge Sunday](/) Weekly newsletter is now [sponsored](/sponsorship/) and the [archive](/archive) is now [open for sponsorship](/sponsorship/) by [topics](/topics/).
 
-Furthermore, I am readying the launch of a new daily paid newsletter subscription model. [Hot Fudge Daily](https://hot.fudge.org) is coming soon.
+Furthermore, I am readying the launch of a new daily paid newsletter subscription model. [Hot Fudge Daily](https://fudge.org) is coming soon.
 
 ### Looking ahead
 

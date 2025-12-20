@@ -5,7 +5,7 @@ description: "This week&#39;s edition covers my workflow updates and highlights 
 date: 2025-03-17 00:00:00+00:00
 ---
 
-[Hot Fudge Sunday](https://hot.fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [hot.fudge.org](https://hot.fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
 

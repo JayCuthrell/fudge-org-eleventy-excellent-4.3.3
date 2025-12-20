@@ -7,7 +7,7 @@ date: 2024-12-15 16:45:00+00:00
 
 <blockquote class="pullquote"><p>🙏 A big thank you to our sponsors. 🙏<br>(Scroll to the end…)</p></blockquote>
 
-[Hot Fudge Sunday](https://hot.fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [hot.fudge.org](https://hot.fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
 

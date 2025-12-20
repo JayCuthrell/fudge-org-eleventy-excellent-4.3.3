@@ -5,7 +5,7 @@ description: "I&#39;m showcasing my network&#39;s talented professionals who are
 date: 2025-02-02 19:56:12.222128+00:00
 ---
 
-[Hot Fudge Sunday](https://hot.fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [hot.fudge.org](https://hot.fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
 

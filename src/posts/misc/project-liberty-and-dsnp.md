@@ -7,9 +7,9 @@ This week we take a look at Project Liberty and Decentralized Social Networking 
 
 ## Housekeeping
 
-🚨 [Hot Fudge Daily](https://hot.fudge.org) 🚨 is now accepting $0.99 subscriptions! 🎉
+🚨 [Hot Fudge Daily](https://fudge.org) 🚨 is now accepting $0.99 subscriptions! 🎉
 
-7️⃣ Next week a seven ( 7 ) day roundup of [Hot Fudge Daily](https://hot.fudge.org) will be included in [Fudge Sunday](/).
+7️⃣ Next week a seven ( 7 ) day roundup of [Hot Fudge Daily](https://fudge.org) will be included in [Fudge Sunday](/).
 
 🆓 Also, [Fudge Sunday](/) is now [open for sponsorship](/sponsorship/) by [topics](/topics/).
 

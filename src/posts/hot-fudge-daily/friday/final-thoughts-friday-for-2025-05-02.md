@@ -11,7 +11,7 @@ https://www.techmeme.com/250502/p7#a250502p7
 
 For context, I've written about this topic before... but it was back in September 2024 and it was the move by Google to accelerate the embrace of passkeys.
 
-https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-22/
+https://fudge.org/archive/hot-fudge-sunday-for-2024-09-22/
 
 Progress!!
 

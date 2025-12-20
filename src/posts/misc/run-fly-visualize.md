@@ -106,7 +106,7 @@ https://www.youtube.com/watch?v=0Dzk6RSnWfY
 - 📺 [What's next for AI agentic workflows ft. Andrew Ng of AI Fund](https://www.youtube.com/watch?v=sal78ACtGTc)
 - 🎧 [WASM, Developer Experiences and Kubernetes](https://www.thecloudcast.net/2024/06/wasm-developer-experiences-and.html)
 
-That's all for this week. As a reminder, [Hot Fudge Daily](https://hot.fudge.org) is available as a [$9.99 yearly subscription](https://hot.fudge.org) and [Spicy Edition Sunday for 2024-07-07](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-07/) is the free digest of last week. 🤓
+That's all for this week. As a reminder, [Hot Fudge Daily](https://fudge.org) is available as a [$9.99 yearly subscription](https://fudge.org) and [Spicy Edition Sunday for 2024-07-07](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/) is the free digest of last week. 🤓
 
 ## Disclosure
 

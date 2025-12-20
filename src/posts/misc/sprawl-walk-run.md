@@ -95,7 +95,7 @@ Next week, I'll be going into more depth on the Qlik community impact when [insi
 - [SITUATIONAL AWARENESS: The Decade Ahead](https://situational-awareness.ai)
 - [Top Six Workflows of Data-Driven Venture Managers](https://blog.tactyc.io/top-six-workflows-of-data-driven-venture-managers)
 
-That's all for this week. As a reminder, [Hot Fudge Daily](https://hot.fudge.org) is available as a [$9.99 yearly subscription](https://hot.fudge.org). 🤓
+That's all for this week. As a reminder, [Hot Fudge Daily](https://fudge.org) is available as a [$9.99 yearly subscription](https://fudge.org). 🤓
 
 ## Disclosure
 

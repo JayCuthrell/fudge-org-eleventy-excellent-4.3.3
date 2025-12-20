@@ -3,13 +3,13 @@ title: "Summary Solstice"
 description: "A fork in the road for summaries approaches"
 date: 2024-06-23
 ---
-This week is the last weekly digest of [Hot Fudge Daily](https://hot.fudge.org). Details on why are below. 👇
+This week is the last weekly digest of [Hot Fudge Daily](https://fudge.org). Details on why are below. 👇
 
 ## Housekeeping
 
-🗓️ Last week, a seven ( 7 ) day roundup of [Hot Fudge Daily](https://hot.fudge.org) was included in [Fudge Sunday](/). Based on reader feedback, this week will be the last digest in the series and my workflow will revert to the original longer form content of [Fudge Sunday](/).
+🗓️ Last week, a seven ( 7 ) day roundup of [Hot Fudge Daily](https://fudge.org) was included in [Fudge Sunday](/). Based on reader feedback, this week will be the last digest in the series and my workflow will revert to the original longer form content of [Fudge Sunday](/).
 
-🆕 As of this update, [Hot Fudge Daily](https://hot.fudge.org) the weekly digest will be posted in [🌶️ Spicy Edition Sunday](https://hot.fudge.org/archive/spicy-edition-sunday-2024-06-23) as "free" weekly content. This seems to strike a balance for different reader interests and helps me streamline my workflow as a writer.
+🆕 As of this update, [Hot Fudge Daily](https://fudge.org) the weekly digest will be posted in [🌶️ Spicy Edition Sunday](https://fudge.org/archive/spicy-edition-sunday-2024-06-23) as "free" weekly content. This seems to strike a balance for different reader interests and helps me streamline my workflow as a writer.
 
 🎧 [Banking on Disruption Podcast](https://www.linkedin.com/company/banking-on-disruption-podcast/) and [Fred Cadena](https://www.linkedin.com/in/fredcadena/) spoke with [me](https://www.linkedin.com/in/jaycuthrell/) on the topic of how "[Complexity Kills Innovation](https://podcasts.apple.com/us/podcast/banking-on-disruption/id1521180200?i=1000658893768)". [(click here to listen 🎧)](https://podcasts.apple.com/us/podcast/banking-on-disruption/id1521180200?i=1000658893768)
 
@@ -27,7 +27,7 @@ In other news, while checking on settings for my various web properties, I reali
 
 This is a small problem to fix by simply adding back the Google Tag within the header partial for my 11ty framework. So, it isn’t a big deal to get back to where I was before the change. I don’t recall exactly *why* I made the change but it was in late 2023. Or was that just a naming convention and I had forgotten or maybe I made a mistake and got distracted? 🤷
 
-The reason I bring this up is that statistics will matter to me each month as I measure how [Fudge Sunday](/) and [Hot Fudge Daily](https://hot.fudge.org) help [Cuthrell Consulting](https://cuthrell.consulting). As such, I am learning from others who succeeded in this newsletter space. I have been bookmarking newsletter landing pages and their sponsorship pages as a collection of ideas to test and consider for both [Fudge Sunday](/) and [Hot Fudge Daily](https://hot.fudge.org) — and sponsorships tend to favor those newsletters with strong analytics stories to tell. 🚀
+The reason I bring this up is that statistics will matter to me each month as I measure how [Fudge Sunday](/) and [Hot Fudge Daily](https://fudge.org) help [Cuthrell Consulting](https://cuthrell.consulting). As such, I am learning from others who succeeded in this newsletter space. I have been bookmarking newsletter landing pages and their sponsorship pages as a collection of ideas to test and consider for both [Fudge Sunday](/) and [Hot Fudge Daily](https://fudge.org) — and sponsorships tend to favor those newsletters with strong analytics stories to tell. 🚀
 
 ### Reading List
 
@@ -40,7 +40,7 @@ Based on reader feedback, I will be periodically cleaning up my reading list of 
 - [Paper: Visualizing Uncertainty for Non-Expert End Users](https://cohost.org/mononcqc/post/3822487-paper-visualizing-u)
 - [Building the Future: A Deep Dive Into the Generative AI App Infrastructure Stack](https://sapphireventures.com/blog/building-the-future-a-deep-dive-into-the-generative-ai-app-infrastructure-stack/)
 
-That's all for this week. As a reminder, [Hot Fudge Daily](https://hot.fudge.org) is available as a [$9.99 yearly subscription](https://hot.fudge.org). 🤓
+That's all for this week. As a reminder, [Hot Fudge Daily](https://fudge.org) is available as a [$9.99 yearly subscription](https://fudge.org). 🤓
 
 ## Disclosure
 
