@@ -21,7 +21,9 @@ excludeFromSitemap: true
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
       <updated>{{ post.date | dateToRfc3339 }}</updated>
-      <enclosure url="{{- meta.url -}}/assets/og-images/{{ post.data.title | slugify }}-preview.jpeg" length="0" type="image/jpeg"/>
+      <link rel="enclosure" type="image/jpeg" href="{{ previewImageUrl }}" />
+      <media:content url="{{ previewImageUrl }}" medium="image" type="image/jpeg" />
+      <media:thumbnail url="{{ previewImageUrl }}" />
       <id>{{ absolutePostUrl }}</id>
       <content type="html">
 				{{ post.content | renderTransforms(post.data.page, meta.url) }}
