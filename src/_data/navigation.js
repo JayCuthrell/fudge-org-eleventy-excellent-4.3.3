@@ -5,16 +5,16 @@ export default {
       url: '/archive/'
     },
     {
-      text: 'Search',
-      url: '/search/'
-    },
-    {
       text: 'About',
       url: '/about/'
     },
     {
       text: 'Sponsorship',
       url: '/sponsorship/'
+    },
+     {
+      text: 'Sustainability',
+      url: '/sustainability/'
     }
   ],
   bottom: [

@@ -46,11 +46,6 @@ permalink: 'archive/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNum
   }
 </style>
 
-  <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl)">
-    <p>I've published {{ collections.posts.length }} posts. Enjoy reading!
-    </p>
-  </div>
-
   <custom-masonry layout="50-50">
 		{% asyncEach item in pagination.items %}
 			{% include "partials/card-blog.njk" %}
