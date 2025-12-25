@@ -2,7 +2,7 @@ export const url = process.env.URL || 'https://fudge.org';
 // Extract domain from `url`
 export const domain = new URL(url).hostname;
 export const siteName = 'Fudge Factor 🤔💡🤯🤓';
-export const siteDescription = 'Fudge Factor is a newsletter and blog by Jay Cuthrell';
+export const siteDescription = 'Fudge Factor newsletter by Jay Cuthrell';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
@@ -26,11 +26,11 @@ export const themeLight = '#f8f8f8'; // used for meta tag theme-color, if light 
 export const themeDark = '#2e2e2e'; // used for meta tag theme-color, if dark colors are prefered. best use value set for dark bg
 export const opengraph_default = '/assets/images/template/opengraph-default.jpg'; // fallback/default meta image
 export const opengraph_default_alt =
-  "Visible content: Fudge Factor is the on again off again blog and steady running newsletter by Jay Cuthrell published at fudge.org"; // alt text for default meta image"
+  "Visible content: Fudge Factor newsletter by Jay Cuthrell"; // alt text for default meta image"
 export const blog = {
   // RSS feed
-  name: 'Fudge Factor is the newsletter and blog of Jay Cuthrell',
-  description: 'Fudge Factor is the newsletter and blog of Jay Cuthrell',
+  name: 'Fudge Factor',
+  description: 'Fudge Factor newsletter by Jay Cuthrell',
   // feed links are looped over in the head. You may add more to the array.
   feedLinks: [
     {
