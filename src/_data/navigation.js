@@ -9,6 +9,10 @@ export default {
       url: '/about/'
     },
     {
+      text: 'Space Value Chain',
+      url: 'https://svc.fudge.org'
+    },
+    {
       text: 'Sponsorship',
       url: '/sponsorship/'
     },
