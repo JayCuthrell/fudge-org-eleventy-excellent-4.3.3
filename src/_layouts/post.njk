@@ -6,7 +6,7 @@ schema: BlogPosting
 <div class="region" style="--region-space-top: var(--space-xl-2xl)">
   <div class="wrapper flow prose">
     <p class="meta | cluster gutter-xs-s">
-      <a href="{{ meta.author.url }}">{{ meta.author.name }}</a>
+      <a href="{{ meta.author.website }}">{{ meta.author.name }}</a>
       <!-- draft status -->
       {%- if draft -%}
         <span class="button" data-small-button data-button-variant="tertiary">draft</span>
