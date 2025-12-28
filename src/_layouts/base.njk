@@ -48,9 +48,11 @@
     {% endset %}
     {% include "partials/header.njk" %}
 
-    <main id="main" class="flow" data-pagefind-body>{{ content | safe }}</main>
+    <main id="main" class="flow" data-pagefind-body>{{ content | safe }}
+      {% include 'partials/subscribe.njk' %}
+    </main>
 
-    {% include 'partials/subscribe.njk' %}
+    
     {% include "partials/footer.njk" %}
     {%- if meta.easteregg -%}
       <script type="module" src="/assets/scripts/components/custom-easteregg.js"></script>
