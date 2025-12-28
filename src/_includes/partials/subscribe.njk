@@ -1,28 +1,3 @@
 {% if meta.viewRepo.allow %}
-<div class="subscription-card | flow">
-  <h2 class="text-step-2">Subscribe to Fudge Factor</h2>
-  <p>Get the latest articles and updates delivered straight to your inbox.</p>
-  <form
-    action="{{ meta.subscribeUrl }}"
-    method="post"
-    target="popupwindow"
-    onsubmit="window.open('{{ meta.url }}', 'popupwindow')"
-    class="form-group flow"
-    style="padding: 20px; border-radius: 5px;"
-  />
-    <div class="cluster">
-      <label for="bd-email" class="visually-hidden">Enter your email</label>
-      <input 
-        type="email" 
-        name="email" 
-        id="bd-email" 
-        class="form-input"
-        placeholder="you@example.com" 
-        required 
-        style="background-color: #ffffff; color: #000000;"
-      />
-      <button type="submit" class="button" data-button-variant="primary">Subscribe</button>
-    </div>
-  </form>
-</div>
+
 {% endif %}
