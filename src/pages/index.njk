@@ -55,10 +55,8 @@ blog:
 						{% include "partials/card-blog.njk" %}
 					{% endeach %}
         </custom-masonry>
+          <a href="{{ meta.url }}">{{meta.siteName}}</a> has been many things over the years as an archive of writing from <a href="{{ meta.author.website }}">{{ meta.author.name }}</a> since the late 1990s. The latest version of <a href="{{ meta.url }}">{{meta.siteName}}</a> is based on an amazing starter called <a href="https://github.com/madrilene/eleventy-excellent">Eleventy Excellent</a> by <a href="https://www.lenesaile.com/en/">Lene Saile</a>.  
       </div>
     </div>
-    [{{meta.siteName}}]({{ meta.url }}) has been many things over the years as an archive of writing from [{{ meta.author.name }}]({{ meta.author.website }}) since the late 1990s and his newsletters [Fudge Factor 🤔💡🤯🤓](/) and [🌶️ Hot Fudge Daily](https://hot.fudge.org).
-
-The latest version of [{{meta.siteName}}]({{ meta.url }}) based on an amazing starter called [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) by [Lene Saile](https://www.lenesaile.com/en/).
   </section>
 </div>
