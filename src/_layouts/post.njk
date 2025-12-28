@@ -5,14 +5,8 @@ schema: BlogPosting
 
 <div class="region" style="--region-space-top: var(--space-xl-2xl)">
   <div class="wrapper flow prose">
-    <h1 class="gradient-text-none">{{ title }}</h1>
-    <h2 class="gradient-text-none">{{ description }}</h2>
-    {% if image %}
-      <!-- image -->
-      {% image image, alt or "", credit, "eager", "feature" %}
-    {% endif %}
-
     <p class="meta | cluster gutter-xs-s">
+      <a href="{{ meta.author.url }}">{{ meta.author.name }}</a>
       <!-- draft status -->
       {%- if draft -%}
         <span class="button" data-small-button data-button-variant="tertiary">draft</span>
@@ -29,6 +23,12 @@ schema: BlogPosting
         {% endif %}{% endfor %}
       {% endif %}
     </p>
+    <h1 class="gradient-text-none">{{ title }}</h1>
+    <h2 class="gradient-text-none">{{ description }}</h2>
+    {% if image %}
+      <!-- image -->
+      {% image image, alt or "", credit, "eager", "feature" %}
+    {% endif %}
 
     {{ content | safe }}
 
