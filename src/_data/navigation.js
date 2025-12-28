@@ -17,7 +17,7 @@ export default {
       url: '/sustainability/'
     },
     {
-      text: 'Space Value Chain',
+      text: '🚀 SVC 🛰️',
       url: 'https://svc.fudge.org'
     }
   ],
