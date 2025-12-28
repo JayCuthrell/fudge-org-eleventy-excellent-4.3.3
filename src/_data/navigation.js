@@ -9,11 +9,11 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Sponsorship',
+      text: 'Sponsors',
       url: '/sponsorship/'
     },
      {
-      text: 'Sustainability',
+      text: 'CO2',
       url: '/sustainability/'
     },
     {
