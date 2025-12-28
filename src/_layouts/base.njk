@@ -50,6 +50,7 @@
 
     <main id="main" class="flow" data-pagefind-body>{{ content | safe }}</main>
 
+    {% include 'partials/subscribe.njk' %}
     {% include "partials/footer.njk" %}
     {%- if meta.easteregg -%}
       <script type="module" src="/assets/scripts/components/custom-easteregg.js"></script>
