@@ -13,7 +13,6 @@
     "clean:og": "rimraf src/assets/og-images",
     "favicons": "node ./src/_config/setup/generate-favicons.js",
     "colors": "node ./src/_config/setup/create-colors.js",
-    "screenshots": "node ./src/_config/setup/generate-screenshots.js",
     "dev:11ty": "cross-env ELEVENTY_ENV=development eleventy --serve",
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy --quiet",
     "start": "npm run dev:11ty",
@@ -33,7 +32,6 @@
     "@11ty/eleventy-plugin-webc": "^0.11.2",
     "@11ty/is-land": "^4.0.1",
     "lite-youtube-embed": "^0.3.3",
-    "puppeteer": "^24.24.0",
     "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
