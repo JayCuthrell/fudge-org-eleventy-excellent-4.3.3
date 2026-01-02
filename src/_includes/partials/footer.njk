@@ -13,16 +13,25 @@
     style="padding: 20px; border-radius: 5px;"
   />
     <div class="cluster">
-      <label for="bd-email" class="visually-hidden">Enter your email</label>
+      <label for="email" class="visually-hidden">Email (required)</label>
       <input 
         type="email" 
         name="email" 
-        id="bd-email" 
+        id="email" 
         class="form-input"
         placeholder="you@example.com" 
         required 
         style="background-color: #ffffff; color: #000000;"
       />
+      <p><input type="text" name="name" placeholder="Name (optional)" /></p>
+      <input type="hidden" name="l" value="3" />
+      <input type="hidden" name="nonce" />
+      <p>
+      <input id="3f96e" type="checkbox" name="l" checked value="3f96e54c-4388-41c6-adb0-fb6a412197f1" />
+      <label for="3f96e">fudgefactor</label>
+      <br />
+      <span>Fudge Factor 🤔💡🤯🤓 newsletter by Jay Cuthrell</span>
+      </p>
       <button type="submit" class="button" data-button-variant="primary">Subscribe</button>
     </div>
   </form>
