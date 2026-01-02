@@ -7,9 +7,7 @@ excludeFromSitemap: true
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ meta.blog.name }}</title>
-    <description>
-      {{ post.templateContent | renderTransforms(post.data.page, meta.url) | escape }}
-    </description>
+    <description>{{ meta.blog.description }}</description>
     <link>{{ meta.url }}</link>
     <atom:link href="{{ permalink | htmlBaseUrl(meta.url) }}" rel="self" type="application/rss+xml" />
     <language>{{ meta.lang or page.lang }}</language>
@@ -21,11 +19,13 @@ excludeFromSitemap: true
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
-      <description>{{ post.templateContent | renderTransforms(post.data.page, meta.url) | htmlEntities }}</description>
+      <description>
+        {# Using the standard Nunjucks escape filter instead of htmlEntities #}
+        {{ post.content | renderTransforms(post.data.page, meta.url) | escape }}
+      </description>
       <pubDate>{{ post.date | dateToRfc3339 }}</pubDate>
       <guid isPermaLink="true">{{ absolutePostUrl }}</guid>
       
-      {# Open Graph Image support for RSS readers #}
       <media:content url="{{ ogImage }}" medium="image" type="image/jpeg" />
       <media:thumbnail url="{{ ogImage }}" />
     </item>
