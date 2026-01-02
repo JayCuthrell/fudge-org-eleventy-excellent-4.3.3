@@ -4,6 +4,8 @@ node_modules
 # generated files
 dist
 src/assets/og-images/*.jpeg
+src/_includes/css/*.css
+src/_includes/scripts/*.js
 
 # cache
 .cache
