@@ -2,6 +2,7 @@
 title: "11ty iFramely Bookmarks"
 description: "A look at bookmarks as a reading list presented using 11ty and iFramely"
 date: 2024-02-04
+tags: [11ty]
 ---
 
 I'm truly enjoying [11ty](/topics/11ty/). I'm also looking to recapture some of the layout options I still miss from Revue (RIP) for unfurled cards the created flexible previews of embedded URLs within my newsletter.

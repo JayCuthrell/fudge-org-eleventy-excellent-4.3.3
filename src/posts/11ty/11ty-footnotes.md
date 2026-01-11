@@ -2,6 +2,7 @@
 title: "11ty Footnotes"
 description: "A look at enhancing 11ty for newsletter footnotes"
 date: 2024-02-18
+tags: [11ty]
 ---
 
 Feedback is a gift. I've been collecting a growing amount of reader feedback as I've shifted from various newsletter platforms to my evolving [POSSE](/topics/posse) approach.
