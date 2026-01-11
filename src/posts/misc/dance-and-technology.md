@@ -1,7 +1,8 @@
 ---
-title: "Dance and Technology"
-description: ''
 date: 2019-02-17 00:00:00+00:00
+description: ''
+permalink: /archive/dance-and-technology/
+title: Dance and Technology
 ---
 
 I’m rebooting this newsletter for 2019. If you forgot you were on this list, there is probably a GDPR way to get off the list. Enjoy the first (13?) installment of Fudge Sunday.
@@ -44,17 +45,17 @@ Blogging. 20 years later.
 
 I blogged twice this year already and it wasn’t even a new years resolution.
 
-[Twenty Years of Blogging ( 2018 ) – Jay Cuthrell’s Home Page](https://jaycuthrell.com/twenty-years-of-blogging/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Twenty Years of Blogging ( 2018 ) – Jay Cuthrell’s Home Page](https://fudge.org/archive/20-years-of-blogging/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://jaycuthrell.com/twenty-years-of-blogging/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/yoWkvn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/20-years-of-blogging/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/yoWkvn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Looking back on the past 20 years of blogging
 
 While I wasn’t blogging over the past 20 years, I was probably trying out just about every tool online. That included social networks – the successful ones and the other kind. Like… Google+ (plus?)
 
-[Google Nonplussed ( 2019 ) – Jay Cuthrell’s Home Page](https://jaycuthrell.com/google-nonplussed/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Google Nonplussed ( 2019 ) – Jay Cuthrell’s Home Page](https://fudge.org/archive/google-nonplussed/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://jaycuthrell.com/google-nonplussed/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/AZRbE1?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/google-nonplussed/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/AZRbE1?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Lessons from a Googe+ data export
 
@@ -106,4 +107,3 @@ Speaking of the 80s… here’s another dancing related video that has all the i
 [www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=wjpAYfCFmJ4) – [Share](http://rev.vu/WR8q4j?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Very 1980s.
-

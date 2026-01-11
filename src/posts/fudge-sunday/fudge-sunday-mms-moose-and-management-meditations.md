@@ -14,15 +14,15 @@ I don't have many moose photos so this will just have to do.
 
 The topics in this issue of the newsletter will be wordplay on familiar song titles, lyrics, sayings, and connect back to the music industry legend of brown M&M’s, the automotive industry Moose Test, and a management paradox. So, stay with me because it’s not as random as it might sound.
 
-Next, let’s take a quick look at a prediction reinforcement sighting from a prior [Fudge Sunday](https://sunday.fudge.org/?utm_campaign=Fudge%20Sunday%20%F0%9F%A4%94%F0%9F%92%A1%F0%9F%A4%AF%F0%9F%A4%93&utm_medium=email&utm_source=Revue%20newsletter).
+Next, let’s take a quick look at a prediction reinforcement sighting from a prior [Fudge Sunday](https://fudge.org/?utm_campaign=Fudge%20Sunday%20%F0%9F%A4%94%F0%9F%92%A1%F0%9F%A4%AF%F0%9F%A4%93&utm_medium=email&utm_source=Revue%20newsletter).
 
-**[Shot...](https://sunday.fudge.org/issues/fudge-sunday-cheap-as-chips-in-2022-946008?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Shot...](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-One fun aspect of writing a newsletter is calling back to a prior issue. For example, astute readers of Fudge Sunday may have noted a [cheap as chips production prediction in issue #44](https://sunday.fudge.org/issues/fudge-sunday-cheap-as-chips-in-2022-946008?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+One fun aspect of writing a newsletter is calling back to a prior issue. For example, astute readers of Fudge Sunday may have noted a [cheap as chips production prediction in issue #44](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-cheap-as-chips-in-2022-946008?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[Chaser...](https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
@@ -51,7 +51,7 @@ But what *is*… accuracy and even if *accurate* is completeness *complete*?
 
 **[Are there brown M&M's in your report?](https://towardsdatascience.com/the-non-engineers-guide-to-bad-data-c5325d2b1458?gi=2bffa0997d9d&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-[Barr Moses](https://www.linkedin.com/in/barrmoses/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) is founder and CEO of Monte Carlo. In [The Non-Engineer’s Guide to Bad Data](https://towardsdatascience.com/the-non-engineers-guide-to-bad-data-c5325d2b1458?gi=2bffa0997d9d&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) she highlights *“75 % of executives don’t trust their data”*. That made me wonder if a company that specializes in Brown M&M’s as a Service (BMMaaS) that will be the next [decacorn](https://sunday.fudge.org/issues/fudge-sunday-the-last-decacorn-1038065?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+[Barr Moses](https://www.linkedin.com/in/barrmoses/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) is founder and CEO of Monte Carlo. In [The Non-Engineer’s Guide to Bad Data](https://towardsdatascience.com/the-non-engineers-guide-to-bad-data-c5325d2b1458?gi=2bffa0997d9d&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) she highlights *“75 % of executives don’t trust their data”*. That made me wonder if a company that specializes in Brown M&M’s as a Service (BMMaaS) that will be the next [decacorn](https://fudge.org/archive/fudge-sunday-the-last-decacorn/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Source:
 

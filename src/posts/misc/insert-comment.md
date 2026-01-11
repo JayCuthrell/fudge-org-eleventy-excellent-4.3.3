@@ -1,7 +1,8 @@
 ---
-title: "Insert Comment"
-description: ''
 date: 2012-07-28 15:33:14+00:00
+description: ''
+permalink: /archive/insert-comment/
+title: Insert Comment
 ---
 
 Yeah. I turned off comments.
@@ -19,4 +20,3 @@ Does this mean I’m moving from my current Linode DIY environment to something 
 There are folk that have never touched installation media. There are folks that have never connected or even put hardware together for their personal publishing desires. Does that make me a relic? Hardly.
 
 Maybe I’m interested in what might pass for PaaS to enable what I once considered in my post regarding Evernote a while back — and that’s what I’d call a growing option. Never having to run OS updates again has a certain appeal.
-

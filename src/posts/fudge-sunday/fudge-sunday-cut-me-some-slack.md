@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - Cut Me Some Slack"
-description: 'Slack and search engines'
 date: 2022-01-31 00:19:16+00:00
+description: Slack and search engines
+permalink: /archive/fudge-sunday-cut-me-some-slack/
+title: Fudge Sunday - Cut Me Some Slack
 ---
 
 This week we take a look at Slack communities that are worth exploring and other “deep web” places that public web search engine can’t index (yet).
@@ -20,13 +21,13 @@ As of 2022, public web search engines still do not index all of the Internet. So
 
 “Cut me some Slack”
 
-**["Deep Web" Trendspotting in Slack](https://sunday.fudge.org/issues/fudge-sunday-saas-trendspotting-877717?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**["Deep Web" Trendspotting in Slack](https://fudge.org/archive/fudge-sunday-saas-trendspotting/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-As a refresher, Fudge Sunday took a peek into the [“deep web”](https://sunday.fudge.org/issues/fudge-sunday-saas-trendspotting-877717?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) where a regular public web search engine cannot go – such as Slack.
+As a refresher, Fudge Sunday took a peek into the [“deep web”](https://fudge.org/archive/fudge-sunday-saas-trendspotting/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) where a regular public web search engine cannot go – such as Slack.
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-saas-trendspotting-877717?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-saas-trendspotting/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Cut me some Slack?**
 

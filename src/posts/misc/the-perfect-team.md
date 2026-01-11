@@ -1,7 +1,8 @@
 ---
-title: "The Perfect Team"
-description: ''
 date: 2015-10-23 00:00:00+00:00
+description: ''
+permalink: /archive/the-perfect-team/
+title: The Perfect Team
 ---
 
 I’d like to expend a few words about The Perfect Team.
@@ -15,4 +16,3 @@ The Perfect Team definition can be tested if you simply attempt to think through
 For example, some might argue that the person to do it is all that is truly required. However, this do it only approach limits visibility and awareness of the person to write it down and forgoes cycles of thought to consider what should be done next by the person to think ahead. Such an isolation to only emphasize the person to do it is a common folly of so-called heroic culture companies that are often regarded as inconsistent in execution capability.
 
 Think back on the teams you’ve been on and ask yourself if you had The Perfect Team. If you did not have The Perfect Team, what role was missing or not provided sufficient independence to work along side the other roles? Or, perhaps you did not have two roles?
-

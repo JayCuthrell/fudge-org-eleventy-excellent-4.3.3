@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Issue #1"
-description: ''
 date: 2019-02-17 23:42:23+00:00
+description: ''
+permalink: /archive/fudge-sunday-issue-1/
+title: 'Fudge Sunday - Issue #1'
 ---
-
-
 
 I’m rebooting this newsletter for 2019. If you forgot you were on this list, there is probably a GDPR way to get off the list. Enjoy the first (13?) installment of Fudge Sunday.
 
@@ -44,19 +43,19 @@ Good stuff.
 
 I blogged twice this year already and it wasn’t even a new years resolution.
 
-**[Twenty Years of Blogging ( 2018 ) – Jay Cuthrell's Home Page](https://jaycuthrell.com/twenty-years-of-blogging/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Twenty Years of Blogging ( 2018 ) – Jay Cuthrell's Home Page](https://fudge.org/archive/20-years-of-blogging/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Looking back on the past 20 years of blogging
 
-[jaycuthrell.com](https://jaycuthrell.com/twenty-years-of-blogging/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[jaycuthrell.com](https://fudge.org/archive/20-years-of-blogging/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 While I wasn’t blogging over the past 20 years, I was probably trying out just about every tool online. That included social networks – the successful ones and the other kind. Like… Google+ (plus?)
 
-**[Google Nonplussed ( 2019 ) – Jay Cuthrell's Home Page](https://jaycuthrell.com/google-nonplussed/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Google Nonplussed ( 2019 ) – Jay Cuthrell's Home Page](https://fudge.org/archive/google-nonplussed/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Lessons from a Googe+ data export
 
-[jaycuthrell.com](https://jaycuthrell.com/google-nonplussed/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[jaycuthrell.com](https://fudge.org/archive/google-nonplussed/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 While me blogging heavily again may not become a trend, I’m planing to get a newsletter out each Sunday. That trend starts with this installment of the newsletter. Thanks for reading!
 
@@ -105,12 +104,3 @@ Speaking of the 80s… here’s another dancing related video that has all the i
 Very 1980s.
 
 [www.youtube.com](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=wjpAYfCFmJ4)
-
-
-
-
-
-
-
-
-

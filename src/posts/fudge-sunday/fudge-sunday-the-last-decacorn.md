@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - The Last Decacorn"
-description: ''
 date: 2022-02-20 23:58:55+00:00
+description: ''
+permalink: /archive/fudge-sunday-the-last-decacorn/
+title: Fudge Sunday - The Last Decacorn
 ---
-
-
 
 This week we look at 1980s animation nostalgia, our first unicorn sighting, guerrilla marketing, and anhedonic investment themes.
 
@@ -14,15 +13,15 @@ The Last Decacorn Pitchbook: Amalthea is a startup and King Haggard is a hedge f
 
 First, the title of this issue is a riff on the 40th anniversary of the 1982 animated classic “[The Last Unicorn](https://www.imdb.com/title/tt0084237/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)”. ⚠️ Spoiler Alert ⚠️ If you haven’t seen [The Last Unicorn](https://www.imdb.com/title/tt0084237/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), stream it then read this issue of the newsletter.
 
-Next, let’s take a quick rewind to a past issues for what, perhaps, might be the first possible [unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) sighting of [Fudge Sunday](https://sunday.fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+Next, let’s take a quick rewind to a past issues for what, perhaps, might be the first possible [unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) sighting of [Fudge Sunday](https://fudge.org/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
-**[Shot...](https://sunday.fudge.org/issues/fudge-sunday-99-6g-balloons-1014217?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Shot...](https://fudge.org/archive/fudge-sunday-99-6g-balloons/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-One fun aspect of writing a newsletter is calling back to a prior issue. For example, astute readers of Fudge Sunday may have noted [coverage of Helium in Fudge Sunday issue #50](https://sunday.fudge.org/issues/fudge-sunday-99-6g-balloons-1014217?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+One fun aspect of writing a newsletter is calling back to a prior issue. For example, astute readers of Fudge Sunday may have noted [coverage of Helium in Fudge Sunday issue #50](https://fudge.org/archive/fudge-sunday-99-6g-balloons/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-99-6g-balloons-1014217?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-99-6g-balloons/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[🦄Chaser...](https://www.techmeme.com/220218/p12?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220218p12)**
 
@@ -34,7 +33,7 @@ Source:
 
 [www.techmeme.com](https://www.techmeme.com/220218/p12?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220218p12)
 
-Admittedly, I don’t know if [Helium](https://sunday.fudge.org/issues/fudge-sunday-99-6g-balloons-1014217?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) is the first +$1B+ valuation of a private company (aka *unicorn*) I’ve mentioned in this newsletter. But if it is, I don’t think it will be the last unicorn.
+Admittedly, I don’t know if [Helium](https://fudge.org/archive/fudge-sunday-99-6g-balloons/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) is the first +$1B+ valuation of a private company (aka *unicorn*) I’ve mentioned in this newsletter. But if it is, I don’t think it will be the last unicorn.
 
 Now let’s take a look at the road ahead for the growing herds of unicorns.
 
@@ -94,4 +93,3 @@ And what happens next can also make news in terms of temporal proximity. For exa
 Source:
 
 [www.techmeme.com](https://www.techmeme.com/220218/p11?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220218p11)
-

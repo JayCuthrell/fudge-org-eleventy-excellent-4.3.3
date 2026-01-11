@@ -26,7 +26,7 @@ That's right. To explain, I'm going to play back a recent thread from my new Mas
 
 > \*Today I learned the default sharing link for Substack app does not use my cu$tom domain.😳\*
 > 
-> [\*sunday.fudge.org\*](http://sunday.fudge.org) \*swaps to\* [\*open.substack.com/pub/fudge\*](http://open.substack.com/pub/fudge) \*instead.🤔\*
+> [\*sunday.fudge.org\*](https://fudge.org/) \*swaps to\* [\*open.substack.com/pub/fudge\*](http://open.substack.com/pub/fudge) \*instead.🤔\*
 > 
 > \*This design choice is enough to make me reconsider my migration to Substack…. just 6 months after leaving Revue (Twitter).😂\*
 > 
@@ -42,7 +42,7 @@ That's right. To explain, I'm going to play back a recent thread from my new Mas
 > 
 > \*Punt: Netlify blog (\*[\*fudge.org\*](http://fudge.org)\*)\*
 > 
-> \*Punt: Substack newsletter (\*[\*sunday.fudge.org\*](http://sunday.fudge.org)\*)\*
+> \*Punt: Substack newsletter (\*[\*sunday.fudge.org\*](https://fudge.org/)\*)\*
 > 
 > \*Plan: Move everything to Buttondown as the new simplified\* [\*fudge.org\*](http://fudge.org)
 > 

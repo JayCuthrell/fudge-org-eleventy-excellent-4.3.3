@@ -1,7 +1,8 @@
 ---
-title: "Internet Access"
-description: ''
 date: 2005-03-19 00:00:00+00:00
+description: ''
+permalink: /archive/internet-access/
+title: Internet Access
 ---
 
 I was listening to TSOT on NPR this morning. This was made possible due to my new early to bed and early to rise experiment. The subject was related to productivity and Internet access in the workplace. There was a lot of anecdotal evidence and people called in to say why they felt the Internet was good or bad for productivity. The real issue, in my mind, is management techniques.
@@ -23,4 +24,3 @@ All this was going though my mind as the Internet access talk continued on the r
 As I drove up to the recycling bins (the real reason for my early morning trip), I saw the overflowing massive bin reserved for phone books. Yes, phone books.
 
 All that Internet access and I wondered why there are still phone books. Perhaps, the Internet access just isn’t as productive as it could be.
-

@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Internet of Things (Have Changed)"
-description: ''
 date: 2019-05-13 03:40:45+00:00
+description: ''
+permalink: /archive/fudge-sunday-internet-of-things-have-changed/
+title: Fudge Sunday - Internet of Things (Have Changed)
 ---
-
-
 
 The past few days have been confusing and frustrating for home automation enthusiasts that made investments in Nest products. How did we get here?This week we take a look at Nest.
 
@@ -106,12 +105,3 @@ A reminder that all that we set in motion during the living years will be a remi
 Until next time, thanks again for subscribing to Fudge Sunday!
 
 Please share it with a friend.
-
-
-
-
-
-
-
-
-

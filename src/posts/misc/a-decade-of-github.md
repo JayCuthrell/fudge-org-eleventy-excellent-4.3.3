@@ -1,7 +1,8 @@
 ---
-title: "A Decade of GitHub"
-description: 'A look at 10 years of GitHub stars from 2009 to 2019'
 date: 2019-03-25 00:00:00+00:00
+description: A look at 10 years of GitHub stars from 2009 to 2019
+permalink: /archive/a-decade-of-github/
+title: A Decade of GitHub
 ---
 
 I’ve been using GitHub for ~10 years. Over time I used GitHub more socially than for source code publishing. As my use increased so did my bookmarking via the “stars” function. Let’s see what I kept after my most recent Spring purge of GitHub stars…
@@ -30,9 +31,9 @@ Startups, RSUs, and Equity
 
 To be clear, GitHub is not exclusively about code repositories. In fact, when I was an advisor to multiple startups I was often looking for ways to politely say “no” when approached by founders. That led to a blog post and lots of bookmarking of other similar blog posts.
 
-[Be My Advisor ( 2013 )](https://jaycuthrell.com/be-my-advisor/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Be My Advisor ( 2013 )](https://fudge.org/archive/be-my-advisor/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://jaycuthrell.com/be-my-advisor/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/kdRaRb?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/be-my-advisor/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/kdRaRb?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Thinking about equitable equity.
 
@@ -150,9 +151,9 @@ Twitter Diaspora
 
 Readers that follow my blog or Twitter presence know I’ve been away from Twitter for almost two years.
 
-[On Twitter ( 2017 )](https://jaycuthrell.com/on-twitter/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[On Twitter ( 2017 )](https://fudge.org/archive/on-twitter/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://jaycuthrell.com/on-twitter/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/vQbMDP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/on-twitter/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/vQbMDP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 An examination of my Twitter archives
 

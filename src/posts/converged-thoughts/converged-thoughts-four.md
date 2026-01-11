@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Four"
-description: ''
 date: 2017-01-01 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-four/
+title: Converged Thoughts Four
 ---
 
 Happy New Year! Are we done celebrating? Cool. Let’s get started.
@@ -109,4 +110,3 @@ Oh, and as for the 1997 era magic moment… in 2017 you can share that music mom
 So, here’s to what will come in 2037 in the next two decades to come in “streaming music” becoming even more magical.
 
 Until next time… turn it up!
-

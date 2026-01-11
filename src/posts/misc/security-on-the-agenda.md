@@ -48,7 +48,7 @@ Speaking of SxSW 2024, [I'm going](/archive/south-by-southwest-bound-and-down/).
 
 Will you be at SxSW 2024 too?
 
-If so -- [let's catch up](https://jaycuthrell.com/contact) in the real world.
+If so -- [let's catch up](https://jaycuthrell.com/contact/) in the real world.
 
 I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14) (so far).
 
@@ -75,4 +75,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact) that would be amazing. ✉️
+p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/) that would be amazing. ✉️

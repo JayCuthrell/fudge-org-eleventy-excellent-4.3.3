@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Five"
-description: ''
 date: 2017-01-02 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-five/
+title: Converged Thoughts Five
 ---
 
 2007: Life in the “Foist” Lane (continued)
@@ -103,4 +104,3 @@ And of course, there are cars. New cars have new options for listening to music.
 Discover how Chevy’s 4G LTE in-car Wi-Fi is the most reliable way to stay connected while on the go.
 
 The next question as we enter 2017 is to answer isn’t when will saying “Alexa play music” or “Ok Google play music” or “Siri play music” be possible in your next car… but when will it “just work” because of convergence.
-

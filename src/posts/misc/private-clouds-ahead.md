@@ -1,7 +1,8 @@
 ---
-title: "Private Clouds Ahead"
-description: 'Here comes Acadia'
 date: 2010-10-18 00:00:00+00:00
+description: Here comes Acadia
+permalink: /archive/private-clouds-ahead/
+title: Private Clouds Ahead
 ---
 
 I have an announcement to make…
@@ -50,7 +51,7 @@ I’m hopeful my time management skills will permit me to reach out on subjects 
 
 *Does this mean fudge.org becomes a corporately controlled blog?*
 
-Nope. I’ll be updating my [disclosure](http://jaycuthrell.com/disclosure/) statement to be less terse and adding some pertinent boilerplate which will make it even more boring. Again, this blog will always be 100% USDA certified Jay Cuthrell aka [@qthrul](http://twitter.com/qthrul). I’ll be writing about things I care about. That won’t ever change. Hey, maybe Friday Fudge will come back into regular circulation again. We shall see.
+Nope. I’ll be updating my [disclosure](https://jaycuthrell.com/disclosure/) statement to be less terse and adding some pertinent boilerplate which will make it even more boring. Again, this blog will always be 100% USDA certified Jay Cuthrell aka [@qthrul](http://twitter.com/qthrul). I’ll be writing about things I care about. That won’t ever change. Hey, maybe Friday Fudge will come back into regular circulation again. We shall see.
 
 *Speaking of [@qthrul](http://twitter.com/qthrul)… Does this mean [@qthrul](http://twitter.com/qthrul) on Twitter becomes a corporately controlled Twitter account?*
 
@@ -59,4 +60,3 @@ Nope. I’ll be updating my bio line for [@qthrul](http://twitter.com/qthrul) to
 Thus concludes the F.A.Q. portion of this post.
 
 If you have questions, please use the comment system below that is powered by the fine folks at Livefyre!
-

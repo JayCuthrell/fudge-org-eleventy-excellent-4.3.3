@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - The Turning"
-description: ''
 date: 2022-04-10 20:26:19+00:00
+description: ''
+permalink: /archive/fudge-sunday-the-turning/
+title: Fudge Sunday - The Turning
 ---
 
 This week lists a few times my guesses were accurate (or got close).
@@ -24,13 +25,13 @@ So, for the next few links I will call back to a previous issue of the newslette
 
 Let’s take an example or two and wrap this up with a read and a repo.
 
-**[Shot: Pensando coverage (2021)](https://sunday.fudge.org/issues/fudge-sunday-what-s-a-server-717468?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Shot: Pensando coverage (2021)](https://fudge.org/archive/fudge-sunday-whats-a-server/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-If you remember [“What’s a Server?”](https://sunday.fudge.org/issues/fudge-sunday-what-s-a-server-717468?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) [August 2021](https://sunday.fudge.org/issues/fudge-sunday-what-s-a-server-717468?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) then you might recall the section on Pensando Systems after raising +$300M.
+If you remember [“What’s a Server?”](https://fudge.org/archive/fudge-sunday-whats-a-server/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) [August 2021](https://fudge.org/archive/fudge-sunday-whats-a-server/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) then you might recall the section on Pensando Systems after raising +$300M.
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-what-s-a-server-717468?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-whats-a-server/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[Chaser: Pensando acquired (2022)](https://www.techmeme.com/220404/p8?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220404p8)**
 
@@ -107,5 +108,3 @@ Source:
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
-
-

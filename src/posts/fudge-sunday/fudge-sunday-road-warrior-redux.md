@@ -1,12 +1,11 @@
 ---
-title: "Fudge Sunday - Road Warrior Redux"
-description: ''
 date: 2019-03-18 05:34:24+00:00
+description: ''
+permalink: /archive/fudge-sunday-road-warrior-redux/
+title: Fudge Sunday - Road Warrior Redux
 ---
 
-
-
-If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://jaycuthrell.com/my-eighth-year-at-vce/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
+If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/archive/my-eighth-year-at-dell/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
 
 My office at the peak of my North American travel... the AMEX Lounge in LAS
 
@@ -24,19 +23,19 @@ Seriously.
 
 From 1999 to 2002 there was a lot of travel I signed up for as a global .com era consultant dealing with software and systems engineering or what was then called infrastructure engineering. Sometimes I would have down time and blog but most of it was pithy and ubiquitous connectivity like broadband was still just become a reality around the globe. Dial-up was pretty common unless you were in an office, had two channels of ISDN at home or the first of the xDSL or maybe even pre-DOCSIS cable internet services at home.
 
-**[Tel Aviv Traceroute ( 2000 )](https://jaycuthrell.com/tel-aviv-traceroute/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Tel Aviv Traceroute ( 2000 )](https://fudge.org/archive/tel-aviv-traceroute/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Because it’s totally normal to blog about a traceroute?
 
-[jaycuthrell.com](https://jaycuthrell.com/tel-aviv-traceroute/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[jaycuthrell.com](https://fudge.org/archive/tel-aviv-traceroute/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 There was a time when a flight from RDU to EWR was $88 round trip on an airline that no longer exists. That year was 2001 and it was in the wake of 9/11.
 
-**[Here It Comes ( 2001 )](https://jaycuthrell.com/here-it-comes/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Here It Comes ( 2001 )](https://fudge.org/archive/here-it-comes/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 It was another time.
 
-[jaycuthrell.com](https://jaycuthrell.com/here-it-comes/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[jaycuthrell.com](https://fudge.org/archive/here-it-comes/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Eventually, travel that was less *normal* became accepted as *normal*. You learned to expect more security and scrutiny or the random change to policy or procedures. [Long live the freedom grope](https://www.tsa.gov/news/releases/2013/07/19/tsa-launch-application-program-tsa-precheck?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
@@ -70,11 +69,11 @@ This list seemed quaint until I reviewed my current carry on bag. (See below for
 
 After semi-retiring and consulting for a few years it was getting easier to travel when I wanted and where I wanted. Broadband was really hitting stride and the number of companies innovating in streaming collaborative screen sharing were on the rise. It was a time when proxemics and being there were quickly becoming more than just a richer conference call.
 
-**[Airwaves vs Airlines ( 2010 )](https://jaycuthrell.com/airwaves-vs-airlines/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Airwaves vs Airlines ( 2010 )](https://fudge.org/archive/airwaves-vs-airlines/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 In which I wondered if there was a better way to be *there*.
 
-[jaycuthrell.com](https://jaycuthrell.com/airwaves-vs-airlines/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[jaycuthrell.com](https://fudge.org/archive/airwaves-vs-airlines/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Eventually, the patterns of modern audio, video, and screen based collaboration gave way to memes. The memes were funny because there was and is a root of truth to them.
 
@@ -117,12 +116,3 @@ That’s all for now. Thanks again for subscribing and… get ready for even mor
 Here comes another six percent on top of the rising trend
 
 [www.statista.com](https://www.statista.com/statistics/193533/growth-of-global-air-traffic-passenger-demand/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-
-
-
-
-
-
-
-

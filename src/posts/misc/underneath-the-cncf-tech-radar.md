@@ -1,7 +1,8 @@
 ---
-title: "Underneath The CNCF Tech Radar"
-description: 'A look at emerging cloud native topics'
 date: 2022-10-23 19:56:38.856000+00:00
+description: A look at emerging cloud native topics
+permalink: /archive/underneath-the-cncf-tech-radar/
+title: Underneath The CNCF Tech Radar
 ---
 
 *Music: [Underworld - Underneath The Radar (1988)](https://www.youtube.com/watch?v=br8AvTqZ0w4)*
@@ -81,4 +82,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [9](#footnote-anchor-9)Read: <https://github.com/cncf/radar/search?q=xray>
 
 [10](#footnote-anchor-10)Read: <https://stackshare.io>
-

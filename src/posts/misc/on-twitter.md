@@ -1,7 +1,8 @@
 ---
-title: "On Twitter"
-description: ''
 date: 2017-06-24 12:42:00+00:00
+description: ''
+permalink: /archive/on-twitter/
+title: On Twitter
 ---
 
 A few days ago I reset almost all of my primary Twitter output since 2007.

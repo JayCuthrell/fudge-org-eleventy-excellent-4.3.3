@@ -1,7 +1,8 @@
 ---
-title: "Multicloud Summer Reading"
-description: 'A look at multicloud'
 date: 2021-06-15 00:00:00+00:00
+description: A look at multicloud
+permalink: /archive/multicloud-summer-reading/
+title: Multicloud Summer Reading
 ---
 
 This month was busy. The blog below is a shorter version of piece that ran on [Technative](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/) entitled [The Path to Multi-Cloud: How Converging Technologies and Innovations Require Multi-Cloud Strategy](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/)
@@ -61,4 +62,3 @@ Unleash and Unlock Innovation
 =============================
 
 With cloud data services for multi-cloud soon becoming the norm, consider your needs today. How frequently are you accessing data? How easily are you using cloud data services? How can you maximize strategic initiatives while minimizing cloud overspend? Don’t just look to a cloud; maximize the value of your data with true multi-cloud architecture.
-

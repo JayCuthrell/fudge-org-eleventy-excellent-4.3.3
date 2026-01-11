@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Seven"
-description: ''
 date: 2017-01-04
+description: ''
+permalink: /archive/converged-thoughts-seven/
+title: Converged Thoughts Seven
 ---
 
 Looking Back & Looking Ahead
@@ -15,29 +16,29 @@ As the Web developed, so did the distractions of namespace on properties I did n
 
 Still, even as I tap this update into Revue I’m reminded of how many years I’ve been making updates as an annual event. For example, I’ve provided updates on my roles with the company that is now a part of Dell EMC.
 
-[My Sixth Year at VCE and My Sixth Week at Dell EMC](http://jaycuthrell.com/my-sixth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[My Sixth Year at VCE and My Sixth Week at Dell EMC](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](http://jaycuthrell.com/my-sixth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/8Ojvr?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/8Ojvr?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[My Fifth Year at VCE](http://jaycuthrell.com/my-fifth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[My Fifth Year at VCE](https://fudge.org/archive/my-fifth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](http://jaycuthrell.com/my-fifth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/wExwr?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-fifth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/wExwr?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[My Fourth Year at VCE](http://jaycuthrell.com/my-fourth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[My Fourth Year at VCE](https://fudge.org/archive/my-fourth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](http://jaycuthrell.com/my-fourth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/O9jQQ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-fourth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/O9jQQ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[My Third Year at VCE](http://jaycuthrell.com/my-third-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[My Third Year at VCE](https://fudge.org/archive/my-third-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](http://jaycuthrell.com/my-third-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/YQX8k?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-third-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/YQX8k?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[My Second Year at VCE](http://jaycuthrell.com/my-second-year/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[My Second Year at VCE](https://fudge.org/archive/my-second-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](http://jaycuthrell.com/my-second-year/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/GQ4X8?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-second-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/GQ4X8?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[My First Year at VCE](http://jaycuthrell.com/my-first-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[My First Year at VCE](https://fudge.org/archive/my-first-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](http://jaycuthrell.com/my-first-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/xEPWQ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-first-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/xEPWQ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 What hasn’t changed is the experimentation with different ways to present the blog. In fact, I’m still considering what I’ll do for 2017 with the rendering side of the workflow. We’ll see.
 
@@ -98,4 +99,3 @@ Convergence in the space of activity streams will be fascinating. On the one han
 So, to wrap up, what convergence will mean in the future is a way to look back very quickly an easily with rich context and a way to project or look ahead. If there is AI or ML put into place it will be behind the scenes from a user experience point of view. Brittle meta data of today will simply not be of as much consequence due to the richness of enclosures that conform to an agreed upon standard that is universally demanded by everyone.
 
 In short, the future may already be here… and eventually consistent.
-

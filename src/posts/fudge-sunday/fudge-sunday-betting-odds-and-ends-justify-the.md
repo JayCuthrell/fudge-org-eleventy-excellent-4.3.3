@@ -10,11 +10,11 @@ This week is a bit of a potpourri of links and concepts. The title is a play on 
 
  **Last Week**
 
-(https://sunday.fudge.org/issues/fudge-sunday-data-portability-742573?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+(https://fudge.org/archive/fudge-sunday-data-portability/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Last week we look at the world of data portability from 2005 to present. Along the way, we examined how long it can take for the impact of data gravity to be felt and the responses the market provides in the wake.
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-data-portability-742573?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-data-portability/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Betting odds: Science Fiction and Smart Devices**
 
@@ -44,7 +44,7 @@ I was lucky to start my career in wholesale turnkey Internet Service Provider (I
 
 Back in my ISP days, the ability to “self-host” was pretty common practice amongst peers. In part, you had to “eat your own dog food” or “drink your own champagne” to truly develop empathy for your own customers on the exact same network or service because you would “roll your own” just like the downstream customer would do.
 
-For the past 15-20 years, virtual private servers (VPS) then cloud computing then SaaS offered a way to get out of the ISP and hosting business. Now, it seems the patterns are shifting back as new varieties of symmetric broadband, precipitous cost drops of servers, and fronting proxies take hold of [an emerging market that longs for greater efficacy and control](https://sunday.fudge.org/issues/fudge-sunday-roll-your-own-170346?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+For the past 15-20 years, virtual private servers (VPS) then cloud computing then SaaS offered a way to get out of the ISP and hosting business. Now, it seems the patterns are shifting back as new varieties of symmetric broadband, precipitous cost drops of servers, and fronting proxies take hold of [an emerging market that longs for greater efficacy and control](https://fudge.org/archive/fudge-sunday-roll-your-own/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 [www.techmeme.com](https://www.techmeme.com/210906/p10?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210906p10)
 
@@ -90,7 +90,7 @@ If you’ve tried to buy something recently that relies upon microchips then you
 
 Recent coverage has even started to include dependency topics such as substrates within the chip industry supply chain itself. In fact, chip suppliers are all responding with a common tactic: investment.
 
-As I mentioned in [a recent Sunday Fudge series](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), there are strong moves in terms of investment to consider:
+As I mentioned in [a recent Sunday Fudge series](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), there are strong moves in terms of investment to consider:
 
 * Intel has invested ~$20B in New Mexico since 1980 which includes ~$3.5B in upgrades… this year.
 * TSMC will invest ~$12B in Arizona… this year.

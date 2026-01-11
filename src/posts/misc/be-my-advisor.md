@@ -1,7 +1,8 @@
 ---
-title: "Be My Advisor"
-description: ''
 date: 2013-11-08 00:00:00+00:00
+description: ''
+permalink: /archive/be-my-advisor/
+title: Be My Advisor
 ---
 
 Recently, I was invited to become an advisor to [Racemi](http://www.racemi.com/). I said yes.
@@ -90,4 +91,3 @@ Update for 2017
 ===============
 
 Thanks again to the entire Racemi team for the [past three years](https://www.businesswire.com/news/home/20160602006488/en/CSC-and-Racemi-Form-Strategic-Collaboration-to-Accelerate-Enterprise-Migration-to-the-Cloud). It has been a pleasure! [Congrats](https://www.dxc.technology/investor_relations/insights/141471-2017_annual_report)!
-

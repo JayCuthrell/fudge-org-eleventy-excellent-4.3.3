@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Fiber To The Homologous"
-description: ''
 date: 2022-01-17 00:57:36+00:00
+description: ''
+permalink: /archive/fudge-sunday-fiber-to-the-homologous/
+title: Fudge Sunday - Fiber To The Homologous
 ---
-
-
 
 This week we look at the impact and growth of fiber-optic connectivity.
 
@@ -65,4 +64,3 @@ The [Infrapedia](https://www.infrapedia.com?utm_campaign=Start%20the%20week%20mo
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-

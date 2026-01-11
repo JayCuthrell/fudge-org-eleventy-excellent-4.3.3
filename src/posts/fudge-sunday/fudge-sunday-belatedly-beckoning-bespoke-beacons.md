@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Belatedly Beckoning Bespoke Beacons"
-description: ''
 date: 2022-01-10 00:04:40+00:00
+description: ''
+permalink: /archive/fudge-sunday-belatedly-beckoning-bespoke-beacons/
+title: Fudge Sunday - Belatedly Beckoning Bespoke Beacons
 ---
-
-
 
 This week we take a look at Ultra-Wideband (UWB) over the years and recent [@Techmeme metacoverage](https://www.techmeme.com/220109/p2?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220109p2).
 

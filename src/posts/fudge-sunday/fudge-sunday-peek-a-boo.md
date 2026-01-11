@@ -1,7 +1,9 @@
 ---
-title: "Fudge Sunday - Peek A Boo"
-description: 'A look at at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley'
 date: 2022-02-14 00:04:04+00:00
+description: A look at at meta newsletter reading on TypeScript, Prototyping, Consumerized
+  Enterprise, Edge Computing, and the Uncanny Valley
+permalink: /archive/fudge-sunday-peek-a-boo/
+title: Fudge Sunday - Peek A Boo
 ---
 
 This week we peek at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley.
@@ -10,7 +12,7 @@ Devo - Peek A Boo (Official Music Video)
 
  **Getting Informed**
 
-Previously, I’ve shared my appreciation for [Matter](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [Obsidian](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) in my pursuit of a [zettelkasten](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). So, I was really excited when the Matter team published a repository on GitHub for Obsidian users.
+Previously, I’ve shared my appreciation for [Matter](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [Obsidian](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) in my pursuit of a [zettelkasten](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). So, I was really excited when the Matter team published a repository on GitHub for Obsidian users.
 
 (https://github.com/getmatterapp/obsidian-matter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 

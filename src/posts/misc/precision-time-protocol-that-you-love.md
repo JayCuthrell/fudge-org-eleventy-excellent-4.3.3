@@ -38,7 +38,7 @@ Third, you might ask a simple question. What’s in (or on) the cards?
 
 A lot actually — and the software too[4](#footnote-4). As mentioned in Fudge Sunday previously, IIoT means there will be a growing number of use cases where Ultra-Reliable Low Latency Communications (URLLC) is required and the enablement barriers will be a fascinating study of when, not if, they will fall away.
 
-(https://sunday.fudge.org/p/make-iiot-easy-on-yourself?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Just consider that access to precision time protocol has come to the hobbyist community. Indeed… What a time to be alive! (pun intended)
+(https://fudge.org/archive/make-iiot-easy-on-yourself/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Just consider that access to precision time protocol has come to the hobbyist community. Indeed… What a time to be alive! (pun intended)
 
 And their memory's like a train 🎶
 ---------------------------------

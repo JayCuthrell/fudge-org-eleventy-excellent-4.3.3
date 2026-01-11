@@ -1,7 +1,8 @@
 ---
-title: "A New Map"
-description: 'Of Tommy Boy and Simon Wardley'
 date: 2017-07-08 00:00:00+00:00
+description: Of Tommy Boy and Simon Wardley
+permalink: /archive/a-new-map/
+title: A New Map
 ---
 
 Perhaps you’ve heard a phrase regarding conscious choice and decisive action.

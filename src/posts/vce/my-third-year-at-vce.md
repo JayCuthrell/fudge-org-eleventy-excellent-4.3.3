@@ -1,7 +1,8 @@
 ---
-title: "My Third Year at VCE"
-description: ''
 date: 2013-09-07 00:00:00+00:00
+description: ''
+permalink: /archive/my-third-year-at-vce/
+title: My Third Year at VCE
 ---
 
 Next month I’ll reach my 3 year mark with VCE.
@@ -114,4 +115,3 @@ Instant Replay
 ==============
 
 Okay. Per my usual blogging style around here, below are a few helpful instructional videos I’ve collected from my recent months on the road :wink:
-

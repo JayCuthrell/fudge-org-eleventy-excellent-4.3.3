@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Three recommendations walk into a bar..."
-description: ''
 date: 2021-11-14 23:37:06+00:00
+description: ''
+permalink: /archive/fudge-sunday-three-recommendations-walk-into-a-bar/
+title: Fudge Sunday - Three recommendations walk into a bar...
 ---
-
-
 
 Last week I received more newsletter reader feedback (thank you). For the next few issues I will experiment with format and length. This week aims to be short, sweet, and informative.
 
@@ -58,7 +57,7 @@ Shout out to [botany.io](https://botany.io?utm_campaign=Start%20the%20week%20mor
 
  **BONUS:**
 
-In recent newsletter issues this year I linked to coverage and shared trends of the semiconductors industry in [And All Points In Between](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) then [Betting Odds and Ends Justify the Means of Production](https://sunday.fudge.org/issues/fudge-sunday-betting-odds-and-ends-justify-the-means-of-production-752134?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). This week I learned of a great panel discussion on semiconductors back in 2020 via [Brain Food](https://fs.blog/knowledge-podcast/the-ultimate-bargaining-chip/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+In recent newsletter issues this year I linked to coverage and shared trends of the semiconductors industry in [And All Points In Between](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) then [Betting Odds and Ends Justify the Means of Production](https://fudge.org/archive/fudge-sunday-betting-odds-and-ends-justify-the/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). This week I learned of a great panel discussion on semiconductors back in 2020 via [Brain Food](https://fs.blog/knowledge-podcast/the-ultimate-bargaining-chip/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 (https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=r6NUO_bymuA)**
 

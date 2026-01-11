@@ -1,7 +1,8 @@
 ---
-title: "The Waiting"
-description: 'Thoughts on analyst thoughts on YouTube'
 date: 2010-01-21 00:00:00+00:00
+description: Thoughts on analyst thoughts on YouTube
+permalink: /archive/the-waiting/
+title: The Waiting
 ---
 
 https://www.youtube.com/watch?v=uMyCa35_mOg
@@ -42,4 +43,3 @@ Instead, a focus should be made on several other aspects:
 Setting aside Google for a moment, just consider what Apple will do with their planned North Carolina datacenter. Of note is the fact that as of now, the only thing to do *is* speculate and assume that this is an excellent location. That said, no concrete goals or multi-use disclosure has been made by Apple at this time.
 
 In conclusion, any model based on enterprise or carrier assumptions (no matter how they are assumed) renders most analyst predictions far from accurate. When approaching the scale and vibrant refresh requirements of the current crop of Internet infrastructure titans, it is best to stick with public financial reporting and avoid reverse engineering of secret sauce costs and wait for the revenue numbers to be shared.
-

@@ -12,9 +12,9 @@ Depeche Mode - Just Can't Get Enough (1982)
 
 One of the first things I did to get ready for returning to longer form issues this month was to identify the source of inspiration. That inspiration turned out to be my much neglected Safari reading list – and it was far longer than I expected.
 
-You might recall my [Zettelkasten end of year favorites](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Well, I moved from Linux back to Mac and back again – and that surfaced many Safari specific links I had squirreled away for future reading using the Safari Reading List feature.
+You might recall my [Zettelkasten end of year favorites](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Well, I moved from Linux back to Mac and back again – and that surfaced many Safari specific links I had squirreled away for future reading using the Safari Reading List feature.
 
-When I searched for a recent bookmark in my Safari browser the activity prompted me to click on Safari Reading List. Oddly enough, after opening the Safari Reading List, I was reminded of [my backlog of reading material in Matter](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+When I searched for a recent bookmark in my Safari browser the activity prompted me to click on Safari Reading List. Oddly enough, after opening the Safari Reading List, I was reminded of [my backlog of reading material in Matter](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Upon further review, I had somehow managed to amass 173 links in my Safari Reading List that I apparently had every intention of reading going all the way back to 2019. Eventually, this exercise led me to find other reading lists of sorts that I had forgotten about or perhaps I had tired of using the lists functionality after some minor experimentation.
 
@@ -48,7 +48,7 @@ Finding a few of these URLs also saved in Safari as a bookmark in a suitably nam
 
 Coming full circle, I also learned my own creative requirements for this newsletter have transitioned since 2019. For example there are several kinds of [integration options available for and within Revue](https://www.getrevue.co/app/integrations?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) but I stopped using them all after experimenting and becoming nonplussed with the stability or the outcomes.
 
-Ultimately, what I’ve learned this week is that my own record keeping for URLs lacked efficiency in 2019 and [my shift to Obsidian](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) has been much more effective choice as a knowledge store. I also reinforced by belief that using a browser (Safari) linked directly to a single ecosystem (Apple) knowledge store is an opinionated choice with greater potential over time to lower knowledge management efficiency as just one of the ramifications.
+Ultimately, what I’ve learned this week is that my own record keeping for URLs lacked efficiency in 2019 and [my shift to Obsidian](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) has been much more effective choice as a knowledge store. I also reinforced by belief that using a browser (Safari) linked directly to a single ecosystem (Apple) knowledge store is an opinionated choice with greater potential over time to lower knowledge management efficiency as just one of the ramifications.
 
  **Recommended Read and Repo**
 

@@ -14,11 +14,11 @@ If you enjoyed my last issue, I’ll be providing a summary of sorts this week o
 
  **Recap from last week...**
 
-**[Fudge Sunday - Gaming, Healthcare, and Convergence](https://sunday.fudge.org/issues/fudge-sunday-gaming-healthcare-and-convergence-709604?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Fudge Sunday - Gaming, Healthcare, and Convergence](https://fudge.org/archive/fudge-sunday-gaming-healthcare-and-convergence/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Gaming, healthcare, and convergence from edge to core to cloud and all points in between.
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-gaming-healthcare-and-convergence-709604?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-gaming-healthcare-and-convergence/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Speaking of all points in between… 
 

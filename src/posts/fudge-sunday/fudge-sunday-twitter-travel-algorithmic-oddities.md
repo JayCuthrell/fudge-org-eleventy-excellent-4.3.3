@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - Twitter Travel Algorithmic Oddities "
-description: ''
 date: 2022-05-08 20:10:22+00:00
+description: ''
+permalink: /archive/fudge-sunday-twitter-travel-algorithmic-oddities/
+title: 'Fudge Sunday - Twitter Travel Algorithmic Oddities '
 ---
 
 This week we look at IP targeting and geofencing while traveling.
@@ -110,7 +111,7 @@ Okay. Let’s get to it.
 
  **Never on the left, cuz my right's my good ear 🎶**
 
-Back in January 2022, I wrote in [Belatedly Beckoning Bespoke Beacons](https://sunday.fudge.org/issues/fudge-sunday-belatedly-beckoning-bespoke-beacons-967743?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that my Twitter archives included this gem just over a decade ago:
+Back in January 2022, I wrote in [Belatedly Beckoning Bespoke Beacons](https://fudge.org/archive/fudge-sunday-belatedly-beckoning-bespoke-beacons/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that my Twitter archives included this gem just over a decade ago:
 
 **“BREAKING NEWS: RADIOS WITHIN MOBILE DEVICES COMMUNICATE WITH THINGS THAT HAVE A KNOWN LOCATION” – @qthrul 2011-04-22**
 
@@ -213,7 +214,7 @@ My recommendation is to look for primary sources that are less about opinions (l
 
 So, of course, this is easier said (1x) than done (10x)? And perhaps this means we are all living in the early stages of a period that can be described or summarized by [Brandolini’s law](https://en.wikipedia.org/wiki/Brandolini's_law?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
-**[Data-Driven Journalism (Nov 2021)](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Data-Driven Journalism (Nov 2021)](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Back in late 2021 I shared my thoughts on Twitter, Matter, and Data-Driven Journalism. Indeed, using Twitter Lists is still the only reasonable way I’ve found to consume Twitter in 2022.
 
@@ -221,7 +222,7 @@ Perhaps the future Twitter will alter the contract with users by leaving behind 
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[Brandolini's law](https://en.wikipedia.org/wiki/Brandolini's_law?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
@@ -235,4 +236,3 @@ Source:
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
-

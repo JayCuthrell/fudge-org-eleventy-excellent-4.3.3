@@ -8,7 +8,7 @@ date: 2024-03-17
 > See also: [SXSW 2024 Days 1-3](/archive/sxsw-2024-days-1-3/)
 > See also: [SXSW 2024 Days 4-9](/archive/sxsw-2024-days-4-9/)
 
-Disclosure, as of this update [I work for IBM](https://jaycuthrell.com/disclosure). As a reminder, for SXSW 2024, [IBM sponsored the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/) and I posted updates on [my LinkedIn](https://www.linkedin.com/in/jaycuthrell) to capture these amazing moments during discussion about A.I. and quantum computing.
+Disclosure, as of this update [I work for IBM](https://jaycuthrell.com/disclosure/). As a reminder, for SXSW 2024, [IBM sponsored the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/) and I posted updates on [my LinkedIn](https://www.linkedin.com/in/jaycuthrell) to capture these amazing moments during discussion about A.I. and quantum computing.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7174760218642284544" height="646" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
@@ -175,4 +175,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact) that would be amazing. ✉️
+p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/) that would be amazing. ✉️

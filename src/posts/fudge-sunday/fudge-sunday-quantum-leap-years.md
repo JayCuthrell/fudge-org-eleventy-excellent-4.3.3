@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Quantum Leap Years"
-description: ''
 date: 2019-03-04 05:25:03+00:00
+description: ''
+permalink: /archive/fudge-sunday-quantum-leap-years/
+title: Fudge Sunday - Quantum Leap Years
 ---
-
-
 
 The topic of [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) has steadily moved towards the realm of popular science. As with many other topics within popular science, wider audiences will have varying degrees of awareness and depth – but recognition is certainly on the rise.
 
@@ -113,12 +112,3 @@ Topology and connected differentiation appear
 Birds of a feather, partners, and the wisdom of self-selecting crowds aching to become a community aligned to the funding and long term bets of a cloud computing powerhouse.
 
 [www.geekwire.com](https://www.geekwire.com/2019/microsofts-quantum-computing-network-takes-one-giant-leap-startup-summit/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-
-
-
-
-
-
-
-

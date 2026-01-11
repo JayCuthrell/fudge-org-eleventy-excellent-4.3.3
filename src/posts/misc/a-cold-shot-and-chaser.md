@@ -1,7 +1,8 @@
 ---
-title: "A Cold Shot and Chaser"
-description: 'Looking back at prior coverage and predictions'
 date: 2022-08-22 00:21:47.947000+00:00
+description: Looking back at prior coverage and predictions
+permalink: /archive/a-cold-shot-and-chaser/
+title: A Cold Shot and Chaser
 ---
 
 *[Stevie Ray Vaughan & Double Trouble - Cold Shot (1984)](https://www.youtube.com/watch?v=oqBtVaLXPw0)*

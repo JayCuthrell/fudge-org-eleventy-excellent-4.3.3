@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Twelve"
-description: ''
 date: 2017-01-09 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-twelve/
+title: Converged Thoughts Twelve
 ---
 
 Parking Decks and Pricing Models
@@ -122,4 +123,3 @@ Convergence is the natural progression of how the IT industry will evolve to pro
 Now… does anyone remember where we parked?
 
 **On a semi-final note** – I’m ending my experiment with Revue with this update. 12 issues in 12 days! \*\* Thank you Revnue team!! \*\*But… I miss my workflow. I’ll even consider coming back to the Revue platform when I’ve figured out how (or have options) to keep content in revision control for my own workflow which I detailed previously. In the mean time, I’ve got some copying and pasting to do! 😁
-

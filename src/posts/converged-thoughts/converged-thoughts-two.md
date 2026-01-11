@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Two"
-description: ''
 date: 2016-12-30 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-two/
+title: Converged Thoughts Two
 ---
 
 Thanks for sticking around! My second installment is a bit longer but I plan to settle on a word count soon enough.
@@ -46,4 +47,3 @@ Convergence will mean that sometimes [a wizard of clicky goodness](https://twitt
 Now, because it was drilled into my brain early in history of science and technology classes, I carry around definitions. Science is that which explains and predicts. Technology is the response to a perceived need. Art is a form of expression using a developed skill.
 
 So knowing both ways, GUI and CLI, will matter more now and even more in the future. More importantly, knowing when one way or the other makes the most sense will be how the *science* of IT swings back into the *art* of IT.
-

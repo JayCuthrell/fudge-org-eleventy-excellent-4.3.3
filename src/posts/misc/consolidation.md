@@ -1,7 +1,8 @@
 ---
-title: "Consolidation"
-description: ''
 date: 2005-04-04 02:30:27+00:00
+description: ''
+permalink: /archive/consolidation/
+title: Consolidation
 ---
 
 Photo: A 5 minute self installation of AT&T Xtreme DSL circa 2005-ish.
@@ -18,4 +19,3 @@ I suppose after MCI/Quest/SBC/AT&T/Verizon/BellSouth/etc… is done coming back 
 Sure, there are elements of the promises around today. One could argue they are even possible to some degree — but the promise was of the ubiquitous not the proof of concept.
 
 I guess I’ll still be fighting with self check out at the grocery store for a few years more… Oooh… nice innovation…. you get **the customer** to do the work of a grocery store clerk. That’s a much more personal way of saying your clerk job is obsolete than by having a RFID implementation that spans all major suppliers to the retail sector.
-

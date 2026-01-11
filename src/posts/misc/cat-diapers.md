@@ -1,7 +1,8 @@
 ---
-title: "Cat Diapers"
-description: ''
 date: 2005-02-12 16:44:44+00:00
+description: ''
+permalink: /archive/cat-diapers/
+title: Cat Diapers
 ---
 
 I was trying to figure out where cat poop goes. *Yes, this is my life.*
@@ -41,4 +42,3 @@ Here’s video footage that could be supplied to the authorities:
 It also looks like there is an automated machine for breaking the law as well!
 
 Where’s 20/20 when you need them?
-

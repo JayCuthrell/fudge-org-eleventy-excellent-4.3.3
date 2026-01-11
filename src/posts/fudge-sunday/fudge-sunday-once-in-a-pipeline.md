@@ -1,8 +1,10 @@
 ---
-title: "Fudge Sunday - Once in a Pipeline"
-description: 'A look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham'
 date: 2022-03-20 21:49:21+00:00
+description: A look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham
+permalink: /archive/fudge-sunday-once-in-a-pipeline/
+title: Fudge Sunday - Once in a Pipeline
 ---
+
 This week we take a look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham.
 
 
@@ -74,7 +76,7 @@ Automation = Fly
 * [Shift-left observability](https://devopedia.org/shift-left?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) through value stream mapping
 * [Secure resilient automation](https://www.redhat.com/en/topics/devops/what-is-devsecops?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) of operational metrics for the business
 
-In other words, progress will come from iterations upon innovative combinations and convergence of cultural disciplines that value an operator mindset. The cultural disciplines will be DevOps, DevSecOps, GitOps, [DevCommsOps](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), FinOps, DataOps, MLOps, ModelOps, AIOps, RevOps, and the future .NextOps to-be-named operational culture mindsets that push service provider ethos deeper into even the largest enterprise matrix organizational chart.
+In other words, progress will come from iterations upon innovative combinations and convergence of cultural disciplines that value an operator mindset. The cultural disciplines will be DevOps, DevSecOps, GitOps, [DevCommsOps](https://fudge.org/archive/fudge-sunday-cloud-in-public-devcommsops/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), FinOps, DataOps, MLOps, ModelOps, AIOps, RevOps, and the future .NextOps to-be-named operational culture mindsets that push service provider ethos deeper into even the largest enterprise matrix organizational chart.
 
  **Recommended Read and Repo**
 
@@ -101,4 +103,3 @@ Source:
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
-

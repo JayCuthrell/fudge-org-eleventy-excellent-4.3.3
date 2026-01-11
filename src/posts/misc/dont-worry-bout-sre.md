@@ -1,7 +1,8 @@
 ---
-title: "Don't Worry 'Bout SRE"
-description: ''
 date: 2022-11-28 00:42:04.765000+00:00
+description: ''
+permalink: /archive/dont-worry-bout-sre/
+title: Don't Worry 'Bout SRE
 ---
 
 Music: [*Frank Sinatra - “Don’t Worry ‘Bout Me” (1966)*](https://www.youtube.com/watch?v=twoRSUbHW-k)
@@ -9,7 +10,7 @@ Music: [*Frank Sinatra - “Don’t Worry ‘Bout Me” (1966)*](https://www.you
 Getting Informed
 ================
 
-This week our topic comes from [Substack Chat](https://sunday.fudge.org/chat). 🤔🙏🤓
+This week our topic comes from [Substack Chat](https://jaycuthrell.com/contact/). 🤔🙏🤓
 
 Thanks for reading Fudge Sunday! Subscribe for free to receive new posts and support my work.
 
@@ -98,7 +99,7 @@ Now imagine previously moving exabytes of data[8](#footnote-8) around to reflect
 
 Now imagine any or all of these decisions needing to be altered or reversed.
 
-As a background, it’s useful to call back to a prior topic from June 2022: [POSSE is my goal to AOYP and RYO](https://sunday.fudge.org/i/59528127/posse-is-my-goal-to-aoyp-and-ryo). Or, for short, if your content lives on a platform run by someone else then you should make regular backups of what you can.
+As a background, it’s useful to call back to a prior topic from June 2022: [POSSE is my goal to AOYP and RYO](https://fudge.org/archive/me-and-my-posse/). Or, for short, if your content lives on a platform run by someone else then you should make regular backups of what you can.
 
 The reason I share this advice isn’t because I am rooting for the demise of any service in particular like Twitter. It’s just realistic because human beings are also notoriously unreliable things[9](#footnote-9) and they are likely to change careers if not their minds about what, subjectively, is important over time.
 
@@ -168,4 +169,3 @@ Read: [Scaling data access by moving an exabyte of data to Google Cloud](https:/
 [9](#footnote-anchor-9)
 
 Watch: [Machines of Loving Grace: Butterfly Wings](https://www.youtube.com/watch?v=XEt86vB1seU)
-

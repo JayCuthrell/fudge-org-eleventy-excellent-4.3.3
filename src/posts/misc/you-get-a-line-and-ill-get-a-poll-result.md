@@ -57,7 +57,7 @@ Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Read: [Fudge SundayWhen We Was Chip Fab FocusedRead more4 months ago · Jay Cuthrell](https://sunday.fudge.org/p/when-we-was-chip-fab-focused?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[1](#footnote-anchor-1)Read: [Fudge SundayWhen We Was Chip Fab FocusedRead more4 months ago · Jay Cuthrell](https://fudge.org/archive/when-we-was-chip-fab-focused/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 [2](#footnote-anchor-2)Read: <https://www.linkedin.com/posts/jaycuthrell_poll-impactful-technology-activity-6960166028165189633-8yI8/>
 

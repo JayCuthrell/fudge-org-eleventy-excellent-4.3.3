@@ -1,7 +1,8 @@
 ---
-title: "Cloud Data Services Ahead"
-description: 'A look at the the past, present, and future of data analytics'
 date: 2020-12-31 00:00:00+00:00
+description: A look at the the past, present, and future of data analytics
+permalink: /archive/cloud-data-services-ahead/
+title: Cloud Data Services Ahead
 ---
 
 *The photo above is from a 2011 post on Twitter via Instagram (I think?). At the time, I was commenting that Cloud was now being used in conversations the way Broadband was back in 2000.*
@@ -45,4 +46,3 @@ One last thing
 ==============
 
 Did I mention [we’re hiring](https://www.factioninc.com/about/careers/) too?
-

@@ -1,7 +1,8 @@
 ---
-title: "On Metrics"
-description: ''
 date: 2011-07-23 03:51:55+00:00
+description: ''
+permalink: /archive/on-metrics/
+title: On Metrics
 ---
 
 Ah, metrics. Everyone loves a horse race. Of course, in a horse race it is not as if the horses are allowed to take a hyperspace jump to various points in the track outside of the assumed finite length of a race track. Enter the dilemma of any so-called “marketing intelligence” service selling you a stopwatch to determine who wins the race.
@@ -23,4 +24,3 @@ Perhaps being the ‘outside view’ will come to be an even more literal condit
 [2] relegating most characterization to blunted techniques i.e. packet and flow based accounting
 
 The article in question: <http://venturebeat.com/2011/07/22/google-plus-ranking/>
-

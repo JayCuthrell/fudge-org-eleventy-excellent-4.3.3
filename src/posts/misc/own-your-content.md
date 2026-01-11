@@ -1,7 +1,8 @@
 ---
-title: "Own Your Content"
-description: ''
 date: 2020-08-23 00:00:00+00:00
+description: ''
+permalink: /archive/own-your-content/
+title: Own Your Content
 ---
 
 Each year, I revisit where I publish and syndicate my content. Typically, an analysis of traffic patterns is done as October approaches. Analysis is performed across platforms such as LinkedIn, Twitter, and whatever experiment I’ve tried in the preceding months. Examples of experiments could include Medium or whatever invite code caught my attention for a newly launched social service.
@@ -14,5 +15,4 @@ Increasingly, referral information is deprecated as modern browsers prioritize t
 
 Additionally, social media card support and cache longevity on platforms continues to change with each passing year. So, the shared content of today might be cached adequately or inadequately based on timing that the creator has little or no control over. In effect, subsequent changes to how the platform decides to operate will render the creator content preview as desired or simply not at all.
 
-Examples: [fudge.org](https://fudge.org), [jaycuthrell.com](https://jaycuthrell.com), and @JayCuthrell on [Twitter](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell) and [Medium](https://medium.com/@JayCuthrell) and a [version of this post as rendered by LinkedIn social media card and cache du jour](https://www.linkedin.com/pulse/period-reminder-own-your-content-jay-cuthrell).
-
+Examples: [fudge.org](https://fudge.org), [jaycuthrell.com](https://jaycuthrell.com/), and @JayCuthrell on [Twitter](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell) and [Medium](https://medium.com/@JayCuthrell) and a [version of this post as rendered by LinkedIn social media card and cache du jour](https://www.linkedin.com/pulse/period-reminder-own-your-content-jay-cuthrell).

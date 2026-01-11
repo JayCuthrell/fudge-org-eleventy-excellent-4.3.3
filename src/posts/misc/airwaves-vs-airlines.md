@@ -1,7 +1,8 @@
 ---
-title: "Airwaves vs Airlines"
-description: 'On face to face meetings and technology'
 date: 2010-02-05 00:00:00+00:00
+description: On face to face meetings and technology
+permalink: /archive/airwaves-vs-airlines/
+title: Airwaves vs Airlines
 ---
 
 On my last Delta flight I was not so surprised to see that my upgrade to first class went through. Since I travel a lot this is, thankfully, pretty common. What happened next was the stuff of wonder an amazement. When I ordered my *Delta Instant Nap in a Plastic Cup*; Scotch; the response wasn’t rocks or neat but… Dewars or Glenlivet. After my mind reset, I went with Glenlivet — neat — and it came served in a glass tumbler.

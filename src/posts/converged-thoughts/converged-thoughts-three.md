@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Three"
-description: ''
 date: 2016-12-31 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-three/
+title: Converged Thoughts Three
 ---
 
 4… 3… 2… 1
@@ -31,4 +32,3 @@ At the same time, multiple low energy ecosystems like iBeacon, Eddystone, et al 
 Now just add in some changing social mores regarding commercially available extensions and augmentation to our humanity and technological implants. Fun times ahead…
 
 On a slightly more humorous note, in the very near future this technology just might be what enables some people you *probably* know to finally find their gluteus maximus in the dark without the aid of both hands and a flashlight. 😂
-

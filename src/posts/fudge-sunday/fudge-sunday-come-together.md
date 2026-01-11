@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - Come Together"
-description: ''
 date: 2022-04-17 22:13:40+00:00
+description: ''
+permalink: /archive/fudge-sunday-come-together/
+title: Fudge Sunday - Come Together
 ---
 
 This week we take a look at mergers and acquisitions with FinOps in mind.

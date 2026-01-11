@@ -1,27 +1,26 @@
 ---
-title: "Fudge Sunday - Get High On a New Thing"
-description: ''
 date: 2021-07-25 21:57:41+00:00
+description: ''
+permalink: /archive/fudge-sunday-get-high-on-a-new-thing/
+title: Fudge Sunday - Get High On a New Thing
 ---
-
-
 
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 4 of a 5 part series
 
-1. **[Fudge Sunday - And the way that gravity pulls on everyone](https://sunday.fudge.org/issues/fudge-sunday-and-the-way-that-gravity-pulls-on-everyone-673047?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-2. **[Fudge Sunday - And All Points In Between](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-3. **[Fudge Sunday - All Along the Watchtower](https://sunday.fudge.org/issues/fudge-sunday-all-along-the-watchtower-679407?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-4. **[Fudge Sunday - Get High On a New Thing](https://sunday.fudge.org/issues/fudge-sunday-get-high-on-a-new-thing-679408?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-5. **[Fudge Sunday - I Don’t Know Where I’ll Be Tomorrow](https://sunday.fudge.org/issues/fudge-sunday-i-don-t-know-where-i-ll-be-tomorrow-679416?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+1. **[Fudge Sunday - And the way that gravity pulls on everyone](https://fudge.org/archive/fudge-sunday-and-the-way-that-gravity-pulls-on/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+2. **[Fudge Sunday - And All Points In Between](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+3. **[Fudge Sunday - All Along the Watchtower](https://fudge.org/archive/fudge-sunday-all-along-the-watchtower/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+4. **[Fudge Sunday - Get High On a New Thing](https://fudge.org/archive/fudge-sunday-get-high-on-a-new-thing/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+5. **[Fudge Sunday - I Don’t Know Where I’ll Be Tomorrow](https://fudge.org/archive/fudge-sunday-i-dont-know-where-ill-be-tomorrow/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
  **Get high on a new thing**
 
 
 Hello again. Welcome to part 4 of 5 in this series. Let’s recap.
 
-Previously, I mentioned the role of the [edge and data gravity](https://sunday.fudge.org/issues/fudge-sunday-and-the-way-that-gravity-pulls-on-everyone-673047?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Next, I went into a bit more detail on everything from [the millions of places with data today and the many millions of places that will follow](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Then, I went into [how mobile and extraterrestrial vantage points are shaping how we think](https://sunday.fudge.org/issues/fudge-sunday-all-along-the-watchtower-679407?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) about data gravity.
+Previously, I mentioned the role of the [edge and data gravity](https://fudge.org/archive/fudge-sunday-and-the-way-that-gravity-pulls-on/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Next, I went into a bit more detail on everything from [the millions of places with data today and the many millions of places that will follow](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Then, I went into [how mobile and extraterrestrial vantage points are shaping how we think](https://fudge.org/archive/fudge-sunday-all-along-the-watchtower/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) about data gravity.
 
  **Kind of on investigation**
 
@@ -167,12 +166,3 @@ Cloudflare accuses AWS of massive markups on egress bandwidth fees per region, e
 <https://t.co/Pz4J1G25U2>
 
  [9:51 PM - 23 Jul 2021](https://twitter.com/Techmeme/status/1418750564423241729)
-
-
-
-
-
-
-
-
-

@@ -1,7 +1,8 @@
 ---
-title: "Who am I kidding"
-description: ''
 date: 2004-02-17 09:10:28+00:00
+description: ''
+permalink: /archive/who-am-i-kidding/
+title: Who am I kidding
 ---
 
 I’d like to see a skit on SNL about the “Who Am I Kidding” calling plan from Verizon.
@@ -25,4 +26,3 @@ Voice over: That’s right! And, with our nationwide all digital network your vo
 Video: The man looks up just as the Verizon “Can you hear me now?” guy is walking by the bench. The man is visibly excited and tries to make eye contact but the Verizon guy just acts like he didn’t see him and rushes to put his cell phone to his ear (upside down) to perpetrate like he is taking an important call as he shuffles away from the man quickly. Man makes face as if to say, “Yeah, hey no problem, you’re busy, I’ll catch you later” as his face sinks back into the same depressing expression.
 
 Voice over: Verizon. We never stop working for you. Even if nobody cares if you exist.
-

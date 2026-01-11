@@ -1,7 +1,8 @@
 ---
-title: "Road Warrior Redux"
-description: ''
 date: 2019-03-18 00:00:00+00:00
+description: ''
+permalink: /archive/road-warrior-redux/
+title: Road Warrior Redux
 ---
 
 If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/archive/my-eighth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
@@ -127,4 +128,3 @@ That’s all for now. Thanks again for subscribing and… get ready for even mor
 [www.statista.com](https://www.statista.com/statistics/193533/growth-of-global-air-traffic-passenger-demand/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/R3ldxx?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Here comes another six percent on top of the rising trend
-

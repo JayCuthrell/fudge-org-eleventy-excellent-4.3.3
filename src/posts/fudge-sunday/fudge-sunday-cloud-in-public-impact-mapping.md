@@ -1,8 +1,10 @@
 ---
-title: "Fudge Sunday - Cloud in Public: Impact Mapping"
-description: 'A look at public things for a public cloud'
 date: 2021-11-01 00:00:00+00:00
+description: A look at public things for a public cloud
+permalink: /archive/fudge-sunday-cloud-in-public-impact-mapping/
+title: 'Fudge Sunday - Cloud in Public: Impact Mapping'
 ---
+
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑
@@ -15,7 +17,7 @@ This issue is part 5 of a 5 part series
 4. [Fudge Sunday - Cloud in Public: Mean Time To RCA](/archive/fudge-sunday-cloud-in-public-mean-time-to-rca/)
 5. [Fudge Sunday - Cloud in Public: Impact Mapping](/archive/fudge-sunday-cloud-in-public-impact-mapping/)
 
-As of this issue, we now have historical perspectives and definitions for [status dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Engineering SLO](https://sunday.fudge.org/archive/794553?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [DevCommsOps](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), and [Mean Time to RCA](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-mean-time-to-rca-815545?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Next, let’s talk about the increasing importance of dependency mapping across hyperscale public cloud service providers and consider [business value engineering](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=_EEJXAuryS8) and customer journeys.
+As of this issue, we now have historical perspectives and definitions for [status dashboards](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Engineering SLO](https://fudge.org/archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [DevCommsOps](https://fudge.org/archive/fudge-sunday-cloud-in-public-devcommsops/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), and [Mean Time to RCA](https://fudge.org/archive/fudge-sunday-cloud-in-public-mean-time-to-rca/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Next, let’s talk about the increasing importance of dependency mapping across hyperscale public cloud service providers and consider [business value engineering](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=_EEJXAuryS8) and customer journeys.
 
  **Impact Mapping in practice**
 
@@ -111,7 +113,7 @@ In summary, there are **incredibly** **stark variations** amongst the hypersca
 
  **Conclusions**
 
-Cloud in Public findings on [Status Dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Engineering SLO](https://sunday.fudge.org/archive/794553?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [DevCommsOps](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Mean Time to RCA](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-mean-time-to-rca-815545?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), and [Impact Mapping](https://sunday.fudge.org/archive/826383?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) will not be static. As such, we want to understand what the *Who, What, Where, When, and Why* means in terms of [business value engineering](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=_EEJXAuryS8).
+Cloud in Public findings on [Status Dashboards](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Engineering SLO](https://fudge.org/archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [DevCommsOps](https://fudge.org/archive/fudge-sunday-cloud-in-public-devcommsops/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Mean Time to RCA](https://fudge.org/archive/fudge-sunday-cloud-in-public-mean-time-to-rca/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), and [Impact Mapping](https://fudge.org/archive?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) will not be static. As such, we want to understand what the *Who, What, Where, When, and Why* means in terms of [business value engineering](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=_EEJXAuryS8).
 
 So, let’s get a quick overview of [business value engineering](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=_EEJXAuryS8) and think about the customer journey.
 

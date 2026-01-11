@@ -1,9 +1,9 @@
 ---
-title: "My Second Year at VCE"
-description: ''
 date: 2012-10-15 00:00:00+00:00
+description: ''
+permalink: /archive/my-second-year-at-vce/
+title: My Second Year at VCE
 ---
-
 
 > *You are witnessing the transformation of an entire industry.*
 > 
@@ -61,4 +61,3 @@ If there were a handful of things I wish these tech bloggers and their editors w
 4. VCE investors are committed to our success.
 
 I know. Crazy right? :smile:
-

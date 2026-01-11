@@ -1,7 +1,8 @@
 ---
-title: "Balkanize, Rinse, Repeat ad infinitum"
-description: ''
 date: 2008-12-21 00:00:00+00:00
+description: ''
+permalink: /archive/balkanize-rinse-repeat-ad-infinitum/
+title: Balkanize, Rinse, Repeat ad infinitum
 ---
 
 After listening to a [podcast rant](http://gillmorgang.techcrunch.com/2008/12/20/gillmor-gang-122008/) on the topic of the blog / web / Internet with terms like signal, noise, and other histrionics typically reserved for the stage I felt that familiar urge to capture some quick thoughts.
@@ -52,4 +53,3 @@ As for the trolls, why not let them be?  Imagine invisible people wearing brigh
 Squelch the surroundings so that only the things you care about are there in front of you. Squelch will make sure the cool is preserved until you grow weary of it, or the cool grows weary of you.
 
 I’ve turned off my TV.  It’s just too cool for me these days.  I’ll be on the Internet for a little while longer.  I think.
-

@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Hype Or Loop?"
-description: ''
 date: 2022-01-24 01:28:48+00:00
+description: ''
+permalink: /archive/fudge-sunday-hype-or-loop/
+title: Fudge Sunday - Hype Or Loop?
 ---
-
-
 
 This week we take a look at hype and the loop of technology journalism.
 

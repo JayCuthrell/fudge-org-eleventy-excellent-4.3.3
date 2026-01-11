@@ -1,7 +1,8 @@
 ---
-title: "Back to my consulting roots"
-description: ''
 date: 2009-01-31 17:55:27+00:00
+description: ''
+permalink: /archive/back-to-my-consulting-roots/
+title: Back to my consulting roots
 ---
 
 After being a CTO since 2002 with [NeoNova](http://www.neonova.net) and [Digitel](http://www.digitel.net) the time has come to return to my *consulting roots*. I’ve had a great run as a technology leader with great people, great companies, and I’ve seen the beauty of rural America.
@@ -13,4 +14,3 @@ Having spent almost two years in Atlanta, GA I’ve re-relocated back to Researc
 As you might imagine, I am also actively adding new clients that benefit from my expertise and strategic technology services.
 
 Going forward, I’m going to be available at [cuthrell.com](http://cuthrell.com) and will be updating content there in the coming weeks.
-

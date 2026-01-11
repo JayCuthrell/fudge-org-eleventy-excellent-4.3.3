@@ -1,20 +1,19 @@
 ---
-title: "Fudge Sunday - MultiCloudWashing Detergent"
-description: ''
 date: 2021-09-20 00:32:35+00:00
+description: ''
+permalink: /archive/fudge-sunday-multicloudwashing-detergent/
+title: Fudge Sunday - MultiCloudWashing Detergent
 ---
-
-
 
 Fun fact: A year ago was my last day with Dell Technologies. For this installment, we examine cloudwashing through a multicloud lens as multicloudwashing.
 
  **Last week**
 
-(https://sunday.fudge.org/issues/fudge-sunday-betting-odds-and-ends-justify-the-means-of-production-752134?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+(https://fudge.org/archive/fudge-sunday-betting-odds-and-ends-justify-the/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Last week we looked at everything from SciFi to DIY cloud repatriation to systems of organization telemetry. Oh my!
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-betting-odds-and-ends-justify-the-means-of-production-752134?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-betting-odds-and-ends-justify-the/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **MultiCloudWashing 101**
 
@@ -92,7 +91,7 @@ In fact, if you just look at a simple [search for #multicloud with more than 300
 
 Vendors aside, the good news about multicloud is that more companies *are* taking data first strategies to defy data gravity. These companies are finding ways to maximize access to centers of innovation across all public hyperscale cloud service providers.
 
-First and foremost, companies want to understand what technology is [possible, permissible, repeatable, sustainable, and advisable](https://sunday.fudge.org/issues/fudge-sunday-possible-permissible-sustainable-repeatable-advisable-732793?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). These [“ibles and ables”](https://sunday.fudge.org/issues/fudge-sunday-possible-permissible-sustainable-repeatable-advisable-732793?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) are table stakes.
+First and foremost, companies want to understand what technology is [possible, permissible, repeatable, sustainable, and advisable](https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). These [“ibles and ables”](https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) are table stakes.
 
 Faction MultiCloud Technical Overview - Interview with Matt Wallace
 
@@ -107,12 +106,3 @@ Home on the Ranch - Mulicloud Data Repatriation
  **Disclosure**
 
 Per my last issue, I am now linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
-
-
-
-
-
-
-
-
-

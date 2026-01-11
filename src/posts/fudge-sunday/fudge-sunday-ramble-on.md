@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - Ramble On"
-description: ''
 date: 2022-05-29 20:44:40+00:00
+description: ''
+permalink: /archive/fudge-sunday-ramble-on/
+title: Fudge Sunday - Ramble On
 ---
 
 This week is a quick look a back at the “great resignation”.
@@ -111,4 +112,3 @@ Source:
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
-

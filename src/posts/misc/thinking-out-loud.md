@@ -18,7 +18,7 @@ Recently, Kris wrote about what he calls the ["Adaptability Paradox"](https://kr
 My thoughts immediately questioned my own identity and the nostalgia flooded in quickly.
 
 - Am I the same 20-something me that [embraced the interwebs](https://fudge.org/archive/the-fudge-faq/)?
-- Would that 20-something me recognize [what I've become](https://jaycuthrell.com)?
+- Would that 20-something me recognize [what I've become](https://jaycuthrell.com/)?
 
 That reminded me of the original swapping experts of avatars... actors.
 
@@ -92,4 +92,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact), I'm going to be scanning the picture side of the postcards I've received and linking to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️
+p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/), I'm going to be scanning the picture side of the postcards I've received and linking to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️

@@ -1,7 +1,8 @@
 ---
-title: "Artemis, Radiation Hardening, and IPFS"
-description: ''
 date: 2022-09-04 21:54:41.790000+00:00
+description: ''
+permalink: /archive/artemis-radiation-hardening-and-ipfs/
+title: Artemis, Radiation Hardening, and IPFS
 ---
 
 Getting Informed
@@ -129,4 +130,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [8](#footnote-anchor-8)Math: <https://www.wolframalpha.com/input?i=Tsiolkovsky+rocket+equation> 
 
 [9](#footnote-anchor-9)Read: <https://en.wikipedia.org/wiki/Media_access_unit>
-

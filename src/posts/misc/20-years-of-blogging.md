@@ -1,8 +1,10 @@
 ---
-title: "20 Years of Blogging"
-description: 'A look back at 20 years of blogging from 1998 to 2018'
 date: 2018-12-12 00:00:00+00:00
+description: A look back at 20 years of blogging from 1998 to 2018
+permalink: /archive/20-years-of-blogging/
+title: 20 Years of Blogging
 ---
+
 [20 years](https://fudge.org/archive/the-fudge-faq). Well, it’s probably more than 20 years if I include personal websites that changed. Good times.
 
 # Selective Saving

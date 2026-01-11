@@ -1,7 +1,8 @@
 ---
-title: "Build a Cloud Platform Foundation"
-description: 'A look at cloud platform foundations and landing zones'
 date: 2022-09-25
+description: A look at cloud platform foundations and landing zones
+permalink: /archive/build-a-cloud-platform-foundation/
+title: Build a Cloud Platform Foundation
 ---
 
 Music: [Spandau Ballet - Foundation (1983)](https://www.youtube.com/watch?v=XbdHH-MbNrI)
@@ -24,9 +25,9 @@ It's better now we're comin' through 🎶
 
 First, you may recall developer experience, or DexEx/DevX, from past posts back in December 2021 and March 2022. In short, developer experience is the empathy that an organization expresses for their developers to enable and empower them.
 
-[Fudge SundayFudge Sunday - Our Low Code No Code Past, Present, and Future](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[Fudge SundayFudge Sunday - Our Low Code No Code Past, Present, and Future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
-[Fudge SundayFudge Sunday - Everything Counts in Ops Amounts](https://sunday.fudge.org/p/fudge-sunday-everything-counts-in-ops-amounts-1073115?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[Fudge SundayFudge Sunday - Everything Counts in Ops Amounts](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 While you’ve probably heard of DevOps, the term *“platform engineering”* might not be as familiar. For context, one definition of *“platform engineering”* comes from a relatively new[1](#footnote-1) website of the same name:
 
@@ -76,4 +77,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [4](#footnote-anchor-4)Read: [Gartner Hype Cycle for Emerging Tech, 2022](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)
 
 [5](#footnote-anchor-5)Read: [Why putting a pane of glass on a pile of sh\*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem)
-

@@ -1,7 +1,8 @@
 ---
-title: "Google Nonplussed"
-description: ''
 date: 2019-02-02 00:00:00+00:00
+description: ''
+permalink: /archive/google-nonplussed/
+title: Google Nonplussed
 ---
 
 Google+ for most users will go away soon. April 2019 warnings and advice to export user data promted me to export my own.
@@ -32,4 +33,3 @@ Google Pluses
 Speaking of April showers, it was only a few years ago (April 2015) that FriendFeed was shut down after Facebook helped it with long term *strategic* planning. Indeed, any commitment to running any service for any advertising company lasts only while there is model for monetization. As soon as there is a better model, the commitment shifts to any service that perpetuates the model. Or… without a model it is bye bye, baby, bye bye.
 
 However, Google G-Suite has a Google+ service that is, by defition, monetized by subscription services. So, the likelihood of Google+ service living on is more predictable. As long there are a significantly large enough number of enterprise customers using the Google+ service, it will continue.
-

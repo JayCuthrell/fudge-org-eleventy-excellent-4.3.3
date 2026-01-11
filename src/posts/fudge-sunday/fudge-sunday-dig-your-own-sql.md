@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Dig Your Own SQL"
-description: 'A look at data analytics tooling trends'
 date: 2021-08-23 00:21:05+00:00
+description: A look at data analytics tooling trends
+permalink: /archive/fudge-sunday-dig-your-own-sql/
+title: Fudge Sunday - Dig Your Own SQL
 ---
-
-
 
 This week we take a look back a year of podcasts episodes from a16z relating to data science and references to artificial intelligence and machine learning. Specifically, we’ll focus on the episodes worth downloading to your podcasting app that are evergreen and worth more than a single listen alone.
 
@@ -108,12 +107,3 @@ Nvidia says part of its April keynote was led by a virtual replica of CEO Jensen
 <https://t.co/oNgeOzgzU6>
 
  [4:30 PM - 12 Aug 2021](https://twitter.com/Techmeme/status/1425917707053006849)
-
-
-
-
-
-
-
-
-

@@ -1,7 +1,8 @@
 ---
-title: "Security Elements Everywhere"
-description: ''
 date: 2010-06-03 00:00:00+00:00
+description: ''
+permalink: /archive/security-elements-everywhere/
+title: Security Elements Everywhere
 ---
 
 *Diclosure: I donated to Diaspora.*
@@ -43,4 +44,3 @@ Then I realized I answered this question back in December of 2009 [at GigaOM](h
 If you have an hour to spare… watch this video.  This was the talk that helped launch young minds thinking about where the Internet is headed.
 
 *Update for 2019: ~10 years later* <https://newsroom.fb.com/news/2019/08/off-facebook-activity/>
-

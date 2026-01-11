@@ -94,7 +94,7 @@ Yes. Count on it.
 
 Where will we see it happening? 
 
-I'd look to companies like [Glitch](https://glitch.com), [CodeSandBox](https://codesandbox.io), and [Developer Sandbox](https://developers.redhat.com/developer-sandbox) as harbingers of things to come. Remember, [our low-code and no-code future](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238) is approaching.
+I'd look to companies like [Glitch](https://glitch.com), [CodeSandBox](https://codesandbox.io), and [Developer Sandbox](https://developers.redhat.com/developer-sandbox) as harbingers of things to come. Remember, [our low-code and no-code future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/) is approaching.
 
 There's an old saying... If you can't beat them... partner with them in a press release and run as fast as you can.
 

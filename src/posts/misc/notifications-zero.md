@@ -1,7 +1,8 @@
 ---
-title: "Notifications Zero"
-description: ''
 date: 2016-12-26 00:00:00+00:00
+description: ''
+permalink: /archive/notifications-zero/
+title: Notifications Zero
 ---
 
 Welcome to the first issue of my digest.
@@ -10,7 +11,7 @@ I know… an email newsletter on the eve of the year 2017. Bold! :wink:
 
 Since 2007, I have shared content or links to content on micro blogging platforms such as Twitter. Since the barrier to publish on Twitter is low, I’ve been told by peers that Twitter can be hard to keep up with at times.
 
-Also, while I have a [personal blog](http://jaycuthrell.com/blog?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), my blog is updated infrequently and it doesn’t show up in your inbox because I’ve resisted adding services like FeedBurner and the like. So, this will be a newsletter and the format will be that of a digest.
+Also, while I have a [personal blog](https://jaycuthrell.com/blog/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), my blog is updated infrequently and it doesn’t show up in your inbox because I’ve resisted adding services like FeedBurner and the like. So, this will be a newsletter and the format will be that of a digest.
 
 My goal for the digest is simple. I will go back to the items I share over the course of a day or week and provide more context on why those items are of interest.
 
@@ -60,4 +61,3 @@ BTW, you can find me here on Slack clearing my notifications:
 [codecommunity.slack.com](https://codecommunity.slack.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/9OxQo?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 {code} Community is powered by the fine folks at Dell EMC {code} Community
-

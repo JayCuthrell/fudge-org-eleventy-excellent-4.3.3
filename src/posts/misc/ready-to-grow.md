@@ -1,7 +1,8 @@
 ---
-title: "Ready To Grow"
-description: ''
 date: 2022-07-10 23:56:50.035000+00:00
+description: ''
+permalink: /archive/ready-to-grow/
+title: Ready To Grow
 ---
 
 [Republica - Ready to Go (1997)](https://www.youtube.com/watch?v=JgffRW1fKDk)
@@ -43,7 +44,7 @@ The use cases of predictive analytics are only bound by where tools and techniqu
 
 Another theme I’ve covered is related to the growth of low code and no code tools on the horizon[6](#footnote-6). So, in the meantime, it’s probably a safe assumption that predictive analytics will be a far more accessible growing market for far more individuals than ever before as data driven applications and data first use cases widen to every aspect of business and operational processes.
 
-[Share](https://sunday.fudge.org/p/ready-to-grow?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+[Share](https://fudge.org/archive/ready-to-grow/?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 From the rooftops, shout it out 🎶
 ---------------------------------
@@ -54,7 +55,7 @@ So, for the rooftop selection, I’ve found an interesting video podcast where I
 
 I mentioned in a prior issue that I would be dropping the read and repo section of my newsletter. So, instead, I’m going to try amplifying some great content (like the above) that I’ve come across in my reading outside my 2nd and 3rd degree network (to use the LinkedIn terminology) made possible by through conscious time investments in [Lunchclub.com](https://lunchclub.com/?invite_code=jayc11).[7](#footnote-7)
 
-[Share](https://sunday.fudge.org/p/ready-to-grow?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+[Share](https://fudge.org/archive/ready-to-grow/?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 One thing you can never change 🎶
 --------------------------------
@@ -84,7 +85,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [1](#footnote-anchor-1)Read: [~$35B in Q1 spending by hyperscale cloud service providers](https://www.wsj.com/articles/amazon-microsoft-google-strengthen-grip-on-cloud-11657018980)
 
-[2](#footnote-anchor-2)Read: [Dig Your Own SQL](https://sunday.fudge.org/p/fudge-sunday-dig-your-own-sql-724435)
+[2](#footnote-anchor-2)Read: [Dig Your Own SQL](https://fudge.org/archive/fudge-sunday-dig-your-own-sql/)
 
 [3](#footnote-anchor-3)Read: [Global Spending on Big Data and Analytics Solutions Will Reach $215.7 Billion in 2021](https://www.idc.com/getdoc.jsp?containerId=prUS48165721)
 
@@ -92,7 +93,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [5](#footnote-anchor-5)Read: [Using Predictive Analytics for Cross-Sell and Upsell](https://www.tsia.com/blog/using-predictive-analytics-for-cross-sell-and-upsell-lessons-from-e-tailers)
 
-[6](#footnote-anchor-6)Read: [Our Low Code No Code Past, Present, and Future](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238)
+[6](#footnote-anchor-6)Read: [Our Low Code No Code Past, Present, and Future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/)
 
 [7](#footnote-anchor-7)Join: [Lunchclub.com](https://lunchclub.com/?invite_code=jayc11)
 
@@ -103,4 +104,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [10](#footnote-anchor-10)Subscribe: [The Starr Report](https://karlastarr.substack.com)
 
 [11](#footnote-anchor-11)Watch: [oh you know…](https://www.youtube.com/watch?v=W8r-tXRLazs)
-

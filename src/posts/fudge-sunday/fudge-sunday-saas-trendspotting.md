@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - SaaS Trendspotting"
-description: ''
 date: 2021-11-22 00:54:48+00:00
+description: ''
+permalink: /archive/fudge-sunday-saas-trendspotting/
+title: Fudge Sunday - SaaS Trendspotting
 ---
-
-
 
 Last week I started the experiment with format and length. This week we will peek into the “deep web” where a regular search engine cannot go.
 
@@ -12,7 +11,7 @@ Last week I started the experiment with format and length. This week we will pee
 
 Slack might be the **S**earchable **L**og of **A**ll **C**ommunication and **K**nowledge but Slack communities are not being crawled and indexed by the big search engine companies (Google, Bing, etc). As a result, Slack communities are an example of the “[deep web](https://en.wikipedia.org/wiki/Deep_web?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)”.
 
-Also, newsletters like this one you are reading can be easily [indexed](https://sunday.fudge.org/?format=rss&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [searched](https://www.google.com/search?q=multicloud%20site%3Asunday.fudge.org&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) because the author (Hi!👋) and the service permit indexing and searching. However, not all newsletters permit open indexing and open searching by instituting paywalls or requiring authentication to view which is also an example of the “[deep web](https://en.wikipedia.org/wiki/Deep_web?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)”.
+Also, newsletters like this one you are reading can be easily [indexed](https://fudge.org/?format=rss&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [searched](https://www.google.com/search?q=multicloud%20site%3Asunday.fudge.org&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) because the author (Hi!👋) and the service permit indexing and searching. However, not all newsletters permit open indexing and open searching by instituting paywalls or requiring authentication to view which is also an example of the “[deep web](https://en.wikipedia.org/wiki/Deep_web?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)”.
 
 By the way, “[deep web](https://en.wikipedia.org/wiki/Deep_web?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)” is sometimes confused or conflated with “[dark web](https://en.wikipedia.org/wiki/Dark_web?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)”. Luckily, the acting duo that provided moving portrayals of [Bill Preston and Ted Logan have produced a quick explainer](https://www.deepwebthemovie.com/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
@@ -83,4 +82,3 @@ Searching for “SaaS” in the blog posts, news stories and tweets that have ap
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-

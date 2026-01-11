@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Eight"
-description: ''
 date: 2017-01-05 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-eight/
+title: Converged Thoughts Eight
 ---
 
 This will be my first SxSW as a resident of Austin, Texas. I’m looking forward to it. Part of the build up to SxSW is making sense of an absolute wall of content in the form of Interactive speaker abstracts, Interactive panel abstracts, and of course… the musical acts. Below are a few of my selections so far.
@@ -68,4 +69,3 @@ One final note… if you are curious about the music selections I’m looking fo
 [twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Z3406?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 source: [https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-

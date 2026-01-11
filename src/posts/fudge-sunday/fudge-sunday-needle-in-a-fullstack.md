@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - Needle in a Fullstack"
-description: ''
 date: 2022-03-27 20:29:31+00:00
+description: ''
+permalink: /archive/fudge-sunday-needle-in-a-fullstack/
+title: Fudge Sunday - Needle in a Fullstack
 ---
 
 This week we take a closer look at DevSec, SCA, xAST, RASP, DevSecOps, FinOps, and code search.
@@ -10,7 +11,7 @@ The Velvelettes "Needle in a Haystack" (1965)
 
  **Getting Informed**
 
-First, let’s expand some [DevSec](https://disruptops.com/devsecops-vs-devsecops/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) acronyms and give some examples. As a starter, you’ll want to recall the concept of a [“software bill of materials”](https://www.cisa.gov/sbom?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) ([SBOM](https://www.cisa.gov/sbom?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)) from [Fudge Sunday #55](https://sunday.fudge.org/issues/fudge-sunday-everything-counts-in-ops-amounts-1073115?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+First, let’s expand some [DevSec](https://disruptops.com/devsecops-vs-devsecops/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) acronyms and give some examples. As a starter, you’ll want to recall the concept of a [“software bill of materials”](https://www.cisa.gov/sbom?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) ([SBOM](https://www.cisa.gov/sbom?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)) from [Fudge Sunday #55](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Software Composition Analysis (SCA) is a method for looking at all the code that wasn’t written (by you or your team) but was inherited from somewhere else externally along the development journey and now represents a dependency. Or, to understand why SCA is important, please consider [Dependency](https://xkcd.com/2347/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) aka [xkcd 2347](https://xkcd.com/2347/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
@@ -76,7 +77,7 @@ Source:
 
 [news.ycombinator.com](https://news.ycombinator.com/item?id=30814406&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-Now, imagine combining FinOps to DevSecOps in a deeper practice. And for your consideration, the newsletter is once again including a read and a repo to explore the eventuality of [shift-left oriented FinOps DevSecOps combinations](https://sunday.fudge.org/issues/fudge-sunday-once-in-a-pipeline-1084136?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+Now, imagine combining FinOps to DevSecOps in a deeper practice. And for your consideration, the newsletter is once again including a read and a repo to explore the eventuality of [shift-left oriented FinOps DevSecOps combinations](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
  **Recommended Read and Repo**
 

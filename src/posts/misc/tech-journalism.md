@@ -1,7 +1,8 @@
 ---
-title: "Tech Journalism"
-description: ''
 date: 2012-04-23 00:00:00+00:00
+description: ''
+permalink: /archive/tech-journalism/
+title: Tech Journalism
 ---
 
 One of the things I notice when attending technology events is the ability of the tech blog ecosystem to crank out coverage even before the event is over. Tech blog posts appear before the coffee carts are removed. Conclusions and predictions are posted at the speed of light.
@@ -51,4 +52,3 @@ Friday: Determine what your favorite is, find out who the top 10 committers are,
 Remember, this A/B experiment is our little secret.
 
 Perhaps, just like the rise of meta summary curating services, there will be a community scale expansion that buries things not worthy of being read by folks regardless of where it is [published] [3](https://xkcd.com/1227/) or the SEO melange that pushes it to the top spot of seemingly arbitrary lists.
-

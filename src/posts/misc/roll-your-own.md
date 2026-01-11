@@ -1,8 +1,10 @@
 ---
-title: "Roll Your Own"
-description: 'A look at platform dependency'
 date: 2019-04-08
+description: A look at platform dependency
+permalink: /archive/roll-your-own/
+title: Roll Your Own
 ---
+
 When I started collecting links this week I had no idea how I would conclude. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
 
 Go Your Own Way
@@ -115,4 +117,3 @@ Exactly.
 Then again, moving from centralized big social media to decentralized smaller social media might not be as *healthy* but the analogy so slowing your ability to smoke a pack a day might just be slowed down a bit by making it less expedient path to a direct dopamine hit.
 
 For a fun (dystopic?) thought exercise, consider the implication of so-called e-cigarettes and vaping against the post-tempest social media landscape of [our rapidly approaching future](http://digests.fudgesunday.com/issues/virtual-reality-80s-and-90s-nostalgia-41351?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). So, until next time, please don’t share this on social media. ;-)
-

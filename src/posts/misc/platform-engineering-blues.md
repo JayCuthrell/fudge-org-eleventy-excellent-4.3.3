@@ -1,7 +1,8 @@
 ---
-title: "Platform Engineering Blues"
-description: ''
 date: 2022-10-09 22:16:06.454000+00:00
+description: ''
+permalink: /archive/platform-engineering-blues/
+title: Platform Engineering Blues
 ---
 
 *[Pavement - Platform Blues (1999)](https://www.youtube.com/watch?v=Lyu7yiLaaH0)*
@@ -11,7 +12,7 @@ Getting Informed
 
 If you need a refresher on Platform Engineering, read this post from last month:
 
-(https://sunday.fudge.org/p/build-a-cloud-platform-foundation?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Subscribe to Fudge Sunday!
+(https://fudge.org/archive/build-a-cloud-platform-foundation/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Subscribe to Fudge Sunday!
 
 The lion reaps his own reward 🎶
 -------------------------------
@@ -22,7 +23,7 @@ So awkward, right?According to [Paul Delory at Gartner](https://www.gartner.com/
 
 Further, the technology choices related to platform engineering would, ideally, contemplate business value engineering concepts as well. Interestingly, you might recall when Fudge Sunday described the increasing importance of dependency mapping across hyperscale public cloud service providers and consideration of [business value engineering](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=_EEJXAuryS8) for customer journeys.
 
-(https://sunday.fudge.org/p/fudge-sunday-cloud-in-public-impact-mapping-826383?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Mandrake versus the snake 🎶
+(https://fudge.org/archive/fudge-sunday-cloud-in-public-impact-mapping/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Mandrake versus the snake 🎶
 ---------------------------
 
 Indeed, there are enough people interested in platform engineering to create websites[2](#footnote-2) and start newsletters[3](#footnote-3). So, one could make the argument that interest in platform engineering is growing enough for those people to be considered a special interest group on the path to becoming a wider community on the path to user groups, etc... which may eventually mirror the FinOps.org progression.[4](#footnote-4)
@@ -79,4 +80,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [5](#footnote-anchor-5)Read: <https://www.linkedin.com/posts/forrestbrazeal_devops-cloud-digitaltransformation-activity-6983083989125275648-GeVM>
 
 [6](#footnote-anchor-6)Read: [https://platformengineering.org/platform-tooling](https://web.archive.org/web/20220130044844/https://platformengineering.org/platform-tooling)
-

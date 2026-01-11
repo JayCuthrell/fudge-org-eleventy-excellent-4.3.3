@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - Moving Out"
-description: 'A look at moving to new platforms'
 date: 2022-06-05 20:55:38+00:00
+description: A look at moving to new platforms
+permalink: /archive/fudge-sunday-moving-out/
+title: Fudge Sunday - Moving Out
 ---
 
 This week we take a look at take out capabilities of this newsletter.
@@ -16,7 +17,7 @@ First, blogging is a very recent medium from the early 1990s. In terms of the pr
 
 Increasingly, blogging has taken on richer or denser forms of multimedia beyond simply words. From written words to deep links to more words or or audio or video or all of these – blogging can seem almost limitless as standards for multimedia expand to what are modern day podcasting, streaming, and whatever else comes next.
 
-And yet, blogging can become undiscoverable behind a metaphorical wall be it a firewall or a paywall or a membership wall within [a very deep web](https://sunday.fudge.org/issues/fudge-sunday-saas-trendspotting-877717?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Or, blogging can also become sequestered in a proprietary container that cannot easily be exported.
+And yet, blogging can become undiscoverable behind a metaphorical wall be it a firewall or a paywall or a membership wall within [a very deep web](https://fudge.org/archive/fudge-sunday-saas-trendspotting/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Or, blogging can also become sequestered in a proprietary container that cannot easily be exported.
 
  **You oughta know by now 🎶**
 
@@ -42,7 +43,7 @@ Source:
 
  **It seems such a waste of time 🎶**
 
-At this point, I mentioned in my last newsletter that [things would be changing for the newsletter](https://sunday.fudge.org/issues/fudge-sunday-ramble-on-1190923?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). So, I’m resolved to make that change.
+At this point, I mentioned in my last newsletter that [things would be changing for the newsletter](https://fudge.org/archive/fudge-sunday-ramble-on/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). So, I’m resolved to make that change.
 
 I know! I’ll just ask Revue support for the link to export my newsletter content and………
 

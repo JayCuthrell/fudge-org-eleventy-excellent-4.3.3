@@ -1,7 +1,8 @@
 ---
-title: "When We Was Chip Fab Focused"
-description: ''
 date: 2022-07-31 23:02:17.463000+00:00
+description: ''
+permalink: /archive/when-we-was-chip-fab-focused/
+title: When We Was Chip Fab Focused
 ---
 
 *[George Harrison - When We Was Fab (1987)](https://www.youtube.com/watch?v=AVu6nPTVbBQ)*
@@ -119,4 +120,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [4](#footnote-anchor-4)Read: [Map of earthquake probabilities across the USA](https://www.americangeosciences.org/critical-issues/maps/national-seismic-hazard-map)
 
 [5](#footnote-anchor-5)Read: [USA Energy Rankings by State](https://www.usnews.com/news/best-states/rankings/infrastructure/energy)
-

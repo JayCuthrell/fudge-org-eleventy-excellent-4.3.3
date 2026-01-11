@@ -1,7 +1,8 @@
 ---
-title: "SoC It To Me"
-description: ''
 date: 2022-09-11 17:09:09.150000+00:00
+description: ''
+permalink: /archive/soc-it-to-me/
+title: SoC It To Me
 ---
 
 Getting Informed
@@ -62,4 +63,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [7](#footnote-anchor-7)Read: <https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions>
 
 [8](#footnote-anchor-8)Read: [The Story of the Real Canary in the Coal Mine](https://www.smithsonianmag.com/smart-news/story-real-canary-coal-mine-180961570/)
-

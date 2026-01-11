@@ -123,7 +123,7 @@ For Domain management and HTTPS, I use settings that allow me to maximize my oth
 
 ![HTTPS](/assets/images/screenshots/2024-01-21-18-02-10.png)
 
-Specifically, I use Cloudflare CNAME flattening, Full SSL/TLS, Optimization, and Dynamic Redirect Normalization for my legacy Substack URLs i.e. ```(starts_with(http.request.full_uri, "https://sunday.fudge.org/p/"))```.
+Specifically, I use Cloudflare CNAME flattening, Full SSL/TLS, Optimization, and Dynamic Redirect Normalization for my legacy Substack URLs i.e. ```(starts_with(http.request.full_uri, "https://fudge.org/archive/"))```.
 
 ![CNAME flattening](/assets/images/screenshots/2024-01-21-18-05-39.png)
 
@@ -139,9 +139,9 @@ Specifically, I use Cloudflare CNAME flattening, Full SSL/TLS, Optimization, and
 
 The GitHub repository I use for Fudge Sunday 🤔💡🤯🤓 is public. Feel free to [review my changelog](https://github.com/JayCuthrell/fudge-org-eleventy-excellent/commits/main/).
 
-Each week, I have two GitHub workflow files that execute to update my personal website [jaycuthrell.com/newsletter](https://jaycuthrell.com/newsletter) and my [special README file that customizes my GitHub profile](https://github.com/JayCuthrell/JayCuthrell).
+Each week, I have two GitHub workflow files that execute to update my personal website [jaycuthrell.com/newsletter](https://jaycuthrell.com/newsletter/) and my [special README file that customizes my GitHub profile](https://github.com/JayCuthrell/JayCuthrell).
 
-[jaycuthrell.com/newsletter](https://jaycuthrell.com/newsletter) 
+[jaycuthrell.com/newsletter](https://jaycuthrell.com/newsletter/) 
   - [newsletter.py](https://github.com/JayCuthrell/jaycuthrell.com/blob/gh-pages/src/newsletter.py)
   - [cron.yml](https://github.com/JayCuthrell/jaycuthrell.com/blob/gh-pages/.github/workflows/cron.yml)
   
@@ -161,4 +161,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact) that would be amazing. ✉️
+p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/) that would be amazing. ✉️

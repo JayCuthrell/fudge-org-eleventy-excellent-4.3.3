@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Cloud in Public: DevCommsOps"
-description: ''
 date: 2021-10-18 00:01:32+00:00
+description: ''
+permalink: /archive/fudge-sunday-cloud-in-public-devcommsops/
+title: 'Fudge Sunday - Cloud in Public: DevCommsOps'
 ---
-
-
 
 This week we continue to take a look at public things for a public cloud.
 
@@ -18,11 +17,11 @@ This issue is part 3 of a 5 part series
 4. [Fudge Sunday - Cloud in Public: Mean Time To RCA](/archive/fudge-sunday-cloud-in-public-mean-time-to-rca/)
 5. [Fudge Sunday - Cloud in Public: Impact Mapping](/archive/fudge-sunday-cloud-in-public-impact-mapping/)
 
-When I wrote about [The Perfect Team](https://fudge.org/archive/the-perfect-team/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), I summarized it as one to do it, write it down, and think ahead. We now have a historical perspective and definitions for the [status dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) and the [Engineering SLO](https://sunday.fudge.org/archive/794553?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). Next, let’s talk about how “write it down” can be expressed as various forms of communication in DevOps cultures.
+When I wrote about [The Perfect Team](https://fudge.org/archive/the-perfect-team/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), I summarized it as one to do it, write it down, and think ahead. We now have a historical perspective and definitions for the [status dashboards](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) and the [Engineering SLO](https://fudge.org/archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). Next, let’s talk about how “write it down” can be expressed as various forms of communication in DevOps cultures.
 
 DevCommsOps is best described as a purposeful insertion of change management communications within a DevOps culture and conspicuously expressing change management communications. To unpack that neologism a bit, imagine things we want (need?) to know relating to change that is *planned*, *achieved, deferred, failed*, and *resulting in an outcome*.
 
-Recall that [Error Budgets, Uptime, and SLO](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-engineering-slo-794553?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) are simply a way to describe the operational objectives to stay up and running balanced with the innovation demands for developing new features, functionality, and availability for services. As such, DevCommsOps provides a consistent and conspicuous account for the changes planned, taking place, and completed that draw against Error Budgets.
+Recall that [Error Budgets, Uptime, and SLO](https://fudge.org/archive/fudge-sunday-cloud-in-public-engineering-slo/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) are simply a way to describe the operational objectives to stay up and running balanced with the innovation demands for developing new features, functionality, and availability for services. As such, DevCommsOps provides a consistent and conspicuous account for the changes planned, taking place, and completed that draw against Error Budgets.
 
 Is DevCommsOps a word soup for Changelog, Release Notes, and Error Budget tracking? Perhaps! In practice, much like the growing depth of status dashboards, a single Changelog is more symbolic than practical as a single page to follow all change.
 
@@ -101,7 +100,7 @@ While there are variations amongst the hyperscalers in expressing DevCommsOps, i
 
 At the same time, personalized views are unique to the customer experience, which is a topic for our next issue related to time to published communications and dependency mapping.
 
-At this point, we have established definitions for [status dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) and the [Engineering SLO](https://sunday.fudge.org/archive/794553?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) set against the backdrop of communications of DevOps culture in the form of DevCommsOps. Now we have a baseline to look at for comparison against timing and dependencies.
+At this point, we have established definitions for [status dashboards](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) and the [Engineering SLO](https://fudge.org/archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) set against the backdrop of communications of DevOps culture in the form of DevCommsOps. Now we have a baseline to look at for comparison against timing and dependencies.
 
 In the remaining two issues of the series, we will examine the time involved in publishing “Root Cause Analyses (RCAs) / Incidents” and dependency mapping value. We will also look at the increasing importance of dependency mapping for the future. The answers to “When and Why” from questions 4-5 above are coming soon.
 

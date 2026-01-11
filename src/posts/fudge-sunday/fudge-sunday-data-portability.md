@@ -1,20 +1,19 @@
 ---
-title: "Fudge Sunday - Data Portability"
-description: ''
 date: 2021-09-06 00:34:16+00:00
+description: ''
+permalink: /archive/fudge-sunday-data-portability/
+title: Fudge Sunday - Data Portability
 ---
-
-
 
 This week we look at the world of data portability from 2005 to present. Along the way, we’ll examine how long it can take for the impact of data gravity to be felt in the consumer, commercial, and Enterprise markets.
 
  **Last week: "the ibles and the ables"**
 
-(https://sunday.fudge.org/issues/fudge-sunday-possible-permissible-sustainable-repeatable-advisable-732793?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+(https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 *Last week we took a look at the elements of a great product from ideation to market adoption.*
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-possible-permissible-sustainable-repeatable-advisable-732793?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **And now... Data Portability 2005 to present**
 
@@ -119,12 +118,3 @@ If the consumer web user data portability was a big deal… just wait until the 
 A Data Silo is a collection of data not accessible to all groups and oftentimes isolated from the rest of the organization. Read more for proven ways to remove data silos from your business.
 
 [www.factioninc.com](https://www.factioninc.com/blog/what-is-a-data-silo/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-
-
-
-
-
-
-
-

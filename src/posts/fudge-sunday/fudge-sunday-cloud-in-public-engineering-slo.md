@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Cloud in Public: Engineering SLO"
-description: ''
 date: 2021-10-11 02:54:39+00:00
+description: ''
+permalink: /archive/fudge-sunday-cloud-in-public-engineering-slo/
+title: 'Fudge Sunday - Cloud in Public: Engineering SLO'
 ---
-
-
 
 This week we continue to take a look at public things for a public cloud.
 
@@ -20,7 +19,7 @@ This issue is part 2 of a 5 part series
 
 Definitions matter. Definitions will be pretty thick for this issue to focus on SLO, but we’ll make a quick stop to understand the SLI and the SLA as well.
 
-In our [first issue for the Cloud in Public series](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), we described cloud-related terminology such as [status dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter); it’s worth explaining the situations where ✅Green, ⚠️Yellow, or 🛑Red indicators might appear. ✅Green would represent a service being up or “OK” and ⚠️Yellow would mean the service degraded, whereas 🛑Red is when a service is down.
+In our [first issue for the Cloud in Public series](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), we described cloud-related terminology such as [status dashboards](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter); it’s worth explaining the situations where ✅Green, ⚠️Yellow, or 🛑Red indicators might appear. ✅Green would represent a service being up or “OK” and ⚠️Yellow would mean the service degraded, whereas 🛑Red is when a service is down.
 
 Now, let’s spend time thinking about indicators, the objectives that rely upon these indicators, and the agreements that capture the objectives.
 

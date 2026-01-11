@@ -1,20 +1,19 @@
 ---
-title: "Fudge Sunday - Razor Thin Margins of Error Bars"
-description: ''
 date: 2021-09-26 23:00:01+00:00
+description: ''
+permalink: /archive/fudge-sunday-razor-thin-margins-of-error-bars/
+title: Fudge Sunday - Razor Thin Margins of Error Bars
 ---
-
-
 
 Fun fact: On this day back in 2011, then EMC CEO Joe Tucci announced he would be [stepping down later that year](https://siliconangle.com/2011/09/26/emc-ceo-joe-tucci-stepping-down/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). A few weeks later, I also published the first of what would become ten yearly blog posts detailing [my time at Acadia, VCE, EMC, Dell EMC, and Dell Technologies](https://fudge.org/archive/my-tenth-year-at-dell-technologies/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) before [joining Faction](https://fudge.org/archive/cloud-data-services-ahead/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
  **Last Week**
 
-(https://sunday.fudge.org/issues/fudge-sunday-multicloudwashing-detergent-762371?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+(https://fudge.org/archive/fudge-sunday-multicloudwashing-detergent/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Last week, we examined cloudwashing through a multicloud lens as multicloudwashing. After more than a year since my last day with Dell Technologies it was interesting to look back on the challenges of category creation.
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-multicloudwashing-detergent-762371?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-multicloudwashing-detergent/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **This Week**
 
@@ -24,7 +23,7 @@ Revue powers this newsletter and it is part of Twitter now. So, I’m not always
 
 Welcome to the year 2021. I'm seeking validation via folks clicking Yes or No. 😂
 
-So, if this issue is interesting you can click the “Yes” or “No” to provide feedback. Or, you can [read what I’m reading](https://sunday.fudge.org/issues/fudge-sunday-what-i-ve-been-reading-lately-653166?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) instead (or just unsubscribe). Or you can reply. Or, see the end for ways to reach out and say howdy.👋
+So, if this issue is interesting you can click the “Yes” or “No” to provide feedback. Or, you can [read what I’m reading](https://fudge.org/archive/fudge-sunday-what-ive-been-reading-lately/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) instead (or just unsubscribe). Or you can reply. Or, see the end for ways to reach out and say howdy.👋
 
 Now, let’s take a look at three links and the implications in the cloud ☁️, attestation🔐, and statistical journeys to *here be dragons🐲*.
 
@@ -79,4 +78,3 @@ This is what happens when Boaty McBoatface decides to enter the realm of statist
  **Disclosure**
 
 For each issue of my newsletter, I am now linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-

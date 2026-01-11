@@ -1,7 +1,8 @@
 ---
-title: "Tomorrow You Probably Saw This Already"
-description: ''
 date: 2019-04-21 00:00:00+00:00
+description: ''
+permalink: /archive/tomorrow-you-probably-saw-this-already/
+title: Tomorrow You Probably Saw This Already
 ---
 
 In this issue, we take a look at the future, past, and the creative combinations of both marked by technology and popular media. We’ll look at the relics that persist and the promises yet to be realized. Along the way, the potential for unintended parachronism grows larger with each passing year.
@@ -136,4 +137,3 @@ Then again, if you like death metal, there’s now computationally generated mus
 \m/ >.< \m/
 
 So, until the eventual [Behind the Music](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=xeIDVFr0HMY) series on tomorrow’s creators of post-[BPTT](https://machinelearningmastery.com/gentle-introduction-backpropagation-time/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) swing-disco-funk-rap-dubstep snake-eats-tail Billboard Top 100 winners, thanks again for subscribing and reading!
-

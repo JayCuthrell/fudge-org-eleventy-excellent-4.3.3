@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Oh What A Tangled Web3 We Weave"
-description: ''
 date: 2021-11-29 02:00:03+00:00
+description: ''
+permalink: /archive/fudge-sunday-oh-what-a-tangled-web3-we-weave/
+title: Fudge Sunday - Oh What A Tangled Web3 We Weave
 ---
-
-
 
 This week is about Web3. The goal is to avoid taking a particular side or in any way represent investment advice about Web3.
 
@@ -38,11 +37,11 @@ The folks at a16z publish [“Decentralized Finance: What It Is, Why It Matters�
 
 [future.a16z.com](https://future.a16z.com/cryptos-fourth-wave-defi-poised-for-breakthrough/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-**[June 20, 2021 - Fudge Sunday](https://sunday.fudge.org/issues/fudge-sunday-what-i-ve-been-reading-lately-653166?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[June 20, 2021 - Fudge Sunday](https://fudge.org/archive/fudge-sunday-what-ive-been-reading-lately/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-A few months ago I published [“Fudge Sunday - What I’ve been reading lately”](https://sunday.fudge.org/issues/fudge-sunday-what-i-ve-been-reading-lately-653166?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) where I included an ephemeral tweet on [a16z launching future.com](https://www.techmeme.com/210619/p10?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210619p10). In fact, you can see [the metacommentary preserved by Techmeme.](https://www.techmeme.com/210619/p10?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210619p10)
+A few months ago I published [“Fudge Sunday - What I’ve been reading lately”](https://fudge.org/archive/fudge-sunday-what-ive-been-reading-lately/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) where I included an ephemeral tweet on [a16z launching future.com](https://www.techmeme.com/210619/p10?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210619p10). In fact, you can see [the metacommentary preserved by Techmeme.](https://www.techmeme.com/210619/p10?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210619p10)
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-what-i-ve-been-reading-lately-653166?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-what-ive-been-reading-lately/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Techmeme Predictions Leaderboard would be a popular niche hilarious service.
 

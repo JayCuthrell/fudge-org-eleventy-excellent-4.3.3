@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts One"
-description: ''
 date: 2016-12-29 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-one/
+title: Converged Thoughts One
 ---
 
 Welcome to the first issue of my digest.
@@ -10,7 +11,7 @@ I know… an email newsletter on the eve of the year 2017. Bold! :wink:
 
 Since 2007, I have shared content or links to content on micro blogging platforms such as Twitter. Since the barrier to publish on Twitter is low, I’ve been told by peers that Twitter can be hard to keep up with at times.
 
-Also, while I have a [personal blog](http://jaycuthrell.com/blog?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), my blog is updated infrequently and it doesn’t show up in your inbox because I’ve resisted adding services like FeedBurner and the like. So, this will be a newsletter and the format will be that of a digest.
+Also, while I have a [personal blog](https://jaycuthrell.com/blog/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), my blog is updated infrequently and it doesn’t show up in your inbox because I’ve resisted adding services like FeedBurner and the like. So, this will be a newsletter and the format will be that of a digest.
 
 My goal for the digest is simple. I will go back to the items I share over the course of a day or week and provide more context on why those items are of interest.
 
@@ -50,4 +51,3 @@ It’s no small wonder that there are already references to Notifications Zero a
 Ah, innovation… meet the new inbox… same as the old inbox!
 
 BTW, now you can find me on Slack clearing my notifications.
-

@@ -1,7 +1,8 @@
 ---
-title: "Memo to the Cloud"
-description: ''
 date: 2010-07-01 23:12:47+00:00
+description: ''
+permalink: /archive/memo-to-the-cloud/
+title: Memo to the Cloud
 ---
 
 *Disclaimer: I made the jump to cloud and SaaS a long time ago.  I have the scars. With luck, after adding a few more they’ll just look like skin.*
@@ -43,4 +44,3 @@ Try this type of *innovation* and don’t expect to get a lot of renewals.
 **And now… the bottom line**
 
 It’s tempting to be clever and think you’ve figured something new to drop out operational costs that has never occurred to anyone before you.  Hint: It’s a trap. Don’t let your automation and refinements obliterate the initial experiences that closed the deal and garnered praise.
-

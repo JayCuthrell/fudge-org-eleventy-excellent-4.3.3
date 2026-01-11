@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Turn Up the (Software Defined) Radio"
-description: ''
 date: 2022-01-03 01:13:12+00:00
+description: ''
+permalink: /archive/fudge-sunday-turn-up-the-software-defined-radio/
+title: Fudge Sunday - Turn Up the (Software Defined) Radio
 ---
-
-
 
 Happy New Year! This week we take a look at the widening world of Software Defined Radios (SDRs) and edge computing solutions.
 
@@ -84,7 +83,7 @@ Source:
 
  **Reading Recommendations**
 
-You might recall from my [“Twitter, Matter, and Data-Driven Journalism”](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) issue that I’m using Matter as my primary newsletter reader. My goal is to be act as a curator.
+You might recall from my [“Twitter, Matter, and Data-Driven Journalism”](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) issue that I’m using Matter as my primary newsletter reader. My goal is to be act as a curator.
 
 (https://getmatter.app/JayCuthrell/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
@@ -105,5 +104,3 @@ So, my use of Twitter and LinkedIn will likely be very different in 2022.
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-
-

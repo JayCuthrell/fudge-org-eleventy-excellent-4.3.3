@@ -1,7 +1,8 @@
 ---
-title: "Union of the Cloud"
-description: 'Another look at multicloud'
 date: 2022-08-07 23:51:09.837000+00:00
+description: Another look at multicloud
+permalink: /archive/union-of-the-cloud/
+title: Union of the Cloud
 ---
 
 *[Duran Duran - Union Of The Snake (1983)](https://www.youtube.com/watch?v=n6p5Q6_JBes)*
@@ -85,7 +86,7 @@ Well, remember that first tweet from 2019 about Databricks hiring for multicloud
 
 At this point, we can safely assume that a multicloud pattern can be based on the selection of a compelling data management service just as much as it can be about thinking carefully about what a multicloud strategy will render — especially when living a cloud in public corporate life.
 
-(https://sunday.fudge.org/p/fudge-sunday-cloud-in-public-impact-mapping-826383?utm_source=substack&utm_campaign=post_embed&utm_medium=web)To the borderline 🎶
+(https://fudge.org/archive/fudge-sunday-cloud-in-public-impact-mapping/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)To the borderline 🎶
 -------------------
 
 So, what are ***Problems*** for multicloud closing in on that last 10% that say multicloud isn’t working for them? 
@@ -127,4 +128,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [3](#footnote-anchor-3)Read: [The Perfect Team](https://fudge.org/archive/the-perfect-team/)
 
 [4](#footnote-anchor-4)Read: [Orange Julius (via wikipedia.org)](https://en.wikipedia.org/wiki/Orange_Julius)
-

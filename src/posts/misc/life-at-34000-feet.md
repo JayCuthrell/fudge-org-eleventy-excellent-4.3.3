@@ -1,10 +1,11 @@
 ---
-title: "Life at 34000 Feet"
-description: ''
 date: 2019-04-01 00:00:00+00:00
+description: ''
+permalink: /archive/life-at-34000-feet/
+title: Life at 34000 Feet
 ---
 
-My travel has [picked up](https://jaycuthrell.com/my-eighth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) in 2019. On a recent flight I discovered the captive portal experiences for the latest generation of in-flight broadband has come a long way. Below are links to help frame the peaks and valleys of connected experiences going back to the 1980s.
+My travel has [picked up](https://fudge.org/archive/my-eighth-year-at-dell/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) in 2019. On a recent flight I discovered the captive portal experiences for the latest generation of in-flight broadband has come a long way. Below are links to help frame the peaks and valleys of connected experiences going back to the 1980s.
 
 
 The year was 1982…
@@ -70,4 +71,3 @@ Looking back on 2011, while the connectivity was passable the adoption curve and
 It’s fast y’all.
 
 On my more recent flights, the latest in flight broadband services are sometimes faster than the free Wi-Fi found in coffee shops and the hotel I’m using to tap out this update. So until next time… Thanks again for reading Fudge Sunday.
-

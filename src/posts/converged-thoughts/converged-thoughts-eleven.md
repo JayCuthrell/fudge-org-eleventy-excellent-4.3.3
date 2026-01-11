@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Eleven"
-description: ''
 date: 2017-01-08 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-eleven/
+title: Converged Thoughts Eleven
 ---
 
 Terminal Multiplex & Emoji in Space
@@ -54,7 +55,7 @@ Again, I’m not pleased with ProductHunt inclusion. 😐 So, I’ll also link d
 
 [pages.github.com](https://pages.github.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/QQdZO?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-GitHub Page is how I’ve been powering my [personal blog](http://jaycuthrell.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) since 2014. I’ve mentioned this previously in the digest but getting the right workflow was important. Even though I don’t blog personally as much as I thought I would, the tools and processes are in place.
+GitHub Page is how I’ve been powering my [personal blog](https://jaycuthrell.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) since 2014. I’ve mentioned this previously in the digest but getting the right workflow was important. Even though I don’t blog personally as much as I thought I would, the tools and processes are in place.
 
 Sometimes I’ve toyed with the idea of moving to a service like Medium for my blogging needs. Then I am reminded that having your own code repository is a bit more survivable. I hope Medium survives but it is clear that their model will have to change or revert back to their core mission.
 
@@ -82,4 +83,3 @@ Convergence in languages and communication is also ready to connect head on with
 [Intel Unveils Compute Card, a Credit Card-Sized Compute Platform](https://newsroom.intel.com/news/intel-unveils-intel-compute-card-credit-card-sized-compute-platform/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
 [newsroom.intel.com](https://newsroom.intel.com/news/intel-unveils-intel-compute-card-credit-card-sized-compute-platform/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/PQqDq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
-

@@ -6,7 +6,7 @@ date: 2019-04-01 04:23:18+00:00
 
 
 
-My travel has [picked up](https://jaycuthrell.com/my-eighth-year-at-vce/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) in 2019. On a recent flight I discovered the captive portal experiences for the latest generation of in-flight broadband has come a long way. Below are links to help frame the peaks and valleys of connected experiences going back to the 1980s.
+My travel has [picked up](https://fudge.org/archive/my-eighth-year-at-dell/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) in 2019. On a recent flight I discovered the captive portal experiences for the latest generation of in-flight broadband has come a long way. Below are links to help frame the peaks and valleys of connected experiences going back to the 1980s.
 
  **The year was 1982...**
 

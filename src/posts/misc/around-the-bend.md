@@ -1,7 +1,8 @@
 ---
-title: "Around the Bend"
-description: ''
 date: 2022-06-12 18:30:30.772000+00:00
+description: ''
+permalink: /archive/around-the-bend/
+title: Around the Bend
 ---
 
 The Asteroids Galaxy Tour - Around The Bend (2009)
@@ -16,7 +17,7 @@ First, you might recall my shot and chaser format from prior issues. Essentially
 
 One of my predictions was our pandemic related so-called “chip crisis” would ultimately lead to a future state of increased supply of drastically lower price chips in far more devices and use cases. So, as of last week, the future is already starting to look closer than I imagined.
 
-(https://sunday.fudge.org/issues/fudge-sunday-cheap-as-chips-in-2022-946008?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+(https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 ### **[Chaser: Chip Crisis Easing (June 2022)](https://www.bloomberg.com/news/articles/2022-06-04/carmakers-feel-chip-crisis-easing-as-global-growth-slows?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
@@ -79,7 +80,7 @@ I’ll have to dig into the /*issues*/ vs. /*p*/ URI difference implications but
 
 Also, each of my YouTube links for song inclusions as the inspiration for an issue appear to get malformed in the migration. So, I’ll be doing 40+ manual edits or so but in the meantime, I’ve created a playlist which I’ll update along the way:
 
-Planning ahead, I’m going to go belt (mirroring) and suspenders (substack) for a while and start reading up on self-hosted options (again). I mean, if Substack experiences a [change in control](https://sunday.fudge.org/p/fudge-sunday-moving-out-1200494) too, I’d much prefer to avoid this research topic again.
+Planning ahead, I’m going to go belt (mirroring) and suspenders (substack) for a while and start reading up on self-hosted options (again). I mean, if Substack experiences a [change in control](https://fudge.org/archive/fudge-sunday-moving-out/) too, I’d much prefer to avoid this research topic again.
 
 We shall see… but so far so good if you are reading this issue. [1](#footnote-1)
 

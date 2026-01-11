@@ -1,7 +1,8 @@
 ---
-title: "Me and My POSSE"
-description: 'A reflection on owning as much of your platform as you can'
 date: 2022-06-19
+description: A reflection on owning as much of your platform as you can
+permalink: /archive/me-and-my-posse/
+title: Me and My POSSE
 ---
 
 *Note: Thank you readers for the great migration feedback and helpful suggestions. I’m happy this newsletter continues to provide so many of you with utility.*
@@ -52,7 +53,7 @@ I’m stating up front that *even after moving* from my prior platform, Revue (T
 
 Source: <https://indieweb.org/POSSE>
 
-I’ve tried to keep my long lived content on my own site. Typically that site is my blog ([fudge.org](https://fudge.org)) or linked on my personal website ([jaycuthrell.com](https://jaycuthrell.com)). 
+I’ve tried to keep my long lived content on my own site. Typically that site is my blog ([fudge.org](https://fudge.org)) or linked on my personal website ([jaycuthrell.com](https://jaycuthrell.com/)). 
 
 While I don’t use Facebook, when I do share links I try to make sure that [Twitter Card Validator](https://cards-dev.twitter.com/validator) and [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/) results are rendering an acceptable card or rich embed result. Often, experimenting with [oEmbed](https://oembed.com) can result in poor choices that become durable cache results but this practice becomes safer by appending the URI with an incrementing value such as `/?test=1`. 
 
@@ -75,7 +76,7 @@ Watching Twitter mergers and acquisitions over the years gave me confidence to u
 
 Oddly enough, leaving Revue took almost 2 years after I realized the need to have a backup strategy for my content that might become sequestered. Indeed, the key is to understand where I happen to currently find utility, convenience, or expediency as a service but never rely upon that service as a means for backup strategy for my content.
 
-(https://sunday.fudge.org/p/fudge-sunday-roll-your-own-170346?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Recommended Read and Repo
+(https://fudge.org/archive/fudge-sunday-roll-your-own/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Recommended Read and Repo
 =========================
 
 I’m still experimenting with this section but readers seem to click on these links a lot.

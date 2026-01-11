@@ -1,16 +1,15 @@
 ---
-title: "Fudge Sunday - Cheap as Chips in 2022"
-description: ''
 date: 2021-12-27 02:29:29+00:00
+description: ''
+permalink: /archive/fudge-sunday-cheap-as-chips-in-2022/
+title: Fudge Sunday - Cheap as Chips in 2022
 ---
-
-
 
 This week we are looking ahead to Cheap as Chips in 2022!
 
  **Getting Informed**
 
-You may recall that I use Twitter in an ephemeral way. I use Tweepy to *cleanup* after I get [my ideas tweeted](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that might survive being added in an issue of [my newsletter](https://sunday.fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and then (maybe one day) on [my blog](https://fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+You may recall that I use Twitter in an ephemeral way. I use Tweepy to *cleanup* after I get [my ideas tweeted](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that might survive being added in an issue of [my newsletter](https://fudge.org/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and then (maybe one day) on [my blog](https://fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Sometimes I’m doing meta commentary on [@Techmeme](https://twitter.com/Techmeme?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Sometimes my meta commentary gets picked up by [@TechmemeChatter](https://twitter.com/TechmemeChatter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) when linked to on [techmeme.com](https://www.google.com/search?q=jaycuthrell%20site%3Atechmeme.com&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) from [@jaycuthrell](https://www.google.com/search?q=jaycuthrell%20site%3Atechmeme.com&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) even back in the olden times of my original [@qthrul](https://www.google.com/search?q=qthrul%20site%3Atechmeme.com&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) handle.
 
@@ -48,11 +47,11 @@ Via @BlocksAndFiles via @Wikibon
 
 [twitter.com](https://twitter.com/magicsilicon/status/1471533764555669505?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-**[As I was saying previously...](https://sunday.fudge.org/issues/fudge-sunday-three-recommendations-walk-into-a-bar-847670?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[As I was saying previously...](https://fudge.org/archive/fudge-sunday-three-recommendations-walk-into-a-bar/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-Be sure to check out my past coverage and shared trends of the semiconductors industry in [Three recommendations walk into a bar BONUS section](https://sunday.fudge.org/issues/fudge-sunday-three-recommendations-walk-into-a-bar-847670?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) as well as [And All Points In Between](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) then [Betting Odds and Ends Justify the Means of Production](https://sunday.fudge.org/issues/fudge-sunday-betting-odds-and-ends-justify-the-means-of-production-752134?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). 
+Be sure to check out my past coverage and shared trends of the semiconductors industry in [Three recommendations walk into a bar BONUS section](https://fudge.org/archive/fudge-sunday-three-recommendations-walk-into-a-bar/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) as well as [And All Points In Between](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) then [Betting Odds and Ends Justify the Means of Production](https://fudge.org/archive/fudge-sunday-betting-odds-and-ends-justify-the/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). 
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-three-recommendations-walk-into-a-bar-847670?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-three-recommendations-walk-into-a-bar/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Addendum (Reader Feedback)**
 
@@ -75,6 +74,3 @@ Here’s how I answered Greg’s questions on my reasons:
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-
-
-

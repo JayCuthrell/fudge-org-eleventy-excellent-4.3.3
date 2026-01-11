@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Six"
-description: ''
 date: 2017-01-03 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-six/
+title: Converged Thoughts Six
 ---
 
 Broken Wings
@@ -73,4 +74,3 @@ Pockets of that convergence exist today but they are really crude. Caller ID (se
 [twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/808878295462907904?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/6OY12?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 So, in summary… security will become important and placed into improvements of the system *when it is part of the personal preference of the consumer*. Those improvements in the system will take the form of convergence in that we won’t have to remember something or have something to get what we want… [sitting in a chair in the sky](https://www.youtube.com/watch?v=akiVi1sR2rM?t=5m20s&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-

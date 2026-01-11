@@ -1,7 +1,8 @@
 ---
-title: "I Want To Thank You"
-description: 'A recap and a thank you'
 date: 2022-11-20 23:08:32.658000+00:00
+description: A recap and a thank you
+permalink: /archive/i-want-to-thank-you/
+title: I Want To Thank You
 ---
 
 *[Natalie Merchant - Kind and Generous (1998)](https://www.youtube.com/watch?v=uAwyIad93-c)*
@@ -68,7 +69,7 @@ I am an enterprise technology investor and executive with an appreciation for co
 
 Our bi-monthly deep dive into the latest health-tech news and trends.By Christina Farr](https://ovsecondopinion.substack.com?utm_source=substack&utm_campaign=publication_embed&utm_medium=web)[### Sarah's Newsletter
 
-My takes on the world of tech, data, marketing, business, and being a professional human.By Sarah Krasnik](https://sarahsnewsletter.substack.com?utm_source=substack&utm_campaign=publication_embed&utm_medium=web)Finally, as I asked in [my Substack Chat](https://sunday.fudge.org/chat)… What will be my next newsletter topic?
+My takes on the world of tech, data, marketing, business, and being a professional human.By Sarah Krasnik](https://sarahsnewsletter.substack.com?utm_source=substack&utm_campaign=publication_embed&utm_medium=web)Finally, as I asked in [my Substack Chat](https://jaycuthrell.com/contact/)… What will be my next newsletter topic?
 
 Until then… Place your bets!
 
@@ -81,4 +82,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 (#footnote-anchor-2)As I was saying…
 
-(https://sunday.fudge.org/p/twit-can-happen?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+(https://fudge.org/archive/twit-can-happen/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)

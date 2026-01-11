@@ -1,8 +1,10 @@
 ---
-title: "Fudge Sunday - FinOps Erase and Rewind"
-description: 'A look at FinOps and Swedish rock band lyrics'
 date: 2022-04-24 18:48:29+00:00
+description: A look at FinOps and Swedish rock band lyrics
+permalink: /archive/fudge-sunday-finops-erase-and-rewind/
+title: Fudge Sunday - FinOps Erase and Rewind
 ---
+
 This week we look at FinOps and Swedish rock band lyrics
 
 The Cardigans - Erase & Rewind (1999)
@@ -61,13 +63,13 @@ Source:
 
  **And finally... Shot and Chaser**
 
-**[Shot: Then, now, and next for Developers, Developers, Developers (2021)](https://sunday.fudge.org/issues/fudge-sunday-our-low-code-no-code-past-present-and-future-904238?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Shot: Then, now, and next for Developers, Developers, Developers (2021)](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Past readers will recall this look at the past, present, and future of Low Code No Code + Developer Evangelism Relations Advocacy with perspectives from various luminaries like [Ashley Willis at Microsoft](https://twitter.com/ashleymcnamara/status/1463233571326332929?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-our-low-code-no-code-past-present-and-future-904238?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[Chaser: Luminary on the move! (2022)](https://www.geekwire.com/2022/tech-moves-microsoft-developer-relations-chief-lands-at-google-amazon-hr-leader-joins-applovin/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 

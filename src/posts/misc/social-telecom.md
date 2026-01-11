@@ -1,7 +1,8 @@
 ---
-title: "Social Telecom"
-description: ''
 date: 2010-01-08 00:00:00+00:00
+description: ''
+permalink: /archive/social-telecom/
+title: Social Telecom
 ---
 
 About a year ago I spoke in front of the [Atlanta Telecom Professionals (ATP)](http://www.telecompros.org/) audience on the topic of social media and telecommunications. It was a great crowd.
@@ -137,4 +138,3 @@ A power subscriber like [MG Siegler](http://parislemon.com/) is an example of so
 What this translates to for service providers that have come to be regarded as *lethargic* is simple: if you have problems, the new social tools available will amplify and coordinate the uprising from your subscriber base locally, regionally, nationally, and perhaps internationally. If you get picked up by tech press for having issues, it is a very short walk to the end of the mainstream press channel.
 
 So, in the end, what social telecom might really mean is a implicit expectation from subscribers (users) of a service that works well almost all of the time. The keys to achieving this will involve using the same technologies within the service provider that their own subscribers are using outside the service or on the very same service itself.
-

@@ -1,7 +1,8 @@
 ---
-title: "Las Vegas Lawsuits and Lyft"
-description: ''
 date: 2019-05-06 00:00:00+00:00
+description: ''
+permalink: /archive/las-vegas-lawsuits-and-lyft/
+title: Las Vegas Lawsuits and Lyft
 ---
 
 This week I made the pilgrimage to Las Vegas for Dell Technologies World and had the chance to take a lot of car services but none were via the sixteen (16) registered taxicab companies serving Las Vegas. Let’s take a look at ride-sharing in the city of sin and what is likely to be the future of getting around in just a few years.
@@ -59,4 +60,3 @@ C.R.E.A.M. is real. Get that hustle.
 ====================================
 
 The other interesting finding on this trip is just how dominant Lyft seems to have become in Las Vegas. Almost all my rides during the week were Lyft. In fact, if you want a referral code – For $15 in ride credit, download the Lyft app using my referral link: [https://www.lyft.com/ici/JAY34875](https://www.lyft.com/ici/JAY34875?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-

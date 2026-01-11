@@ -1,7 +1,8 @@
 ---
-title: "Under the guise of simplicity"
-description: ''
 date: 2007-01-20 23:31:57+00:00
+description: ''
+permalink: /archive/under-the-guise-of-simplicity/
+title: Under the guise of simplicity
 ---
 
 Everything after the Etch A Sketch has been an exercise in escalating support demands. Consider that simply shaking it like a Polaroid picture puts you right back to a pristine operating state.
@@ -29,4 +30,3 @@ As one peer once told me:
 *“I look forward to the day when technology allows us to use mobile phones for more than just web, email, SMS, and instant messaging. I envision a future where people are able to use mobile phones for real time voice communications.*
 
 [Here’s to the future](https://fudge.org/archive/who-am-i-kidding/)!”
-

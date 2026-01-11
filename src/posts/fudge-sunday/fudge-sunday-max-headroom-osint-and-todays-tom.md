@@ -12,13 +12,13 @@ Sting - Russians (1985)
 
  **Getting Informed**
 
-**[Shot...](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Shot...](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-One regular aspect of writing my newsletter is calling back to a prior issue. For example, astute readers of Fudge Sunday may have noted [a reference to Twitter lists in issue #37.](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+One regular aspect of writing my newsletter is calling back to a prior issue. For example, astute readers of Fudge Sunday may have noted [a reference to Twitter lists in issue #37.](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[Chaser...](https://500ish.com/twitter-has-made-lists-great-again-79fa003220d9?gi=e9a5468009f3&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
@@ -40,21 +40,21 @@ For example, we’ll get into the reasons why this chart mattered a lot more for
 
 Operations security (OPSEC) in OSINT can be the difference between life and death.
 
-**[2019: Max Headroom moments](https://sunday.fudge.org/issues/fudge-sunday-private-podcasting-and-max-headroom-179902?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[2019: Max Headroom moments](https://fudge.org/archive/fudge-sunday-private-podcasting-and-max-headroom/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-In a prior life for this newsletter, I looked at the TV series [Max Headroom](https://sunday.fudge.org/issues/fudge-sunday-private-podcasting-and-max-headroom-179902?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) as an example of dystopian science fiction that has arrived in our daily lives as reality. Lately, I can’t help but reflect on the human costs of OSINT, HUMINT, and the highest stakes imaginable for Operations security (OPSEC).
+In a prior life for this newsletter, I looked at the TV series [Max Headroom](https://fudge.org/archive/fudge-sunday-private-podcasting-and-max-headroom/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) as an example of dystopian science fiction that has arrived in our daily lives as reality. Lately, I can’t help but reflect on the human costs of OSINT, HUMINT, and the highest stakes imaginable for Operations security (OPSEC).
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-private-podcasting-and-max-headroom-179902?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-private-podcasting-and-max-headroom/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-**[2021: You can't stop the signal (for long) 📡🛰](https://sunday.fudge.org/issues/fudge-sunday-all-along-the-watchtower-679407?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[2021: You can't stop the signal (for long) 📡🛰](https://fudge.org/archive/fudge-sunday-all-along-the-watchtower/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Last year year in my newsletter, I created a five part series which included a discussion of emerging low earth orbit (LEO) satellite Internet systems like Starlink. Indeed, the spy thriller trope of portable anywhere on the planet communication systems has moved to people in HUMINT involved in OSINT.
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-all-along-the-watchtower-679407?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-all-along-the-watchtower/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Now, if you had told me that the following year I would witness a billionaire not just tweeting support but also enabling LEO satellite Internet systems to help a peaceful nation fighting against a hostile adversary, I would probably have said it sounded like a movie plot line. But, here we are.
 
@@ -110,7 +110,7 @@ Keeping watch on these Russian's Yacht's <https://t.co/BaZQeNyyKB>
 
  [8:14 PM - 5 Mar 2022](https://twitter.com/RussiaYachts/status/1500278686674739207)
 
-In conclusion, the interesting thing about OSINT now in 2022 there is an ever increasing democratized access to network connectivity, enriched data sources, innovative data analysis tools, and ever more ubiquitous on-demand computing capabilities. As such, our modern day [Max Headroom](https://sunday.fudge.org/issues/fudge-sunday-private-podcasting-and-max-headroom-179902?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) moment has now pushed past science fiction.
+In conclusion, the interesting thing about OSINT now in 2022 there is an ever increasing democratized access to network connectivity, enriched data sources, innovative data analysis tools, and ever more ubiquitous on-demand computing capabilities. As such, our modern day [Max Headroom](https://fudge.org/archive/fudge-sunday-private-podcasting-and-max-headroom/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) moment has now pushed past science fiction.
 
 *No, his mind is not for rent. To any god or government. Always hopeful, yet discontent. He knows changes aren’t permanent – But change is.*
 

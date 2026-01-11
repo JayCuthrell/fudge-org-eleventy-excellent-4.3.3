@@ -1,7 +1,8 @@
 ---
-title: "The Fudge FAQ"
-description: ''
 date: 1998-12-12 00:00:00+00:00
+description: ''
+permalink: /archive/the-fudge-faq/
+title: The Fudge FAQ
 ---
 
 People often ask me “Why Qthrul? Why fudge?”
@@ -31,4 +32,3 @@ If you use ICQ or Mirabilis I am 1351835 at work and 4663668 at home. On AIM or 
 If you are on CU-SeeMe much look for me. If you are on iVisit don’t be offended if you get a “Busy Now”. Yes, I am Fudge on there too. On IRC you might find me or not since I never got sucked into that scene.
 
 If you don’t see me it is because I am still there only hiding from you so that I can finish knitting you a sweater.
-

@@ -86,4 +86,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact), I'm going to be scanning the picture side of the postcards I've received and link to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️
+p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/), I'm going to be scanning the picture side of the postcards I've received and link to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️

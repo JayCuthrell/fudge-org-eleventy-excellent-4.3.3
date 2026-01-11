@@ -1,7 +1,8 @@
 ---
-title: "And for my next trick"
-description: 'A dotcom tale'
 date: 2002-07-08 19:46:31+00:00
+description: A dotcom tale
+permalink: /archive/and-for-my-next-trick/
+title: And for my next trick
 ---
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jcuthrell/2582551200/in/photolist-bScBX-bScGQ-bScuv-kDKeaG-kDHvC4-4WdfuQ-bScLm-bScRi" title="Wayback machine: Red Hat badge for iXL"><img src="https://live.staticflickr.com/3030/2582551200_54422ecac2_z.jpg" width="640" height="480" alt="Wayback machine: Red Hat badge for iXL"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

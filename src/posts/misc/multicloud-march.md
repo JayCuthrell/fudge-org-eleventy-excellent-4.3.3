@@ -1,7 +1,8 @@
 ---
-title: "Multicloud March"
-description: ''
 date: 2021-04-10 00:00:00+00:00
+description: ''
+permalink: /archive/multicloud-march/
+title: Multicloud March
 ---
 
 Time flies. This is a reflection on one of the many things I’ve learned about as of March 2021 since [my first day at Faction](https://fudge.org/archive/cloud-data-services-ahead).
@@ -124,4 +125,3 @@ While I’ve been enjoying Netlify for hosting my blog, I am considering yet ano
 $ gatsby build
 ```
 Blogging these days will still be minimal or minor as I continue to put my efforts into documentations at the workplace. Perhaps I’ll be able to change that in 2021 but blogging still is still a minor focus for my time.
-

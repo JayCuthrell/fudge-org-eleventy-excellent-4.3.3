@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Vacation Edition"
-description: ''
 date: 2019-04-29 05:59:33+00:00
+description: ''
+permalink: /archive/fudge-sunday-vacation-edition/
+title: Fudge Sunday - Vacation Edition
 ---
-
-
 
 This edition is going to be short. In fact, let’s just call this a vacation edition. I’m not going on vacation – but this edition will be. Below are a few fun links to tide you over until next edition.
 
@@ -25,12 +24,3 @@ So lulz. Very leetz. Much p0wnz.
 Souvenir photos meets modern day dystopia
 
 [qz.com](https://qz.com/1598148/us-wants-to-use-facial-recognition-on-air-travelers-leaving-the-country/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-
-
-
-
-
-
-
-

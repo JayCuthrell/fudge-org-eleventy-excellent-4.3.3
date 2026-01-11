@@ -1,7 +1,8 @@
 ---
-title: "Emerging Hype"
-description: 'Indeed'
 date: 2020-08-25 00:00:00+00:00
+description: Indeed
+permalink: /archive/emerging-hype/
+title: Emerging Hype
 ---
 
 On a hunch, I searched [Gartner blogs](https://blogs.gartner.com) for specific keywords from the [Gartner Hype Cycle for Emerging Technologies, 2020](https://www.gartner.com/en/newsroom/press-releases/2020-08-18-gartner-identifies-five-emerging-trends-that-will-drive-technology-innovation-for-the-next-decade).

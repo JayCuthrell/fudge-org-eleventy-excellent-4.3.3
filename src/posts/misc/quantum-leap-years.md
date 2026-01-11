@@ -1,7 +1,8 @@
 ---
-title: "Quantum Leap Years"
-description: ''
 date: 2019-03-04 00:00:00+00:00
+description: ''
+permalink: /archive/quantum-leap-years/
+title: Quantum Leap Years
 ---
 
 The topic of [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) has steadily moved towards the realm of popular science. As with many other topics within popular science, wider audiences will have varying degrees of awareness and depth – but recognition is certainly on the rise.

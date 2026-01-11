@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Cloud in Public: Mean Time To RCA"
-description: ''
 date: 2021-10-25 01:27:33+00:00
+description: ''
+permalink: /archive/fudge-sunday-cloud-in-public-mean-time-to-rca/
+title: 'Fudge Sunday - Cloud in Public: Mean Time To RCA'
 ---
-
-
 
 This week we continue to take a look at public things for a public cloud.
 
@@ -106,7 +105,7 @@ In summary, there are **stark variations** amongst the hyperscalers in expressin
 
 At the same time, DevCommsOps mixes public and personalized views that are unique to the customer experience. Further, the drive for personalization will result in Mean Time To RCA for the customer informed by their unique specific dependency mapping. The [Azure](https://azure.microsoft.com/en-us/blog/get-an-official-service-issue-root-cause-analysis-with-azure-service-health/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [Oracle Cloud](https://blogs.oracle.com/proactivesupportepm/post/how-to-get-a-root-cause-analysis-of-unplanned-outages-in-enterprise-performance-management-epm-cloud?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) approaches will appeal to particular Enterprise customers.
 
-As a reminder, we have established definitions for [status dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Engineering SLO](https://sunday.fudge.org/archive/794553?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [DevCommsOps](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), and Mean Time To RCA. We have a baseline that is ready to compare general public dependencies and customer personalized views of the underlying dependencies among hyperscale public cloud service providers.
+As a reminder, we have established definitions for [status dashboards](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Engineering SLO](https://fudge.org/archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [DevCommsOps](https://fudge.org/archive/fudge-sunday-cloud-in-public-devcommsops/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), and Mean Time To RCA. We have a baseline that is ready to compare general public dependencies and customer personalized views of the underlying dependencies among hyperscale public cloud service providers.
 
 Our last issue in the series will look at the increasing importance of dependency mapping across hyperscale public cloud service providers. Finally, we will consider business value engineering and customer journeys.
 
@@ -115,5 +114,3 @@ Stay tuned!
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-
-

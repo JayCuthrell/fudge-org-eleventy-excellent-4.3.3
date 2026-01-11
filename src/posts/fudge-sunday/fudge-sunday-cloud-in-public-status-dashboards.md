@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Cloud in Public: Status Dashboards"
-description: ''
 date: 2021-10-03 21:12:39+00:00
+description: ''
+permalink: /archive/fudge-sunday-cloud-in-public-status-dashboards/
+title: 'Fudge Sunday - Cloud in Public: Status Dashboards'
 ---
-
-
 
 This week we take a look at public things for a public cloud.
 
@@ -20,11 +19,11 @@ This issue is part 1 of a 5 part series
 
  **Last Week**
 
-(https://sunday.fudge.org/issues/fudge-sunday-razor-thin-margins-of-error-bars-772573?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+(https://fudge.org/archive/fudge-sunday-razor-thin-margins-of-error-bars/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Last week we took a look at three links and the implications in the cloud ☁️, attestation🔐, and statistical journeys to *here be dragons🐲*.
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-razor-thin-margins-of-error-bars-772573?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-razor-thin-margins-of-error-bars/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Last Week(s)**
 
@@ -121,4 +120,4 @@ Now, to round out this issue, reflect back to the five (5) areas that [@cloudpun
 
  **Disclosure**
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).

@@ -1,7 +1,8 @@
 ---
-title: "Please Please OTel Me Now"
-description: ''
 date: 2022-10-17 01:06:39.320000+00:00
+description: ''
+permalink: /archive/please-please-otel-me-now/
+title: Please Please OTel Me Now
 ---
 
 *[Duran Duran - Is There Something I Should Know? (1982)](https://www.youtube.com/watch?v=3M0hogZyRyU)*
@@ -106,4 +107,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [7](#footnote-anchor-7)Read: <https://www.cncf.io/blog/2022/01/31/cncf-archives-the-opentracing-project/>
 
 [8](#footnote-anchor-8)Read: <https://www.honeycomb.io/blog/future-ops-platform-engineering>
-

@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Mic Check 1, 2, 3"
-description: ''
 date: 2019-03-11 03:33:18+00:00
+description: ''
+permalink: /archive/fudge-sunday-mic-check-1-2-3/
+title: Fudge Sunday - Mic Check 1, 2, 3
 ---
-
-
 
 Just over 30 years ago I was enamored with the playing and recording of live music. Life back then involved analog recording rigs, tapes, heavy sound mixers, clunky snakes, speakers, monitors, amps, mics, and the investment of time to get it all right.
 
@@ -65,12 +64,3 @@ Gregory R. Price on making the mix amazing everywhere every single time.
  **One Last Thought**
 
 Thank you again – all 7 of you– for subscribing and reading. My goals for 2019 are simple. I’m trying to pick a theme per week to summarize with a 10-20 year history. It’s likely the theme is technology but will crossover to science and socioeconomic topics. The fits and starts in late 2016 were about convergence and that’s still a big part of what occupies my mind each day.
-
-
-
-
-
-
-
-
-

@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Thinking Outside the Cardboard Box"
-description: ''
 date: 2019-05-20 05:09:47+00:00
+description: ''
+permalink: /archive/fudge-sunday-thinking-outside-the-cardboard-box/
+title: Fudge Sunday - Thinking Outside the Cardboard Box
 ---
-
-
 
 Now that China has said “no thank you” to scrap recycling imports, there is a good chance [the familiar cardboard recycling bin will take on greater significance](https://www.wastedive.com/news/what-recycling-end-market-development-looks-like-in-2019/553683/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) as the piles… continue to make a bigger pile. This week, let’s take a look at the humble cardboard box.
 
@@ -81,12 +80,3 @@ So until next time, don’t print this newslestter…
 But feel free to forward it via email to a peer.
 
 :-)
-
-
-
-
-
-
-
-
-

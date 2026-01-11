@@ -1,7 +1,8 @@
 ---
-title: "Converged Thoughts Ten"
-description: ''
 date: 2017-01-07 00:00:00+00:00
+description: ''
+permalink: /archive/converged-thoughts-ten/
+title: Converged Thoughts Ten
 ---
 
 Computation and Kicks
@@ -87,4 +88,3 @@ We’re not that far away from that possibility and the first steps towards this
 [Nike SNKRS Presents: Masters of Air, Vol. 1.](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=bNzmKrJBJ8c)
 
 [www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=bNzmKrJBJ8c) – [Share](http://rev.vu/vEA4X?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
-

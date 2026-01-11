@@ -1,20 +1,19 @@
 ---
-title: "Fudge Sunday - And All Points In Between"
-description: 'part 2 of a 5 part series'
 date: 2021-07-11 14:56:41+00:00
+description: part 2 of a 5 part series
+permalink: /archive/fudge-sunday-and-all-points-in-between/
+title: Fudge Sunday - And All Points In Between
 ---
-
-
 
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 2 of a 5 part series
 
-1. **[Fudge Sunday - And the way that gravity pulls on everyone](https://sunday.fudge.org/issues/fudge-sunday-and-the-way-that-gravity-pulls-on-everyone-673047?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-2. **[Fudge Sunday - And All Points In Between](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-3. **[Fudge Sunday - All Along the Watchtower](https://sunday.fudge.org/issues/fudge-sunday-all-along-the-watchtower-679407?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-4. **[Fudge Sunday - Get High On a New Thing](https://sunday.fudge.org/issues/fudge-sunday-get-high-on-a-new-thing-679408?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
-5. **[Fudge Sunday - I Don’t Know Where I’ll Be Tomorrow](https://sunday.fudge.org/issues/fudge-sunday-i-don-t-know-where-i-ll-be-tomorrow-679416?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+1. **[Fudge Sunday - And the way that gravity pulls on everyone](https://fudge.org/archive/fudge-sunday-and-the-way-that-gravity-pulls-on/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+2. **[Fudge Sunday - And All Points In Between](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+3. **[Fudge Sunday - All Along the Watchtower](https://fudge.org/archive/fudge-sunday-all-along-the-watchtower/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+4. **[Fudge Sunday - Get High On a New Thing](https://fudge.org/archive/fudge-sunday-get-high-on-a-new-thing/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+5. **[Fudge Sunday - I Don’t Know Where I’ll Be Tomorrow](https://fudge.org/archive/fudge-sunday-i-dont-know-where-ill-be-tomorrow/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
  **And all points in between**
 
@@ -172,12 +171,3 @@ So as social becomes just media and media tries to become more social, it will b
 LinkedIn Creator Mode enabled... <https://t.co/aJRBkwRcVD>
 
  [9:41 PM - 5 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412225048522461185)
-
-
-
-
-
-
-
-
-

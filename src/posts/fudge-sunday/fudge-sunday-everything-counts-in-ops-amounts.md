@@ -1,8 +1,12 @@
 ---
-title: "Fudge Sunday - Everything Counts in Ops Amounts"
-description: 'A look at portmanteaus of Development and Operations (DevOps) making inroads toward operationalizing Finance, Data Management, Machine Learning, Communications, and more'
 date: 2022-03-14 02:31:09+00:00
+description: A look at portmanteaus of Development and Operations (DevOps) making
+  inroads toward operationalizing Finance, Data Management, Machine Learning, Communications,
+  and more
+permalink: /archive/fudge-sunday-everything-counts-in-ops-amounts/
+title: Fudge Sunday - Everything Counts in Ops Amounts
 ---
+
 This week we take a look at portmanteaus of Development and Operations (DevOps) making inroads toward operationalizing Finance, Data Management, Machine Learning, Communications, and more
 
 Depeche Mode - Everything Counts (Official Video)
@@ -158,7 +162,7 @@ First – this is amazing teaming/swarming by the team at Twilio Product Managem
 
 Getting to this kind of high NPS public dialog earned media takes cultural and capital investing in the “ables and the ables”
 
-(https://sunday.fudge.org/issues/fudge-sunday-possible-permissible-sustainable-repeatable-advisable-732793?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+(https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 When I referenced “the ibles and the ables” it was to illustrate the steps for getting a great product from ideation to market adoption. As such, product lifecycles capture value through a continuous ruthless removal of annoyance.
 
@@ -168,11 +172,11 @@ When I referenced “the ibles and the ables” it was to illustrate the steps f
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-possible-permissible-sustainable-repeatable-advisable-732793?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-possible-permissible-sustainable/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Getting to this kind of high NPS public dialog earned media also takes cultural and capital investing in DevCommsOps.
 
-(https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+(https://fudge.org/archive/fudge-sunday-cloud-in-public-devcommsops/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Hire. Great. Technical Writers.
 
@@ -186,7 +190,7 @@ Why?
 
 Source:
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-cloud-in-public-devcommsops/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Disclosure**
 

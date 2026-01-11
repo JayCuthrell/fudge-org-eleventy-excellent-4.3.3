@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - Summertime Pastness"
-description: 'A short summer reading list from 1978-2020 to consider our future'
 date: 2022-04-03 23:47:50+00:00
+description: A short summer reading list from 1978-2020 to consider our future
+permalink: /archive/fudge-sunday-summertime-pastness/
+title: Fudge Sunday - Summertime Pastness
 ---
 
 Enjoy a short summer reading list from 1978-2020 to consider our future.
@@ -20,7 +21,7 @@ Books take up space, so the majority of my reading material has been web content
 
 Reflecting back on the past 26 months, if there is a silver lining to the pandemic cloud, it has been my renewed appreciation of actual books. Indeed, a good page turner has proven more valuable now that reading a PDF or website from a chair in the sky is less common for me.
 
-Recent titles that caught my eye come from the [“Deep Web”](https://sunday.fudge.org/issues/fudge-sunday-saas-trendspotting-877717?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [my newsletter reading](https://sunday.fudge.org/issues/fudge-sunday-twitter-matter-and-data-driven-journalism-836999?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Armed with these new (to me) titles, I began buying gently used copies via [ThirftBooks (referral link)](https://www.thriftbooks.com/share/?code=BnNouie%252bjw82xKuWk%252bPLnw%253d%253d&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and now I’m sharing my recent ring buffer bookshelf additions for the Summer.
+Recent titles that caught my eye come from the [“Deep Web”](https://fudge.org/archive/fudge-sunday-saas-trendspotting/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [my newsletter reading](https://fudge.org/archive/fudge-sunday-twitter-matter-and-data-driven/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Armed with these new (to me) titles, I began buying gently used copies via [ThirftBooks (referral link)](https://www.thriftbooks.com/share/?code=BnNouie%252bjw82xKuWk%252bPLnw%253d%253d&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and now I’m sharing my recent ring buffer bookshelf additions for the Summer.
 
 **[1978: Structures by Gordon](https://www.thriftbooks.com/w/structures-or-why-things-dont-fall-down_je-gordon/356029/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#isbn=0306801515)**
 
@@ -91,5 +92,3 @@ Source:
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
-
-

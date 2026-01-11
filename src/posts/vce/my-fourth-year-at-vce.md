@@ -1,7 +1,8 @@
 ---
-title: "My Fourth Year at VCE"
-description: ''
 date: 2014-10-18 00:00:00+00:00
+description: ''
+permalink: /archive/my-fourth-year-at-vce/
+title: My Fourth Year at VCE
 ---
 
 Today is my four year mark with VCE.
@@ -121,4 +122,3 @@ So, until next time…
 youtube n3OaS71dh1g
 
 p.s. Thanks to [Josh Atwell](https://twitter.com/Josh_Atwell/status/423897006051164160) for the featured image in this post.
-

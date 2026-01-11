@@ -1,7 +1,8 @@
 ---
-title: "Fudge Sunday - 99 6G Balloons"
-description: 'Here comes 6G'
 date: 2022-02-07 02:23:44+00:00
+description: Here comes 6G
+permalink: /archive/fudge-sunday-99-6g-balloons/
+title: Fudge Sunday - 99 6G Balloons
 ---
 
 This week we take a look at Mobile World Congress 2022, marketing, memes, and the growing democratization of mobile technology.

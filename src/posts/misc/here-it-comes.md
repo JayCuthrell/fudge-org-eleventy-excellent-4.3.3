@@ -1,7 +1,8 @@
 ---
-title: "Here It Comes"
-description: 'a post 9/11 update'
 date: 2001-09-14 00:00:00+00:00
+description: a post 9/11 update
+permalink: /archive/here-it-comes/
+title: Here It Comes
 ---
 
 From the US Airways mailing lists for frequent flyers (*emphasis* mine):

@@ -1,7 +1,8 @@
 ---
-title: "Feeling So Really Simple Syndication"
-description: ''
 date: 2022-08-15 02:33:09.568000+00:00
+description: ''
+permalink: /archive/feeling-so-really-simple-syndication/
+title: Feeling So Really Simple Syndication
 ---
 
 *[Moby - 'Feeling So Real' (1995)](https://www.youtube.com/watch?v=Ju2L6NhSebQ)*
@@ -13,7 +14,7 @@ Thanks for reading Fudge Sunday! Subscribe to receive new posts and support my w
 Work Update
 ===========
 
-First, I shared [my hashtag laden work update](https://www.linkedin.com/posts/jaycuthrell_digitaltransformation-servicesolutions-finops-activity-6962755116223315969-AjQh) on LinkedIn.[1](#footnote-1) Next, I then shared [my simple rebus and link work update](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1557120025177243656) on Twitter[2](#footnote-2) — but [my POSSE methodology](https://sunday.fudge.org/p/me-and-my-posse) will reclaim what has been shared at some point.
+First, I shared [my hashtag laden work update](https://www.linkedin.com/posts/jaycuthrell_digitaltransformation-servicesolutions-finops-activity-6962755116223315969-AjQh) on LinkedIn.[1](#footnote-1) Next, I then shared [my simple rebus and link work update](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1557120025177243656) on Twitter[2](#footnote-2) — but [my POSSE methodology](https://fudge.org/archive/me-and-my-posse/) will reclaim what has been shared at some point.
 
 (https://www.linkedin.com/posts/jaycuthrell_digitaltransformation-servicesolutions-finops-activity-6962755116223315969-AjQh)Reactions are endorphins 🙏🤓Jay Cuthrell @JayCuthrell👋Hi. I'm an #IBMer 👁🐝Ⓜ️
 
@@ -58,4 +59,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [1](#footnote-anchor-1)Read: [I’m starting a new position as SV P at Taos, an IBM Company! 👁 🐝 Ⓜ️](https://www.linkedin.com/posts/jaycuthrell_digitaltransformation-servicesolutions-finops-activity-6962755116223315969-AjQh)
 
 [2](#footnote-anchor-2)Read: [👋Hi. I'm an #IBMer 👁🐝Ⓜ️](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1557120025177243656)
-

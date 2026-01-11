@@ -62,7 +62,7 @@ In addition to [Trusted Traveler Programs](https://www.cbp.gov/travel/trusted-tr
 [REDACTED]
 ==========
 
-As for what has not changed, [I still really cannot blog about what I am working on for customers](https://jaycuthrell.com/disclosure). But maybe I’ll show up elsewhere in a [company sanctioned online presence](https://jaycuthrell.com/media/).
+As for what has not changed, [I still really cannot blog about what I am working on for customers](https://jaycuthrell.com/disclosure/). But maybe I’ll show up elsewhere in a [company sanctioned online presence](https://jaycuthrell.com/media/).
 
 That said, I’ve moved off GitHub Pages to Netlify (see the footer below) and it has been outstanding. Maybe, as the failed promise goes, I will blog more now. Heh.
 

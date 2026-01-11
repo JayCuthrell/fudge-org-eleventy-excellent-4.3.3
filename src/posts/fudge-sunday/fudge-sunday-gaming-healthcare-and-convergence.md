@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Gaming, Healthcare, and Convergence"
-description: 'A look at the state of convergence in ICT'
 date: 2021-08-08 22:57:02+00:00
+description: A look at the state of convergence in ICT
+permalink: /archive/fudge-sunday-gaming-healthcare-and-convergence/
+title: Fudge Sunday - Gaming, Healthcare, and Convergence
 ---
-
-
 
 This week is going to be about gaming, healthcare, and convergence.
 
@@ -28,11 +27,11 @@ Speaking of all points in between… 
 
 Finishing up the five part series was rewarding.
 
-**[A song, lyric, and tweets to connect it back to the edge, core, and cloud.](https://sunday.fudge.org/issues/fudge-sunday-i-don-t-know-where-i-ll-be-tomorrow-679416?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[A song, lyric, and tweets to connect it back to the edge, core, and cloud.](https://fudge.org/archive/fudge-sunday-i-dont-know-where-ill-be-tomorrow/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 A 5 part series on Fudge Sunday
 
-[sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-i-don-t-know-where-i-ll-be-tomorrow-679416?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[sunday.fudge.org](https://fudge.org/archive/fudge-sunday-i-dont-know-where-ill-be-tomorrow/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 This week we’re going to revisit an old idea, gaming and healthcare. The difference this time is we’ll pass this idea through the lens of convergence.
 
@@ -217,12 +216,3 @@ Automation and management of clinical research paperwork…
 Raises ***$80M Series C***
 
 [www.techmeme.com](https://www.techmeme.com/210509/p1?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210509p1)
-
-
-
-
-
-
-
-
-

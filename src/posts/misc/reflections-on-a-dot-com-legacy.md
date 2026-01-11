@@ -1,7 +1,8 @@
 ---
-title: "Reflections on a Dot-Com Legacy"
-description: ''
 date: 2019-04-15 00:00:00+00:00
+description: ''
+permalink: /archive/reflections-on-a-dot-com-legacy/
+title: Reflections on a Dot-Com Legacy
 ---
 
 Just over 20 years ago I met with investment groups that later turned into a new direction in my career. While the .com days were a mixed bag, some of the companies rolled up into other companies which continued to roll up into other companies. If anything, I’ve learned a lot about the long and sometimes winding path of nested mergers.
@@ -48,13 +49,13 @@ My second merger.
 
 I kept traveling. I kept working. Eventually both came to an abrupt halt. Like many folks during the dot-com burst, I learned about how to log into PACER and read legal documents.
 
-[And for my next trick ( 2002 )](https://jaycuthrell.com/and-for-my-next-trick/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[And for my next trick ( 2002 )](https://fudge.org/archive/and-for-my-next-trick/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://jaycuthrell.com/and-for-my-next-trick/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/XGRado?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/and-for-my-next-trick/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/XGRado?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Good times until they were not.
 
-Technically, I missed the opportunity to go into a nested merger. For that experience I’d have to [wait](https://jaycuthrell.com/emc-converged-platforms/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) another [14 years](https://jaycuthrell.com/dell-emc-converged-platforms-and-solutions/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). Instead, I went on to have fun elsewhere and [do other things](https://jaycuthrell.com/resume/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+Technically, I missed the opportunity to go into a nested merger. For that experience I’d have to [wait](https://fudge.org/archive/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) another [14 years](https://fudge.org/archive/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). Instead, I went on to have fun elsewhere and [do other things](https://jaycuthrell.com/resume/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 Aggregations and Acquisitions
 
@@ -133,4 +134,3 @@ Place your bets now on when older firms like WPP, Omnicom, and Publicis combine 
 Hundreds of $B are at stake. Expect spirited competition from the older big three and the newer big three.
 
 So, until next time, thanks for reading Fudge Sunday.
-

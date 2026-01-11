@@ -1,7 +1,8 @@
 ---
-title: "SuperCloudbusting"
-description: 'A look at SuperCloud and MultiCloud'
 date: 2022-07-03 22:24:21.092000+00:00
+description: A look at SuperCloud and MultiCloud
+permalink: /archive/supercloudbusting/
+title: SuperCloudbusting
 ---
 
 *[Kate Bush - Cloudbusting (1985)](https://www.youtube.com/watch?v=pllRW9wETzw) and may the samples live on for years to come.[1](#footnote-1)*
@@ -34,7 +35,7 @@ At present, there are a few facts that come to mind on what is happening and wha
 * Companies like Observe build on Snowflake which builds on public clouds.[9](#footnote-9)
 * And a contrarian point… 🤔 guy that shorted  has a new thesis.[10](#footnote-10)
 
-Also, there are many places that are population centers and [where things are made](https://sunday.fudge.org/p/make-iiot-easy-on-yourself). So, supercloud could make sense for workloads that take advantage of access of eventual ubiquity and leverage the new digital highways (5G) being built as well.
+Also, there are many places that are population centers and [where things are made](https://fudge.org/archive/make-iiot-easy-on-yourself/). So, supercloud could make sense for workloads that take advantage of access of eventual ubiquity and leverage the new digital highways (5G) being built as well.
 
 [TeleGeography’s Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com) Now, let’s get a take on supercloud from early 2022.
 
@@ -85,4 +86,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [9](#footnote-anchor-9)Read: [Why Observe Chose to Build on Snowflake](https://www.observeinc.com/blog/why-observe-chose-to-build-on-snowflake/)
 
 [10](#footnote-anchor-10)Read: [Hedge fund manager bets against data centers](https://www.ft.com/content/e89e7071-0f1d-4bea-a857-a6fce236d776)
-

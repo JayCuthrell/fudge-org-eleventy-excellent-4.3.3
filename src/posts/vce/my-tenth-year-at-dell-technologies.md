@@ -1,7 +1,8 @@
 ---
-title: "My Tenth Year at Dell Technologies"
-description: ''
 date: 2020-10-08 00:00:00+00:00
+description: ''
+permalink: /archive/my-tenth-year-at-dell-technologies/
+title: My Tenth Year at Dell Technologies
 ---
 
 In perhaps the last in a series of such posts, the traditional one year blog post continues. The year since my last work related update would best be described as several doors closing and several doors opening.
@@ -69,4 +70,3 @@ Why? The cloud will be coming to the physical work faster than we may realize. J
 If you have suggestions (*or just want to catch up*), please [grab some time on my calendar](https://calendly.com/jaycuthrell/call) and [connect with me on LinkedIn](https://www.linkedin.com/in/jaycuthrell) or [contact me here](https://jaycuthrell.com/contact/).
 
 Be safe and be well. :smile:
-

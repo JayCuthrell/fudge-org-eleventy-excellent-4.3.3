@@ -1,7 +1,8 @@
 ---
-title: "The Taco Thesis"
-description: 'Thoughts on SxSW 2008'
 date: 2008-03-19 04:43:08+00:00
+description: Thoughts on SxSW 2008
+permalink: /archive/the-taco-thesis/
+title: The Taco Thesis
 ---
 
 Last week I attended SXSW Interactive. My goal was to [expand my mind](http://www.communicatrix.com/2008/03/communicatrix-sxsw-20.html).
@@ -188,4 +189,3 @@ One thing I found by using twitter as a tool for taking notes is that I was ofte
 Yep. That’s pretty much how my thumbs felt after the heavy twitter activity of the moments at SXSW.
 
 I can’t wait to stress them out again next year as I defend The Taco Thesis once again.
-

@@ -1,7 +1,8 @@
 ---
-title: "Augmented Reality"
-description: ''
 date: 2019-02-25 00:00:00+00:00
+description: ''
+permalink: /archive/augmented-reality/
+title: Augmented Reality
 ---
 
 This past week seemed to follow an augmented reality theme in the regular places I read. Techmeme, A16Z podcast, and even Hacker News provided multiple references to augmented reality, virtual reality, 5G ubiquity, and the widening adoption of gaming technologies.
@@ -77,4 +78,3 @@ Then again, I can officially reflect on my college years when what was theoretic
 [news.mit.edu](http://news.mit.edu/2019/artificial-intelligence-engineer-microchips-0211?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/dM7ZMX?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 The novel use of engineered strain was one of the theoretical topics when I was in school. Amazing.
-

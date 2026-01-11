@@ -1,7 +1,8 @@
 ---
-title: "Internet of Things Have Changed"
-description: ''
 date: 2019-05-13 00:00:00+00:00
+description: ''
+permalink: /archive/internet-of-things-have-changed/
+title: Internet of Things Have Changed
 ---
 
 The past few days have been confusing and frustrating for home automation enthusiasts that made investments in Nest products. How did we get here?This week we take a look at Nest.
@@ -101,4 +102,3 @@ Home automation is fun if you have income to burn that you don’t see as an inv
 [medium.com](https://medium.com/message/deathhacks-b767903b7c15?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/aebd95?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 A reminder that all that we set in motion during the living years will be a reminder or a puzzle for those we leave behind – document, document, and then document again.
-

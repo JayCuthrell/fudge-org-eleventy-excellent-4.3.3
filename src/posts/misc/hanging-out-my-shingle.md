@@ -31,7 +31,7 @@ Oh. What about other GenAI options? Well, my results varied widely.
 
 Granted, I could have likely tuned and attenuated the prompts for better results. However, I didn't want to turn a farewell letter into an extended prompt engineering exercise. [watsonx Assistant](https://www.ibm.com/products/watsonx-assistant/artificial-intelligence) and [Granite](https://www.ibm.com/downloads/cas/X9W4O6BM) got me to the 95% Goldilocks mark by capturing my sentiments accurately and succinctly.
 
-BTW — Fellow IBMers and IBM acquisition company peers — If you didn't get my [Granite](https://www.ibm.com/downloads/cas/X9W4O6BM)-inspired farewell email and are reading this update: [Please stay in touch](https://jaycuthrell.com/contact)!
+BTW — Fellow IBMers and IBM acquisition company peers — If you didn't get my [Granite](https://www.ibm.com/downloads/cas/X9W4O6BM)-inspired farewell email and are reading this update: [Please stay in touch](https://jaycuthrell.com/contact/)!
 
 ### Job Search Council
 
@@ -101,4 +101,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact), I'm going to be scanning the picture side of the postcards I've received and linking to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️
+p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/), I'm going to be scanning the picture side of the postcards I've received and linking to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️

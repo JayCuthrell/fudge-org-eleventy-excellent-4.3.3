@@ -1,7 +1,8 @@
 ---
-title: "The 5 Ps of Workloads"
-description: ''
 date: 2014-01-17 00:00:00+00:00
+description: ''
+permalink: /archive/the-5-ps-of-workloads/
+title: The 5 Ps of Workloads
 ---
 
 Wordplay comes out in the oddest places.
@@ -54,4 +55,3 @@ Plethoras of Peeping, Pecking, Poults
 Yeah, I said 5 P’s and this is clearly number 6 to any possible number if you continue to fuse a letter *p* approach to this poetic exercise. The point (sorry) being is that there is wondrous variation to take into account. For example, a marketing or vocal line of business led infrastructure selection could be a peacock. So, sometimes saying that it is pets vs. cattle isn’t enough.
 
 The good news… all of these fowl that are not so foul have a place to roost and can be loved equally.
-

@@ -1,7 +1,8 @@
 ---
-title: "Make IIoT Easy On Yourself"
-description: 'A look at industrial internet of things'
 date: 2022-06-26 15:46:40.948000+00:00
+description: A look at industrial internet of things
+permalink: /archive/make-iiot-easy-on-yourself/
+title: Make IIoT Easy On Yourself
 ---
 
 *[Dionne Warwick - “Make It Easy On Yourself” (1973)](https://www.youtube.com/watch?v=xk4fE6xIWPw)*
@@ -111,4 +112,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [12](#footnote-anchor-12)Read [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030/)
 
 [13](#footnote-anchor-13)Read [Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
-

@@ -1,10 +1,9 @@
 ---
-title: "Fudge Sunday - Private Podcasting and Max Headroom"
-description: ''
 date: 2019-05-27 05:08:23+00:00
+description: ''
+permalink: /archive/fudge-sunday-private-podcasting-and-max-headroom/
+title: Fudge Sunday - Private Podcasting and Max Headroom
 ---
-
-
 
 This week we take a look at the circuitous routes that podcasts have taken over the past 20 years. Along the way, we weave in references to tropes trove of Max Headroom. From origins to fits and starts to the claiming of legitimately enduring formats, podcasts are here to stay and probably just getting started even if the new world will be millions of Blank Reg devotees.
 
@@ -86,11 +85,11 @@ From a personal perspective, [my voice appeared in podcasts as far back as 2010 
 
 In a time where [deplatforming](https://en.wikipedia.org/wiki/Deplatforming?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) is a thing, it’s natural to expect the balkanization and privatization to continue in a variety of Internet formats and the services to support those formats.
 
-**[2008 - Balkanize, Rinse, Repeat ad infinitum](https://jaycuthrell.com/balkanize-rinse-repeat-ad-infinitum/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[2008 - Balkanize, Rinse, Repeat ad infinitum](https://fudge.org/archive/balkanize-rinse-repeat-ad-infinitum/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Back in 2008, it wasn’t uncommon to do your podcast listening in a web browser. Also, trolls were trolling, trolling, trolling, WHUT.
 
-[jaycuthrell.com](https://jaycuthrell.com/balkanize-rinse-repeat-ad-infinitum/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[jaycuthrell.com](https://fudge.org/archive/balkanize-rinse-repeat-ad-infinitum/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Last year, even podcasting became a private label option for Enterprise buyers that wanted the ease of audio message syndication but with a more secure experience that avoids the pitfalls of wide open Internet viewing or listening.
 
@@ -115,12 +114,3 @@ The a16z perspective is usually thoughtful and this post is no exception. Plus, 
 [a16z.com](https://a16z.com/2019/05/23/podcast-ecosystem-investing-2019/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Maybe one day I’ll turn Fudge Sunday into an audio podcast and blow the dust off of the old Unicorn Jockeys website. Until then, thanks again for subscribing.
-
-
-
-
-
-
-
-
-

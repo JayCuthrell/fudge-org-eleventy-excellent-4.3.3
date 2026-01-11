@@ -1,7 +1,8 @@
 ---
-title: "Get It All While You Can"
-description: ''
 date: 2022-07-25 00:50:43.864000+00:00
+description: ''
+permalink: /archive/get-it-all-while-you-can/
+title: Get It All While You Can
 ---
 
 *[Tesla - Ez Come Ez Go (1986)](https://www.youtube.com/watch?v=a40BIowhEOA)*
@@ -20,18 +21,18 @@ Several readers have asked to revisit topics from prior newsletter issues from a
 
 Let’s get into it.
 
-[Share Fudge Sunday](https://sunday.fudge.org/?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+[Share Fudge Sunday](https://fudge.org/?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 Sometimes it just feels so right 🎶
 ----------------------------------
 
 First, it’s worth looking back at the notion of edge to core to cloud that is blurring which I covered this time last year. To recap:
 
-* *[“the very notion of needing to move data from edge to core to cloud“](https://sunday.fudge.org/issues/fudge-sunday-and-the-way-that-gravity-pulls-on-everyone-673047?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
-* *[”](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)[distributed edge data centers [..] happen slowly then [..] appear all at once](https://www.opengridalliance.org/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)[”](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
-* *[“companies that [..] operate outside of purely terrestrial modality“](https://sunday.fudge.org/issues/fudge-sunday-all-along-the-watchtower-679407?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
-* *[“move the micro data centers into orbit”](https://sunday.fudge.org/issues/fudge-sunday-get-high-on-a-new-thing-679408?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
-* *[data centers < information centers < knowledge centers < wisdom centers](https://sunday.fudge.org/issues/fudge-sunday-i-don-t-know-where-i-ll-be-tomorrow-679416?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
+* *[“the very notion of needing to move data from edge to core to cloud“](https://fudge.org/archive/fudge-sunday-and-the-way-that-gravity-pulls-on/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
+* *[”](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)[distributed edge data centers [..] happen slowly then [..] appear all at once](https://www.opengridalliance.org/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)[”](https://fudge.org/archive/fudge-sunday-and-all-points-in-between/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
+* *[“companies that [..] operate outside of purely terrestrial modality“](https://fudge.org/archive/fudge-sunday-all-along-the-watchtower/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
+* *[“move the micro data centers into orbit”](https://fudge.org/archive/fudge-sunday-get-high-on-a-new-thing/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
+* *[data centers < information centers < knowledge centers < wisdom centers](https://fudge.org/archive/fudge-sunday-i-dont-know-where-ill-be-tomorrow/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
 
 And other times so wrong 🎶
 --------------------------
@@ -40,9 +41,9 @@ Second, the topic of moving from edge to core to cloud for workloads sometimes f
 
 So, again, let’s look back at a few recent issues for guidance from March 2022:
 
-* *[DevSec, SCA, xAST, RASP, DevSecOps, FinOps, and code search](https://sunday.fudge.org/p/fudge-sunday-needle-in-a-fullstack-1094857)*
-* *[FinOps within industrialization of the software development pipeline](https://sunday.fudge.org/p/fudge-sunday-once-in-a-pipeline-1084136)*
-* *[Portmanteaus for operationalizing Finance, Data Management, Machine Learning, Communications, and more](https://sunday.fudge.org/p/fudge-sunday-everything-counts-in-ops-amounts-1073115)*
+* *[DevSec, SCA, xAST, RASP, DevSecOps, FinOps, and code search](https://fudge.org/archive/fudge-sunday-needle-in-a-fullstack/)*
+* *[FinOps within industrialization of the software development pipeline](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline/)*
+* *[Portmanteaus for operationalizing Finance, Data Management, Machine Learning, Communications, and more](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts/)*
 
 Also, consider recent posts from Grey Meyer[2](#footnote-2), Ed Sim[3](#footnote-3), and Tom Tunguz[4](#footnote-4):
 
@@ -60,7 +61,7 @@ So, ***(spoiler alert?)*** perhaps we’re all on a path akin to residual self-c
 In effect, there are so many R’s (beyond the normal 6) to consider as I outlined in a newsletter issue from last year:[7](#footnote-7)
 
 
-> *[a superfecta of R’s at the minimum seems more likely instead of assuming everything goes to the public cloud. Retain Relegate Renovate Resuscitate Retire Replatform Repurchase Refactor Rehost Repatriate Refinance Reinvest Rationalize Recombine (etc…)](https://sunday.fudge.org/p/fudge-sunday-reflecting-and-projecting-664131)*
+> *[a superfecta of R’s at the minimum seems more likely instead of assuming everything goes to the public cloud. Retain Relegate Renovate Resuscitate Retire Replatform Repurchase Refactor Rehost Repatriate Refinance Reinvest Rationalize Recombine (etc…)](https://fudge.org/archive/fudge-sunday-reflecting-and-projecting/)*
 > 
 > 
 
@@ -89,9 +90,8 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [6](#footnote-anchor-6)Read: [Communication complexity of approximate Nash equilibria](https://dl.acm.org/doi/pdf/10.1145/3055399.3055407)
 
-[7](#footnote-anchor-7)Read: [Reflecting and Projecting](https://sunday.fudge.org/p/fudge-sunday-reflecting-and-projecting-664131)
+[7](#footnote-anchor-7)Read: [Reflecting and Projecting](https://fudge.org/archive/fudge-sunday-reflecting-and-projecting/)
 
 [8](#footnote-anchor-8)Watch: [Partial Fill Immersion Cooling Solution from Iceotope](https://www.reddit.com/r/StorageReview/comments/vsyhyl/weve_been_talking_a_lot_about_liquid_cooling_but/)
 
 [9](#footnote-anchor-9)Read: [Bare Metal K8s Clustering at Chick-fil-A Scale (2018)](https://medium.com/@cfatechblog/bare-metal-k8s-clustering-at-chick-fil-a-scale-7b0607bd3541)
-

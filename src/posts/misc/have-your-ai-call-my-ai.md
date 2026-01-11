@@ -1,7 +1,8 @@
 ---
-title: "Have Your AI Call My AI"
-description: ''
 date: 2016-10-12 00:00:00+00:00
+description: ''
+permalink: /archive/have-your-ai-call-my-ai/
+title: Have Your AI Call My AI
 ---
 
 For as long as I’ve been a professional worker, I’ve wondered why it is so hard to get a group of individuals to agree to times and durations for meetings. Then again, there is a case to be made for avoiding meetings if at all possible.
@@ -79,4 +80,3 @@ Now it appears that their old domain name will come to life with new purpose and
 And let's all endeavor to find our 75% thresholds...
 
 https://www.youtube.com/watch?v=p3PfKf0ndik
-

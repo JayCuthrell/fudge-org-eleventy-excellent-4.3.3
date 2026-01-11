@@ -1,9 +1,9 @@
 ---
-title: "My Fifth Year at VCE"
-description: 'Thoughts on my 5th year at VCE'
 date: 2015-10-17 00:00:00+00:00
+description: Thoughts on my 5th year at VCE
+permalink: /archive/my-fifth-year-at-vce/
+title: My Fifth Year at VCE
 ---
-
 
 > A quick reflection on my 5th year at [@VCE](https://twitter.com/VCE) 🚀 🚀 🚀 🚀 🚀 <http://t.co/6rA6LgdFr8> [#VCE](https://twitter.com/hashtag/VCE?src=hash) [#Vblock](https://twitter.com/hashtag/Vblock?src=hash) [#VMware](https://twitter.com/hashtag/VMware?src=hash) [#Cisco](https://twitter.com/hashtag/Cisco?src=hash) [#EMC](https://twitter.com/hashtag/EMC?src=hash) [#Dell](https://twitter.com/hashtag/Dell?src=hash) [#roadwarrior](https://twitter.com/hashtag/roadwarrior?src=hash)
 > 
@@ -393,4 +393,3 @@ This communication does not constitute an offer to sell or a solicitation of an 
 #### Participants in the Solicitation
 
 EMC Corporation and its directors, executive officers and other members of management and employees may be deemed to be “participants” in the solicitation of proxies from EMC shareholders in connection with the proposed transaction. Information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of EMC shareholders in connection with the proposed transaction and a description of their direct and indirect interest, by security holdings or otherwise, is set forth in the preliminary proxy statement/prospectus filed with the SEC in connection with the proposed transaction. You can find information about EMC’s executive officers and directors in its definitive proxy statement filed with the SEC on March 2, 2015 and in its Annual Report on Form 10-K filed with the SEC on February 27, 2015. You can obtain free copies of these documents at the SEC’s website (<http://www.sec.gov>). You can also obtain free copies of these documents from EMC using the contact information above.
-

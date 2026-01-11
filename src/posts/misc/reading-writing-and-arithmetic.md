@@ -1,7 +1,8 @@
 ---
-title: "Reading, Writing, and Arithmetic"
-description: ''
 date: 2022-09-19 00:17:18.689000+00:00
+description: ''
+permalink: /archive/reading-writing-and-arithmetic/
+title: Reading, Writing, and Arithmetic
 ---
 
 Getting Informed
@@ -41,4 +42,3 @@ Disclosure
 ==========
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-

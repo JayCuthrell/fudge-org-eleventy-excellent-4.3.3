@@ -1,7 +1,8 @@
 ---
-title: "Thinking Remotely"
-description: 'Thoughts on remote work'
 date: 2020-09-27 00:00:00+00:00
+description: Thoughts on remote work
+permalink: /archive/thinking-remotely/
+title: Thinking Remotely
 ---
 
 I’ve had a chance to think more about the past few months that for many might seem as though it has lasted for years not just months. This post is about thinking remotely.
@@ -267,4 +268,3 @@ The most advanced managing leaders of leaders maintain their calendars with extr
 A great practice to consider is setting aside a FREE section of your calendar in a color coded way that occurs daily when you permit others to invite you to their meetings or find time on your calendar when you publish busy/free information.
 
 Once you are working in a home office, the hours you work will very likely go far beyond what you had in an office for all the reasons stated above. So, owning your calendar is important to ensure that your calendar does not own you.
-

@@ -1,7 +1,9 @@
 ---
-title: "A Matter of Zero Trust"
-description: 'A look at Zero Trust, Zero Trust Model, Zero Trust Security Model, Zero Trust Reference Architecture'
 date: 2022-11-06 23:56:58.501000+00:00
+description: A look at Zero Trust, Zero Trust Model, Zero Trust Security Model, Zero
+  Trust Reference Architecture
+permalink: /archive/a-matter-of-zero-trust/
+title: A Matter of Zero Trust
 ---
 
 *[Billy Joel - “A Matter of Trust” (1986)](https://www.youtube.com/watch?v=6yYchgX1fMw)*

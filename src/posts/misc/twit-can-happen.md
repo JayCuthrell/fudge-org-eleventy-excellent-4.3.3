@@ -1,7 +1,8 @@
 ---
-title: "Twit Can Happen"
-description: ''
 date: 2022-11-13 21:30:05.555000+00:00
+description: ''
+permalink: /archive/twit-can-happen/
+title: Twit Can Happen
 ---
 
 *[Yes - “It Can Happen” (1983)](https://www.youtube.com/watch?v=OeVgcIFEh3I)*
@@ -112,4 +113,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [6](#footnote-anchor-6)Read: [Ev Williams is the Forrest Gump of Internet](https://www.theatlantic.com/technology/archive/2016/06/ev-williams-is-the-forrest-gump-of-the-internet/486899/)
 
 [7](#footnote-anchor-7)Read: [On Twitter](https://fudge.org/archive/on-twitter/)
-

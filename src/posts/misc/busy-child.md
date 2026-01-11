@@ -1,7 +1,8 @@
 ---
-title: "Busy Child"
-description: ''
 date: 2022-07-17 22:47:41.300000+00:00
+description: ''
+permalink: /archive/busy-child/
+title: Busy Child
 ---
 
 [The Crystal Method - Busy Child (1997)](https://www.youtube.com/watch?v=t6twhXA1Gyw)
@@ -13,9 +14,9 @@ Long time blog readers might recall my blog post from 2014 near the meme peak of
 
 Thanks for reading Fudge Sunday! Subscribe for free to receive new posts and support my work.
 
-Since the publishing of my [ESTEEM](https://fudge.org/archive/esteem-stem-ethics-empathy/) blog post, my interest in low code no code has grown. For example, Fudge Sunday newsletter readers may recall an issue from late last year concerning [our low code no code future](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238).[2](#footnote-2)
+Since the publishing of my [ESTEEM](https://fudge.org/archive/esteem-stem-ethics-empathy/) blog post, my interest in low code no code has grown. For example, Fudge Sunday newsletter readers may recall an issue from late last year concerning [our low code no code future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/).[2](#footnote-2)
 
-However, at the time I wrote about [our low code no code future](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238), most of my thinking focused on the *current workforce* and the transformational opportunities ahead of us. Notably absent was any discussion of how learning communities using low code and no code could be accessible or more accessible by the next generation of the work force – that's right, *the youth*.
+However, at the time I wrote about [our low code no code future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/), most of my thinking focused on the *current workforce* and the transformational opportunities ahead of us. Notably absent was any discussion of how learning communities using low code and no code could be accessible or more accessible by the next generation of the work force – that's right, *the youth*.
 
 ### I guess I didn't know 🎶
 
@@ -95,7 +96,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [1](#footnote-anchor-1)Read: <https://fudge.org/archive/esteem-stem-ethics-empathy/>
 
-[2](#footnote-anchor-2)Read: [Fudge Sunday - Our Low Code No Code Past, Present, and Future](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238)
+[2](#footnote-anchor-2)Read: [Fudge Sunday - Our Low Code No Code Past, Present, and Future](https://fudge.org/archive/fudge-sunday-our-low-code-no-code-past-present/)
 
 [3](#footnote-anchor-3)Read: <https://scratch.mit.edu/statistics/>
 
@@ -108,4 +109,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [7](#footnote-anchor-7)Read: <https://code.org/about>
 
 [8](#footnote-anchor-8)Read: [A brief thought on the recursive society](https://davidbeer.substack.com/p/a-brief-thought-on-the-recursive) by [David Beer](https://davidbeer.net)
-

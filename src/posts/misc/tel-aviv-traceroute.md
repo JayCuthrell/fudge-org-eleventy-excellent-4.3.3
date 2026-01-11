@@ -1,7 +1,8 @@
 ---
-title: "Tel Aviv Traceroute"
-description: 'Packets of the past'
 date: 2000-04-29 00:59:10+00:00
+description: Packets of the past
+permalink: /archive/tel-aviv-traceroute/
+title: Tel Aviv Traceroute
 ---
 
 Greetings from Tel Aviv. My body says it is noon. Everyone else here says it is 7 hours later.
@@ -33,4 +34,3 @@ Tracing route to fudge.org [216.92.49.131] over a maximum of 30 hops:
 14 1090 ms 1090 ms 1032 ms fudge.org [216.92.49.131]
 ```
 Time to find good local food and chill. :smile:
-

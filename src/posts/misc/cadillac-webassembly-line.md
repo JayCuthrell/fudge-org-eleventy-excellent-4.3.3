@@ -1,7 +1,8 @@
 ---
-title: "Cadillac WebAssembly Line"
-description: ''
 date: 2022-10-31 00:28:41.312000+00:00
+description: ''
+permalink: /archive/cadillac-webassembly-line/
+title: Cadillac WebAssembly Line
 ---
 
 *[Albert King - “Cadillac Assembly Line” (1980)](https://www.youtube.com/watch?v=7bdtuOJycFQ)*
@@ -105,4 +106,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [7](#footnote-anchor-7)Read: <https://chsrbrts.medium.com/webassembly-the-future-looks-bright-6c76a0afc621>
 
 [8](#footnote-anchor-8)Read: <https://webassembly.org/docs/use-cases/>
-
