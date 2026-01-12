@@ -13,7 +13,7 @@ Picture of the VR advert at Capital Factory in Austin, Texas
 
 [Great @CapitalFactory @CFVRLab @OwlchemyLabs demos today. 🤓🕶😎👽 My mind is now officially blown. AMAZING! #AR #VR https://t.co/Sl4W0mwFxY](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816768161123078144?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816768161123078144?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/owlrY?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 Silver Screen SQUID Approximations
 
@@ -23,13 +23,13 @@ Filming locations included all the places that would be part of my youth. The Ou
 
 [Brainstorm (1983) - IMDb](http://www.imdb.com/title/tt0085271/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.imdb.com](http://www.imdb.com/title/tt0085271/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/7OY3A?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.imdb.com](http://www.imdb.com/title/tt0085271/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Boy meets Girl. Girl gets her cerebral cortex recorded.
 
 [Strange Days (1995) - IMDb](http://www.imdb.com/title/tt0114558/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.imdb.com](http://www.imdb.com/title/tt0114558/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/rjlqk?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.imdb.com](http://www.imdb.com/title/tt0114558/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Enjoy the 900 MHz wireless phones of the “future”.
 
@@ -47,13 +47,13 @@ If you are reading this digest, I’ll go out on a limb and guess that you’ve 
 
 [Construct](http://matrix.wikia.com/wiki/Construct?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[matrix.wikia.com](http://matrix.wikia.com/wiki/Construct?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/M9qJk?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[matrix.wikia.com](http://matrix.wikia.com/wiki/Construct?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 A Construct is a virtual work space or “loading program” created to run simulations or upload…
 
 [Holodeck](http://memory-alpha.wikia.com/wiki/Holodeck?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[memory-alpha.wikia.com](http://memory-alpha.wikia.com/wiki/Holodeck?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/7OY76?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[memory-alpha.wikia.com](http://memory-alpha.wikia.com/wiki/Holodeck?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 A Holographic Environment Simulator, or holodeck for short, was a form of holotechnology…
 
@@ -91,7 +91,7 @@ Lastly, as a reminder… convergence will also apply in how we communicate and s
 
 [Enhanced Training Through Neurostimulation](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=oIvdvG_zj6A)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=oIvdvG_zj6A) – [Share](http://rev.vu/3RqKA?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=oIvdvG_zj6A) 
 
 Soon…
 
@@ -99,12 +99,12 @@ In fact, yesterday I did some on the job training of my own! This video doesn’
 
 [Matrix - I Know Kung Fu](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=6vMO3XmNXe4)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=6vMO3XmNXe4) – [Share](http://rev.vu/9O44Y?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=6vMO3XmNXe4) 
 
 Eventually…
 
 [Job Simulator - Office Worker Teaser - Owlchemy Labs](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Uhh4dA-V2os)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Uhh4dA-V2os) – [Share](http://rev.vu/M9qmk?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Uhh4dA-V2os) 
 
 Announcing the third job within Job Simulator - Office Worker. Job Simulator is a tongue-in-cheek virtual reality experience for motion controlled VR platform

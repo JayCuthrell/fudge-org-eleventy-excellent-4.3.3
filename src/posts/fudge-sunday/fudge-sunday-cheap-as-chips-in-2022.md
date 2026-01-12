@@ -45,7 +45,7 @@ Via @BlocksAndFiles via @Wikibon
 
 “Top 10 semiconductor foundries by market share” – [@magicsilicon](https://twitter.com/magicsilicon/status/1471533764555669505?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/magicsilicon/status/1471533764555669505?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+ 
 
 **[As I was saying previously...](https://fudge.org/archive/fudge-sunday-three-recommendations-walk-into-a-bar/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 

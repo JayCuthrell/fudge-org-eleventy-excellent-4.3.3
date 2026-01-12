@@ -14,7 +14,7 @@ To set the stage, we will examine necessity, humanity, movies, gaming, and music
 
 [2013 - Parachronism, Possibility, and Penny-Farthing Futurism](https://www.tor.com/2013/08/15/parachronism-possibility-and-penny-farthing-futurism/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.tor.com](https://www.tor.com/2013/08/15/parachronism-possibility-and-penny-farthing-futurism/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/8qynXG?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.tor.com](https://www.tor.com/2013/08/15/parachronism-possibility-and-penny-farthing-futurism/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Some fun examples here.
 
@@ -24,7 +24,7 @@ Over 40 years ago, imaginations in the United States were fueled by [toy marketi
 
 [1977 - Schoolhouse Rock - Mother Necessity](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=gEGQUgWBQL4)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=gEGQUgWBQL4) – [Share](http://rev.vu/M2WYVo?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=gEGQUgWBQL4) 
 
 When I was 5 years old we had JAMS on Saturday morning. So awesome.
 
@@ -34,13 +34,13 @@ For all the shouts of electric cars being the future, the past tells us when the
 
 [1912 - C-T 4WD Electric Truck](https://bringatrailer.com/2018/01/20/worked-for-52-years-still-running-1912-c-t-4wd-electric-truck/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[bringatrailer.com](https://bringatrailer.com/2018/01/20/worked-for-52-years-still-running-1912-c-t-4wd-electric-truck/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Nbq61w?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[bringatrailer.com](https://bringatrailer.com/2018/01/20/worked-for-52-years-still-running-1912-c-t-4wd-electric-truck/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 If you remember your first car, do you think it would run for 52 Years? How about 107 years?
 
 [1947 - Tama Electric Car](https://www.nissan-global.com/EN/HERITAGE/tama_electric.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.nissan-global.com](https://www.nissan-global.com/EN/HERITAGE/tama_electric.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/JyjEmP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.nissan-global.com](https://www.nissan-global.com/EN/HERITAGE/tama_electric.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The 1940s provided limitations that sparked innovation. (no pun intended)
 
@@ -52,7 +52,7 @@ Self-driving elevators are the future! Wait. Elevators? What about vehicles? Wel
 
 [2018 - The Second Life of Elevator Operators: A Lesson in Service Design](https://designobserver.com/feature/the-second-life-of-elevator-operators-a-lesson-in-service-design/39748?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[designobserver.com](https://designobserver.com/feature/the-second-life-of-elevator-operators-a-lesson-in-service-design/39748?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/8qyn9E?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[designobserver.com](https://designobserver.com/feature/the-second-life-of-elevator-operators-a-lesson-in-service-design/39748?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Uses cases still exist for elevator operators where a human still performs tasks primarily associated with self-service buttons.
 
@@ -60,7 +60,7 @@ Even as self-driving desires extend from the roadway to the open seas, there are
 
 [2007 - Tres Hombres Shipping](https://www.treshombres.eu/blog/2019/4/18/when-your-speed-reaches-up-to-11-knots-by-second-mate-renee?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.treshombres.eu](https://www.treshombres.eu/blog/2019/4/18/when-your-speed-reaches-up-to-11-knots-by-second-mate-renee?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/4KQ0ak?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.treshombres.eu](https://www.treshombres.eu/blog/2019/4/18/when-your-speed-reaches-up-to-11-knots-by-second-mate-renee?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 99% emission free transport sounds like something from the future but it is based on something from the past.
 
@@ -70,13 +70,13 @@ At the same time, there are promises of self-driving vehicles on roadways and el
 
 [2018 - The Future of Autonomous Cargo Ships](http://www.historyinorbit.com/the-future-of-autonomous-cargo-ships-2?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.historyinorbit.com](http://www.historyinorbit.com/the-future-of-autonomous-cargo-ships-2?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/oDjEyq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.historyinorbit.com](http://www.historyinorbit.com/the-future-of-autonomous-cargo-ships-2?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Again, AI/ML might not be as sensible as a human pilot for certain applications.
 
 [2019 - Phantom Auto raises $13.5M](https://techcrunch.com/2019/04/18/phantom-auto-raises-13-5m-to-expand-remote-driving-business-to-delivery-bots-and-forklifts/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[techcrunch.com](https://techcrunch.com/2019/04/18/phantom-auto-raises-13-5m-to-expand-remote-driving-business-to-delivery-bots-and-forklifts/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/7PbkEo?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[techcrunch.com](https://techcrunch.com/2019/04/18/phantom-auto-raises-13-5m-to-expand-remote-driving-business-to-delivery-bots-and-forklifts/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Self-driving forklifts and robotaxis might take a long time. Meanwhile, training data can be collected in anticipation and to quicken the process.
 
@@ -88,7 +88,7 @@ Each year brings greater degrees of cinematic largess to electronic gaming even 
 
 [1998 - BNL - It’s All Been Done](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Zs3xXlXSOKk)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Zs3xXlXSOKk) – [Share](http://rev.vu/V4loR3?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Zs3xXlXSOKk) 
 
 And the 2049 Academy Award for Best Cinematography by a Pet goes to…
 
@@ -96,7 +96,7 @@ Perhaps the next wave storytelling device of cinema might be influenced by Twitc
 
 [1999 - Being John Malkovich](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=HdVvjvW_OEo)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=HdVvjvW_OEo) – [Share](http://rev.vu/Nbq6qw?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=HdVvjvW_OEo) 
 
 A portal into the life of another person sounds like a good idea for a video game… oh wait.
 
@@ -104,7 +104,7 @@ Then again, the future might simply decide to take [a page from the past](https:
 
 [2019 - Virtual Cinema](https://www.jwtintelligence.com/2019/03/sxsw-2019-virtual-cinema/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.jwtintelligence.com](https://www.jwtintelligence.com/2019/03/sxsw-2019-virtual-cinema/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/ZvdKdo?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.jwtintelligence.com](https://www.jwtintelligence.com/2019/03/sxsw-2019-virtual-cinema/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Pick your own adventure books leaves behind the printed page and comes to a personalized theater of director free Nihilism near you?
 
@@ -116,13 +116,13 @@ When I think about the future of music, the first artist that comes to mind is A
 
 [2007 - Freesound sample in “Children of Men” - Creative Commons](https://creativecommons.org/2007/01/17/freesound-sample-in-children-of-men/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[creativecommons.org](https://creativecommons.org/2007/01/17/freesound-sample-in-children-of-men/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Oaq4Oq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[creativecommons.org](https://creativecommons.org/2007/01/17/freesound-sample-in-children-of-men/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 While some of my favorite songs are remixes or interpretations by producers, I’ve not developed a taste for mashups yet. Regardless of my personal tastes, the remix culture is now over a decade old. Looking ahead, the future is brighter more varied than ever for artists using new creative tools and how they apply their talent to harness these tools.
 
 [2008 - RiP: A Remix Manifesto](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=quO_Dzm4rnk)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=quO_Dzm4rnk) – [Share](http://rev.vu/Ylq093?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=quO_Dzm4rnk) 
 
 The future is a collage of the past and present.
 
@@ -132,7 +132,7 @@ Then again, if you like death metal, there’s now computationally generated mus
 
 [2019 - AI-produced music raises copyright questions](https://www.techmeme.com/190421/p6?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190421p6)
 
-[www.techmeme.com](https://www.techmeme.com/190421/p6?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190421p6) – [Share](http://rev.vu/jWMQ04?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](https://www.techmeme.com/190421/p6?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190421p6) 
 
 \m/ >.< \m/
 

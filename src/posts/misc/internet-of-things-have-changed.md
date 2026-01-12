@@ -14,19 +14,19 @@ If you are subscribed to this newsletter there is a good chance you have owned o
 
 [1965 - Intelligent Power Switch in Cartoons](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=zoSiKpqvD9Q)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=zoSiKpqvD9Q) – [Share](http://rev.vu/M2xP5R?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=zoSiKpqvD9Q) 
 
 Before there was the CLAPPER there was the Great Gazoo
 
 [1975 - X10](https://en.wikipedia.org/wiki/X10_(industry_standard)?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[en.wikipedia.org](https://en.wikipedia.org/wiki/X10_(industry_standard)?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/XG9m8E?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/X10_(industry_standard)?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 As seen on every 1990s era web banner advertisement on every web page on the Interwebs.
 
 [1984 - The Clapper](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=sRWtFVFSx5I)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=sRWtFVFSx5I) – [Share](http://rev.vu/vQDrkV?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=sRWtFVFSx5I) 
 
 Clap on. Clap off. Behold the power of sonic power control.
 
@@ -38,7 +38,7 @@ Nest actually wasn’t the first WiFi enabled smart thermostat. Even a first mov
 
 [2009 - Ecobee WiFi-enabled Smart Thermostat](https://www.engadget.com/2009/01/30/ecobees-eco-saving-wifi-enabled-smart-thermostat-now-available/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.engadget.com](https://www.engadget.com/2009/01/30/ecobees-eco-saving-wifi-enabled-smart-thermostat-now-available/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Yl9k3B?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.engadget.com](https://www.engadget.com/2009/01/30/ecobees-eco-saving-wifi-enabled-smart-thermostat-now-available/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The promise of ROI was promising.
 
@@ -46,25 +46,25 @@ By 2010, seeming everything that could be added to a WiFi network was becoming w
 
 [2011 - Nest arrives](https://www.wired.com/2011/10/nest-thermostat/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.wired.com](https://www.wired.com/2011/10/nest-thermostat/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/69PKd2?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.wired.com](https://www.wired.com/2011/10/nest-thermostat/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Things were different in 2011 but the desire for “smart” things was definitely a thing.
 
 [2014 - Google buys Nest for $3.2B](https://www.theverge.com/2014/1/13/5305282/google-purchases-nest-for-3-2-billion?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.theverge.com](https://www.theverge.com/2014/1/13/5305282/google-purchases-nest-for-3-2-billion?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/P9xvX8?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.theverge.com](https://www.theverge.com/2014/1/13/5305282/google-purchases-nest-for-3-2-billion?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Looking back, this was the beginning of the end of the beginning.
 
 [2018 - Google moves Nest](https://www.businessinsider.com/nest-to-be-folded-into-google-hardware-division-2018-2?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.businessinsider.com](https://www.businessinsider.com/nest-to-be-folded-into-google-hardware-division-2018-2?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/GlqVGl?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.businessinsider.com](https://www.businessinsider.com/nest-to-be-folded-into-google-hardware-division-2018-2?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The moving of Nest from independent to less independent parts of other hardware projects was always a when it would happen not an if it would happen.
 
 [2019 - Nest is now Google Nest](https://arstechnica.com/gadgets/2019/05/nest-the-company-died-at-google-io-2019/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[arstechnica.com](https://arstechnica.com/gadgets/2019/05/nest-the-company-died-at-google-io-2019/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/3BY7m9?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[arstechnica.com](https://arstechnica.com/gadgets/2019/05/nest-the-company-died-at-google-io-2019/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The branding is probably going to change again but this is where it stands for now.
 
@@ -89,7 +89,7 @@ It’s more likely that bigger companies will continue to appear as a safe bet d
 
 [2019 - Mitigating IoT-Based DDoS](https://www.nccoe.nist.gov/projects/building-blocks/mitigating-iot-based-ddos?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.nccoe.nist.gov](https://www.nccoe.nist.gov/projects/building-blocks/mitigating-iot-based-ddos?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/8qMk35?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.nccoe.nist.gov](https://www.nccoe.nist.gov/projects/building-blocks/mitigating-iot-based-ddos?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 It’s all fun and games until your smart bagel toaster attacks the SCADA for your utility companies.
 
@@ -99,6 +99,6 @@ Home automation is fun if you have income to burn that you don’t see as an inv
 
 [2015 - DeathHacks](https://medium.com/message/deathhacks-b767903b7c15?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[medium.com](https://medium.com/message/deathhacks-b767903b7c15?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/aebd95?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[medium.com](https://medium.com/message/deathhacks-b767903b7c15?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 A reminder that all that we set in motion during the living years will be a reminder or a puzzle for those we leave behind – document, document, and then document again.

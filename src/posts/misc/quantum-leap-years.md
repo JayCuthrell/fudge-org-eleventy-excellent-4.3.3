@@ -14,13 +14,13 @@ While I never got into the TV show, Quantum Leap is still one of the first thing
 
 [1989 - Quantum Leap Episode: Genesis - September 13, 1956](https://www.nbc.com/classic-tv/quantum-leap/video/genesis---september-13-1956/n3613?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.nbc.com](https://www.nbc.com/classic-tv/quantum-leap/video/genesis---september-13-1956/n3613?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/P9X3r8?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.nbc.com](https://www.nbc.com/classic-tv/quantum-leap/video/genesis---september-13-1956/n3613?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Electric car? Yep. Gratuitous guitar solo? Yep.
 
 [2008 - Quantum of Solace](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=RNwxYPMqD8E)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=RNwxYPMqD8E) - [Share](http://rev.vu/Jy9aM1?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=RNwxYPMqD8E)  
 
 And yet… a distinct lack of computing references overall but that surface table scene was pretty slick even for just over a decade ago.
 
@@ -31,7 +31,7 @@ Almost 20 years ago, Gartner placed quantum computing on their hype cycle. While
 
 [Every Gartner Hype Cycle for Emerging Technologies Since 2000 - Album on Imgur](https://imgur.com/gallery/noBKI?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[imgur.com](https://imgur.com/gallery/noBKI?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/jWdlqB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[imgur.com](https://imgur.com/gallery/noBKI?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Gartner Hype! circa 2000
 
@@ -48,7 +48,7 @@ Zeitgeist estimates aside, the steady uptick in searches for quantum computing w
 
 [2017 - The CIO’s Guide to Quantum Computing - Smarter With Gartner](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.gartner.com](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/dM7aqG?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.gartner.com](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Hype! Hype! Hype!
 
@@ -59,13 +59,13 @@ Several companies have already appeared to market and associate with quantum com
 
 [2017 - Microsoft to release programming language for quantum computing — now it just needs a quantum computer – GeekWire](https://www.geekwire.com/2017/microsoft-makes-programming-language-quantum-computing-now-just-needs-quantum-computer/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.geekwire.com](https://www.geekwire.com/2017/microsoft-makes-programming-language-quantum-computing-now-just-needs-quantum-computer/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/69kYN4?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.geekwire.com](https://www.geekwire.com/2017/microsoft-makes-programming-language-quantum-computing-now-just-needs-quantum-computer/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Differentiation via developer tools
 
 [2018 - Google AI Blog: A Preview of Bristlecone, Google’s New Quantum Processor](https://ai.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[ai.googleblog.com](https://ai.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/ae9n15?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[ai.googleblog.com](https://ai.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Differentiation via useful error correction
 
@@ -78,13 +78,13 @@ First, the National Quantum Initiative Act was signed into law. Second, AWS tele
 
 [2018 - H.R.6227 - 115th Congress (2017-2018): National Quantum Initiative Act | Congress.gov | Library of Congress](https://www.congress.gov/bill/115th-congress/house-bill/6227?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/6227?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/M25jK5?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/6227?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 National Quantum Initiative Act became law.
 
 [2018 - AWS Blog: National Quantum Initiative Act: An Important Step for American Leadership](https://aws.amazon.com/blogs/publicsector/national-quantum-initiative-act-an-important-step-for-american-leadership/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[aws.amazon.com](https://aws.amazon.com/blogs/publicsector/national-quantum-initiative-act-an-important-step-for-american-leadership/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/najllZ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[aws.amazon.com](https://aws.amazon.com/blogs/publicsector/national-quantum-initiative-act-an-important-step-for-american-leadership/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 The future involves “free” 2 Day Delivery of Quantum Computer in a cardboard box?
 
@@ -92,7 +92,7 @@ However, in Europe, there are initiatives to harness quantum computing for purpo
 
 [2018 - Inside Europe’s quest to build an unhackable quantum internet - MIT Technology Review](https://www.technologyreview.com/s/612327/europes-quest-for-an-unhackable-quantum-internet/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.technologyreview.com](https://www.technologyreview.com/s/612327/europes-quest-for-an-unhackable-quantum-internet/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/4KZdAy?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.technologyreview.com](https://www.technologyreview.com/s/612327/europes-quest-for-an-unhackable-quantum-internet/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Until it isn’t?
 
@@ -103,18 +103,18 @@ If there is a theme for quantum computing in 2019, the theme is differentiation 
 
 [2019 - IBM Unveils World’s First Integrated Quantum Computing System for Commercial Use - Jan 8, 2019](https://newsroom.ibm.com/2019-01-08-IBM-Unveils-Worlds-First-Integrated-Quantum-Computing-System-for-Commercial-Use?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[newsroom.ibm.com](https://newsroom.ibm.com/2019-01-08-IBM-Unveils-Worlds-First-Integrated-Quantum-Computing-System-for-Commercial-Use?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/GlGyem?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[newsroom.ibm.com](https://newsroom.ibm.com/2019-01-08-IBM-Unveils-Worlds-First-Integrated-Quantum-Computing-System-for-Commercial-Use?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 System oriented marketing language appears
 
 [2019 - D-Wave Previews Next-Generation Quantum Computing Platform | D-Wave Systems](https://www.dwavesys.com/press-releases/d-wave-previews-next-generation-quantum-computing-platform?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.dwavesys.com](https://www.dwavesys.com/press-releases/d-wave-previews-next-generation-quantum-computing-platform?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/P9XZnW?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.dwavesys.com](https://www.dwavesys.com/press-releases/d-wave-previews-next-generation-quantum-computing-platform?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Topology and connected differentiation appear
 
 [2019 - Microsoft’s quantum computing network takes a giant leap at Startup Summit – GeekWire](https://www.geekwire.com/2019/microsofts-quantum-computing-network-takes-one-giant-leap-startup-summit/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.geekwire.com](https://www.geekwire.com/2019/microsofts-quantum-computing-network-takes-one-giant-leap-startup-summit/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) - [Share](http://rev.vu/69k3X2?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.geekwire.com](https://www.geekwire.com/2019/microsofts-quantum-computing-network-takes-one-giant-leap-startup-summit/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)  
 
 Birds of a feather, partners, and the wisdom of self-selecting crowds aching to become a community aligned to the funding and long term bets of a cloud computing powerhouse.

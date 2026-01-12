@@ -77,7 +77,7 @@ Oddly enough, just a few years after I turned off blog comments and began a my o
 
 Looking back at the non-launch of the Unicorn Jockeys podcast.
 
-[twitter.com](https://twitter.com/UnicornJockeys/status/678296062382092289?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+ 
 
 From a personal perspective, [my voice appeared in podcasts as far back as 2010 and 2011](https://jaycuthrell.com/media/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) but these were radio formats first (Marketplace on NPR) and podcasts second. I’d been listening for far longer by then and saw the challenges of wide open Internet platforms repeating the same history as Usenet before it. Yes. Internet trolls had arrived. So, the safe silo enclave club experience version of Internet platforms was destined to appear again. Perhaps the podcast could be that new experience.
 

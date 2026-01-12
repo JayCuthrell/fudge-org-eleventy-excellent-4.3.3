@@ -11,7 +11,7 @@ The Right Angle Turn
 
 [Nortel Buys Bay Networks (1998)](https://www.wired.com/1998/06/nortel-buys-bay-networks-3/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.wired.com](https://www.wired.com/1998/06/nortel-buys-bay-networks-3/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/XGRY2y?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.wired.com](https://www.wired.com/1998/06/nortel-buys-bay-networks-3/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Because Lucent and Cisco.
 
@@ -43,7 +43,7 @@ Winter had come. That cheeky web parlor trick company, Scient, would become iXL�
 
 [Scient and iXL Merge (2001)](https://www.computerworld.com/article/2584263/scient--ixl-merge-in-wake-of-financial-struggles-in-internet-consulting-sect.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.computerworld.com](https://www.computerworld.com/article/2584263/scient--ixl-merge-in-wake-of-financial-struggles-in-internet-consulting-sect.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/0rdPBW?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.computerworld.com](https://www.computerworld.com/article/2584263/scient--ixl-merge-in-wake-of-financial-struggles-in-internet-consulting-sect.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 My second merger.
 
@@ -51,7 +51,7 @@ I kept traveling. I kept working. Eventually both came to an abrupt halt. Like m
 
 [And for my next trick ( 2002 )](https://fudge.org/archive/and-for-my-next-trick/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/and-for-my-next-trick/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/XGRado?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/and-for-my-next-trick/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Good times until they were not.
 
@@ -63,61 +63,61 @@ So, over the next 14 years I kept an eye on what Scient (iXL) had gotten up to a
 
 [SBI acquires Scient (2002)](https://www.wsj.com/articles/SB1026916918357814760?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.wsj.com](https://www.wsj.com/articles/SB1026916918357814760?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/edYOwN?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.wsj.com](https://www.wsj.com/articles/SB1026916918357814760?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Chapter 11 and the SBI roll up
 
 [SBI acquires Razorfish (2002)](https://www.computerworld.com/article/2577938/sbi-to-acquire-razorfish-for--8-2-million.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.computerworld.com](https://www.computerworld.com/article/2577938/sbi-to-acquire-razorfish-for--8-2-million.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/lVoXa6?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.computerworld.com](https://www.computerworld.com/article/2577938/sbi-to-acquire-razorfish-for--8-2-million.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 And the .com deals keep rolling up
 
 [SBI sells Razorfish to aQuantive (2004)](https://www.deseretnews.com/article/595079909/SBI-Group-to-get-160-million-for-sale-of-SBIRazorfish.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.deseretnews.com](https://www.deseretnews.com/article/595079909/SBI-Group-to-get-160-million-for-sale-of-SBIRazorfish.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/DVJMy7?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.deseretnews.com](https://www.deseretnews.com/article/595079909/SBI-Group-to-get-160-million-for-sale-of-SBIRazorfish.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 This feels like Three-card Monte of M&A at this point.
 
 [Publicis to Buy Digitas (2006)](https://dealbook.nytimes.com/2006/12/20/publicis-to-buy-digitas-for-13-billion/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[dealbook.nytimes.com](https://dealbook.nytimes.com/2006/12/20/publicis-to-buy-digitas-for-13-billion/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/AZK4VN?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[dealbook.nytimes.com](https://dealbook.nytimes.com/2006/12/20/publicis-to-buy-digitas-for-13-billion/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Hint: Keep an eye on Publicis.
 
 [Microsoft buys aQuantive (2007)](https://techcrunch.com/2007/05/18/microsoft-pays-6-billion-for-aquantive/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[techcrunch.com](https://techcrunch.com/2007/05/18/microsoft-pays-6-billion-for-aquantive/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/EAqvVw?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[techcrunch.com](https://techcrunch.com/2007/05/18/microsoft-pays-6-billion-for-aquantive/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 By this time, Microsoft was willing to pay $6B to get into this market… because of DoubleClick and Google.
 
 [Publicis to Buy Razorfish (2009)](https://www.wsj.com/articles/SB124982318328817501?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.wsj.com](https://www.wsj.com/articles/SB124982318328817501?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/mWmOP5?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.wsj.com](https://www.wsj.com/articles/SB124982318328817501?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 A few years later, Microsoft would write down most of aQuantive.
 
 [Publicis Buys Sapient (2014)](https://www.bloomberg.com/news/articles/2014-11-03/publicis-to-buy-sapient-for-3-7-billion-to-extend-digital-reach?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.bloomberg.com](https://www.bloomberg.com/news/articles/2014-11-03/publicis-to-buy-sapient-for-3-7-billion-to-extend-digital-reach?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/KZJv7a?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.bloomberg.com](https://www.bloomberg.com/news/articles/2014-11-03/publicis-to-buy-sapient-for-3-7-billion-to-extend-digital-reach?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 It’s like that old saying if you can’t merge with Omnicom, go shopping instead. And boy did they…
 
 [Publicis creates SapientRazorfish (2016)](https://adage.com/article/agency-news/publicis-merges-sapientnitro-razorfish/306823?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[adage.com](https://adage.com/article/agency-news/publicis-merges-sapientnitro-razorfish/306823?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/1D1bRV?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[adage.com](https://adage.com/article/agency-news/publicis-merges-sapientnitro-razorfish/306823?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Combined by a most circuitous route!
 
 [Publicis Sapient is formed (2019)](https://www.adweek.com/agencyspy/meet-the-new-publicis-sapient-coming-at-you-with-agility-to-disrupt-paradigms/153591?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.adweek.com](https://www.adweek.com/agencyspy/meet-the-new-publicis-sapient-coming-at-you-with-agility-to-disrupt-paradigms/153591?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Ylq685?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.adweek.com](https://www.adweek.com/agencyspy/meet-the-new-publicis-sapient-coming-at-you-with-agility-to-disrupt-paradigms/153591?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Shorter name. Bigger ambitions.
 
 [Publicis to buy Epsilon (2019)](https://www.techmeme.com/190414/p7?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190414p7)
 
-[www.techmeme.com](https://www.techmeme.com/190414/p7?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190414p7) – [Share](http://rev.vu/P9OrkB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](https://www.techmeme.com/190414/p7?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190414p7) 
 
 And… $4.4B scene?
 
@@ -129,7 +129,7 @@ Place your bets now on when older firms like WPP, Omnicom, and Publicis combine 
 
 [Amazon, Google, and Facebook (2019)](https://www.bloomberg.com/news/articles/2019-03-21/amazon-said-to-launch-mobile-ads-in-threat-to-google-facebook?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.bloomberg.com](https://www.bloomberg.com/news/articles/2019-03-21/amazon-said-to-launch-mobile-ads-in-threat-to-google-facebook?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/GlBJXE?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.bloomberg.com](https://www.bloomberg.com/news/articles/2019-03-21/amazon-said-to-launch-mobile-ads-in-threat-to-google-facebook?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Hundreds of $B are at stake. Expect spirited competition from the older big three and the newer big three.
 

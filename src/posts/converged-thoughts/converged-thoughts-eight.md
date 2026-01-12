@@ -39,7 +39,7 @@ Do attendees have to listen? Nope. That’s the best part. You get to vote with 
 
 [Episode 27 – The Balkanization of Tech Conferences and the Long Tail of SWAG | The Geek Whisperers](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[geek-whisperers.com](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/QQAPO?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[geek-whisperers.com](http://geek-whisperers.com/2013/11/episode-27-the-balkanization-of-tech-conferences-and-the-long-tail-of-swag/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 That’s why SxSW still matters. It’s not about one specific company dominating the sessions and content. Are there sponsors advertising and subsidizing everything? Sure. But again, you listen and consume what you want on your own agenda.
 
@@ -50,7 +50,7 @@ I’ve attended SxSW going back to 2008. I met enough folks that even captured s
 
 [Impressions of SXSW 2010](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=YCbAh5hx31U)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=YCbAh5hx31U) – [Share](http://rev.vu/PQyoq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=YCbAh5hx31U) 
 
 That was probably one of the thickest goatees I’ve ever had… good times. The shiny head hasn’t changed much though. 👴🏼
 
@@ -66,6 +66,6 @@ One final note… if you are curious about the music selections I’m looking fo
 
 [The listening has started… https://t.co/gIO7tvQUiy](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Z3406?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 source: [https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)

@@ -9,13 +9,13 @@ Broken Wings
 
 [Mr. Mister - Broken Wings - YouTube](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=nKhN1t_7PEY)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=nKhN1t_7PEY) – [Share](http://rev.vu/xE5ja?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=nKhN1t_7PEY) 
 
 Suggested soundtrack for this digest…
 
 [“Travel data: fraud with booking codes is too easy.” FAQs about PNR hacking & today’s demo of CRS vulnerabilities: https://t.co/R5kVlcaM4e — Edward Hasbrouck](https://twitter.com/ehasbrouck/status/813703320590163968?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/ehasbrouck/status/813703320590163968?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/KQx3d?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 A great read for all the Road Warrior types out there.
 
@@ -25,7 +25,7 @@ My career has been that of a global road warrior for the past few decades. Much 
 
 [Where in the World Is Carmen Sandiego? Becoming a secret travel agent [33c3]](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=m6IgrMCMW8k)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=m6IgrMCMW8k) – [Share](http://rev.vu/BO0Z2?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=m6IgrMCMW8k) 
 
 Eye opening.
 
@@ -33,7 +33,7 @@ Coverage is starting to pickup on this topic of these long running systems too. 
 
 [Techmeme: Researchers: ID codes printed on boarding passes, luggage tags for ~90% of flights let hackers access travelers’ personal info, steal reservations, more (Matthew Humphries/PC Magazine)](http://www.techmeme.com/170101/p8?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a170101p8)
 
-[www.techmeme.com](http://www.techmeme.com/170101/p8?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a170101p8) – [Share](http://rev.vu/QQ9MY?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](http://www.techmeme.com/170101/p8?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a170101p8) 
 
 The essential tech news of the moment. Technology’s news site of record. Not for dummies.
 
@@ -43,7 +43,7 @@ In fact, I was just tweeting about how much has changed in the past 20 years in 
 
 [Another OCR ERP shoe drops… 1997: Paper forms -> Raster scans -> Mainframe -> Jacada -> Web 2017: @HyperScienceAI https://t.co/EbRcMXvXKA](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/810917335808806920?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/810917335808806920?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/4Oxny?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 So, perhaps this same AI will be applied as a sort of human travel arranger arbitrage in the same clunky ways telephony IVR attempted to frustrate us until advising we **press 4 to speak to an actual human**. We’ll see.
 
@@ -63,14 +63,14 @@ Pockets of that convergence exist today but they are really crude. Caller ID (se
 
 [The Google Voice and DTMF issue is back again too. http://t.co/dm5A5RipVs](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/596687630261096448?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/596687630261096448?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/3RX29?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 [The poor state of uniform DTMF support in bad IVR design likely means the AI voice bots will bring discombobulated malaise to the masses.](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/738897678801637376?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/738897678801637376?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/YQZAB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 [2016 telephony trends: phone = buggy “app” DTMF = broken voip trunks = race to zero IVR = bad voice prompts = worse AI/ML (hype) = worst ☎=💀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/808878295462907904?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/808878295462907904?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/6OY12?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 So, in summary… security will become important and placed into improvements of the system *when it is part of the personal preference of the consumer*. Those improvements in the system will take the form of convergence in that we won’t have to remember something or have something to get what we want… [sitting in a chair in the sky](https://www.youtube.com/watch?v=akiVi1sR2rM?t=5m20s&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).

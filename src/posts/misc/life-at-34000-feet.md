@@ -15,7 +15,7 @@ There’s an AP article from 1982 I was able to dig up when researching what was
 
 [Human Nets Digests, Volume 5 (1982)](https://www.cs.rutgers.edu/~cwm/NetStuff/Human-Nets/Volume5.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.cs.rutgers.edu](https://www.cs.rutgers.edu/~cwm/NetStuff/Human-Nets/Volume5.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/4KX2Qw?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.cs.rutgers.edu](https://www.cs.rutgers.edu/~cwm/NetStuff/Human-Nets/Volume5.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Just search for “AirFone”.
 
@@ -26,7 +26,7 @@ The hype and promise of 1984 to 2008…
 
 [CNN flashback: In-flight calls in 1984](https://money.cnn.com/video/technology/2013/11/22/t-airfone-flashback-1984.cnnmoney/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[money.cnn.com](https://money.cnn.com/video/technology/2013/11/22/t-airfone-flashback-1984.cnnmoney/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/4KX2Zx?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[money.cnn.com](https://money.cnn.com/video/technology/2013/11/22/t-airfone-flashback-1984.cnnmoney/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Fascinating look at the cordless telephone… in an airplane one way.
 
@@ -34,7 +34,7 @@ My search led me to coverage of AirFone back in 2006. While the phone handsets i
 
 [Set the Time Machine to 1982: In-Flight, Hotel Broadband (2006)](https://wifinetnews.com/archives/2006/06/set_the_time_machine_to_1982_in-flight_hotel_broadband.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[wifinetnews.com](https://wifinetnews.com/archives/2006/06/set_the_time_machine_to_1982_in-flight_hotel_broadband.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/DVnP6Q?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[wifinetnews.com](https://wifinetnews.com/archives/2006/06/set_the_time_machine_to_1982_in-flight_hotel_broadband.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Memory lane!
 ============
@@ -43,7 +43,7 @@ Eventually, the allure of a phone conversation from several miles above the Eart
 
 [Verizon to End Service on Commercial Airplanes (2006)](https://www.nytimes.com/2006/06/23/technology/23cnd-airfone.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.nytimes.com](https://www.nytimes.com/2006/06/23/technology/23cnd-airfone.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/V41x51?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.nytimes.com](https://www.nytimes.com/2006/06/23/technology/23cnd-airfone.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The long winding tale of corded telephone handsets in… airplanes.
 
@@ -51,7 +51,7 @@ However, like many other services that shutter, newer and more innovative servic
 
 [JetBlue to Buy Verizon Unit In Email Push (2008)](https://www.wsj.com/articles/SB121297681437256187?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.wsj.com](https://www.wsj.com/articles/SB121297681437256187?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/lVN4eP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.wsj.com](https://www.wsj.com/articles/SB121297681437256187?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The quest to get more eyeballs engaged more of the time continues.
 
@@ -66,7 +66,7 @@ Looking back on 2011, while the connectivity was passable the adoption curve and
 
 [AA Completes 424 High-Speed Wi-Fi Installations in 7 Months as Part of Wi-Fi Revolution](https://thepointsguy.com/news/state-of-american-airlines-wifi/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[thepointsguy.com](https://thepointsguy.com/news/state-of-american-airlines-wifi/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/3B1D4O?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[thepointsguy.com](https://thepointsguy.com/news/state-of-american-airlines-wifi/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 It’s fast y’all.
 

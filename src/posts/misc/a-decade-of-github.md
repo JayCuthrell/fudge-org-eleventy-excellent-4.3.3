@@ -9,7 +9,7 @@ I’ve been using GitHub for ~10 years. Over time I used GitHub more socially th
 
 [JayCuthrell GitHub Stars](https://github.com/JayCuthrell?direction=desc&sort=stars&tab=stars&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/JayCuthrell?direction=desc&sort=stars&tab=stars&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/R3laxX?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/JayCuthrell?direction=desc&sort=stars&tab=stars&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 A list of all my GitHub stars sorted by popularity
 
@@ -23,7 +23,7 @@ Eventually, I moved all my coding projects to GitHub and even got to contribute 
 
 [iGoogle - Wikipedia](https://en.wikipedia.org/wiki/IGoogle?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[en.wikipedia.org](https://en.wikipedia.org/wiki/IGoogle?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/M2VmWn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/IGoogle?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 RIP iGoogle 2005-2013
 
@@ -33,7 +33,7 @@ To be clear, GitHub is not exclusively about code repositories. In fact, when I 
 
 [Be My Advisor ( 2013 )](https://fudge.org/archive/be-my-advisor/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/be-my-advisor/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/kdRaRb?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/be-my-advisor/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Thinking about equitable equity.
 
@@ -41,7 +41,7 @@ Occasionally, I would come across a really strong blog post that educated the re
 
 [GitHub - jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/jlevy/og-equity-compensation?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/KZ202a?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/jlevy/og-equity-compensation?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Great resource to understand the math behind the madness of monetary maybe and monetary maybe not
 
@@ -51,7 +51,7 @@ The first time I saw the movie WarGames was on HBO back in last century. Heh. Th
 
 [GitHub - yaronn/blessed-contrib: Build terminal dashboards using ascii/ansi art and javascript](https://github.com/yaronn/blessed-contrib?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/yaronn/blessed-contrib?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/vQbMbP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/yaronn/blessed-contrib?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 ASCII art dashboards in the terminal
 
@@ -61,13 +61,13 @@ Much of my early computing after college was on LAMP stacks. The M and P have ch
 
 [GitHub - dbcli/pgcli:](https://github.com/dbcli/pgcli?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/dbcli/pgcli?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Nb1krm?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/dbcli/pgcli?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Getting away from MySQL was the plan by using autocompletion and syntax highlighting with Postgres CLI.
 
 [GitHub - prompt-toolkit/ptpython:](https://github.com/prompt-toolkit/ptpython?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/prompt-toolkit/ptpython?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/R3laXM?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/prompt-toolkit/ptpython?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Prompting as a read–eval–print loop (REPL) for Python to get off of PHP IDE dependence.
 
@@ -77,19 +77,19 @@ The interwebs were, are, and will continue to be a pretty hostile place. So, it 
 
 [GitHub - trailofbits/algo:](https://github.com/trailofbits/algo?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/trailofbits/algo?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/aeDo95?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/trailofbits/algo?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Using Ansible to set up a personal IPSEC VPN in the cloud.
 
 [GitHub - StreisandEffect/streisand:](https://github.com/StreisandEffect/streisand?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/StreisandEffect/streisand?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/69bnd2?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/StreisandEffect/streisand?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 A friends and family ready approach to a bit more security.
 
 [GitHub - USArmyResearchLab/Dshell:](https://github.com/USArmyResearchLab/Dshell?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/USArmyResearchLab/Dshell?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/edrKrN?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/USArmyResearchLab/Dshell?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Cool pcap decoding project
 
@@ -99,13 +99,13 @@ While I have more ideas than hours, my hope is to eventually apply these GitHub 
 
 [GitHub - d3/d3:](https://github.com/d3/d3?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/d3/d3?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/vQbMbV?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/d3/d3?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 SVG + Canvas + HTML = data eye candy
 
 [GitHub - pzhaonet/mindr:](https://github.com/pzhaonet/mindr?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/pzhaonet/mindr?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/q6dYRE?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/pzhaonet/mindr?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 After playing with R and markdown files the next step to was to create mindmaps
 
@@ -115,13 +115,13 @@ My backgound is not in formal computer science so I end up Google searching erro
 
 [GitHub - Developer-Y/cs-video-courses:](https://github.com/Developer-Y/cs-video-courses?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/Developer-Y/cs-video-courses?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Nb1kOm?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/Developer-Y/cs-video-courses?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Such a great resource. Then the UC Berkeley links stopped working a few years ago…
 
 [GitHub - prakhar1989/awesome-courses:](https://github.com/prakhar1989/awesome-courses?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/prakhar1989/awesome-courses?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/M2VmVn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/prakhar1989/awesome-courses?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Another example of how changes to official curriculum content curation make compilations into a race against link rot
 
@@ -129,7 +129,7 @@ Of course, there are times when even links go bad. Link rot is real. Then again,
 
 [20,000 World-class University Lectures Made Illegal, So We Irrevocably Mirrored Them - LBRY](https://lbry.com/news/20000-illegal-college-lectures-rescued?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[lbry.com](https://lbry.com/news/20000-illegal-college-lectures-rescued?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/OaXnR3?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[lbry.com](https://lbry.com/news/20000-illegal-college-lectures-rescued?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Heh. MIRRORED.
 
@@ -137,13 +137,13 @@ While I’ve not had to whiteboard for a few years, it’s still an interesting 
 
 [GitHub - kennyledet/Algorithm-Implementations:](https://github.com/kennyledet/Algorithm-Implementations?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/kennyledet/Algorithm-Implementations?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/P9NyNB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/kennyledet/Algorithm-Implementations?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Another great algorithm implementations resource
 
 [GitHub - sagivo/algorithms:](https://github.com/sagivo/algorithms?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/sagivo/algorithms?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Jyqrq1?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/sagivo/algorithms?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 I saved this when reading up on algorithms that are common in interview or whiteboard questions.
 
@@ -153,7 +153,7 @@ Readers that follow my blog or Twitter presence know I’ve been away from Twitt
 
 [On Twitter ( 2017 )](https://fudge.org/archive/on-twitter/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/on-twitter/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/vQbMDP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/on-twitter/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 An examination of my Twitter archives
 
@@ -163,19 +163,19 @@ First, I wanted to archive, combine, and understand how much linked content was 
 
 [GitHub - butterflo/tweetmerge:](https://github.com/butterflo/tweetmerge?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/butterflo/tweetmerge?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/BomP32?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/butterflo/tweetmerge?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 I had a lot of different Twitter handles over the course of 10 years.
 
 [GitHub - mshea/Parse-Twitter-Archive:](https://github.com/mshea/Parse-Twitter-Archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/mshea/Parse-Twitter-Archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/edrKre?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/mshea/Parse-Twitter-Archive?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Twitter archive exports were messy initially and this helped when trying to find an older tweet.
 
 [GitHub - jolle/expired-tweets:](https://github.com/jolle/expired-tweets?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/jolle/expired-tweets?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/lVNXeb?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/jolle/expired-tweets?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Link rot is real.
 
@@ -183,7 +183,7 @@ Second, I wanted to get a feeling for what was socially validated with likes or 
 
 [GitHub - dangoldin/twitter-archive-analysis:](https://github.com/dangoldin/twitter-archive-analysis?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/dangoldin/twitter-archive-analysis?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Zvb4QA?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/dangoldin/twitter-archive-analysis?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 I used this to understand how I was using Twitter towards the end.
 
@@ -191,7 +191,7 @@ Third, I wanted all my rich media content saved.
 
 [GitHub - mwichary/twitter-export-image-fill:](https://github.com/mwichary/twitter-export-image-fill?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/mwichary/twitter-export-image-fill?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/jWRAdB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/mwichary/twitter-export-image-fill?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 This was a key utility before archiving my tweets for later analysis. There is still no native takeout option on Twitter to my knowledge.
 
@@ -199,7 +199,7 @@ Finally, I wanted to clean house one layer of engagement at a time until only my
 
 [GitHub - MikeMcQuaid/TwitterDelete:](https://github.com/MikeMcQuaid/TwitterDelete?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/MikeMcQuaid/TwitterDelete?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/M2Vmdq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/MikeMcQuaid/TwitterDelete?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Nuke it from orbit. It’s the only way to be sure.
 

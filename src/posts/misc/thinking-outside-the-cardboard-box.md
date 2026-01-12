@@ -15,7 +15,7 @@ Over the past 200 years there have been cardboard boxes big and small. The adven
 
 [1817 - Cardboard is born](https://en.wikipedia.org/wiki/Cardboard_box?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#History)
 
-[en.wikipedia.org](https://en.wikipedia.org/wiki/Cardboard_box?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#History) – [Share](http://rev.vu/4KPY8O?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Cardboard_box?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#History) 
 
 200 years of boxes.
 
@@ -23,7 +23,7 @@ From inception to meme took roughly 200 years for the cardboard box. Now, the ca
 
 [2015 - The 📦 Package Emoji](https://emojipedia.org/package/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[emojipedia.org](https://emojipedia.org/package/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/nanr4P?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[emojipedia.org](https://emojipedia.org/package/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 You know you’ve made it when you are enshrined in a Unicode update.
 
@@ -31,7 +31,7 @@ Then again, by 2015, Amazon had become notorious due to a combination of expandi
 
 [2015 - Amazon Packaging Memes](https://www.buzzfeed.com/morenikeadebayo/amazon-packaging-needs-to-chill-the-fuck-out?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.buzzfeed.com](https://www.buzzfeed.com/morenikeadebayo/amazon-packaging-needs-to-chill-the-fuck-out?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/q6V0M5?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.buzzfeed.com](https://www.buzzfeed.com/morenikeadebayo/amazon-packaging-needs-to-chill-the-fuck-out?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Warning: NSFW title on this link but then again… it kinda had a point.
 
@@ -42,19 +42,19 @@ Amazon is no stranger to robotics. The early adoption of Kiva robots indicates t
 
 [2017 - CartonWrap 1000](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Ti2PnI5xh28)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Ti2PnI5xh28) – [Share](http://rev.vu/kdJBxr?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Ti2PnI5xh28) 
 
 Come for the concept. Stay for the soundtrack.
 
 [2018 - CartonWrap 1000 refinements](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=9rP1wjEsbak)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=9rP1wjEsbak) – [Share](http://rev.vu/yonq83?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=9rP1wjEsbak) 
 
 The soundtrack to your single click e-commerce future is slightly lower volume.
 
 [2019 - Commensurate Cardboard](https://www.reuters.com/article/us-amazon-com-automation-exclusive-idUSKCN1SJ0X1?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.reuters.com](https://www.reuters.com/article/us-amazon-com-automation-exclusive-idUSKCN1SJ0X1?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/aeKmrO?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.reuters.com](https://www.reuters.com/article/us-amazon-com-automation-exclusive-idUSKCN1SJ0X1?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Amazon is extending more robotics to refine another aspect of the toothbrush in gigantic cardboard box conundrum.
 
@@ -65,7 +65,7 @@ Looking ahead, there will be more opportunities to reclaim cardboard boxes in wa
 
 [2010 - The Sustainable Supply Chain](https://hbr.org/2010/10/the-sustainable-supply-chain?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[hbr.org](https://hbr.org/2010/10/the-sustainable-supply-chain?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/56G1ra?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[hbr.org](https://hbr.org/2010/10/the-sustainable-supply-chain?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 10 years later… where are we?
 
@@ -73,7 +73,7 @@ Creative ideas will emerge. Ideas that *smell* like success will likely succeed.
 
 [2018 - KFC Scent Infused Enviro-Log](https://boingboing.net/2018/12/13/kfc-introduces-a-firelog-that.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[boingboing.net](https://boingboing.net/2018/12/13/kfc-introduces-a-firelog-that.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/8qed50?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[boingboing.net](https://boingboing.net/2018/12/13/kfc-introduces-a-firelog-that.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Fingerlickin’ good ideas are just around the corner.
 

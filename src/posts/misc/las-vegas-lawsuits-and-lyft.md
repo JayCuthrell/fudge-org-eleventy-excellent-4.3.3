@@ -17,7 +17,7 @@ No matter what metric, the trends are all heading down for traditional taxi serv
 
 [2019 - Ride-share use rising. Taxi usage plummets](https://www.reviewjournal.com/business/ride-share-use-keeps-rising-in-las-vegas-taxi-usage-plummets-1608660/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.reviewjournal.com](https://www.reviewjournal.com/business/ride-share-use-keeps-rising-in-las-vegas-taxi-usage-plummets-1608660/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/kd4nED?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.reviewjournal.com](https://www.reviewjournal.com/business/ride-share-use-keeps-rising-in-las-vegas-taxi-usage-plummets-1608660/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Disruption will arrive in the form of a sedate sedan.
 
@@ -28,7 +28,7 @@ It was only a few years ago that lawsuits and threats were the last refuge of th
 
 [2014 - Potential roadblocks and market realities](https://www.reviewjournal.com/business/ridersharing-service-may-encounter-potential-roadblocks-ahead/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.reviewjournal.com](https://www.reviewjournal.com/business/ridersharing-service-may-encounter-potential-roadblocks-ahead/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/564Oeq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.reviewjournal.com](https://www.reviewjournal.com/business/ridersharing-service-may-encounter-potential-roadblocks-ahead/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Just a few years ago, the primary coverage highlighted all the challenges and ignored the inevitable erosion of established market share.
 
@@ -43,7 +43,7 @@ During the early years of TNC arrival in Las Vegas, the only option for Uber pic
 
 [2015 - Licensing of ride-sharing drivers](https://www.reviewjournal.com/local/local-las-vegas/uber-brings-pressure-over-clark-countys-licensing-of-ride-sharing-drivers/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.reviewjournal.com](https://www.reviewjournal.com/local/local-las-vegas/uber-brings-pressure-over-clark-countys-licensing-of-ride-sharing-drivers/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/WR9Qm1?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.reviewjournal.com](https://www.reviewjournal.com/local/local-las-vegas/uber-brings-pressure-over-clark-countys-licensing-of-ride-sharing-drivers/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The battle for access to McCarran International Airport is now just a footnote in history.
 
@@ -54,7 +54,7 @@ Need a Lyft?
 
 [2019 - Some things never change](https://www.citylab.com/life/2019/01/how-taxi-kickbacks-work-las-vegas-uber-lyft/580348/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.citylab.com](https://www.citylab.com/life/2019/01/how-taxi-kickbacks-work-las-vegas-uber-lyft/580348/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/naME7Z?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.citylab.com](https://www.citylab.com/life/2019/01/how-taxi-kickbacks-work-las-vegas-uber-lyft/580348/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 C.R.E.A.M. is real. Get that hustle.
 ====================================

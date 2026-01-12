@@ -18,33 +18,33 @@ Still, even as I tap this update into Revue I’m reminded of how many years I�
 
 [My Sixth Year at VCE and My Sixth Week at Dell EMC](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/8Ojvr?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 [My Fifth Year at VCE](https://fudge.org/archive/my-fifth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/my-fifth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/wExwr?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-fifth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 [My Fourth Year at VCE](https://fudge.org/archive/my-fourth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/my-fourth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/O9jQQ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-fourth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 [My Third Year at VCE](https://fudge.org/archive/my-third-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/my-third-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/YQX8k?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-third-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 [My Second Year at VCE](https://fudge.org/archive/my-second-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/my-second-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/GQ4X8?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-second-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 [My First Year at VCE](https://fudge.org/archive/my-first-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/my-first-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/xEPWQ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/my-first-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 What hasn’t changed is the experimentation with different ways to present the blog. In fact, I’m still considering what I’ll do for 2017 with the rendering side of the workflow. We’ll see.
 
 [I just got my $1.11 bill from @cloudfoundry and I’m wondering how much it will be to move over my blog from @github pages completely.](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/625551527453667328?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/625551527453667328?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/PQroG?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 That tweet was from 2015. So, clearly I’m a bit behind on this goal. Then again, I’m sensitive to the ongoing monthly cost of maintaining a blog. Hence, using my GitHub repository as a means to accomplish already paid for blog hosting.
 
@@ -58,7 +58,7 @@ That notion of avoiding the maintaining has made me reconsider but not actually 
 
 [Jay Cuthrell – Medium](https://medium.com/@JayCuthrell/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[medium.com](https://medium.com/@JayCuthrell/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/vE6B5?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[medium.com](https://medium.com/@JayCuthrell/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 When I think about the convergence of all the publishing and collecting and curating I’m trying to achieve (with any blog or microblogging format) it all boils down to how do I aggregate and how do I guarantee I have some control over my published materials. This, however, is easier wished than found as a toolset or methodology.
 
@@ -70,7 +70,7 @@ It is difficult to say in these feisty times. Yet, I do think that convergence w
 
 [The End of Cloud Computing on Vimeo](https://vimeo.com/196002313?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[vimeo.com](https://vimeo.com/196002313?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/BOx26?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[vimeo.com](https://vimeo.com/196002313?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 “I’m going to take you out to the edge to show you what the future looks like.” So begins a16z partner Peter Levine as he takes us on a “crazy”…
 
@@ -78,19 +78,19 @@ On the other hand, there will also be unique and fierce independent views on how
 
 [Release diaspora\* 0.6.2.0 · diaspora/diaspora · GitHub](https://github.com/diaspora/diaspora/releases/tag/v0.6.2.0?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/diaspora/diaspora/releases/tag/v0.6.2.0?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/QQ0P8?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/diaspora/diaspora/releases/tag/v0.6.2.0?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 diaspora - A privacy-aware, distributed, open source social network.
 
 [GitHub - haiwen/seafile: File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance.](https://github.com/haiwen/seafile?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[github.com](https://github.com/haiwen/seafile?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/e7OEx?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[github.com](https://github.com/haiwen/seafile?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 seafile - File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance.
 
 [Keybase](https://keybase.io/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[keybase.io](https://keybase.io/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/JQMXE?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[keybase.io](https://keybase.io/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Public key crypto for everyone, publicly auditable proofs of identity.
 

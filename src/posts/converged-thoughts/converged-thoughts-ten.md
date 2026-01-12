@@ -31,13 +31,13 @@ Simulation tools have come a long way since the mid 1990s. In fact, there are ev
 
 [GNU MCSim](https://www.gnu.org/software/mcsim/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.gnu.org](https://www.gnu.org/software/mcsim/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/3RMwe?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.gnu.org](https://www.gnu.org/software/mcsim/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 FREE SOFTWARE!
 
 [Comparing Consensus Monte Carlo Strategies for Distributed Bayesian Computation](https://research.google.com/pubs/pub45739.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[research.google.com](https://research.google.com/pubs/pub45739.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/rjmNK?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[research.google.com](https://research.google.com/pubs/pub45739.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Fun reading material.
 
@@ -54,7 +54,7 @@ Unfortunately, our material world does not last forever. As such, the fashion th
 
 [The Sneakerheads Racing to Save Their Kicks From Decay](https://www.wired.com/2015/05/sneakers/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.wired.com](https://www.wired.com/2015/05/sneakers/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/vEANX?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.wired.com](https://www.wired.com/2015/05/sneakers/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 I don’t usually link to Wired but when I do there is probably a good reason.
 
@@ -65,7 +65,7 @@ First, imagine having access to top notch block copolymer researchers with deep 
 
 [High Performance Computing](http://www.dell.com/en-us/work/learn/high-performance-computing?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.dell.com](http://www.dell.com/en-us/work/learn/high-performance-computing?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/qEKZx?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.dell.com](http://www.dell.com/en-us/work/learn/high-performance-computing?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Yes. I’m biased. 🤓
 
@@ -79,12 +79,12 @@ We’re not that far away from that possibility and the first steps towards this
 
 [The Reebok Liquid Factory Introduces ‘3D Drawing’ to Sneaker Creation](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=64XESsTfv_4)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=64XESsTfv_4) – [Share](http://rev.vu/y9xMn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=64XESsTfv_4) 
 
 [Futurecraft M.F.G. - adidas](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=FVpfVdXxcCA)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=FVpfVdXxcCA) – [Share](http://rev.vu/XQkJl?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=FVpfVdXxcCA) 
 
 [Nike SNKRS Presents: Masters of Air, Vol. 1.](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=bNzmKrJBJ8c)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=bNzmKrJBJ8c) – [Share](http://rev.vu/vEA4X?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=bNzmKrJBJ8c) 

@@ -19,7 +19,7 @@ My other anecdotal example was the controlled testing done in Las Vegas with Lyf
 
 [Self-Driving - Lyft - Passengers](https://www.lyft.com/self-driving-vehicles/passengers?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.lyft.com](https://www.lyft.com/self-driving-vehicles/passengers?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/lVejZ4?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.lyft.com](https://www.lyft.com/self-driving-vehicles/passengers?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 What happens in Vegas… eventually will happen everywhere else on a long enough timeline.
 
@@ -29,7 +29,7 @@ Perhaps we’ll see AR become the answer to all the problems we didn’t know we
 
 [AR Will Spark the Next Big Tech Platform—Call It Mirrorworld | WIRED](https://www.wired.com/story/mirrorworld-ar-next-big-tech-platform/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.wired.com](https://www.wired.com/story/mirrorworld-ar-next-big-tech-platform/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/QbmlnD?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.wired.com](https://www.wired.com/story/mirrorworld-ar-next-big-tech-platform/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Or, perhaps, this can be the best test construct possible for the things we aren’t willing to unleash in the real world that could easily end badly?
 
@@ -39,7 +39,7 @@ In response, machine learning against non-disruptive data sets will grow rapidly
 
 [AAAS: Machine learning ‘causing science crisis’ - BBC News](https://www.bbc.com/news/science-environment-47267081?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.bbc.com](https://www.bbc.com/news/science-environment-47267081?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/naXGyZ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.bbc.com](https://www.bbc.com/news/science-environment-47267081?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The search for a statistical outcome to match Little Britain’s “Computer says no”.
 
@@ -49,7 +49,7 @@ Now, if science is that which explains and predicts, then we have more work to d
 
 [Elroy Air – Elroy Air enables autonomous air transport anywhere.](http://www.elroyair.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#building)
 
-[www.elroyair.com](http://www.elroyair.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#building) – [Share](http://rev.vu/mWA4nN?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.elroyair.com](http://www.elroyair.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#building) 
 
 An air cargo delivery drove capable of carrying 500lbs (225kg) payload for up to 300mi (500km). Amazing.
 
@@ -59,7 +59,7 @@ Answer: Quite a bit.
 
 [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models | USENIX](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.usenix.org](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/KZRXql?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.usenix.org](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Great talk by James Mickens on the implications of GIGO at scale.
 
@@ -67,7 +67,7 @@ For now, the right approach might be to try out more ideas in a space that is le
 
 [“The Matrix” (1999) — ‘Construct’ Scenes](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=AGZiLMGdCE0)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=AGZiLMGdCE0) – [Share](http://rev.vu/NbOREO?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=AGZiLMGdCE0) 
 
 Because leather lounge chairs are the real danger.
 
@@ -75,6 +75,6 @@ Then again, I can officially reflect on my college years when what was theoretic
 
 [Using artificial intelligence to engineer materials’ properties | MIT News](http://news.mit.edu/2019/artificial-intelligence-engineer-microchips-0211?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[news.mit.edu](http://news.mit.edu/2019/artificial-intelligence-engineer-microchips-0211?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/dM7ZMX?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[news.mit.edu](http://news.mit.edu/2019/artificial-intelligence-engineer-microchips-0211?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 The novel use of engineered strain was one of the theoretical topics when I was in school. Amazing.

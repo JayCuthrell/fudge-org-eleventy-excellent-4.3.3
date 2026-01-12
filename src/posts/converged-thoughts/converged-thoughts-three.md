@@ -9,7 +9,7 @@ title: Converged Thoughts Three
 
 [Peter Schilling - Major Tom - YouTube](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=N1Hs2AQwDgA)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=N1Hs2AQwDgA) – [Share](http://rev.vu/1x2lN?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=N1Hs2AQwDgA) 
 
 Suggested soundtrack for this section…
 

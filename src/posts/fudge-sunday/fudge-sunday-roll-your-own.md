@@ -107,7 +107,7 @@ The final cherry on top took home the full double meaning and – came from soci
 
 Exactly.
 
-[twitter.com](https://twitter.com/patrickmoorhead/status/1115026594186366977?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+ 
 
 Then again, moving from centralized big social media to decentralized smaller social media might not be as *healthy* but the analogy so slowing your ability to smoke a pack a day might just be slowed down a bit by making it less expedient path to a direct dopamine hit.
 

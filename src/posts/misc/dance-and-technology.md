@@ -21,7 +21,7 @@ Lately I’m listening to a smaller number of podcasts but the one podcast that 
 
 [a16z | Free Listening on SoundCloud](https://soundcloud.com/a16z?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[soundcloud.com](https://soundcloud.com/a16z?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/EAjGbd?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[soundcloud.com](https://soundcloud.com/a16z?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Good stuff.
 
@@ -29,7 +29,7 @@ I also tried reading multiple newsletters. Everyone I listen to or read online e
 
 [Exponent | A podcast about tech and society, hosted by Ben Thompson and James Allworth](https://exponent.fm/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[exponent.fm](https://exponent.fm/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/OaNmWQ?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[exponent.fm](https://exponent.fm/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 YMMV.
 
@@ -37,7 +37,7 @@ Another writer with a regular newsletter is M.G. Siegler. His writing is consist
 
 [First Draught | Revue](http://newsletter.mgsiegler.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[newsletter.mgsiegler.com](http://newsletter.mgsiegler.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/4KB2MG?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[newsletter.mgsiegler.com](http://newsletter.mgsiegler.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Good stuff.
 
@@ -47,7 +47,7 @@ I blogged twice this year already and it wasn’t even a new years resolution.
 
 [Twenty Years of Blogging ( 2018 ) – Jay Cuthrell’s Home Page](https://fudge.org/archive/20-years-of-blogging/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/20-years-of-blogging/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/yoWkvn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/20-years-of-blogging/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Looking back on the past 20 years of blogging
 
@@ -55,7 +55,7 @@ While I wasn’t blogging over the past 20 years, I was probably trying out just
 
 [Google Nonplussed ( 2019 ) – Jay Cuthrell’s Home Page](https://fudge.org/archive/google-nonplussed/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/google-nonplussed/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/AZRbE1?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/google-nonplussed/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Lessons from a Googe+ data export
 
@@ -70,7 +70,7 @@ Back in 2015, the topic of dance choreography was playing out…
 
 [Who Owns a Dance? The Complexities of Copyrighting Choreography - Law Street](https://lawstreetmedia.com/issues/entertainment-and-culture/owns-dance-complexities-copyrighting-choreography/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[lawstreetmedia.com](https://lawstreetmedia.com/issues/entertainment-and-culture/owns-dance-complexities-copyrighting-choreography/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Glmv6v?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[lawstreetmedia.com](https://lawstreetmedia.com/issues/entertainment-and-culture/owns-dance-complexities-copyrighting-choreography/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 What are the copyright rules when it comes to choreography? Who owns what dances, and how are they licensed?
 
@@ -78,7 +78,7 @@ Now, fast forward to 2019 and the world is almost turning into a scene out of �
 
 [Looker (1981) - IMDb](https://www.imdb.com/title/tt0082677/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.imdb.com](https://www.imdb.com/title/tt0082677/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/bJPZKb?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.imdb.com](https://www.imdb.com/title/tt0082677/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Waaaaay ahead of its time.
 
@@ -86,7 +86,7 @@ As it turns out, the kid I remembered dancing on a soda pop commercial with the 
 
 [Fortnite: Backpack Kid is suing Epic Games over Flossing dance - Polygon](https://www.polygon.com/fortnite/2018/12/18/18146770/backpack-kid-dance-fortnite-epic-games-lawsuit?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.polygon.com](https://www.polygon.com/fortnite/2018/12/18/18146770/backpack-kid-dance-fortnite-epic-games-lawsuit?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/R3Xy0J?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.polygon.com](https://www.polygon.com/fortnite/2018/12/18/18146770/backpack-kid-dance-fortnite-epic-games-lawsuit?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 I had to Google flossing. True story.
 
@@ -94,7 +94,7 @@ And…. scene?
 
 [Techmeme: US Copyright Office has refused a copyright claim for the “Carlton Dance”, a potential blow to performers seeking rights to dance emotes in games like Fortnite (Eriq Gardner/Hollywood Reporter)](https://www.techmeme.com/190215/p1?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190215p1)
 
-[www.techmeme.com](https://www.techmeme.com/190215/p1?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190215p1) – [Share](http://rev.vu/BoN6lD?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](https://www.techmeme.com/190215/p1?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190215p1) 
 
 The essential tech news of the moment. Technology’s news site of record. Not for dummies.
 
@@ -104,6 +104,6 @@ Speaking of the 80s… here’s another dancing related video that has all the i
 
 [John Fogerty - Vanz Kant Danz](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=wjpAYfCFmJ4)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=wjpAYfCFmJ4) – [Share](http://rev.vu/WR8q4j?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=wjpAYfCFmJ4) 
 
 Very 1980s.

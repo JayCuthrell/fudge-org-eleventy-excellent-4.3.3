@@ -18,7 +18,7 @@ So what happened in March 2018? Simple. Social media finally saw the culmination
 
 [2018 - Techmeme Facebook coverage March 2018](https://www.techmeme.com/180319/p35?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a180319p35)
 
-[www.techmeme.com](https://www.techmeme.com/180319/p35?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a180319p35) – [Share](http://rev.vu/AZKAPY?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](https://www.techmeme.com/180319/p35?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a180319p35) 
 
 Techmeme is a great resource to understand the “on this day” view of tech press coverage.
 
@@ -42,13 +42,13 @@ Leaving a social media platform is often where the phrase “easier said than do
 
 [2019 - Myspace lost all photos, videos, and music its users uploaded between 2003 and 2015](https://www.techmeme.com/190318/p15?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190318p15)
 
-[www.techmeme.com](https://www.techmeme.com/190318/p15?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190318p15) – [Share](http://rev.vu/NbqRGd?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](https://www.techmeme.com/190318/p15?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190318p15) 
 
 What?!?! Hey! It’s free! So… Oops?
 
 [2019: Google shuts down and deletes all consumer accounts on Google+](https://www.techmeme.com/190402/p21?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190402p21)
 
-[www.techmeme.com](https://www.techmeme.com/190402/p21?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190402p21) – [Share](http://rev.vu/edYVDx?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](https://www.techmeme.com/190402/p21?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190402p21) 
 
 Allegedly as many as several people were very sad.
 
@@ -58,7 +58,7 @@ While mainstream attitudes to social media have evolved over the past +20 years,
 
 [1997 to 2019: The History of Social Media](http://groupthree.web.unc.edu/rise-of-social-media/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[groupthree.web.unc.edu](http://groupthree.web.unc.edu/rise-of-social-media/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/7PbAme?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[groupthree.web.unc.edu](http://groupthree.web.unc.edu/rise-of-social-media/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Six Degrees!
 ============
@@ -67,31 +67,31 @@ Indeed, there are multiple alternatives and options to the centralized social pl
 
 [The diaspora\* Project](https://diasporafoundation.org/get_involved?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[diasporafoundation.org](https://diasporafoundation.org/get_involved?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/3Bd4jv?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[diasporafoundation.org](https://diasporafoundation.org/get_involved?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 This was the original call to action from a team of academics that were way ahead of the curve.
 
 [Ethical alternatives to popular sites and apps](https://switching.social/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[switching.social](https://switching.social/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Jyjd0Y?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[switching.social](https://switching.social/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Pointers to less centralized options
 
 [The Mastodon Project has apps](https://joinmastodon.org/apps?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[joinmastodon.org](https://joinmastodon.org/apps?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/P9O2jq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[joinmastodon.org](https://joinmastodon.org/apps?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Federation approach vs. Distributed approach
 
 [Movim](https://movim.eu/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#apps)
 
-[movim.eu](https://movim.eu/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#apps) – [Share](http://rev.vu/M2WdkM?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[movim.eu](https://movim.eu/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#apps) 
 
 Another decentralized approach using XMPP
 
 [Aether grows past 500 concurrent nodes](https://blog.getaether.net/post/182933958752/aether-grows-past-500-concurrent-nodes?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[blog.getaether.net](https://blog.getaether.net/post/182933958752/aether-grows-past-500-concurrent-nodes?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/OaqbjP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[blog.getaether.net](https://blog.getaether.net/post/182933958752/aether-grows-past-500-concurrent-nodes?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Another example of nodes vs. centralized destinations.
 
@@ -102,7 +102,7 @@ As I was wrapping up this collection of links, I was sure I could pull together 
 
 [What wastes time, spreads lies, and divides us?](https://www.techmeme.com/190407/p7?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190407p7)
 
-[www.techmeme.com](https://www.techmeme.com/190407/p7?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190407p7) – [Share](http://rev.vu/aeRVYy?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.techmeme.com](https://www.techmeme.com/190407/p7?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#a190407p7) 
 
 Please retweet this. Oh wait.
 
@@ -110,7 +110,7 @@ The final cherry on top took home the full double meaning and – came from soci
 
 [Patrick Moorhead on Twitter: “We see similar behavior with smokers: I know it’s bad for me and those around me, could lead to my early death, it costs others in medical costs, but I’m going to keep smoking. 🚬… https://t.co/7czaEqKLBD”](https://twitter.com/patrickmoorhead/status/1115026594186366977?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/patrickmoorhead/status/1115026594186366977?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/M2W1Dw?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+  
 
 Exactly.
 

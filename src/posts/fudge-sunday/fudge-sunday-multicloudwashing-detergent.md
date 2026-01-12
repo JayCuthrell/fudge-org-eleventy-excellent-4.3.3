@@ -33,7 +33,7 @@ RightScale was so far ahead of their time.
 
 Spoiler alert: It takes a decade to catch on… sort of.
 
-[twitter.com](https://twitter.com/chrisaddis/status/33694295991001088?s=20&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+ 
 
 Corey Quinn, as per usual, is ahead of everyone else’s comic timing.
 

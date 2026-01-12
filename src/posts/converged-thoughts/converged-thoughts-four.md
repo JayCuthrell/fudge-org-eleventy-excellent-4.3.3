@@ -17,7 +17,7 @@ Side note: If you are enjoying these updates please share them with your peers o
 
 [“listening to old sk00l dave pearce”](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/3217513?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](http://rev.vu/JQbww?utm_campaign=Issue&utm_content=domain&utm_medium=email&utm_source=Fudge+Sunday) - [Share](http://rev.vu/JQbww?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com]()  
 
 10 years ago I signed up for a Twitter account (@qthrul) that would pump out 40,000 tweets in just over 7 years before I moved on to another more professionally namesaked Twitter account (@JayCuthrell).
 

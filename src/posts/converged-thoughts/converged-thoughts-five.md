@@ -14,7 +14,7 @@ The time of the internet connected computing capable *appliance* had arrived. Th
 
 [Chumby - Wikipedia](https://en.wikipedia.org/wiki/Chumby?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[en.wikipedia.org](https://en.wikipedia.org/wiki/Chumby?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/wEOeM?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Chumby?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Little. Alarm clock sized. Always connected.
 
@@ -22,7 +22,7 @@ I also missed mentioning the rise of a new category of converged connectivity in
 
 [Mobile broadband modem - Wikipedia](https://en.wikipedia.org/wiki/Mobile_broadband_modem?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#Integrated_router)
 
-[en.wikipedia.org](https://en.wikipedia.org/wiki/Mobile_broadband_modem?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#Integrated_router) – [Share](http://rev.vu/DOm6k?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Mobile_broadband_modem?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#Integrated_router) 
 
 A mobile broadband modem, also known as a connect card or data card, is a type of modem that allows a laptop, a personal computer or a router to receive Internet access via a mobile broadband connection instead of using telephone or cable television lines. A mobile Internet user can connect using a wireless modem to a wireless Internet Service Provider (ISP) to get Internet access.
 
@@ -50,7 +50,7 @@ What I also missed was the expansion of the connected device *appliance* to come
 
 [Gary Numan - Cars - YouTube](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Ldyx3KHOFXw)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Ldyx3KHOFXw) – [Share](http://rev.vu/PQZdW?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=Ldyx3KHOFXw) 
 
 Suggested soundtrack for this digest…
 
@@ -79,13 +79,13 @@ Now you can use various handheld tablets, netbooks, laptops, computers, and even
 
 [Google Home – Made by Google](https://madeby.google.com/home/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[madeby.google.com](https://madeby.google.com/home/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/lyENV?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[madeby.google.com](https://madeby.google.com/home/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Hands-free help from the Google Assistant. Enjoy music, get answers, manage your everyday tasks, and control smart devices.
 
 [Echo & Alexa - Amazon Devices - Amazon Official Site](https://www.amazon.com/Amazon-Echo-Alexa-Family/b/ref=s9_acss_bw_cg_ODSAuCC_md1_w?node=9818047011&pf_rd_i=9818047011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3cb424d0-a34e-448f-9c50-cadfcf8d9fe7&pf_rd_r=F78A1C6GBSR4ZDFATNKC&pf_rd_s=merchandised-search-3&pf_rd_t=101&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#compare)
 
-[www.amazon.com](https://www.amazon.com/Amazon-Echo-Alexa-Family/b/ref=s9_acss_bw_cg_ODSAuCC_md1_w?node=9818047011&pf_rd_i=9818047011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3cb424d0-a34e-448f-9c50-cadfcf8d9fe7&pf_rd_r=F78A1C6GBSR4ZDFATNKC&pf_rd_s=merchandised-search-3&pf_rd_t=101&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#compare) – [Share](http://rev.vu/Z3Zbl?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.amazon.com](https://www.amazon.com/Amazon-Echo-Alexa-Family/b/ref=s9_acss_bw_cg_ODSAuCC_md1_w?node=9818047011&pf_rd_i=9818047011&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3cb424d0-a34e-448f-9c50-cadfcf8d9fe7&pf_rd_r=F78A1C6GBSR4ZDFATNKC&pf_rd_s=merchandised-search-3&pf_rd_t=101&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter#compare) 
 
 Echo and other Alexa devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
 
@@ -93,13 +93,13 @@ And of course, there are cars. New cars have new options for listening to music.
 
 [Zubie: In Car WiFi Hotspot powered by Verizon 4G LTE Network.](http://zubie.com/in-car-wifi-hotspot/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[zubie.com](http://zubie.com/in-car-wifi-hotspot/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/1xARV?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[zubie.com](http://zubie.com/in-car-wifi-hotspot/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 \*Requires activation on a valid Verizon data plan at point of sale or online. Not available on unlimited data plans. $10 monthly fee includes Zubie connected car service and Verizon access charge. Does not include Verizon data or activation fees, which vary based on your shared data plan. For more details on how to activate, click here.
 
 [4G LTE In-Car Wi-Fi: Features & Information | Chevrolet](http://www.chevrolet.com/4g-lte-in-car-wifi.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.chevrolet.com](http://www.chevrolet.com/4g-lte-in-car-wifi.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/wEOkX?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.chevrolet.com](http://www.chevrolet.com/4g-lte-in-car-wifi.html?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Discover how Chevy’s 4G LTE in-car Wi-Fi is the most reliable way to stay connected while on the go.
 

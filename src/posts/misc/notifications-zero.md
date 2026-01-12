@@ -30,7 +30,7 @@ Notifications Zero and Notifications Bankruptcy
 
 [Inbox Zero - YouTube](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=z9UjeTMb3Yk)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=z9UjeTMb3Yk) – [Share](http://rev.vu/beY5R?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=z9UjeTMb3Yk) 
 
 [Inbox Zero and email bankruptcy are “decade ago” nostalgia milestones Long Live Notifications Zero #chatops #mobile https://t.co/4RHHkizRcI](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/813130283880947713?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
@@ -54,10 +54,10 @@ BTW, you can find me here on Slack clearing my notifications:
 
 [{code} Community](http://community.emccode.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[community.emccode.com](http://community.emccode.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/M96y5?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[community.emccode.com](http://community.emccode.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 [Slack Team for {code} Community](https://codecommunity.slack.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[codecommunity.slack.com](https://codecommunity.slack.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/9OxQo?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[codecommunity.slack.com](https://codecommunity.slack.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 {code} Community is powered by the fine folks at Dell EMC {code} Community

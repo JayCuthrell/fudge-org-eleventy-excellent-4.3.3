@@ -15,13 +15,13 @@ Running the snake was an occasional problem when the venue wasn’t purpose buil
 
 [Intro to Mixer and Basic live sound setup Pt. 6.1: Stage Snake](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=3xNAtbXmDI8)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=3xNAtbXmDI8) – [Share](http://rev.vu/kdK69D?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=3xNAtbXmDI8) 
 
 When there are a lot of instruments and a desire for great drum sound there will be a lot of inputs. When there are a lot of inputs the snake gets thicker. Luckily, some really smart engineers decided that analog-digital conversion might be a way to simplify the ever thickening cable of the snake and allow the use of low cost Ethernet to replace the original snake bundle of cables.
 
 [Behringer X32 - AES50 Digital Snake Cable Build - EtherCon Connector](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=02dksd-eTzg)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=02dksd-eTzg) – [Share](http://rev.vu/XG8dEd?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=02dksd-eTzg) 
 
 # Ethernet FTW!
 
@@ -31,7 +31,7 @@ So, if the engineers that tried Ethernet were really smart, the next wave of aud
 
 [How to use the BEHRINGER X32 remote app for iPad - XiCONTROL](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=RisOvJABh4I)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=RisOvJABh4I) – [Share](http://rev.vu/R35yj9?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=RisOvJABh4I) 
 
 # Mobile console FTW!
 
@@ -41,7 +41,7 @@ But how would you communicate with the band through the monitors to get the soun
 
 [Wireless Fitness Headset Microphone — Shure Fitness Headset Mic Review](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=uhk_dx6LRUI)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=uhk_dx6LRUI) – [Share](http://rev.vu/M250kq?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=uhk_dx6LRUI) 
 
 Amazing.
 
@@ -49,7 +49,7 @@ The direction of the industry will likely shift over time and take advance of th
 
 [Quiet Clubbing](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=j30fQ74bOKw)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=j30fQ74bOKw) – [Share](http://rev.vu/OaRm9x?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=j30fQ74bOKw) 
 
 An interesting concept.
 
@@ -57,7 +57,7 @@ Regardless, even the most back to basic sounding bands will push the envelope of
 
 [Black Sabbath „The End“ Tour 2017 • Interview with FoH Greg Price](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=FW9Df_-FjBg)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=FW9Df_-FjBg) – [Share](http://rev.vu/7Pn8jX?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=FW9Df_-FjBg) 
 
 Gregory R. Price on making the mix amazing everywhere every single time.
 

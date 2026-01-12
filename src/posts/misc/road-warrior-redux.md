@@ -27,7 +27,7 @@ From 1999 to 2002 there was a lot of travel I signed up for as a global .com era
 
 [Tel Aviv Traceroute ( 2000 )](https://fudge.org/archive/tel-aviv-traceroute/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/tel-aviv-traceroute/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/69bRb4?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/tel-aviv-traceroute/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Because it’s totally normal to blog about a traceroute?
 
@@ -35,7 +35,7 @@ There was a time when a flight from RDU to EWR was $88 round trip on an airline 
 
 [Here It Comes ( 2001 )](https://fudge.org/archive/here-it-comes/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/here-it-comes/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/WRNDWv?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/here-it-comes/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 It was another time.
 
@@ -81,7 +81,7 @@ After semi-retiring and consulting for a few years it was getting easier to trav
 
 [Airwaves vs Airlines ( 2010 )](https://fudge.org/archive/airwaves-vs-airlines/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/archive/airwaves-vs-airlines/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/dM8V7O?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/airwaves-vs-airlines/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 In which I wondered if there was a better way to be *there*.
 
@@ -89,7 +89,7 @@ Eventually, the patterns of modern audio, video, and screen based collaboration 
 
 [A Conference Call in Real Life](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=kNz82r5nyUw)
 
-[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=kNz82r5nyUw) – [Share](http://rev.vu/JyqKqP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=kNz82r5nyUw) 
 
 Trigger warning. :-)
 
@@ -125,6 +125,6 @@ That’s all for now. Thanks again for subscribing and… get ready for even mor
 
 [Growth of global air traffic passenger demand 2019](https://www.statista.com/statistics/193533/growth-of-global-air-traffic-passenger-demand/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[www.statista.com](https://www.statista.com/statistics/193533/growth-of-global-air-traffic-passenger-demand/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/R3ldxx?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[www.statista.com](https://www.statista.com/statistics/193533/growth-of-global-air-traffic-passenger-demand/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) 
 
 Here comes another six percent on top of the rising trend
