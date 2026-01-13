@@ -5,4 +5,22 @@ description: "Busy week with hosting events, planning future gatherings, and tra
 date: 2024-06-21 16:35:16.334897+00:00
 ---
 
-<h1>Final Thoughts Friday for 2024-06-21</h1><p>Looking back at the week with an eye to the future.</p><p style="text-align: start">This week went by in a flash. I hosted <a target="_blank" rel="noopener noreferrer nofollow" href="https://lu.ma/y073h3oa">an event</a> this morning too.</p><p>Regular readers know I normally work out of The Vault in Beaufort, NC USA. While the parking is not free, the view is legit and weather was nice <a target="_blank" rel="noopener noreferrer nofollow" href="https://lu.ma/y073h3oa">this morning</a>.</p><p>In fact, I’m considering making this event a weekly occurrence. I’ve already created the event for next week.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://lu.ma/7d2bcsvg"><span style="color: rgb(19, 21, 23)">https://lu.ma/7d2bcsvg</span></a></p><p>This week, I also published a full week of “Free Preview” posts for Hot Fudge Daily on Fudge Sunday.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/hot-fudge-daily-digest/">https://fudge.org/archive/hot-fudge-daily-digest/</a></p><p>Again, I’ll likely collapse <a target="_blank" rel="noopener noreferrer nofollow" href="http://fudge.org">fudge.org</a> content that is exclusively newsletter content into <a target="_blank" rel="noopener noreferrer nofollow" href="http://fudge.org">fudge.org</a> for ONLY newsletters and reclaim <a target="_blank" rel="noopener noreferrer nofollow" href="http://fudge.org">fudge.org</a> as a blogging platform. We shall see.</p><p>For Hot Fudge Daily, I changed to a $9.99 yearly subscription since Stripe taking 1/3 of $0.99 monthly revenue in the prior fee structure. 🤯🧐💸</p><ol class="footnotes"></ol>
+# Final Thoughts Friday for 2024-06-21
+
+Looking back at the week with an eye to the future.
+
+This week went by in a flash. I hosted [an event](https://lu.ma/y073h3oa) this morning too.
+
+Regular readers know I normally work out of The Vault in Beaufort, NC USA. While the parking is not free, the view is legit and weather was nice [this morning](https://lu.ma/y073h3oa).
+
+In fact, I’m considering making this event a weekly occurrence. I’ve already created the event for next week.
+
+<https://lu.ma/7d2bcsvg>
+
+This week, I also published a full week of “Free Preview” posts for Hot Fudge Daily on Fudge Sunday.
+
+<https://fudge.org/archive/hot-fudge-daily-digest/>
+
+Again, I’ll likely collapse [fudge.org](http://fudge.org) content that is exclusively newsletter content into [fudge.org](http://fudge.org) for ONLY newsletters and reclaim [fudge.org](http://fudge.org) as a blogging platform. We shall see.
+
+For Hot Fudge Daily, I changed to a $9.99 yearly subscription since Stripe taking 1/3 of $0.99 monthly revenue in the prior fee structure. 📉💸💵
