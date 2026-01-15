@@ -3,6 +3,7 @@ title: "GenAI June"
 description: "A look at GenAI, hot takes, and a punditry index"
 date: 2024-06-02
 ---
+
 This week we take a look at GenAI, hot takes, and a punditry index
 
 ## Housekeeping
@@ -29,11 +30,15 @@ Furthermore, I am readying the launch of a new daily paid newsletter subscriptio
 
 🗓️ This week, I am honored to be a [Tech Field Day delegate](https://techfieldday.com/people/jay-cuthrell/) at [Qlik Connect](https://www.qlikconnect.com/) in Orlando.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7202852799137599488" height="413" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7202852799137599488](https://www.linkedin.com/embed/feed/update/urn:li:share:7202852799137599488) has been removed.
+
 
 🗓️ Want to combine forces or see your event listed here? [Let's chat!](https://cuthrell.consulting/contact/)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7202677324935249920" height="625" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7202677324935249920](https://www.linkedin.com/embed/feed/update/urn:li:share:7202677324935249920) has been removed.
+
 
 Now, back to our regularly scheduled Fudge Sunday newsletter! 🤓
 
@@ -63,7 +68,9 @@ But GenAI isn't magic and all-knowing, yet. Far from it.
 
 For example, I asked a simple question of all the major GenAI players this week. [Who am I](https://www.linkedin.com/posts/jaycuthrell_learningintheopen-genai-rag-activity-7200669582796177410-k1M7?utm_source=share&utm_medium=member_desktop)?
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7200669581953105920" height="814" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7200669581953105920](https://www.linkedin.com/embed/feed/update/urn:li:share:7200669581953105920) has been removed.
+
 
 ### Hot Takes
 

@@ -4,6 +4,7 @@ description: 'A look back at the MACH Alliance and the future ahead'
 date: 2024-03-22
 ---
 
+
 This week we're going to look back at the MACH Alliance and the future ahead for Enterprise software application experiences.
 
 ## Getting Informed
@@ -104,7 +105,11 @@ A few readers have asked for my favorite links for the week to make a return. Al
 
 [![blippy.com swag](https://live.staticflickr.com/4104/5034116185_8de34dbf40_n.jpg 'deeply personal @blippy prize pack  ;-)')](https://flic.kr/p/8ERamD)
 
-<iframe src="https://cuthrell.com/@jay/112151866840221676/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://cuthrell.com/embed.js" async="async"></script>
+
+> **Note:** Embedded content from [https://cuthrell.com/@jay/112151866840221676/embed](https://cuthrell.com/@jay/112151866840221676/embed) has been removed.
+
+> *[Interactive script removed]*
+
 
 ## Thank you for reading
 

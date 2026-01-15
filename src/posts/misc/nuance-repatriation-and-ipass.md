@@ -4,6 +4,7 @@ description: A look at the speech to text, edge core cloud directions, and open 
 date: 2023-10-15
 ---
 
+
 This week we take a look at speech to text, edge core cloud directions, and open source iPaaS.
 
 The format this week is slightly different because I managed to injure myself in such a way that typing is not joyful. Much of what you're reading here is speech to text — courtesy of Apple.
@@ -86,7 +87,11 @@ In terms of workload placement in non-hyperscale cloud service providers, there 
 Finally, if integrated sounds good, then integration platform as a service (iPaaS) may sound even better. This weekend I decided to connect Slack to Mastodon using [Activepieces](https://github.com/activepieces) which is an open source iPaaS project aiming to provide features and functionality similar to Zapier, Tray, MuleSoft, and Boomi.
 
 
-<iframe src="https://cuthrell.com/@jay/111240801254644267/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://cuthrell.com/embed.js" async="async"></script>
+
+> **Note:** Embedded content from [https://cuthrell.com/@jay/111240801254644267/embed](https://cuthrell.com/@jay/111240801254644267/embed) has been removed.
+
+> *[Interactive script removed]*
+
 
 Fun!
 

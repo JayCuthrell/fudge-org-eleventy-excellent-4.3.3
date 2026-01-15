@@ -3,13 +3,16 @@ title: "Sprawl Walk Run"
 description: "Part 1: A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
 date: 2024-06-30
 ---
+
 This week we take a look at silo spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.
 
 ## Getting Informed
 
 Earlier this month, I was fortunate to attend [Qlik Connect 2024](https://www.linkedin.com/pulse/reflecting-qlik-connect-2024-jay-cuthrell-p7gpe/). I've had a few weeks to collect my thoughts and go deeper on a handful of Qlik related topics.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7203608022646996992" height="540" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7203608022646996992](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7203608022646996992) has been removed.
+
 
 As I walked the Qlik Connect Expo floor, several Qlik Partners were presenting what they do in booths and sessions along the edge of the show floor. Two major ([Qlik Sense](https://www.qlik.com/us/products/qlik-sense)) related themes that I picked up on were the importance of **writeback** and **visualizations** to Qlik Connect attendees.
 
@@ -29,7 +32,9 @@ Without writeback, you are likely perpetuating [silo spreadsheet sprawl](/topics
 
 During the Qlik Connect event, a [data art installation](https://www.linkedin.com/posts/jaycuthrell_qlikconnect-tfdx-activity-7203814575480127488-8PWJ?utm_source=share&utm_medium=member_desktop) caught my attention. I believe these are called "attendee data sculptures" since they are an accessible and aesthetically pleasing attendee contribution art installation at a conference or event. My understanding of the visualization is a parallel coordinates plot which indicates the relationships of multivariate numerical data.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7203814549815242753" height="1119" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7203814549815242753](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7203814549815242753) has been removed.
+
 
 When I shared the art installation story with the folks in the [Inphinity](https://myinphinity.com/feature-overview/) booth we had a short discussion on the key lessons on display.
 

@@ -5,11 +5,14 @@ date: 2024-02-11
 tags: [11ty]
 ---
 
+
 This week is a look at enhancing 11ty by extending the RSS feed of my newsletter archive and blog to include an enclosure that borrows from Open Graph image functionality with the intent of populating the input for Activepieces as a [POSSE](/topics/posse) tool for posting to Mastodon and LinkedIn. That was a mouthful.
 
 My inspiration? [spyglass.org](https://spyglass.org)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7161019681313595395" height="385" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7161019681313595395](https://www.linkedin.com/embed/feed/update/urn:li:share:7161019681313595395) has been removed.
+
 
 https://www.linkedin.com/feed/update/urn:li:activity:7161019682546733056/
 
@@ -134,7 +137,11 @@ If so -- [let's catch up](https://jaycuthrell.com/contact/) in the real world.
 
 I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14) (so far).
 
-<iframe src="https://cuthrell.com/@jay/111774189599544610/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://cuthrell.com/embed.js" async="async"></script>
+
+> **Note:** Embedded content from [https://cuthrell.com/@jay/111774189599544610/embed](https://cuthrell.com/@jay/111774189599544610/embed) has been removed.
+
+> *[Interactive script removed]*
+
 
 ## Disclosure
 

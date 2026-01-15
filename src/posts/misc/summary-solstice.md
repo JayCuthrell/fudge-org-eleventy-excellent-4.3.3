@@ -3,6 +3,7 @@ title: "Summary Solstice"
 description: "A fork in the road for summaries approaches"
 date: 2024-06-23
 ---
+
 This week is the last weekly digest of [Hot Fudge Daily](https://fudge.org). Details on why are below. 👇
 
 ## Housekeeping
@@ -13,7 +14,9 @@ This week is the last weekly digest of [Hot Fudge Daily](https://fudge.org). Det
 
 🎧 [Banking on Disruption Podcast](https://www.linkedin.com/company/banking-on-disruption-podcast/) and [Fred Cadena](https://www.linkedin.com/in/fredcadena/) spoke with [me](https://www.linkedin.com/in/jaycuthrell/) on the topic of how "[Complexity Kills Innovation](https://podcasts.apple.com/us/podcast/banking-on-disruption/id1521180200?i=1000658893768)". [(click here to listen 🎧)](https://podcasts.apple.com/us/podcast/banking-on-disruption/id1521180200?i=1000658893768)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7208492167864958979" height="508" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7208492167864958979](https://www.linkedin.com/embed/feed/update/urn:li:share:7208492167864958979) has been removed.
+
 
 ## Getting Informed
 

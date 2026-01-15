@@ -3,6 +3,7 @@ title: "Hot Fudge Daily Digest"
 description: "A weekly digest of Hot Fudge Daily"
 date: 2024-06-16
 ---
+
 This week is a weekly digest of [Hot Fudge Daily](https://fudge.org).
 
 ## Housekeeping
@@ -18,9 +19,12 @@ If you'd like to learn more about these [amazing speakers](https://www.linkedin.
 - [Susan Wall](https://www.linkedin.com/in/susan-wall-1790b84/): COO at Corevist
 - [Stephanie Modica](https://www.linkedin.com/in/smodica): Head of Data Experience & Design at Gemini Sports Analytics
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7207141635267186688" height="772" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7207155795589820417" height="709" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7207141635267186688](https://www.linkedin.com/embed/feed/update/urn:li:share:7207141635267186688) has been removed.
+
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7207155795589820417](https://www.linkedin.com/embed/feed/update/urn:li:share:7207155795589820417) has been removed.
+
 
 If you have suggestions for a future conference I should attend and write about, [let me know](https://cuthrell.consulting/contact/). 🤓
 

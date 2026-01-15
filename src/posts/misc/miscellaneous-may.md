@@ -3,6 +3,7 @@ title: "Miscellaneous May"
 description: "A.I. chips, B.Y.O.A.I., and V.O.W.E.L."
 date: 2024-05-26
 ---
+
 This week we take a look at A.I. chips, B.Y.O.A.I., and V.O.W.E.L.
 
 ## Housekeeping
@@ -73,7 +74,9 @@ Indeed, a focus on what matters most within Enterprise IT might mean BYOAI becom
 
 Of course, A.I. had a few rough patches this week with hallucinations, back and forth for clicks in the press, and allegations of outright lawlessness. For a bit of levity, [I tested Google Gemini to see if the A.I. lulz viral images were replicable](https://www.linkedin.com/feed/update/urn:li:activity:7200117382156087298/)... and in one such case, it was not.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7200117380327309312" height="1087" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7200117380327309312](https://www.linkedin.com/embed/feed/update/urn:li:share:7200117380327309312) has been removed.
+
 
 [Alleged photoshop for lulz](https://www.techmeme.com/240524/p17#a240524p17) aside, the "big if true" part of the A.I. drama is not now or if but when BYOAI has the first post-mortem story that generates clicks — and, more importantly, what industry and practitioners do to restore confidence in BYOAI.
 
@@ -81,7 +84,9 @@ Of course, A.I. had a few rough patches this week with hallucinations, back and 
 
 Continuing with my own BYOAI learning in the open, [I decided to try my hand at Google AI Studio](https://www.linkedin.com/feed/update/urn:li:activity:7200222491296813056/) this week.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7200222488990019584" height="1108" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7200222488990019584](https://www.linkedin.com/embed/feed/update/urn:li:share:7200222488990019584) has been removed.
+
 
 Again, I'm an untalented developer but GenAI and eventually BYOAI is going to help me personally with certain coding hurdles.
 
@@ -89,7 +94,9 @@ Again, I'm an untalented developer but GenAI and eventually BYOAI is going to he
 
 Additionally, this week I decided to see what time would be required to [create a M&A investment educational slide deck with themes, facts, summaries, etc](https://www.linkedin.com/feed/update/urn:li:activity:7198719257977700352/). The results were impressive but also highlighted where the BYOAI momentum will impact certain kinds of brute force facts gathering work as well as low rate card consulting activities.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7198719257180860416" height="585" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7198719257180860416](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7198719257180860416) has been removed.
+
 
 Perhaps one day there might even be [an A.I. assistant that helps you when your online meeting goes sideways](https://www.linkedin.com/advice/3/what-do-you-virtual-facilitation-software-failing-7p7ac?contributionUrn=urn%3Ali%3Acomment%3A%28articleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7187176499614027777%2C7187176501061017600%29%2C7200237686001909761%29&dashContributionUrn=urn%3Ali%3Afsd_comment%3A%287200237686001909761%2CarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7187176499614027777%2C7187176501061017600%29%29&articleSegmentUrn=urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7187176499614027777%2C7187176501061017600%29&trackingId=qv%2Fl%2Bv%2BrykS8zLn%2FnJDqew%3D%3D&utm_source=share&utm_campaign=copy_contribution_link&utm_medium=member_desktop).
 

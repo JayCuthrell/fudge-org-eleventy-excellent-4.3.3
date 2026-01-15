@@ -4,6 +4,7 @@ description: 'A look at low latency networks as defined in the early 2020s'
 date: 2023-12-10
 ---
 
+
 *Note: This post will draw heavily upon [Techmeme](https://www.techmeme.com) for links. I'm experimenting with the use of [unfurl](https://github.com/daviddarnes/eleventy-plugin-unfurl) for markdown links to provide a summary card automatically.*
 
 What happens when a request for comments ([RFC](https://en.wikipedia.org/wiki/Request_for_Comments)) becomes more than commentary?
@@ -30,7 +31,11 @@ As technology is the response to a perceived need, there is a need to decrease l
 
 https://www.techmeme.com/231209/p10#a231209p10
 
-<iframe src="https://cuthrell.com/@jay/111553083189338499/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://cuthrell.com/embed.js" async="async"></script>
+
+> **Note:** Embedded content from [https://cuthrell.com/@jay/111553083189338499/embed](https://cuthrell.com/@jay/111553083189338499/embed) has been removed.
+
+> *[Interactive script removed]*
+
 
 We're now entering the world of Low Latency, Low Loss, and Scalable Throughput (L4S).
 

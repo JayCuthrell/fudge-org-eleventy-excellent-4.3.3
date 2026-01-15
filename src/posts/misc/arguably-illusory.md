@@ -4,13 +4,16 @@ description: "A look at times when A.I. hype might outpace reality"
 date: 2024-04-07
 ---
 
+
 This week we take a look at times when A.I. hype might outpace reality.
 
 ## Gartner Hype Cycle Says
 
 ~7 months ago... A.I. reached the glorious peak of [inflated expectations](https://www.linkedin.com/feed/update/urn:li:activity:7109565516712665091/).
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7109565512820350976" height="772" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7109565512820350976](https://www.linkedin.com/embed/feed/update/urn:li:share:7109565512820350976) has been removed.
+
 
 And now...
 

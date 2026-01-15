@@ -3,6 +3,7 @@ title: "Project Liberty & DSNP"
 description: "A look at Project Liberty and Decentralized Social Networking Protocol"
 date: 2024-06-09
 ---
+
 This week we take a look at Project Liberty and Decentralized Social Networking Protocol.
 
 ## Housekeeping
@@ -15,7 +16,9 @@ This week we take a look at Project Liberty and Decentralized Social Networking 
 
 🗓️ Last week, I was honored to be a [Tech Field Day delegate](https://techfieldday.com/people/jay-cuthrell/) at [Qlik Connect](https://www.qlikconnect.com/) in Orlando. I've published [Reflecting on Qlik Connect 2024](https://www.linkedin.com/pulse/reflecting-qlik-connect-2024-jay-cuthrell-p7gpe/) in LinkedIn Article format with my notes and observations.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7204455900105887744" height="751" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7204455900105887744](https://www.linkedin.com/embed/feed/update/urn:li:share:7204455900105887744) has been removed.
+
 
 If you have suggestions for a future conference I should attend and write about, [let me know](https://cuthrell.consulting/contact/). 🤓
 

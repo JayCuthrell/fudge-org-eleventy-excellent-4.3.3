@@ -3,6 +3,7 @@ title: "Hanging Out My Shingle"
 description: "One door closes, JSC, Startup Week, my shingle, and what's next"
 date: 2024-04-14
 ---
+
 This week we take a look at how one door closes, Job Search Council, Raleigh-Durham Startup Week 2024, and what's next for me.
 
 ## Getting Informed
@@ -45,13 +46,17 @@ Third, I was fortunate to attend [Raleigh-Durham Startup Week 2024](https://www.
 
 Of particular note, the event used a compelling mobile app from [Whova](https://whova.com) that I hope SXSW will consider for SXSW 2026. One of the cool features that [Whova](https://whova.com) offered was the ability to create, coordinate, and update attendee meetups. As a result, I was able to quickly create an ad hoc newsletter writer meetup with only a few clicks. 🤓
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7183878739280187393" height="688" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7183878739280187393](https://www.linkedin.com/embed/feed/update/urn:li:share:7183878739280187393) has been removed.
+
 
 ### Hello World
 
 Third, I am [hanging out my shingle](https://cuthrell.consulting) _again_. After soaking up some [Raleigh-Durham Startup Week 2024](https://www.raleighdurhamstartupweek.com) positive vibes energy and pulling a late evening website refresh, I shared a quick update on LinkedIn.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7184396649664815104" height="301" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7184396649664815104](https://www.linkedin.com/embed/feed/update/urn:li:share:7184396649664815104) has been removed.
+
 
 Of course, now the real work begins. Right now, I'm using my ```cuthrell.com``` domain for Mastdon/Fediverse purposes. Eventually, I'll decide on any other shorthand .TLD variants but [cuthrell.consulting](https://cuthrell.consulting) will get the job done for now.
 

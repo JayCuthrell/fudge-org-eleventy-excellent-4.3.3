@@ -4,13 +4,16 @@ description: 'My end of day notes from SXSW 2024 Days 4-9'
 date: 2024-03-17
 ---
 
+
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)
 > See also: [SXSW 2024 Days 1-3](/archive/sxsw-2024-days-1-3/)
 > See also: [SXSW 2024 Days 4-9](/archive/sxsw-2024-days-4-9/)
 
 Disclosure, as of this update [I work for IBM](https://jaycuthrell.com/disclosure/). As a reminder, for SXSW 2024, [IBM sponsored the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/) and I posted updates on [my LinkedIn](https://www.linkedin.com/in/jaycuthrell) to capture these amazing moments during discussion about A.I. and quantum computing.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7174760218642284544" height="646" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7174760218642284544](https://www.linkedin.com/embed/feed/update/urn:li:share:7174760218642284544) has been removed.
+
 
 ## A personal note...
 
@@ -75,7 +78,9 @@ Above all, the panel was balanced and complimentary. To paraphrase, if science f
 
 In strong SXSW tradition, [Amy Webb's talk](https://www.youtube.com/watch?v=5uLSDbh6M_U&t=285s) was both celebrated, dissected, and possibly even [micro-lampooned](https://variety.com/2024/tv/news/sxsw-audiences-boo-videos-artificial-intelligence-ai-1235940454/).
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7172628976631279616" height="339" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7172628976631279616](https://www.linkedin.com/embed/feed/update/urn:li:share:7172628976631279616) has been removed.
+
 
 Webb wasn't the only speaker to make repeated reference to Large Action Models (LAMs). LAMs have always been part of the predictions for future applications of applied machine learning. After all, if the market wants great products and services, it requires beneficially trained models intended to simulate, iterate, and approximate an understanding of actual consumer intent that can help predict what subsequent actions to take that delight the consumer.
 
@@ -149,19 +154,25 @@ During [Unconventional A.I. - Exploring Orthogonal Strategies](https://schedule.
 
 Lastly on the product management friction front, if you don't think strategy maps are getting closer to the design community — think again.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7173043226231189505" height="303" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7173043226231189505](https://www.linkedin.com/embed/feed/update/urn:li:share:7173043226231189505) has been removed.
+
 
 ### 🏗️ Brands are building
 
 There were many familiar brands at SXSW 2024. I also learned of brands that were new to me and those that are partnering.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7172328589860794368" height="646" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7172328589860794368](https://www.linkedin.com/embed/feed/update/urn:li:share:7172328589860794368) has been removed.
+
 
 A favorite brand of mine is Delta Airlines. Working at 37k feet is something I've done for as long as inflight Internet access was offered and I've paid a premium for that access.
 
 This year and into 2025, Delta Airlines will roll out Delta Sync which offers free inflight Internet access as part of a wider vision for inflight entertainment and connectivity (IFEC) via Ka-band GEO satellite-based services [from Viasat](https://news.delta.com/numbers-delta-sync-seatback-brings-more-skymiles-members). 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7174838031697235969" height="496" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7174838031697235969](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7174838031697235969) has been removed.
+
 
 I can't wait to travel again and experience Delta Sync to see what has been built and what's next.
 

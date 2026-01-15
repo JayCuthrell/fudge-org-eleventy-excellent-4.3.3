@@ -4,6 +4,7 @@ description: 'A look at the past, present, and future of security on conference 
 date: 2024-01-28
 ---
 
+
 This week is a look at the placement of security topics on conference agendas. Does security *always* come last?
 
 ## Getting Informed
@@ -54,7 +55,11 @@ I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favo
 
 Link: [https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14](https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14)
 
-<iframe src="https://cuthrell.com/@jay/111774189599544610/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://cuthrell.com/embed.js" async="async"></script>
+
+> **Note:** Embedded content from [https://cuthrell.com/@jay/111774189599544610/embed](https://cuthrell.com/@jay/111774189599544610/embed) has been removed.
+
+> *[Interactive script removed]*
+
 
 ## Reading Suggestions
 

@@ -3,6 +3,7 @@ title: "Run Fly Visualize"
 description: "Part 2: A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
 date: 2024-07-07
 ---
+
 This week we continue to take a look at silo spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.
 
 ## Getting Informed
@@ -23,7 +24,9 @@ Last week, in "[Sprawl, Walk, Run](/spawl-walk-run/)" the topic of [writeback](/
 
 Several Qlik partners at [Qlik Connect](https://www.linkedin.com/pulse/reflecting-qlik-connect-2024-jay-cuthrell-p7gpe/) pitched how they enhanced, simplified, or customized visualizations as part of their offerings. Notably, a session along the edge of the show floor involving [the topic of Qlik native visualizations](https://www.linkedin.com/posts/jaycuthrell_visualizations-analytics-qlikconnect-activity-7204208188487811074-CsH0?utm_source=share&utm_medium=member_desktop) overflowed into the halls. 🤯
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7204208187237937155" height="667" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7204208187237937155](https://www.linkedin.com/embed/feed/update/urn:li:share:7204208187237937155) has been removed.
+
 
 How does one interpret such an appetite for visualization content and updates? Carefully.
 

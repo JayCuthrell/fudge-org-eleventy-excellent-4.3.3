@@ -4,9 +4,12 @@ description: A look at LLM, LLMOps, HARO, and SRE
 date: 2023-10-29
 ---
 
+
 This week we take a look at Large Language Model (LLM) hype, LLM Operations (LLMOps), Help A Reporter Out (HARO), and Site Reliabiity Engineer (SRE) learnings over the past twenty (20!) years.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jcuthrell/53294760162/in/datetaken-family/" title="Large Language Marmalade"><img src="https://live.staticflickr.com/65535/53294760162_b1228d1298_c.jpg" width="800" height="800" alt="Large Language Marmalade"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jcuthrell/53294760162/in/datetaken-family/" title="Large Language Marmalade"><img alt="Large Language Marmalade" height="800" src="https://live.staticflickr.com/65535/53294760162_b1228d1298_c.jpg" width="800"/></a>
+> *[Interactive script removed]*
+
 
 *Adobe Firefly prompt: "A photo of a marmalade jar with a blank front label on an old wooden table" Canva manually added label text: "Large Language Marmalade"*
 

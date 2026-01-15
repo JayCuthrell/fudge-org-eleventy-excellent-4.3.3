@@ -4,6 +4,7 @@ description: 'My end of day notes from SXSW 2024 Days 1-3'
 date: 2024-03-10
 ---
 
+
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)
 > See also: [SXSW 2024 Days 1-3](/archive/sxsw-2024-days-1-3/)
 > See also: [SXSW 2024 Days 4-9](/archive/sxsw-2024-days-4-9/)
@@ -16,11 +17,15 @@ First, I attended [Quantum Computing: Real, Revolutionary, Right Now!](https://s
 
 [^panel]: Somehow, the only person I didn't already know on the panel was my fellow IBMer — but now the world is a bit smaller than before. 🤣 *awesome panel*. While the published stories are just beginning to emerge on practical applications of quantum computing, a novel [shipping logistics application of quantum computing](https://www.youtube.com/watch?v=jA7iopqDm94) from last year was mentioned during the panel. *knapsack problem use cases are fascinating*.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7172352667053211648" height="688" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7172352667053211648](https://www.linkedin.com/embed/feed/update/urn:li:share:7172352667053211648) has been removed.
+
 
 Second, I attended [Why We Should Be Talking About Quantum](https://schedule.sxsw.com/2024/events/PP133385) featuring [Heather Higgins](https://www.linkedin.com/in/heatherhiggs?trk=public_post_embed-text) of [IBM](https://www.linkedin.com/company/ibm?trk=public_post_embed-text) and [Wade Davis](https://www.linkedin.com/in/jwadedavis?trk=public_post_embed-text) of [Moderna](https://www.linkedin.com/company/modernatx?trk=public_post_embed-text). Some of the practical examples shared highlighted convergence in mRNA research, protein folding research, classical computing, and quantum computing.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7172699957932580864" height="688" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7172699957932580864](https://www.linkedin.com/embed/feed/update/urn:li:share:7172699957932580864) has been removed.
+
 
 The lesson I've learned is that the next day [SXXpress Passes](https://www.sxsw.com/attend/sxxpress/) available in the SXSW GO app need to be refreshed on your device at 9:00 AM CT with no exceptions. If you wait even 15 minutes, you will see the available passes dwindle rapidly.
 
@@ -36,7 +41,9 @@ Tomorrow, I'll be catching a few more IBMer sessions.
 
 This year the lines for keynotes meant I needed to vote with my feet. Instead of standing in lines, I opted for discussions in hallways and grabbing coffee to catch up with industry attendees, alliance partners, clients/customers, and IBMers. Thankfully, there were helpful folks able to share things I missed! 🙏
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7172628976631279616" height="586" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+> **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7172628976631279616](https://www.linkedin.com/embed/feed/update/urn:li:share:7172628976631279616) has been removed.
+
 
 ### Films
 

@@ -4,6 +4,7 @@ description: 'A look at Polars, Cerebras, VAST, Weka, FHE, and much more.'
 date: 2024-01-14 
 ---
 
+
 This week is a potpourri of topics. Buckle up and let's go down the rabbit hole(s).
 
 ## Getting Informed
@@ -69,7 +70,11 @@ Now that Fudge Sunday has a growing list of [topics](/topics/), this section is 
 
 I'm already at risk of crossing over into 1000 words but...
 
-<iframe src="https://cuthrell.com/@jay/111755372790794111/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://cuthrell.com/embed.js" async="async"></script>
+
+> **Note:** Embedded content from [https://cuthrell.com/@jay/111755372790794111/embed](https://cuthrell.com/@jay/111755372790794111/embed) has been removed.
+
+> *[Interactive script removed]*
+
 
 So, what will be the next big thing interoperability and convergence?
 
