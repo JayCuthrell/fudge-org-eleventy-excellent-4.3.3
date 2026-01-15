@@ -8,7 +8,8 @@ date: 2024-07-25 10:06:35+00:00
 
 
 
-<h1>🔙 Throwback Thursday for 2024-07-25</h1>
+
+# 🔙 Throwback Thursday for 2024-07-25
 
 🏖️ We’re taking a break this week for the summer 🏖️
 

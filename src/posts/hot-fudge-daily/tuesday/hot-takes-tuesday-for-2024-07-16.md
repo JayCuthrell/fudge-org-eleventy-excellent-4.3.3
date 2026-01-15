@@ -7,11 +7,14 @@ date: 2024-07-17 03:25:05.142725+00:00
 
 
 
-<h1>🔥 Hot Takes Tuesday for 2024-07-16</h1>
+
+# 🔥 Hot Takes Tuesday for 2024-07-16
 
 Off the cuff analysis in a rapid fire format.
 
-Let’s dig in…<h2>Funds, Funding, and M&A</h2>
+Let’s dig in…
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240716/p24#a240716p24](https://www.techmeme.com/240716/p24#a240716p24)
 

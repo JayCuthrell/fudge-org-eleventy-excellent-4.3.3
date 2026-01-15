@@ -8,29 +8,32 @@ date: 2024-09-01 13:30:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 <hr/>
-<h1>Hot Fudge Daily Digest</h1>
+
+# Hot Fudge Daily Digest
+
 <hr/>
-<h3>📈 Markets Monday for 2024-08-26</h3>
+
+### 📈 Markets Monday for 2024-08-26
 
 According to the tech press, the future of the tech market in Markets Monday will hinge upon NVIDIA earnings on Wednesday August 28, 2024… if you believe the tech press. I kind of don’t but here we go.
 
 [![NVIDIA is up a lot over a long time](https://assets.buttondown.email/images/f5c51ef4-a50f-4a63-a8ef-705cbedf9067.png?w=960&fit=max)](https://finance.yahoo.com/quote/NVDA/)
 *NVIDIA as I typed this update*
 
-<h4>Last week</h4>
+#### Last week
 
 As a recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things.
 
 [![Heatmap of tech stocks](https://assets.buttondown.email/images/50980e83-1e35-4cd6-ae70-e20d1f26ca12.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
 *A healthy mix of things as of Sunday August 25, 2025*
 
-<h4>This week</h4>
+#### This week
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
@@ -39,22 +42,23 @@ Previously, I decided on a view from Yahoo Finance. For example, this was a view
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
 
-* % Change in Price (Intraday):<strong>greater than 4</strong>
+* % Change in Price (Intraday):**greater than 4**
 
-* Region: <strong>United States</strong>
+* Region: **United States**
 
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
 
-* Price (Intraday):<strong>greater than or equal 5</strong>
+* Price (Intraday):**greater than or equal 5**
 
-* Volume:<strong>greater than 15000</strong>
+* Volume:**greater than 15000**
 
-* Sector: <strong>Technology</strong>
+* Sector: **Technology**
 
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
 {{ subscribe_form }}
-<h3>🔥 Hot Takes Tuesday for 2024-08-27</h3>
+
+### 🔥 Hot Takes Tuesday for 2024-08-27
 
 First… an interesting post arrived from VMworld. For perspective, my first VMworld experience was in 2010 and the community I met there would alter the course of my career for the next decade.
 
@@ -63,7 +67,8 @@ I was even a one time vExpert in 2013 within the massive VMware community aka vC
 [https://digitalsunshinesolutions.com/mourning-our-vcommunity-navigating-grief-after-the-broadcom-acquisition/](https://digitalsunshinesolutions.com/mourning-our-vcommunity-navigating-grief-after-the-broadcom-acquisition/)
 
 And now, back to our regular Hot Takes Tuesday…
-<h4>Funds, Funding, and M&A</h4>
+
+#### Funds, Funding, and M&A
 
 Let’s take a look at where the money is flowing.
 
@@ -81,14 +86,15 @@ Let’s take a look at where the money is flowing.
 
 [https://www.techmeme.com/240826/p22#a240826p22](https://www.techmeme.com/240826/p22#a240826p22)
 
-📺 + 🤖 Perhaps I’m just not creative enough to be a video creator, but I get a vibe that <em>ethically sourced ingredients</em> is crossing over from food supply chains into A.I. video services training corpus chains.
+📺 + 🤖 Perhaps I’m just not creative enough to be a video creator, but I get a vibe that *ethically sourced ingredients* is crossing over from food supply chains into A.I. video services training corpus chains.
 
 [https://www.techmeme.com/240827/p22#a240827p22](https://www.techmeme.com/240827/p22#a240827p22)
 
 ⚖️ + 🤖 Forensic examination of large volumes of materials in discover is arguably a better use case for RAG than [attempting to cite a so-called hallucination](https://www.businessinsider.com/young-lawyer-fired-using-chatgpt-job-work-hallucinations-errors-2023-11).
 
 {{ subscribe_form }}
-<h3>🤪 Wacky Wednesday for 2024-08-28</h3>
+
+### 🤪 Wacky Wednesday for 2024-08-28
 
 Each Wednesday I go through dozens of Slack communities and select the most interesting shared links. This will always be a safe for work list. 🙈
 
@@ -112,7 +118,8 @@ Each Wednesday I go through dozens of Slack communities and select the most inte
 [https://tedium.co/2024/01/12/isdn-history-retrospective/](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 
 {{ subscribe_form }}
-<h3>🔙 Throwback Thursday for 2024-08-29</h3>
+
+### 🔙 Throwback Thursday for 2024-08-29
 
 Datacenter power consumption has been a below the fold news topic in the past but has ramped along with coverage of recurring topics of A.I. which is even more power intensive. But how long has there been a datacenter energy crisis?
 
@@ -130,7 +137,8 @@ Meta, Google, Microsoft, and Apple do their own tracking as well. However, the c
 [https://www.techmeme.com/240814/p10#a240814p10](https://www.techmeme.com/240814/p10#a240814p10)
 
 {{ subscribe_form }}
-<h3>✅ Final Thoughts Friday for 2024-08-30</h3>
+
+### ✅ Final Thoughts Friday for 2024-08-30
 
 As a reminder, I’ve committed to four events for the remainder of this year.
 
@@ -154,7 +162,7 @@ As a long time owner of tiny iPhone devices, I am wondering when my personal pre
 
 [https://www.techmeme.com/240827/p14#a240827p14](https://www.techmeme.com/240827/p14#a240827p14)
 
-My early career in late 1990s telecom and the ISP / MSP business reminds me of a tale I heard about digital phone switching infrastructure (aka Digital Multiplex System aka DMS for short). Of the hundreds of security features that <em>could</em> be enabled in the modern digital switch, less than 20% ever <em>were</em> enabled. As for reasons why, the security features were considered at the time to be extra work to keep track of, the cost of setting up a bastion host for OOB OAM&P, or speculatively avoided to prevent degradation in performance when enabled them for ongoing operation. Plus, it was “just a phone switch” that would only impact a small blast radius, or so the thinking went. Fast forwarding to [our increasingly connected world](https://fudge.org/), this latest SD-WAN zero-day exploit highlights how making it easier for a bad actor to make an impact opens the possibility for a well funded team of bad actors that can have global blast radius reach.
+My early career in late 1990s telecom and the ISP / MSP business reminds me of a tale I heard about digital phone switching infrastructure (aka Digital Multiplex System aka DMS for short). Of the hundreds of security features that *could* be enabled in the modern digital switch, less than 20% ever *were* enabled. As for reasons why, the security features were considered at the time to be extra work to keep track of, the cost of setting up a bastion host for OOB OAM&P, or speculatively avoided to prevent degradation in performance when enabled them for ongoing operation. Plus, it was “just a phone switch” that would only impact a small blast radius, or so the thinking went. Fast forwarding to [our increasingly connected world](https://fudge.org/), this latest SD-WAN zero-day exploit highlights how making it easier for a bad actor to make an impact opens the possibility for a well funded team of bad actors that can have global blast radius reach.
 
 [https://www.techmeme.com/240828/p25#a240828p25](https://www.techmeme.com/240828/p25#a240828p25)
 
@@ -169,27 +177,34 @@ It is quite normal that the largest market cap companies on this planet are inve
 Oh, what was I just saying about the audacity to hold a communications platform company operating within a country to uphold the laws of the land? Unposssible! Perhaps FAFO also stands for Forgot Another Financial Outcome.
 
 {{ subscribe_form }}
-<h3>🔮 Sneak Peak Saturday for 2024-08-31</h3>
-<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+### 🔮 Sneak Peak Saturday for 2024-08-31
+
+#### Peak 🏔️ vs. Peek 👀
 
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
 In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
-<h4>Insert Let's See Who This Really Is Meme</h4>
+
+#### Insert Let's See Who This Really Is Meme
 
 [https://www.techmeme.com/240830/p13#a240830p13](https://www.techmeme.com/240830/p13#a240830p13)
-<h4>Insert Ceiling Cat Meme</h4>
+
+#### Insert Ceiling Cat Meme
 
 [https://www.techmeme.com/240830/p17#a240830p17](https://www.techmeme.com/240830/p17#a240830p17)
-<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
 
 [https://www.techmeme.com/240831/p4#a240831p4](https://www.techmeme.com/240831/p4#a240831p4)
-<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+#### Insert That Wasn't Me, That Was Patricia Meme
 
 [https://www.techmeme.com/240831/p1#a240831p1](https://www.techmeme.com/240831/p1#a240831p1)
-<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240830/p15#a240830p15](https://www.techmeme.com/240830/p15#a240830p15)
 

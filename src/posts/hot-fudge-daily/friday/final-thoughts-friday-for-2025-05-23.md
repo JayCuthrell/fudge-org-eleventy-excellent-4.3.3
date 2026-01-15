@@ -6,7 +6,8 @@ date: 2025-05-25 07:05:27.495379+00:00
 ---
 
 
-🤖 + 🔮 The story that caught my eye this week was Waymo reaching 10M paid rides. Granted, even 10M total rides is a mere drop in the bucket compared to human operated Lyft and Uber rides <strong><em>every day</em></strong>. 
+
+🤖 + 🔮 The story that caught my eye this week was Waymo reaching 10M paid rides. Granted, even 10M total rides is a mere drop in the bucket compared to human operated Lyft and Uber rides ***every day***. 
 
 Waymo will disrupt the gig economy slowly as it ramps. Just as the human switchboard operator role had a peak, that peak gave way increasingly automated digital telecommunications solutions.
 

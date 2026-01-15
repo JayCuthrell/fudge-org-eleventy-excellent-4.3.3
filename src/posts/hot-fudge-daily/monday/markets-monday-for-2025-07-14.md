@@ -7,12 +7,15 @@ date: 2025-07-14 23:54:08.321+00:00
 
 
 
-Spicier!<h3><strong>Last</strong> week</h3>
+
+Spicier!
+
+### **Last**week
 
 ![Not so spicy…](https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max)
 *Not so spicy…*
 
-<h3>This week</h3>
+### This week
 
 ![Quantum Computing, AI, Software, and Space](https://assets.buttondown.email/images/2d11e585-bd17-49cc-983d-85cee9c65881.png?w=960&fit=max)
 *Quantum Computing, AI, Software, and Space*

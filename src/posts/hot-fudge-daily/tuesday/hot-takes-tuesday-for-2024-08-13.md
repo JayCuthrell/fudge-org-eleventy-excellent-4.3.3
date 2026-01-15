@@ -7,6 +7,7 @@ date: 2024-08-13 14:28:50.320562+00:00
 
 
 
+
 Off the cuff analysis in a rapid fire format.
 
 First… a quick aside.
@@ -24,11 +25,13 @@ SXSW 2025 PanelPicker voting started and I gathered some graphs.
 [![Levels histogram](https://assets.buttondown.email/images/1eae43d3-8bec-4440-ac3b-2439607e5fad.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
 *Goldilocks level?*
 
-Okay. Let’s dig in…<h2>Funds, Funding, and M&A</h2>
+Okay. Let’s dig in…
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240813/p16#a240813p16](https://www.techmeme.com/240813/p16#a240813p16)
 
-💰 + 👮‍♂️ There is probably a slice of the funding data from the origins of various Lord of the Rings named companies that could summarize how effective these founders have become at convincing US Government to part with constituent tax dollars while simultaneously claiming the US Government <strong><em>wastes</em></strong> constituent tax dollars. 💸
+💰 + 👮‍♂️ There is probably a slice of the funding data from the origins of various Lord of the Rings named companies that could summarize how effective these founders have become at convincing US Government to part with constituent tax dollars while simultaneously claiming the US Government ***wastes*** constituent tax dollars. 💸
 
 [https://www.techmeme.com/240812/p25#a240812p25](https://www.techmeme.com/240812/p25#a240812p25)
 

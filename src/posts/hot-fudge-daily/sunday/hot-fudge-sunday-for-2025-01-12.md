@@ -7,6 +7,7 @@ date: 2025-01-12 17:00:00+00:00
 
 
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
@@ -222,7 +223,9 @@ As a reminder, per our reader survey, each week, I’m going to be highlighting 
 ## 📈 Markets Monday for 2025-01-06
  
 
-As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+As a reminder, this is an end of day snapshot…
+
+### Quick Recap
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
@@ -239,13 +242,13 @@ This week:
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
    
 {{ subscribe_form }}
    
@@ -311,26 +314,38 @@ Now, imagine the post-IPO capabilities for M&A of a cybersecurity juggernaut in 
 
 [https://www.techmeme.com/250106/p6#a250106p6](https://www.techmeme.com/250106/p6#a250106p6)
 
-Here comes the <em>software-defined vehicles</em> buzzword variations and the “I, Robot” / “Minority Report” trope explainers.
+Here comes the *software-defined vehicles* buzzword variations and the “I, Robot” / “Minority Report” trope explainers.
    
 {{ subscribe_form }}
    
 ## 🔮 Sneak Peak Saturday for 2025-01-11
  
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+
+#### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/250110/p1#a250110p1](https://www.techmeme.com/250110/p1#a250110p1)<h4>Insert Ceiling Cat Meme</h4>
+#### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/250110/p12#a250110p12](https://www.techmeme.com/250110/p12#a250110p12)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+[https://www.techmeme.com/250110/p1#a250110p1](https://www.techmeme.com/250110/p1#a250110p1)
 
-[https://www.techmeme.com/250110/p2#a250110p2](https://www.techmeme.com/250110/p2#a250110p2)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+#### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/250109/p32#a250109p32](https://www.techmeme.com/250109/p32#a250109p32)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+[https://www.techmeme.com/250110/p12#a250110p12](https://www.techmeme.com/250110/p12#a250110p12)
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/250110/p2#a250110p2](https://www.techmeme.com/250110/p2#a250110p2)
+
+#### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/250109/p32#a250109p32](https://www.techmeme.com/250109/p32#a250109p32)
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/250110/p4#a250110p4](https://www.techmeme.com/250110/p4#a250110p4)
    

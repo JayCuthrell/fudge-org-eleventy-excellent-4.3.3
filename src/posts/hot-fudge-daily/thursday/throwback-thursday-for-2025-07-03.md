@@ -7,6 +7,7 @@ date: 2025-07-04 04:08:40.810+00:00
 
 
 
+
 One story that caught my eye this week:
 
 [https://www.techmeme.com/250703/p13#a250703p13](https://www.techmeme.com/250703/p13#a250703p13)
@@ -21,12 +22,12 @@ A year ago, I attended “[Life After Big Tech: Where Are Laid Off Workers Now?]
 * Trends leading to where we are today
 * Over hiring
 * Bloated and overstuffed organizations
-* <em>AI and automation rendering some amount of labor reductions</em>
+* *AI and automation rendering some amount of labor reductions*
 * Debates
 * Layoffs as a mask for poor performance
-* <em>Instead of 20 staff with a speciality, you’ll need 2 because of AI</em>
-* <em>If you can be Upwork’d you can be AI’d</em>
-* <em>There are freelancers doing top 1% work getting a 16% increase in their rates and 12% more revenue from AI as their toolchain</em>
+* *Instead of 20 staff with a speciality, you’ll need 2 because of AI*
+* *If you can be Upwork’d you can be AI’d*
+* *There are freelancers doing top 1% work getting a 16% increase in their rates and 12% more revenue from AI as their toolchain*
 
 Source:
 

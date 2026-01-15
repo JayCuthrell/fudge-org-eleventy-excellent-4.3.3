@@ -6,11 +6,14 @@ date: 2024-07-02 23:03:04.679962+00:00
 ---
 
 
-<h1>Hot Takes Tuesday for 2024-07-02</h1>
+
+# Hot Takes Tuesday for 2024-07-02
 
 Off the cuff analysis in a rapid fire format.
 
-A few things that caught my attention today in big funding and M&A moves in tech yesterday… and the trend was focus on A.I., CGI improvements, and GenAI, with potential for game-changing innovations in various industries.<h2>Funds, Funding, and M&A</h2>
+A few things that caught my attention today in big funding and M&A moves in tech yesterday… and the trend was focus on A.I., CGI improvements, and GenAI, with potential for game-changing innovations in various industries.
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240628/p15#a240628p15](https://www.techmeme.com/240628/p15#a240628p15)
 
@@ -30,7 +33,7 @@ A few things that caught my attention today in big funding and M&A moves in tech
 
 [https://www.techmeme.com/240701/p6#a240701p6](https://www.techmeme.com/240701/p6#a240701p6)
 
-👥 + ☁️ Wait. There does not appear to be any reference to GenAI?!? This must be a mistake <strong><em>or</em></strong> there is a vibrant market for alternative HR software solutions delivered via SaaS. 
+👥 + ☁️ Wait. There does not appear to be any reference to GenAI?!? This must be a mistake ***or*** there is a vibrant market for alternative HR software solutions delivered via SaaS. 
 
 [https://www.techmeme.com/240627/p41#a240627p41](https://www.techmeme.com/240627/p41#a240627p41)
 

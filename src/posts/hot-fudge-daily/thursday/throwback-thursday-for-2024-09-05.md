@@ -7,6 +7,7 @@ date: 2024-09-05 23:57:19.804890+00:00
 
 
 
+
 My early career in the late 1990s was in telecommunications. I worked for a company called [Nortel Networks](https://www.youtube.com/watch?v=EKjAMxzdrHw) before I pivoted to become a [global road warrior / consultant](https://fudge.org/archive/and-for-my-next-trick/) during the .com boom.
 
 https://www.youtube.com/watch?v=EKjAMxzdrHw
@@ -25,9 +26,9 @@ For example, if you were to look at my writing back in 2010, you might have asso
 
 In fact, Verizon got into the cloud business in 2011. Verizon Cloud was born!
 
-[https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition](https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition)<blockquote class="pullquote">
+[https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition](https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition)
 
-So too did AT&T have cloud ambitions, but that’s for another Throwback Thursday. We’ll get there.</blockquote>
+> So too did AT&T have cloud ambitions, but that’s for another Throwback Thursday. We’ll get there.
 
 However, cloud computing had been pioneered at Amazon, Google, and Microsoft for over a decade and by 2017, Verizon got out of the cloud computing business it had acquired in 2011.
 

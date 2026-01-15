@@ -8,7 +8,8 @@ date: 2024-07-31 03:10:09.057968+00:00
 
 
 
-<h1>🔥 Hot Takes Tuesday for 2024-07-30</h1>
+
+# 🔥 Hot Takes Tuesday for 2024-07-30
 
 Off the cuff analysis in a rapid fire format.
 

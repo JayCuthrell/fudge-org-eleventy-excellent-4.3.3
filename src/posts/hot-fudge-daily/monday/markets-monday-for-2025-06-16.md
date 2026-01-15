@@ -7,14 +7,15 @@ date: 2025-06-17 00:45:32.969010+00:00
 
 
 
-<h3>Last week</h3>
+
+### Last week
 
 It’s all about love and rockets… so, a bit more spicy.
 
 ![More spicy!](https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max)
 *More spicy!*
 
-<h3><strong>This week</strong></h3>
+### **This week**
 
 Quantumania!
 

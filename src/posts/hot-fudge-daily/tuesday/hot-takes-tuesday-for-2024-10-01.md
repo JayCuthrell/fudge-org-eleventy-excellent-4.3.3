@@ -6,13 +6,14 @@ date: 2024-10-01 23:38:28.784976+00:00
 ---
 
 
+
 Two hot takes on the two stories caught my eye on Tuesday.
 
 💰 + 🤖 When I see $500M participation in an (allegedly) oversubscribed $6.5B raise… it tells me that there might be someone else that decided not to participate.
 
-[https://www.techmeme.com/240930/p13#a240930p13](https://www.techmeme.com/240930/p13#a240930p13)<blockquote class="pullquote">
+[https://www.techmeme.com/240930/p13#a240930p13](https://www.techmeme.com/240930/p13#a240930p13)
 
-[ meanwhile… ]</blockquote>
+> [ meanwhile… ]
 
 💸 + 🍎 Indeed. Someone else (allegedly) decided not to participate.
 

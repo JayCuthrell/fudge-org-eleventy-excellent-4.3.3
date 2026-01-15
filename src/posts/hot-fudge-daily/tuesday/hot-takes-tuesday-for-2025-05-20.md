@@ -6,9 +6,10 @@ date: 2025-05-21 02:20:46.186518+00:00
 ---
 
 
+
 Two hot takes on bills and banks.
 
-⚖️ + 🤖 I guess if you wanted to say <em>anything</em> goes with AI you could just make a law that says <em>anything</em> goes with AI, right?
+⚖️ + 🤖 I guess if you wanted to say *anything* goes with AI you could just make a law that says *anything* goes with AI, right?
 
 [https://www.techmeme.com/250519/p43#a250519p43](https://www.techmeme.com/250519/p43#a250519p43)
 

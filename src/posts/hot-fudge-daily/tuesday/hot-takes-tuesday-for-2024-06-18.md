@@ -6,11 +6,14 @@ date: 2024-06-18 18:58:45.992931+00:00
 ---
 
 
-<h1>Hot Takes Tuesday for 2024-06-18</h1>
+
+# Hot Takes Tuesday for 2024-06-18
 
 Off the cuff analysis in a rapid fire format.
 
-A few things that caught my attention today in big funding and M&A moves in tech.<h2>Funds, Funding, and M&A</h2>
+A few things that caught my attention today in big funding and M&A moves in tech.
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240618/p25#a240618p25](https://www.techmeme.com/240618/p25#a240618p25)
 

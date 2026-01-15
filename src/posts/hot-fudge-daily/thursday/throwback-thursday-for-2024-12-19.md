@@ -6,6 +6,7 @@ date: 2024-12-20 05:44:29.016888+00:00
 ---
 
 
+
 What happens when the web forgets?
 
 [https://www.techmeme.com/241219/p15#a241219p15](https://www.techmeme.com/241219/p15#a241219p15)
@@ -20,6 +21,6 @@ Even Wikipedia recognizes link rot as important.
 
 Indeed, I’ve even written about link rot enough to create a topic / tag.
 
-[https://fudge.org/archive/plugins-patterns-and-potpourri/](https://fudge.org/archive/plugins-patterns-and-potpourri/)<blockquote>
+[https://fudge.org/archive/plugins-patterns-and-potpourri/](https://fudge.org/archive/plugins-patterns-and-potpourri/)
 
-(Yes, I still need to fix my og-image script)</blockquote>
+> (Yes, I still need to fix my og-image script)

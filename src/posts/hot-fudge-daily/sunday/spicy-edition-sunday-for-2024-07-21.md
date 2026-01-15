@@ -8,7 +8,8 @@ date: 2024-07-21 13:37:10.225034+00:00
 
 
 
-<h1>🌶️  Spicy Edition Sunday for 2024-07-21</h1>
+
+# 🌶️  Spicy Edition Sunday for 2024-07-21
 
 Welcome to 🌶️ Spicy Edition Sunday!
 
@@ -16,7 +17,9 @@ Uncover the spicy inspiration behind this week's Fudge Sunday edition, packed wi
 
 As a quick reminder, longer form [Fudge Sunday](https://fudge.org/) topics are posted weekly on at [https://fudge.org/](https://fudge.org/).
 
-{{ subscribe_form }}<h2>🌶️ Spicy Edition Sunday</h2>
+{{ subscribe_form }}
+
+## 🌶️ Spicy Edition Sunday
 
 One challenge of writing a daily newsletter is that a lot can happen in 24 hours. While there is much I could share, I’ll adhere to my charter as a personal outlet for writing about technology and related news that I believe deserves attention.
 
@@ -30,9 +33,17 @@ This week, the digest is powered by [Buttondown API and python scripts](https://
 
 [https://github.com/JayCuthrell/buttondown-python-scripts](https://github.com/JayCuthrell/buttondown-python-scripts)
 
-{{ subscribe_form }}<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h1>📈 Markets Monday for 2024-07-15</h1>
+{{ subscribe_form }}<hr/>
 
-Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
+# Hot Fudge Daily Digest
+
+<hr/>
+
+# 📈 Markets Monday for 2024-07-15
+
+Analyzing the past and future of the tech market in Markets Monday.
+
+## Last week
 
 Looking at the week behind for the tech market.
 
@@ -48,7 +59,9 @@ Last week I corrected my prior error and gathered the intended 5D view. I’m st
 [![5 year view](https://assets.buttondown.email/images/1bc7be08-d071-4b60-b7df-f4ede03f9790.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?window=5Y)
 *5 year view*
 
-And again, “this seems to be going up for now”, is still true on a long enough timeline.<h2>This week</h2>
+And again, “this seems to be going up for now”, is still true on a long enough timeline.
+
+## This week
 
 Looking at the week ahead for the tech market.
 
@@ -67,19 +80,23 @@ Last week the expansion where the two (before the bell) went to fifteen. This we
 This week went from 15 down to 13. Again, I waited for the bell and should probably begin to pull in some commentary once this view can be automated as well.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region:<strong> United States</strong>
-* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector:<strong> Technology</strong>
-* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region:** United States**
+* Market Cap (Intraday):** Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector:** Technology**
+* Industry:** Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
-{{ subscribe_form }}<h1>🔥 Hot Takes Tuesday for 2024-07-09</h1>
+{{ subscribe_form }}
+
+# 🔥 Hot Takes Tuesday for 2024-07-09
 
 Off the cuff analysis in a rapid fire format.
 
-Let’s dig in…<h2>Funds, Funding, and M&A</h2>
+Let’s dig in…
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240716/p24#a240716p24](https://www.techmeme.com/240716/p24#a240716p24)
 
@@ -101,7 +118,9 @@ Let’s dig in…<h2>Funds, Funding, and M&A</h2>
 
 💰 + 🔐 I have no idea if this is real yet but if it turns out it is real then I have to mine up my LinkedIn post about Wiz from just 3 months ago… 
 
-{{ subscribe_form }}<h1>🤪 Wacky Wednesday for 2024-07-17</h1>
+{{ subscribe_form }}
+
+# 🤪 Wacky Wednesday for 2024-07-17
 
 Explore the wild and wacky world of shared links from online Slack communities.
 
@@ -125,7 +144,9 @@ https://www.youtube.com/watch?v=WJI395I1qVs
 
 [https://www.foodandwine.com/cup-noodles-campfire-smores-flavor-walmart-8672499](https://www.foodandwine.com/cup-noodles-campfire-smores-flavor-walmart-8672499)
 
-{{ subscribe_form }}<h1>🔙 Throwback Thursday for 2024-07-18</h1>
+{{ subscribe_form }}
+
+# 🔙 Throwback Thursday for 2024-07-18
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.
 
@@ -145,11 +166,13 @@ Three months later… a possible shot and chaser.
 
 [https://www.techmeme.com/240714/p5#a240714p5](https://www.techmeme.com/240714/p5#a240714p5)
 
-{{ subscribe_form }}<h1>✅ Final Thoughts Friday for 2024-07-19</h1>
+{{ subscribe_form }}
+
+# ✅ Final Thoughts Friday for 2024-07-19
 
 Looking back at the week with an eye to the future.
 
-<em>(The </em>[elephant in the room is blue](https://www.techmeme.com/240719/p2#a240719p2)<em> and it is a Friday when I write this update. So, I’ll update that topic in 🔮 Sneak Peak Saturday.)</em>
+*(The *[elephant in the room is blue](https://www.techmeme.com/240719/p2#a240719p2)* and it is a Friday when I write this update. So, I’ll update that topic in 🔮 Sneak Peak Saturday.)*
 
 I’ve committed to four events for the remainder of this year. I’ve also submitted a final version of a panel to PanelPicker for SXSW 2025 voting but I won’t be speaking on a panel but might submit a solo talk — maybe.
 * [AI Field Day 5](https://techfieldday.com/event/aifd5/) in Silicon Valley September 11-12, 2024 for [Tech Field Day](https://techfieldday.com/events/)
@@ -180,7 +203,9 @@ I think Buttondown supports code tags.
 
 $ git diff -- app/controllers/auth/sessions_controller.rb
 
-def home_paths(resource)<br/>- paths = [about_path, '/explore']<br/>+ paths = [about_path, '/about']
+def home_paths(resource)
+- paths = [about_path, '/explore']
++ paths = [about_path, '/about']
 
 paths << short_account_path(username: resource.account) if single_user_mode? && resource.is_a?(User)
 
@@ -190,13 +215,19 @@ The result is /about vs. /explore which makes more sense for a single-user self-
 
 I’ve been thinking more about using [qthrul.com](http://qthrul.com) aka QTHRUL CORP as a holding. That would be a nice way to anchor all my other websites — including [cuthrell.com](http://cuthrell.com), [jaycuthrell.com](https://jaycuthrell.com/), [cuthrell.consulting](http://cuthrell.consulting), and maybe even [fudge.org](http://fudge.org) too.
 
-{{ subscribe_form }}<h1 style="text-align: start">🔮 Sneak Peak Saturday for 2024-07-20</h1>
+{{ subscribe_form }}
 
-Unveiling overlooked tech news with a sprinkle of satire.<h2 style="text-align: start">Peak 🏔️ vs. Peek 👀</h2>
+# 🔮 Sneak Peak Saturday for 2024-07-20
+
+Unveiling overlooked tech news with a sprinkle of satire.
+
+## Peak 🏔️ vs. Peek 👀
 
 Yes, a play on words.
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.<h2 style="text-align: start">Why Sneak Peak?</h2>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.
+
+## Why Sneak Peak?
 
 It sometimes seems like we reach a fever pitch in news coverage throughout the week. Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
@@ -206,15 +237,25 @@ This week was dominated by one story, Crowdstrike, that happened on a Friday.
 
 [https://www.techmeme.com/240720/p5#a240720p5](https://www.techmeme.com/240720/p5#a240720p5)
 
-Of course, other stories need to be seen too.<h2>Insert Let's See Who This Really Is Meme</h2>
+Of course, other stories need to be seen too.
 
-[https://www.techmeme.com/240719/p27#a240719p27](https://www.techmeme.com/240719/p27#a240719p27)<h2>Insert Ceiling Cat Meme</h2>
+## Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/240719/p3#a240719p3](https://www.techmeme.com/240719/p3#a240719p3)<h2>Insert We're All Trying To Find The Guy Who Did This Meme</h2>
+[https://www.techmeme.com/240719/p27#a240719p27](https://www.techmeme.com/240719/p27#a240719p27)
 
-[https://www.techmeme.com/240718/p37#a240718p37](https://www.techmeme.com/240718/p37#a240718p37)<h2>Insert That Wasn't Me, That Was Patricia Meme</h2>
+## Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/240719/p7#a240719p7](https://www.techmeme.com/240719/p7#a240719p7)<h2>Insert Anthony Adams Rubbing Hands Meme</h2>
+[https://www.techmeme.com/240719/p3#a240719p3](https://www.techmeme.com/240719/p3#a240719p3)
+
+## Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/240718/p37#a240718p37](https://www.techmeme.com/240718/p37#a240718p37)
+
+## Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/240719/p7#a240719p7](https://www.techmeme.com/240719/p7#a240719p7)
+
+## Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240719/p30#a240719p30](https://www.techmeme.com/240719/p30#a240719p30)
 

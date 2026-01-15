@@ -8,7 +8,8 @@ date: 2024-07-31 22:08:50.729833+00:00
 
 
 
-<h1>🤪 Wacky Wednesday for 2024-07-31</h1>
+
+# 🤪 Wacky Wednesday for 2024-07-31
 
 Explore the wild and wacky world of shared links from online Slack communities.
 

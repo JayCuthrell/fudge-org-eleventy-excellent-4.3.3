@@ -8,52 +8,73 @@ date: 2025-06-29 13:00:00+00:00
 
 
 
+
 This week is a shorter vacation edition of 🌶️ Hot Fudge Sunday. During vacation, I worked out how to mirror all prior [fudge.org](http://fudge.org) [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) hosted content (~370+ posts) on [fudge.org](http://fudge.org) and will be collapsing the archives there soon with a redirect.
 
 Once web archives are migrated, [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) will continue to be my [trusted newsletter delivery service](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email). In case you are interested, I ended up adding two simple [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) and Mastodon related [python scripts](https://github.com/JayCuthrell/buttondown-python-scripts) to handle manual migration and a mistake I made with automation while testing.
 
 [https://github.com/JayCuthrell/buttondown-python-scripts](https://github.com/JayCuthrell/buttondown-python-scripts)
 
-{{ subscribe_form }}<h2>Last week</h2>
+{{ subscribe_form }}
+
+## Last week
 
 Last week I toook a glorious vacation, but NexusTek kept rockin’ without me!
 
 [https://www.prnewswire.com/news-releases/nexustek-appoints-new-cfo-joseph-ohara-302492427.html](https://www.prnewswire.com/news-releases/nexustek-appoints-new-cfo-joseph-ohara-302492427.html)
 
-[https://www.prnewswire.com/news-releases/enterprise-grade-nexustek-cloud-management-solutions-now-on-aws-marketplace-302490091.html](https://www.prnewswire.com/news-releases/enterprise-grade-nexustek-cloud-management-solutions-now-on-aws-marketplace-302490091.html)<h2>This week</h2>
+[https://www.prnewswire.com/news-releases/enterprise-grade-nexustek-cloud-management-solutions-now-on-aws-marketplace-302490091.html](https://www.prnewswire.com/news-releases/enterprise-grade-nexustek-cloud-management-solutions-now-on-aws-marketplace-302490091.html)
 
-🪫 ➡️ 🔋 I’m recharged from vacation and looking forward to getting back into the groove again.<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h2>📈 Markets Monday for 2025-06-23</h2><h3><strong>Last week</strong></h3>
+## This week
+
+🪫 ➡️ 🔋 I’m recharged from vacation and looking forward to getting back into the groove again.<hr/>
+
+# Hot Fudge Daily Digest
+
+<hr/>
+
+## 📈 Markets Monday for 2025-06-23
+
+### **Last week**
 
 Quantumania!
 
 ![Even more spicy!](https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max)
 *Even more spicy!*
 
-<h3>This week</h3>
+### This week
 
 AI, space satellites, and AI related networking!
 
 ![Not so spicy…](https://assets.buttondown.email/images/7d75d1d0-d5c2-45dd-9421-bffaffc9dd4c.png?w=960&fit=max)
 *Not so spicy…*
 
-Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)<h2>🔥 Hot Takes Tuesday for 2025-06-24</h2>
+Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
+
+## 🔥 Hot Takes Tuesday for 2025-06-24
 
 💰 + 🤖 Funding for AI-anything companies continues.
-* [Eventual (developer of Daft)](https://www.techmeme.com/250624/p16#a250624p16) (multimodal AI data processing): <strong>$27.5M</strong>
-* [Wispr Flow](https://www.techmeme.com/250624/p23#a250624p23) (voice AI dictation): <strong>$30M</strong>
-* [Abridge](https://www.techmeme.com/250624/p10#a250624p10) (AI clinical notes): <strong>$300M</strong><h2>🤪 Wacky Wednesday for 2025-06-25</h2>
+* [Eventual (developer of Daft)](https://www.techmeme.com/250624/p16#a250624p16) (multimodal AI data processing): **$27.5M**
+* [Wispr Flow](https://www.techmeme.com/250624/p23#a250624p23) (voice AI dictation): **$30M**
+* [Abridge](https://www.techmeme.com/250624/p10#a250624p10) (AI clinical notes): **$300M**
+
+## 🤪 Wacky Wednesday for 2025-06-25
 
 Each Wednesday I select the most interesting shared link from dozens of Slack communities. This will always be a safe for work link. 🙈
 
 Enjoy the WeatherStar 4000 simulator!
 
-[https://weatherstar.netbymatt.com/](https://weatherstar.netbymatt.com/)<h2>🔙 Throwback Thursday for 2025-06-26</h2><h3>🟦 + ⬛️ One story that caught my eye this week</h3>
+[https://weatherstar.netbymatt.com/](https://weatherstar.netbymatt.com/)
+
+## 🔙 Throwback Thursday for 2025-06-26
+
+### 🟦 + ⬛️ One story that caught my eye this week
 
 It seems that Microsoft will be changing the classic (mid 90s era) Blue Sreen of Death (BSOD) to…
 
 [checks notes]
 
-<strong><em>Black</em></strong> Screen of Dealth. (so, still BSOD?)
+***Black*** Screen of Dealth. (so, still BSOD?)
 
 [https://www.techmeme.com/250626/p30#a250626p30](https://www.techmeme.com/250626/p30#a250626p30)
 
@@ -63,23 +84,34 @@ Long Live BSOD (2025-????)
 
 (and my commentary on Blacksky… I mean Bluesky)
 
-https://bsky.app/profile/cuthrell.com/post/3lsjvvvgh522s<h2>✅ Final Thoughts Friday for 2025-06-27</h2>
+https://bsky.app/profile/cuthrell.com/post/3lsjvvvgh522s
+
+## ✅ Final Thoughts Friday for 2025-06-27
 
 🛜 + 💰 The big tech story for the week was continuation of US broadband subsidies.
 
 [https://www.techmeme.com/250627/p16#a250627p16](https://www.techmeme.com/250627/p16#a250627p16)
 
-Amid the buzz around AI funding, the success of the Universal Service Fund (USF) and its E-Rate program remains fundamental to American connectivity. Since the late 1990s, USF programs have significantly mitigated the digital divide. It is vital that schools, libraries, and NTCA members continue their effective management of these funds to maintain crucial access for rural communities, students, and low-income families. 🇺🇸<h2>🔮 Sneak Peak Saturday for 2025-06-28</h2>
+Amid the buzz around AI funding, the success of the Universal Service Fund (USF) and its E-Rate program remains fundamental to American connectivity. Since the late 1990s, USF programs have significantly mitigated the digital divide. It is vital that schools, libraries, and NTCA members continue their effective management of these funds to maintain crucial access for rural communities, students, and low-income families. 🇺🇸
+
+## 🔮 Sneak Peak Saturday for 2025-06-28
 
 I select a Friday news dump selection that reaches a peak level of trope, cliché, or bromide on the slowest news day that may be attempting to avoid wider coverage.
 
 [https://www.techmeme.com/250627/p11#a250627p11](https://www.techmeme.com/250627/p11#a250627p11)
 
-So, while [Microsoft’s AI chips](https://www.techmeme.com/250627/p11#a250627p11) struggle, the past two weeks have seen positive coverage of [Google’s AI chips](https://www.techmeme.com/250627/p23#a250627p23) and [AWS’s AI chips](https://www.techmeme.com/250618/p12#a250618p12).<hr/><h1 data-pm-slice="1 3 []">#OpenToWork Weekly</h1><hr/>
+So, while [Microsoft’s AI chips](https://www.techmeme.com/250627/p11#a250627p11) struggle, the past two weeks have seen positive coverage of [Google’s AI chips](https://www.techmeme.com/250627/p23#a250627p23) and [AWS’s AI chips](https://www.techmeme.com/250618/p12#a250618p12).<hr/>
+
+# #OpenToWork Weekly
+
+<hr/>
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 
-I added those [#OpenToWork](https://www.linkedin.com/search/results/content/?keywords=%23OpenToWork&origin=FACETED_SEARCH&postedBy=%5B%22first%22%5D&sid=TbC&sortBy=%22date_posted%22) from my LinkedIn network to this newsletter. Over time, we've grown an Alumni 🎉 section for those that transitioned to their next career adventure.<h3>Alumni 🎉</h3>
+I added those [#OpenToWork](https://www.linkedin.com/search/results/content/?keywords=%23OpenToWork&origin=FACETED_SEARCH&postedBy=%5B%22first%22%5D&sid=TbC&sortBy=%22date_posted%22) from my LinkedIn network to this newsletter. Over time, we've grown an Alumni 🎉 section for those that transitioned to their next career adventure.
+
+### Alumni 🎉
+
 * [Congrats Dan Kelleher 🎉](https://www.linkedin.com/in/kelleherdan/)
 * [Congrats Jarrod Weise 🎉](https://www.linkedin.com/posts/jarrodweise_thechargeahead-electricvehicles-innovation-activity-7325543362621509632-t5Oy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)
 * [Congrats Karl Edwards 🎉](https://www.linkedin.com/posts/edwardskarl_im-happy-to-share-that-im-starting-a-new-activity-7323502970120138752-SLA-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)

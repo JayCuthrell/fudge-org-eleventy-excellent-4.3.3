@@ -8,7 +8,8 @@ date: 2024-07-07 16:00:00+00:00
 
 
 
-<h1>Spicy Edition Sunday for 2024-07-07</h1>
+
+# Spicy Edition Sunday for 2024-07-07
 
 Welcome to 🌶️ Spicy Edition Sunday!
 
@@ -16,11 +17,15 @@ Uncover the spicy inspiration behind this week's Fudge Sunday edition, packed wi
 
 As a quick reminder, longer form [Fudge Sunday](https://fudge.org/) topics are posted weekly on at [https://fudge.org/](https://fudge.org/).
 
-{{ subscribe_form }}<h2>🌶️ Spicy Edition Sunday</h2>
+{{ subscribe_form }}
+
+## 🌶️ Spicy Edition Sunday
 
 By next month [fudge.org](http://fudge.org) will become a funnel to drive more traffic to [fudge.org](http://fudge.org) newsletter with automated sponsorship management via Buttondown. At that point, I will reclaim [fudge.org](http://fudge.org) for blogging in ways that do not carry over easily to email.
 
-{{ subscribe_form }}<h2>📈 Markets Monday</h2>
+{{ subscribe_form }}
+
+## 📈 Markets Monday
 
 Previously, I mentioned adding a 5 day view contrasted with a 5 year view.
 
@@ -30,7 +35,9 @@ Previously, I mentioned adding a 5 day view contrasted with a 5 year view.
 [![5 year view](https://assets.buttondown.email/images/a3aa1934-36e8-425d-8d78-f3df98ecb8a6.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ)
 *5 year view*
 
-And so, “this seems to be going up for now”, is still true on a long enough timeline.<h2>This week</h2>
+And so, “this seems to be going up for now”, is still true on a long enough timeline.
+
+## This week
 
 Looking at the week ahead for the tech market.
 
@@ -45,15 +52,17 @@ And… the winners list narrowed from five to… two.
 *Heat Map view this week*
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
-{{ subscribe_form }}<h2>🔥 Hot Takes Tuesday</h2>
+{{ subscribe_form }}
+
+## 🔥 Hot Takes Tuesday
 
 [https://www.techmeme.com/240628/p15#a240628p15](https://www.techmeme.com/240628/p15#a240628p15)
 
@@ -73,13 +82,15 @@ If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/sc
 
 [https://www.techmeme.com/240701/p6#a240701p6](https://www.techmeme.com/240701/p6#a240701p6)
 
-👥 + ☁️ Wait. There does not appear to be any reference to GenAI?!? This must be a mistake <strong><em>or</em></strong> there is a vibrant market for alternative HR software solutions delivered via SaaS.
+👥 + ☁️ Wait. There does not appear to be any reference to GenAI?!? This must be a mistake ***or*** there is a vibrant market for alternative HR software solutions delivered via SaaS.
 
 [https://www.techmeme.com/240627/p41#a240627p41](https://www.techmeme.com/240627/p41#a240627p41)
 
 🗄️ + 🤖 The best RAG and GenAI demos are those demos which fundamentally alter our perception of what a good search result looks like when trying to find not just the needle in a haystack of documents, but where the needle is located in the haystack relative to the hay (document) itself.
 
-{{ subscribe_form }}<h2>🤪 Wacky Wednesday</h2>
+{{ subscribe_form }}
+
+## 🤪 Wacky Wednesday
 
 [https://dan.mastohon.com/@danhon/112691548112257631](https://dan.mastohon.com/@danhon/112691548112257631)
 
@@ -97,7 +108,9 @@ https://www.youtube.com/watch?v=wdNsxYcID1U
 
 [https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1403068/full](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1403068/full)
 
-{{ subscribe_form }}<h2>🔙 Throwback Thursday</h2>
+{{ subscribe_form }}
+
+## 🔙 Throwback Thursday
 
 If you were to look back 40 years at press coverage, you’d probably not bat an eyelash for the impact of one company on the current underpinnings of A.I. fervor today.
 
@@ -108,7 +121,9 @@ If you were to look back 40 years at press coverage, you’d probably not bat an
 
 [https://www.techmeme.com/240626/p41#a240626p41](https://www.techmeme.com/240626/p41#a240626p41)
 
-{{ subscribe_form }}<h2>✅ Final Thoughts Friday</h2>
+{{ subscribe_form }}
+
+## ✅ Final Thoughts Friday
 
 For July, I am having a weekly coffee meetup and have decided to go with LinkedIn Events then drive registrations on Luma.
 
@@ -132,21 +147,33 @@ This week, I continued the [Hot Fudge Daily](https://fudge.org/) digest posted i
 
 In somewhat related news, my use of Mastodon has been pretty minimal but an interesting experiment. However, most of my social updates flow to LinkedIn these days.
 
-I just signed up for Buffer again now that free accounts can federate across three destinations. So, I am also considering a similar reclamation move for [cuthrell.com](http://cuthrell.com) to be an alias or do something with [qthrul.com](http://qthrul.com) as a holding site for [cuthrell.consulting](http://cuthrell.consulting) then formalize [cuthrell.net](http://cuthrell.net) and [cuthrell.org](http://cuthrell.org). {{ subscribe_form }}<h2>🔮 Sneak Peak Saturday</h2>
+I just signed up for Buffer again now that free accounts can federate across three destinations. So, I am also considering a similar reclamation move for [cuthrell.com](http://cuthrell.com) to be an alias or do something with [qthrul.com](http://qthrul.com) as a holding site for [cuthrell.consulting](http://cuthrell.consulting) then formalize [cuthrell.net](http://cuthrell.net) and [cuthrell.org](http://cuthrell.org). {{ subscribe_form }}
+
+## 🔮 Sneak Peak Saturday
 
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.
 
 It sometimes seems like we reach a fever pitch in news coverage throughout the week. Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday. Or, in the case of a long holiday week.<h3>Insert Let's See Who This Really Is Meme</h3>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday. Or, in the case of a long holiday week.
 
-[https://www.techmeme.com/240702/p21#a240702p21](https://www.techmeme.com/240702/p21#a240702p21)<h3>Insert Ceiling Cat Meme</h3>
+### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/240702/p14#a240702p14](https://www.techmeme.com/240702/p14#a240702p14)<h3>Insert We're All Trying To Find The Guy Who Did This Meme</h3>
+[https://www.techmeme.com/240702/p21#a240702p21](https://www.techmeme.com/240702/p21#a240702p21)
 
-[https://www.techmeme.com/240702/p15#a240702p15](https://www.techmeme.com/240702/p15#a240702p15)<h3>Insert That Wasn't Me, That Was Patricia Meme</h3>
+### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/240702/p13#a240702p13](https://www.techmeme.com/240702/p13#a240702p13)<h3>Insert Anthony Adams Rubbing Hands Meme</h3>
+[https://www.techmeme.com/240702/p14#a240702p14](https://www.techmeme.com/240702/p14#a240702p14)
+
+### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/240702/p15#a240702p15](https://www.techmeme.com/240702/p15#a240702p15)
+
+### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/240702/p13#a240702p13](https://www.techmeme.com/240702/p13#a240702p13)
+
+### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240704/p14#a240704p14](https://www.techmeme.com/240704/p14#a240704p14)
 

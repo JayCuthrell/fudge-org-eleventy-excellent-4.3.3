@@ -6,13 +6,14 @@ date: 2025-06-26 20:40:26.324706+00:00
 ---
 
 
-<h3>🟦 + ⬛️ One story that caught my eye this week</h3>
+
+### 🟦 + ⬛️ One story that caught my eye this week
 
 It seems that Microsoft will be changing the classic (mid 90s era) Blue Sreen of Death (BSOD) to… 
 
 [checks notes] 
 
-<strong><em>Black</em></strong> Screen of Dealth. (so, still BSOD?)
+***Black*** Screen of Dealth. (so, still BSOD?)
 
 [https://www.techmeme.com/250626/p30#a250626p30](https://www.techmeme.com/250626/p30#a250626p30)
 

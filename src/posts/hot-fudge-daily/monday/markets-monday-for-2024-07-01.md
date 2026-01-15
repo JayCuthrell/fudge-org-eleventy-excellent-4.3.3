@@ -7,9 +7,12 @@ date: 2024-07-01 20:16:51.959024+00:00
 
 
 
-<h1>Markets Monday for 2024-07-01</h1>
 
-Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
+# Markets Monday for 2024-07-01
+
+Analyzing the past and future of the tech market in Markets Monday.
+
+## Last week
 
 Looking at the week behind for the tech market.
 
@@ -23,7 +26,9 @@ Previously, I mentioned adding a 5 day view contrasted with a 5 year view.
 [![5 year view](https://assets.buttondown.email/images/a3aa1934-36e8-425d-8d78-f3df98ecb8a6.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ)
 *5 year view*
 
-And so, “this seems to be going up for now”, is still true on a long enough timeline.<h2>This week</h2>
+And so, “this seems to be going up for now”, is still true on a long enough timeline.
+
+## This week
 
 Looking at the week ahead for the tech market.
 
@@ -38,10 +43,10 @@ And… the winners list narrowed from five to… two.
 *Heat Map view this week*
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region:<strong> United States</strong>
-* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector:<strong> Technology</strong>
-* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region:** United States**
+* Market Cap (Intraday):** Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector:** Technology**
+* Industry:** Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**

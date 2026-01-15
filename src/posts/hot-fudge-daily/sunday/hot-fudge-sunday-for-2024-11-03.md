@@ -7,13 +7,23 @@ date: 2024-11-03 17:30:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/><h2>About the changes ahead...</h2>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
 
-This week marks my crossover beyond 50% automation levels for this [Hot Fudge Daily](https://fudge.org/). With the time I’ve reclaimed, I'll be slowly and patiently updating [Fudge Factor](https://fudge.org/) for new functionality using [11ty 3.0](https://www.11ty.dev/blog/eleventy-v3/) along with recent [enhancements](https://buttondown.com/changelog) from [Buttondown](https://docs.buttondown.com/api-changelog). 🤓<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h3>📈 Markets Monday for 2024-10-28</h3><h3>Quick Recap</h3>
+## About the changes ahead...
+
+This week marks my crossover beyond 50% automation levels for this [Hot Fudge Daily](https://fudge.org/). With the time I’ve reclaimed, I'll be slowly and patiently updating [Fudge Factor](https://fudge.org/) for new functionality using [11ty 3.0](https://www.11ty.dev/blog/eleventy-v3/) along with recent [enhancements](https://buttondown.com/changelog) from [Buttondown](https://docs.buttondown.com/api-changelog). 🤓<hr/>
+
+# Hot Fudge Daily Digest
+
+<hr/>
+
+### 📈 Markets Monday for 2024-10-28
+
+### Quick Recap
 
 For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.
 
@@ -23,15 +33,17 @@ For Market Monday, I look at the same key indicator that I take from a simple Ya
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
-{{ subscribe_form }}<h3>🔥 Hot Takes Tuesday for 2024-10-29</h3>
+{{ subscribe_form }}
+
+### 🔥 Hot Takes Tuesday for 2024-10-29
 
 Two hot takes on the two stories caught my eye on Tuesday.
 
@@ -43,7 +55,9 @@ Two hot takes on the two stories caught my eye on Tuesday.
 
 [https://www.techmeme.com/241028/p24#a241028p24](https://www.techmeme.com/241028/p24#a241028p24)
 
-{{ subscribe_form }}<h3>🤪 Wacky Wednesday for 2024-10-30</h3>
+{{ subscribe_form }}
+
+### 🤪 Wacky Wednesday for 2024-10-30
 
 Each Wednesday I go through dozens of Slack communities.
 
@@ -59,7 +73,9 @@ https://www.youtube.com/watch?v=P_vbYmPm_zU
 
 https://www.youtube.com/watch?v=7J_Ugp8ZB4E?si=0SPszV2bC1lnlXEj
 
-{{ subscribe_form }}<h3>🔙 Throwback Thursday for 2024-10-31</h3>
+{{ subscribe_form }}
+
+### 🔙 Throwback Thursday for 2024-10-31
 
 Back in 2010, short URLs were still very much in vogue because a shorter URL is a better URL, right?
 
@@ -73,7 +89,9 @@ Oh… and Google’s short URL and QR code service “[goo.gl](https://en.wikipe
 
 [https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/](https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/)
 
-{{ subscribe_form }}<h3>✅ Final Thoughts Friday for 2024-11-01</h3>
+{{ subscribe_form }}
+
+### ✅ Final Thoughts Friday for 2024-11-01
 
 I had a blast at my first [All Things Open](https://www.linkedin.com/posts/jaycuthrell_allthingsopen-activity-7256680971494739968-mfFe?utm_source=share&utm_medium=member_desktop).
 
@@ -93,21 +111,35 @@ And… scene.
 
 [https://www.techmeme.com/241101/p19#a241101p19](https://www.techmeme.com/241101/p19#a241101p19)
 
-{{ subscribe_form }}<h3>🔮 Sneak Peak Saturday for 2024-11-02</h3>
+{{ subscribe_form }}
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+### 🔮 Sneak Peak Saturday for 2024-11-02
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+
+#### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/241102/p7#a241102p7](https://www.techmeme.com/241102/p7#a241102p7)<h4>Insert Ceiling Cat Meme</h4>
+#### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/241101/p22#a241101p22](https://www.techmeme.com/241101/p22#a241101p22)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+[https://www.techmeme.com/241102/p7#a241102p7](https://www.techmeme.com/241102/p7#a241102p7)
 
-[https://www.techmeme.com/241101/p18#a241101p18](https://www.techmeme.com/241101/p18#a241101p18)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+#### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/241102/p10#a241102p10](https://www.techmeme.com/241102/p10#a241102p10)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+[https://www.techmeme.com/241101/p22#a241101p22](https://www.techmeme.com/241101/p22#a241101p22)
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/241101/p18#a241101p18](https://www.techmeme.com/241101/p18#a241101p18)
+
+#### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/241102/p10#a241102p10](https://www.techmeme.com/241102/p10#a241102p10)
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/241101/p9#a241101p9](https://www.techmeme.com/241101/p9#a241101p9)
 

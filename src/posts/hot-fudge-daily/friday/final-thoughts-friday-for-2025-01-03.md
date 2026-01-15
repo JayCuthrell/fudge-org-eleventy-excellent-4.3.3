@@ -6,8 +6,13 @@ date: 2025-01-04 02:14:53.414755+00:00
 ---
 
 
-The tech news stories that caught my eye this week both included a staggering reference to $80B.<h3>🤖 + 🤯 First, $80B of new Microsoft AI data centers… in 2025. </h3>
 
-[https://www.techmeme.com/250103/p16#a250103p16](https://www.techmeme.com/250103/p16#a250103p16)<h3>🍪 + 🤯 Second, $80B+ in car chips… per year!</h3>
+The tech news stories that caught my eye this week both included a staggering reference to $80B.
+
+### 🤖 + 🤯 First, $80B of new Microsoft AI data centers… in 2025.
+
+[https://www.techmeme.com/250103/p16#a250103p16](https://www.techmeme.com/250103/p16#a250103p16)
+
+### 🍪 + 🤯 Second, $80B+ in car chips… per year!
 
 [https://www.techmeme.com/250101/p2#a250101p2](https://www.techmeme.com/250101/p2#a250101p2)

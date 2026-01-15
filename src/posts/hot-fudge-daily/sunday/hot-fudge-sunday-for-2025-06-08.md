@@ -7,6 +7,7 @@ date: 2025-06-08 20:21:59+00:00
 
 
 
+
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 ## Last week
@@ -106,7 +107,7 @@ Then there is a trope, cliché, or bromide about slow news days and the quietly 
 
 [https://www.techmeme.com/250606/p10#a250606p10](https://www.techmeme.com/250606/p10#a250606p10)
 
-<h2 data-pm-slice="1 3 []">#OpenToWork Weekly</h2>
+## #OpenToWork Weekly
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 

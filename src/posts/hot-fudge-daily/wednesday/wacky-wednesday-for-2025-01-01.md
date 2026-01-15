@@ -6,7 +6,8 @@ date: 2025-01-01 22:48:48.697984+00:00
 ---
 
 
-<blockquote><h1>🎉 Happy New Year’s Edition 🎉</h1></blockquote>
+
+> # 🎉 Happy New Year’s Edition 🎉
 
 Each Wednesday I go through dozens of Slack communities.
 

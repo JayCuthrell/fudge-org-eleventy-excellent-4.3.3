@@ -6,9 +6,10 @@ date: 2025-04-16 04:34:25.021265+00:00
 ---
 
 
+
 Two hot takes on funding on Tuesday.
 
-🦺 + 💰 This proves that there is <em>some</em> money in AI safety and security.
+🦺 + 💰 This proves that there is *some* money in AI safety and security.
 
 [https://www.techmeme.com/250415/p14#a250415p14](https://www.techmeme.com/250415/p14#a250415p14)
 

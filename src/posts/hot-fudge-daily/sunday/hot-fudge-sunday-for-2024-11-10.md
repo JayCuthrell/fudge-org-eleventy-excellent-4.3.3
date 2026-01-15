@@ -8,17 +8,21 @@ date: 2024-11-10 17:59:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/><h2>Lookin ahead to 2025...</h2>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+
+## Lookin ahead to 2025...
 
 There are many sayings about change. This week was a lot to take in outside of my newsletter.
 
 [https://www.linkedin.com/posts/jaycuthrell_vote-activity-7259566972936359937-ripi?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_vote-activity-7259566972936359937-ripi?utm_source=share&utm_medium=member_desktop)
 
-Besides the grand A/B test 📊 at scale experiment 🧪 of these United States 🇺🇸, I was also traveling and working with clients as the year counts down until 2025. 🤓<h2>Looking back on 2024...</h2>
+Besides the grand A/B test 📊 at scale experiment 🧪 of these United States 🇺🇸, I was also traveling and working with clients as the year counts down until 2025. 🤓
+
+## Looking back on 2024...
 
 It's pretty remarkable what Buttondown, 11ty, and my workflow automation have enabled me to publish in 2024.
 
@@ -27,7 +31,10 @@ It's pretty remarkable what Buttondown, 11ty, and my workflow automation have en
 
 Also, my newsletter expanded into newsletters plural.
 
-As of this update, a total of 150 daily writing submissions (paid) have been sent since June 2024 with 20 weekly digests (free) and 38 blog style posts for a total of <strong><em>58 long form pieces... so far.</em></strong><h2>Newsletters published in 2024</h2>
+As of this update, a total of 150 daily writing submissions (paid) have been sent since June 2024 with 20 weekly digests (free) and 38 blog style posts for a total of ***58 long form pieces... so far.***
+
+## Newsletters published in 2024
+
 * [🌶️ Hot Fudge Sunday for 2024-11-03](https://fudge.org/archive/hot-fudge-sunday-for-2024-11-03/) 2024 Nov 03
 * [🌶️ Hot Fudge Sunday for 2024-10-27](https://fudge.org/archive/hot-fudge-sunday-for-2024-10-27/) 2024 Oct 27
 * [🌶️ Hot Fudge Sunday for 2024-10-20](https://fudge.org/archive/hot-fudge-sunday-for-2024-10-20/) 2024 Oct 20

@@ -7,12 +7,13 @@ date: 2025-06-10 02:06:53.327172+00:00
 
 
 
-<h3>Last week</h3>
+
+### Last week
 
 ![Not as spicy](https://assets.buttondown.email/images/dd8121a7-767e-4cbf-ba3d-600ce9468730.png?w=960&fit=max)
 *Much less spicy…*
 
-<h3>This week</h3>
+### This week
 
 It’s all about love and rockets… so, a bit more spicy.
 

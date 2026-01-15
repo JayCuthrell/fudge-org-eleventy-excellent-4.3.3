@@ -6,9 +6,12 @@ date: 2024-08-07 10:49:17.618305+00:00
 ---
 
 
+
 Off the cuff analysis in a rapid fire format.
 
-Let’s dig in…<h2>Funds, Funding, and M&A</h2>
+Let’s dig in…
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240806/p41#a240806p41](https://www.techmeme.com/240806/p41#a240806p41)
 

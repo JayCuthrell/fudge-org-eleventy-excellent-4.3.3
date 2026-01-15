@@ -8,9 +8,9 @@ date: 2024-09-15 19:40:40.766968+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
@@ -21,9 +21,11 @@ date: 2024-09-15 19:40:40.766968+00:00
 ---
 ### 📈 Markets Monday for 2024-09-09
 
-<h3>Reading Recommendation</h3>
+### Reading Recommendation
 
-The technology market can be hard to keep up with and if you aren’t reading [Spyglass](https://spyglass.org/), you should be. As for why, the writer behind [Spyglass](https://spyglass.org/) is [M.G. Siegler](https://mgsiegler.com/about).<h3>Quick Recap</h3>
+The technology market can be hard to keep up with and if you aren’t reading [Spyglass](https://spyglass.org/), you should be. As for why, the writer behind [Spyglass](https://spyglass.org/) is [M.G. Siegler](https://mgsiegler.com/about).
+
+### Quick Recap
 
 As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.
 
@@ -33,13 +35,13 @@ As a Market Monday reminder and recap, what I try to do each week is look at the
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region:<strong> United States</strong>
-* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector:<strong> Technology</strong>
-* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong> 
+* % Change in Price (Intraday):**greater than 4**
+* Region:** United States**
+* Market Cap (Intraday):** Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector:** Technology**
+* Industry:** Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors** 
 
 {{ subscribe_form }}
    
@@ -131,9 +133,7 @@ https://www.techmeme.com/240912/p8#a240912p8
  
 As of this update, my delegate duties at [AI Field Day 5](https://techfieldday.com/event/aifd5/) for [Tech Field Day](https://techfieldday.com/events/) are done but my notes will be published in the coming days / weeks. Over three days, I and fellow delegates took in updates from Keysight, Integrail, Cisco, VMware, Elastic, Arista, and Enfabrica *as well as* a Delegate Ignite Talk series and Delegate Roundtable!
 
-<blockquote class="pullquote">
-
-I would like to give a HUGE shout out to the team that makes Tech Field Day possible and to Futurum Group as well the sponsoring companies for making the event possible. 🙏 🙏 🙏</blockquote>
+> I would like to give a HUGE shout out to the team that makes Tech Field Day possible and to Futurum Group as well the sponsoring companies for making the event possible. 🙏 🙏 🙏
 
 What’s next?
 

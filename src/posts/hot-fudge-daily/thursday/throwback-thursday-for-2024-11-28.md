@@ -7,13 +7,12 @@ date: 2024-11-29 02:02:54.998029+00:00
 
 
 
-In this Thankful Throwback Thursday I am thankful for the web browser technology that has arguably made my career since the 1990s possible starting with [NCSA Mosaic](https://en.wikipedia.org/wiki/NCSA_Mosaic) to my modern day daily drivers — Safari and Chrome.<blockquote class="pullquote">
 
-Click.
+In this Thankful Throwback Thursday I am thankful for the web browser technology that has arguably made my career since the 1990s possible starting with [NCSA Mosaic](https://en.wikipedia.org/wiki/NCSA_Mosaic) to my modern day daily drivers — Safari and Chrome.
 
-Click.
-
-Click.</blockquote>
+> Click.
+> Click.
+> Click.
 
 Long ago, back in the ancient times of… 2008, Google Chrome was launched as a Windows browser alternative in that most Google of releases… a Beta. These were the days of desktops and laptops with phones being mostly feature phones.
 

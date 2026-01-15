@@ -7,7 +7,8 @@ date: 2024-11-13 04:06:48.531822+00:00
 
 
 
-<h3>New Recap</h3>
+
+### New Recap
 
 For Market Monday, I must acknowledge the moment. Yes, this week saw the Dow reach 44K and the S&P 500 reach 6K while NASDAQ is still around 19K but will likely be flirting with 20K.
 

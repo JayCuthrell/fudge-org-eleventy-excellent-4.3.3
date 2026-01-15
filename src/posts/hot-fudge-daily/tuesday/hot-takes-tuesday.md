@@ -7,12 +7,17 @@ date: 2024-06-05 02:30:21.468419+00:00
 
 
 
+
 Want more? 🤓
-<h1>Hot Takes Tuesday</h1>
+
+# Hot Takes Tuesday
 
 Off the cuff analysis in a rapid fire format.
 
-A few things that caught my attention today.<h2>Funds, Funding, and M&A</h2>
+A few things that caught my attention today.
+
+## Funds, Funding, and M&A
+
 * [Cisco now has an AI investment fund](https://www.techmeme.com/240604/p40#a240604p40) - 🤔 Perhaps the question will eventually be what companies will not have an AI investment fund.
 * [Pika raised $80M](https://www.techmeme.com/240604/p45#a240604p45) - 🙂 Fun fact: The service powering this newsletter, Buttondown, immensely lowered operating costs by using Pika.
 * [Storyblok raised an $80M](https://www.techmeme.com/240604/p21#a240604p21) - 🔮 As I've said before, MACH architectures will likely be a winning pattern.

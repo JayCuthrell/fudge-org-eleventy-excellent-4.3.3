@@ -6,7 +6,8 @@ date: 2024-06-12 19:31:18.241226+00:00
 ---
 
 
-<h1>Wacky Wednesday for 2024-06-12</h1>
+
+# Wacky Wednesday for 2024-06-12
 
 Explore the wild and wacky world of shared links from online Slack communities.
 

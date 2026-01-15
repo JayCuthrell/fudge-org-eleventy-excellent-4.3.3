@@ -6,6 +6,7 @@ date: 2024-06-09 19:52:29.721231+00:00
 ---
 
 
+
 Welcome to 🌶️ Spicy Edition Sunday!
 
 Uncover the spicy inspiration behind this week's Fudge Sunday edition, packed with deep links and fresh insights. 🔥
@@ -26,13 +27,15 @@ I wrestled with two things today. I wanted to write about a deeply technical top
 
 [https://www.linkedin.com/pulse/reflecting-qlik-connect-2024-jay-cuthrell-p7gpe/](https://www.linkedin.com/pulse/reflecting-qlik-connect-2024-jay-cuthrell-p7gpe/)
 
-Instead, I linked to my LinkedIn Article. The topic I had in mind will have to wait. 🫷<h2>Back to the spicy…</h2>
+Instead, I linked to my LinkedIn Article. The topic I had in mind will have to wait. 🫷
 
-Yesterday, I woke up and remembered an email from Thursday that caught my eye that might be the <em>perfect inspiration</em> for Fudge Sunday newsletter. Next, like a hyper stimulated Jack Russell Terrier, I decided to see what effort would be required to update node.js, my 11ty stack, and the starter framework from 1.x to 3.1.0… and jumped into code. 🐿️
+## Back to the spicy…
+
+Yesterday, I woke up and remembered an email from Thursday that caught my eye that might be the *perfect inspiration* for Fudge Sunday newsletter. Next, like a hyper stimulated Jack Russell Terrier, I decided to see what effort would be required to update node.js, my 11ty stack, and the starter framework from 1.x to 3.1.0… and jumped into code. 🐿️
 
 Wait. Whut. ⁉️
 
-Oh, you were expecting some grand galaxy brain thinking on my part? <em>Nope. 🙂‍↔️</em>
+Oh, you were expecting some grand galaxy brain thinking on my part? *Nope. 🙂‍↔️*
 
 Thankfully, I remembered that I had remembered that email after the humbling reminder that I am not a good software developer, coder, directions follower, etc. 😭
 

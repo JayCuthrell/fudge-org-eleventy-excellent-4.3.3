@@ -7,6 +7,7 @@ date: 2025-04-21 00:30:00+00:00
 
 
 
+
 ## Reminder
 
 This week I'll be at [AI Infrastructure Field Day 2](https://techfieldday.com/event/aiifd2/)! 🤓
@@ -70,7 +71,9 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
 ## 📈 Markets Monday for 2025-04-14
  
 
-As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+As a reminder, this is an end of day snapshot…
+
+### Quick Recap
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
@@ -87,20 +90,20 @@ This week:
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
    
 ## 🔥 Hot Takes Tuesday for 2025-04-15
  
 
 Two hot takes on funding on Tuesday.
 
-🦺 + 💰 This proves that there is <em>some</em> money in AI safety and security.
+🦺 + 💰 This proves that there is *some* money in AI safety and security.
 
 [https://www.techmeme.com/250415/p14#a250415p14](https://www.techmeme.com/250415/p14#a250415p14)
 
@@ -146,16 +149,28 @@ It has also been 20 years since the launch of [Amazon Mechanical Turk](https://w
 
 Ah, the Friday news dump. Let’s see the memes!
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h3>Peak 🏔️ vs. Peek 👀</h3>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
-Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.<h3>Insert Let's See Who This Really Is Meme</h3>
+### Peak 🏔️ vs. Peek 👀
 
-[https://www.techmeme.com/250418/p5#a250418p5](https://www.techmeme.com/250418/p5#a250418p5)<h3>Insert Ceiling Cat Meme</h3>
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-[https://www.techmeme.com/250418/p10#a250418p10](https://www.techmeme.com/250418/p10#a250418p10)<h3>Insert We're All Trying To Find The Guy Who Did This Meme</h3>
+### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/250418/p3#a250418p3](https://www.techmeme.com/250418/p3#a250418p3)<h3>Insert That Wasn't Me, That Was Patricia Meme</h3>
+[https://www.techmeme.com/250418/p5#a250418p5](https://www.techmeme.com/250418/p5#a250418p5)
 
-[https://www.techmeme.com/250418/p14#a250418p14](https://www.techmeme.com/250418/p14#a250418p14)<h3>Insert Anthony Adams Rubbing Hands Meme</h3>
+### Insert Ceiling Cat Meme
+
+[https://www.techmeme.com/250418/p10#a250418p10](https://www.techmeme.com/250418/p10#a250418p10)
+
+### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/250418/p3#a250418p3](https://www.techmeme.com/250418/p3#a250418p3)
+
+### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/250418/p14#a250418p14](https://www.techmeme.com/250418/p14#a250418p14)
+
+### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/250418/p6#a250418p6](https://www.techmeme.com/250418/p6#a250418p6)

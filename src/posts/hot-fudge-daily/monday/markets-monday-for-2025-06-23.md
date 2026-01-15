@@ -7,16 +7,19 @@ date: 2025-06-23 20:19:47.568576+00:00
 
 
 
-<h3>Last week</h3>
 
-It’s all about love and rockets… so, a bit more spicy.<h3><strong>Last week</strong></h3>
+### Last week
+
+It’s all about love and rockets… so, a bit more spicy.
+
+### **Last week**
 
 Quantumania!
 
 ![Even more spicy!](https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max)
 *Even more spicy!*
 
-<h3>This week</h3>
+### This week
 
 AI, space satellites, and AI related networking!
 

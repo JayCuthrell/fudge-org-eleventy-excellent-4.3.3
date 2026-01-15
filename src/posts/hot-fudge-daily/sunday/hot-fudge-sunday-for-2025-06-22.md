@@ -8,6 +8,7 @@ date: 2025-06-22 15:00:00+00:00
 
 
 
+
 This week continues our new shortened format. Next week will be a shorter vacation edition of 🌶️ Hot Fudge Sunday.
 
 {{ subscribe_form }}
@@ -34,14 +35,15 @@ Wish me luck! 🤓
 ---
 ## 📈 Markets Monday for 2025-06-16
  
-<h3>Last week</h3>
+
+### Last week
 
 It’s all about love and rockets… so, a bit more spicy.
 
 ![More spicy!](https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max)
 *More spicy!*
 
-<h3><strong>This week</strong></h3>
+### **This week**
 
 Quantumania!
 
@@ -75,7 +77,7 @@ Each Wednesday I then select the most interesting shared link from dozens of Sla
 
 [https://www.techmeme.com/250619/p29#a250619p29](https://www.techmeme.com/250619/p29#a250619p29)
 
-Indeed, one need only back in time to <em>[checks notes]</em> [May 2025](https://fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) for a reflection on LEO broadband expansion of alternatives that will (one day) rival Starlink.
+Indeed, one need only back in time to *[checks notes]* [May 2025](https://fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) for a reflection on LEO broadband expansion of alternatives that will (one day) rival Starlink.
    
 ## ✅ Final Thoughts Friday for 2025-06-20
  
@@ -84,7 +86,7 @@ Indeed, one need only back in time to <em>[checks notes]</em> [May 2025](https:/
 
 [https://www.techmeme.com/250613/p10#a250613p10](https://www.techmeme.com/250613/p10#a250613p10)
 
-At SXSW 2024, I attended a fireside chat on “<strong>Cyber Talent in the Era of Great Power Competition</strong>“. The talk was interesting and I took a few notes in my Obsidian. 
+At SXSW 2024, I attended a fireside chat on “**Cyber Talent in the Era of Great Power Competition**“. The talk was interesting and I took a few notes in my Obsidian. 
 
 Here’s the YouTube video:
 
@@ -106,7 +108,9 @@ My notes:
 ## 🔮 Sneak Peak Saturday for 2025-06-21
  
 
-Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.<h3>Peak 🏔️ vs. Peek 👀</h3>
+Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.
+
+### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
@@ -118,7 +122,7 @@ Then there is a trope, cliché, or bromide about slow news days and the quietly 
 
 ---
 
-<h1 data-pm-slice="1 3 []">#OpenToWork Weekly</h1>
+# #OpenToWork Weekly
 
 ---
 

@@ -7,14 +7,17 @@ date: 2025-06-30 22:11:09.954184+00:00
 
 
 
-It’s triple the spicy this week.<h3><strong>Last</strong> week</h3>
+
+It’s triple the spicy this week.
+
+### **Last**week
 
 AI, space satellites, and AI related networking!
 
 ![Not so spicy…](https://assets.buttondown.email/images/7d75d1d0-d5c2-45dd-9421-bffaffc9dd4c.png?w=960&fit=max)
 *Not so spicy…*
 
-<h3>This week</h3>
+### This week
 
 Mergers and Quantumania!
 

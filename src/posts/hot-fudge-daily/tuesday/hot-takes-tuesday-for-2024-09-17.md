@@ -6,13 +6,14 @@ date: 2024-09-19 05:11:16.879212+00:00
 ---
 
 
+
 The numbers this week are once again big numbers.
 
 These three stories caught my eye.
 
 [https://www.techmeme.com/240917/p29#a240917p29](https://www.techmeme.com/240917/p29#a240917p29)
 
-💰 + 🤖 $100B+ is an interesting number (now that $30B+ has been raised within this AI specific fund) and it goes to show that even companies like Microsoft that <em>could</em> tap their cash reserves alone are facing funding crunch needs that require <em>multiple</em> parties. 🤔
+💰 + 🤖 $100B+ is an interesting number (now that $30B+ has been raised within this AI specific fund) and it goes to show that even companies like Microsoft that *could* tap their cash reserves alone are facing funding crunch needs that require *multiple* parties. 🤔
 
 [https://www.techmeme.com/240916/p30#a240916p30](https://www.techmeme.com/240916/p30#a240916p30)
 

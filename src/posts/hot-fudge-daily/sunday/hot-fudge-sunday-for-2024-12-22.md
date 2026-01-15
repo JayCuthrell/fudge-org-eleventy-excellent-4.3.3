@@ -8,9 +8,14 @@ date: 2024-12-22 23:30:00+00:00
 
 
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/><h1>Hot Fudge Daily Digest</h1>
 
-Last week, I recovered from the prior week in Las Vegas at [Gartner IT Infrastructure, Operations & Cloud Strategies (IOCS) Conference](https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us). It was fun comparing notes with my [NexusTek](https://nexustek.com/) peers and attending post-event deeper dive meetings with Gartner analysts to discuss [Agentic AI](https://fudge.org/topics/agenticai/). 🔮🤖☁️🔐<h2>LinkedIn #OpenToWork Weekly</h2>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+
+# Hot Fudge Daily Digest
+
+Last week, I recovered from the prior week in Las Vegas at [Gartner IT Infrastructure, Operations & Cloud Strategies (IOCS) Conference](https://www.gartner.com/en/conferences/na/infrastructure-operations-cloud-us). It was fun comparing notes with my [NexusTek](https://nexustek.com/) peers and attending post-event deeper dive meetings with Gartner analysts to discuss [Agentic AI](https://fudge.org/topics/agenticai/). 🔮🤖☁️🔐
+
+## LinkedIn #OpenToWork Weekly
 
 Per our reader survey, each week, I’m going to be highlighting a newsletter community reader that is #OpenToWork.
 
@@ -18,15 +23,15 @@ This week I’m highlighting [Chris Mojica](https://www.linkedin.com/posts/pcmoj
 
 [https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop)
 
-More about [Chris Mojica](https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop):<blockquote class="pullquote">
+More about [Chris Mojica](https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop):
 
-Seasoned technical sales professional and technologist with proven pre and post sales engineering experience. Experience includes supporting startups, system integrators, vendors, channel partners/VARs, OEMs and end customers. I am always open to Solutions Architect or Sales/Systems Engineering opportunities.
+> Seasoned technical sales professional and technologist with proven pre and post sales engineering experience. Experience includes supporting startups, system integrators, vendors, channel partners/VARs, OEMs and end customers. I am always open to Solutions Architect or Sales/Systems Engineering opportunities.
+> Technical backgrounds include the disciplines of HCI, Virtualization, Software Defined (SDN/SDS/SDC) storage area networks (SAN), network, and broadband technologies. Additionally, having supported various levels within multiple organizations demonstrates my ability to effectively conduct business and technical level discussions within each of these tiers.
+> Leveraging my knowledge, background and experience allows me to understand complex datacenter environments. This technical acumen allows me to propose creative solutions that maximize ROI and minimize TCO. Strong organizational skills and ability to support multiple projects allows me to meet multiple deadlines.
 
-Technical backgrounds include the disciplines of HCI, Virtualization, Software Defined (SDN/SDS/SDC) storage area networks (SAN), network, and broadband technologies. Additionally, having supported various levels within multiple organizations demonstrates my ability to effectively conduct business and technical level discussions within each of these tiers.
+Source: [Chris Mojica on LinkedIn](https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop)<hr/>
 
-Leveraging my knowledge, background and experience allows me to understand complex datacenter environments. This technical acumen allows me to propose creative solutions that maximize ROI and minimize TCO. Strong organizational skills and ability to support multiple projects allows me to meet multiple deadlines.</blockquote>
-
-Source: [Chris Mojica on LinkedIn](https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop)<hr/><h1>Hot Fudge Daily Digest</h1>
+# Hot Fudge Daily Digest
 
 Housekeeping note: I’m experimenting with Bluesky (again)
 
@@ -36,9 +41,13 @@ https://bsky.app/profile/cuthrell.com
 
 Follow Hot Fudge Daily on Bluesky:
 
-https://bsky.app/profile/fudge.org<hr/><h3>📈 Markets Monday for 2024-12-16</h3>
+https://bsky.app/profile/fudge.org<hr/>
 
-As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+### 📈 Markets Monday for 2024-12-16
+
+As a reminder, this is an end of day snapshot…
+
+### Quick Recap
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
@@ -55,15 +64,17 @@ This week, Yahoo Screener is now part of “Research Hub” which... appears to 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
-{{ subscribe_form }}<h3>🔥 Hot Takes Tuesday for 2024-12-17</h3>
+{{ subscribe_form }}
+
+### 🔥 Hot Takes Tuesday for 2024-12-17
 
 Two hot takes on one story that caught my eye on Tuesday.
 
@@ -73,7 +84,9 @@ Two hot takes on one story that caught my eye on Tuesday.
 
 [https://www.techmeme.com/241217/p16#a241217p16](https://www.techmeme.com/241217/p16#a241217p16)
 
-{{ subscribe_form }}<h3>🤪 Wacky Wednesday for 2024-12-18</h3>
+{{ subscribe_form }}
+
+### 🤪 Wacky Wednesday for 2024-12-18
 
 Each Wednesday I go through dozens of Slack communities.
 
@@ -89,7 +102,9 @@ https://www.youtube.com/watch?v=J5m4orfmB8I
 
 [https://news.sky.com/story/us-city-tells-residents-to-stop-sticking-googly-eyes-on-its-statues-13273478](https://news.sky.com/story/us-city-tells-residents-to-stop-sticking-googly-eyes-on-its-statues-13273478)
 
-{{ subscribe_form }}<h3>🔙 Throwback Thursday for 2024-12-19</h3>
+{{ subscribe_form }}
+
+### 🔙 Throwback Thursday for 2024-12-19
 
 What happens when the web forgets?
 
@@ -105,11 +120,13 @@ Even Wikipedia recognizes link rot as important.
 
 Indeed, I’ve even written about link rot enough to create a topic / tag.
 
-[https://fudge.org/archive/plugins-patterns-and-potpourri/](https://fudge.org/archive/plugins-patterns-and-potpourri/)<blockquote>
+[https://fudge.org/archive/plugins-patterns-and-potpourri/](https://fudge.org/archive/plugins-patterns-and-potpourri/)
 
-(Yes, I finally fixed my hacked up og-image script)</blockquote>
+> (Yes, I finally fixed my hacked up og-image script)
 
-{{ subscribe_form }}<h3>✅ Final Thoughts Friday for 2024-12-20</h3>
+{{ subscribe_form }}
+
+### ✅ Final Thoughts Friday for 2024-12-20
 
 The tech news story that caught my eye this week was that Second Life… is still around and thriving?
 
@@ -119,21 +136,35 @@ In my early years going to SXSW, I remember seeing [Life 2.0](https://www.imdb.c
 
 [https://filmschoolrejects.com/sxsw-review-life-2-0-94b522a7887c/](https://filmschoolrejects.com/sxsw-review-life-2-0-94b522a7887c/)
 
-{{ subscribe_form }}<h3>🔮 Sneak Peak Saturday for 2024-12-21</h3>
+{{ subscribe_form }}
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+### 🔮 Sneak Peak Saturday for 2024-12-21
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+
+#### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/241219/p26#a241219p26](https://www.techmeme.com/241219/p26#a241219p26)<h4>Insert Ceiling Cat Meme</h4>
+#### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/241220/p12#a241220p12](https://www.techmeme.com/241220/p12#a241220p12)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+[https://www.techmeme.com/241219/p26#a241219p26](https://www.techmeme.com/241219/p26#a241219p26)
 
-[https://www.techmeme.com/241219/p33#a241219p33](https://www.techmeme.com/241219/p33#a241219p33)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+#### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/241220/p11#a241220p11](https://www.techmeme.com/241220/p11#a241220p11)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+[https://www.techmeme.com/241220/p12#a241220p12](https://www.techmeme.com/241220/p12#a241220p12)
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/241219/p33#a241219p33](https://www.techmeme.com/241219/p33#a241219p33)
+
+#### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/241220/p11#a241220p11](https://www.techmeme.com/241220/p11#a241220p11)
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/241221/p2#a241221p2](https://www.techmeme.com/241221/p2#a241221p2)
 

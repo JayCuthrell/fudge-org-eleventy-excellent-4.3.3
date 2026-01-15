@@ -7,6 +7,7 @@ date: 2025-05-26 15:33:24.702951+00:00
 
 
 
+
 I surveyed readers about offering a shorter version of the newsletter. Results were mixed so I’m shortening the newsletter and moving sections around this week.
 
 https://www.prnewswire.com/news-releases/nexustek-launches-new-private-cloud-offerings-to-power-the-next-era-of-digital-business-302460874.html
@@ -21,7 +22,7 @@ https://www.prnewswire.com/news-releases/nexustek-launches-new-private-cloud-off
 
 As a reminder, this is an end of day snapshot…
 
-<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+### Quick Recap
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
@@ -35,7 +36,7 @@ This week:
 
 Two hot takes on bills and banks.
 
-⚖️ + 🤖 I guess if you wanted to say <em>anything</em> goes with AI you could just make a law that says <em>anything</em> goes with AI, right?
+⚖️ + 🤖 I guess if you wanted to say *anything* goes with AI you could just make a law that says *anything* goes with AI, right?
 
 [https://www.techmeme.com/250519/p43#a250519p43](https://www.techmeme.com/250519/p43#a250519p43)
 
@@ -68,7 +69,7 @@ Back in the ancient times of 2018… [the satellite broadband services market](h
 ## ✅ Final Thoughts Friday for 2025-05-23
  
 
-🤖 + 🔮 The story that caught my eye this week was Waymo reaching 10M paid rides. Granted, even 10M total rides is a mere drop in the bucket compared to human operated Lyft and Uber rides <strong><em>every day</em></strong>. 
+🤖 + 🔮 The story that caught my eye this week was Waymo reaching 10M paid rides. Granted, even 10M total rides is a mere drop in the bucket compared to human operated Lyft and Uber rides ***every day***. 
 
 Waymo will disrupt the gig economy slowly as it ramps. Just as the human switchboard operator role had a peak, that peak gave way increasingly automated digital telecommunications solutions.
 
@@ -80,7 +81,8 @@ Waymo will disrupt the gig economy slowly as it ramps. Just as the human switchb
 Ah, the Friday news dump. Let’s see the memes!
 
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
-<h3>Insert Let's See Who This Really Is Meme</h3>
+
+### Insert Let's See Who This Really Is Meme
 
 [https://www.techmeme.com/250523/p12#a250523p12](https://www.techmeme.com/250523/p12#a250523p12)
 

@@ -6,6 +6,7 @@ date: 2024-09-25 04:08:52.445435+00:00
 ---
 
 
+
 The numbers and stories caught my eye were global.
 
 [https://www.techmeme.com/240923/p17#a240923p17](https://www.techmeme.com/240923/p17#a240923p17)
@@ -18,4 +19,4 @@ The numbers and stories caught my eye were global.
 
 [https://www.techmeme.com/240919/p40#a240919p40](https://www.techmeme.com/240919/p40#a240919p40)
 
-💰 + 🇺🇸 It is fascinating to see a large raise for a <em>nonprofits</em> enablement platform in the United States that isn’t (yet?) owned by Blackbaud.
+💰 + 🇺🇸 It is fascinating to see a large raise for a *nonprofits* enablement platform in the United States that isn’t (yet?) owned by Blackbaud.

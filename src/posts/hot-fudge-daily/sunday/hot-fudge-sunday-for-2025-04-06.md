@@ -6,6 +6,7 @@ date: 2025-04-06 21:30:00+00:00
 ---
 
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
@@ -214,7 +215,7 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
 
 As a reminder, this is an end of day snapshot…
 
-<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+### Quick Recap
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 

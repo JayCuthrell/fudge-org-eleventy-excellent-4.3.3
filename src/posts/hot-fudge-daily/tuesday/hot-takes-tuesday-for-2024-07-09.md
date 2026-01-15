@@ -6,11 +6,14 @@ date: 2024-07-10 00:56:51.192962+00:00
 ---
 
 
-<h1>Hot Takes Tuesday for 2024-07-09</h1>
+
+# Hot Takes Tuesday for 2024-07-09
 
 Off the cuff analysis in a rapid fire format.
 
-Let’s dig in…<h2>Funds, Funding, and M&A</h2>
+Let’s dig in…
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240709/p23#a240709p23](https://www.techmeme.com/240709/p23#a240709p23)
 
@@ -30,4 +33,5 @@ Let’s dig in…<h2>Funds, Funding, and M&A</h2>
 
 [https://www.techmeme.com/240708/p7#a240708p7](https://www.techmeme.com/240708/p7#a240708p7)
 
-🗄️ + 🤖 Yes, I totally read your memo… <br/>[ <em> furiously taps away at A.I. assistant which finds the memo that was most definitely not read and summarizes it with ELI5 TLDR model played back on the microLED display tucked away in my prescription AR glasses </em>]
+🗄️ + 🤖 Yes, I totally read your memo… 
+[ * furiously taps away at A.I. assistant which finds the memo that was most definitely not read and summarizes it with ELI5 TLDR model played back on the microLED display tucked away in my prescription AR glasses *]

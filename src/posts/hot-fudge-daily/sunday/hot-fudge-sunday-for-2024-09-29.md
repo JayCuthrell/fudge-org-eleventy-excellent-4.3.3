@@ -8,13 +8,23 @@ date: 2024-09-29 16:30:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h3>📈 Markets Monday for 2024-09-23</h3><h3>Reading Recommendation</h3>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
 
-The software development and DevX market can be hard to keep up with and if you aren’t reading [Coté's Wunderkammer](https://newsletter.cote.io/), you should be. As for why, the writer behind [Coté's Wunderkammer](https://newsletter.cote.io/) is [Michael Coté](https://cote.io/)<em> </em>.<h3>Quick Recap</h3>
+# Hot Fudge Daily Digest
+
+<hr/>
+
+### 📈 Markets Monday for 2024-09-23
+
+### Reading Recommendation
+
+The software development and DevX market can be hard to keep up with and if you aren’t reading [Coté's Wunderkammer](https://newsletter.cote.io/), you should be. As for why, the writer behind [Coté's Wunderkammer](https://newsletter.cote.io/) is [Michael Coté](https://cote.io/)* *.
+
+### Quick Recap
 
 For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.
 
@@ -24,15 +34,17 @@ For Market Monday, I look at the same key indicator that I take from a simple Ya
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
-{{ subscribe_form }}<h3>🔥 Hot Takes Tuesday for 2024-09-24</h3>
+{{ subscribe_form }}
+
+### 🔥 Hot Takes Tuesday for 2024-09-24
 
 The numbers and stories caught my eye were global.
 
@@ -46,9 +58,11 @@ The numbers and stories caught my eye were global.
 
 [https://www.techmeme.com/240919/p40#a240919p40](https://www.techmeme.com/240919/p40#a240919p40)
 
-💰 + 🇺🇸 It is fascinating to see a large raise for a <em>nonprofits</em> enablement platform in the United States that isn’t (yet?) owned by Blackbaud.
+💰 + 🇺🇸 It is fascinating to see a large raise for a *nonprofits* enablement platform in the United States that isn’t (yet?) owned by Blackbaud.
 
-{{ subscribe_form }}<h3>🤪 Wacky Wednesday for 2024-09-25</h3>
+{{ subscribe_form }}
+
+### 🤪 Wacky Wednesday for 2024-09-25
 
 Each Wednesday I go through dozens of Slack communities.
 
@@ -68,7 +82,9 @@ https://www.youtube.com/watch?v=ISgHpUDeLBw
 
 [https://grist.org/transportation/barcelona-is-turning-subway-trains-into-power-stations/](https://grist.org/transportation/barcelona-is-turning-subway-trains-into-power-stations/)
 
-{{ subscribe_form }}<h3>🔙 Throwback Thursday for 2024-09-26</h3>
+{{ subscribe_form }}
+
+### 🔙 Throwback Thursday for 2024-09-26
 
 In these modern times of $1000+ smart phones, it is interesting to look back 15 years to when an [iPhone 3GS](https://en.wikipedia.org/wiki/IPhone_3GS) sold 1M units in a weekend.
 
@@ -81,7 +97,9 @@ The Palm Pre ran [webOS](https://en.wikipedia.org/wiki/WebOS). Today, webOS is r
 
 The iPhone 3GS ran [iOS](https://en.wikipedia.org/wiki/IOS). By comparison, iOS is now running on 2B+ devices ranging from the size of a phone to the size of a tablet… but [tvOS](https://en.wikipedia.org/wiki/TvOS) is probably running on less than ~100M devices connected to flat panel TV screens.
 
-{{ subscribe_form }}<h3>✅ Final Thoughts Friday for 2024-09-27</h3>
+{{ subscribe_form }}
+
+### ✅ Final Thoughts Friday for 2024-09-27
 
 As of this update, I am still wrapping up publishing my [AI Field Day 5](https://techfieldday.com/event/aifd5/) delegate notes on Keysight, Integrail, Cisco, VMware, Elastic, Arista, and Enfabrica.
 
@@ -98,21 +116,35 @@ The biggest stories this week that caught me eye:
 
 [https://www.techmeme.com/240923/p13#a240923p13](https://www.techmeme.com/240923/p13#a240923p13)
 
-{{ subscribe_form }}<h3>🔮 Sneak Peak Saturday for 2024-09-28</h3>
+{{ subscribe_form }}
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+### 🔮 Sneak Peak Saturday for 2024-09-28
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+
+#### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/240927/p6#a240927p6](https://www.techmeme.com/240927/p6#a240927p6)<h4>Insert Ceiling Cat Meme</h4>
+#### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/240927/p24#a240927p24](https://www.techmeme.com/240927/p24#a240927p24)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+[https://www.techmeme.com/240927/p6#a240927p6](https://www.techmeme.com/240927/p6#a240927p6)
 
-[https://www.techmeme.com/240927/p16#a240927p16](https://www.techmeme.com/240927/p16#a240927p16)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+#### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/240927/p27#a240927p27](https://www.techmeme.com/240927/p27#a240927p27)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+[https://www.techmeme.com/240927/p24#a240927p24](https://www.techmeme.com/240927/p24#a240927p24)
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/240927/p16#a240927p16](https://www.techmeme.com/240927/p16#a240927p16)
+
+#### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/240927/p27#a240927p27](https://www.techmeme.com/240927/p27#a240927p27)
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240927/p5#a240927p5](https://www.techmeme.com/240927/p5#a240927p5)
 

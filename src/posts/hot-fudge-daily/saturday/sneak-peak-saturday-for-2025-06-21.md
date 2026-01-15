@@ -6,7 +6,10 @@ date: 2025-06-21 15:36:09.810498+00:00
 ---
 
 
-Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.<h3>Peak 🏔️ vs. Peek 👀</h3>
+
+Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.
+
+### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 

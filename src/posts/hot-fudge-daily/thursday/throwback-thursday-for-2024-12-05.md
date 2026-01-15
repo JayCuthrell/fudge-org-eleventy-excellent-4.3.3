@@ -6,7 +6,8 @@ date: 2024-12-06 05:39:30.442690+00:00
 ---
 
 
-In a very special Thankful Throwback Thursday, we consider the ancient times of… <em>[checks notes]</em> two years ago when Google launched NotebookLM.
+
+In a very special Thankful Throwback Thursday, we consider the ancient times of… *[checks notes]* two years ago when Google launched NotebookLM.
 
 [https://www.techmeme.com/231208/p13#a231208p13](https://www.techmeme.com/231208/p13#a231208p13)
 

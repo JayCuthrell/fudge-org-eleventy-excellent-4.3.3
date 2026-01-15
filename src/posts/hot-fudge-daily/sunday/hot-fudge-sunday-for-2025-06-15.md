@@ -8,9 +8,12 @@ date: 2025-06-15 13:55:44+00:00
 
 
 
+
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
-{{ subscribe_form }}<h2>Last week</h2>
+{{ subscribe_form }}
+
+## Last week
 
 NexusTek attended Triangle Biotech Tuesday!
 
@@ -25,33 +28,47 @@ NexusTek hosted [an exclusive 🎟️🛥️🌃 event in NYC on on Thursday](ht
 [![ESP Does NYC](https://assets.buttondown.email/images/525e8249-5cab-4522-a98e-15214dbb85f7.png?w=960&fit=max)](https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler)
 *🎟️ 🛥️ 🌃*
 
-<h2>This week</h2>
+## This week
 
 I’m going to experiment with [a new meeting maker landing page](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell) — just click if you want to catch up soon!
 
-[https://info.nexustek.com/request-a-meeting-with-jay-cuthrell](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h2>📈 Markets Monday for 2025-06-09</h2><h3>Last week</h3>
+[https://info.nexustek.com/request-a-meeting-with-jay-cuthrell](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)<hr/>
+
+# Hot Fudge Daily Digest
+
+<hr/>
+
+## 📈 Markets Monday for 2025-06-09
+
+### Last week
 
 ![Not as spicy](https://assets.buttondown.email/images/dd8121a7-767e-4cbf-ba3d-600ce9468730.png?w=960&fit=max)
 *Much less spicy…*
 
-<h3>This week</h3>
+### This week
 
 It’s all about love and rockets… so, a bit more spicy.
 
 ![More spicy!](https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max)
 *More spicy!*
 
-Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)<h2>🔥 Hot Takes Tuesday for 2025-06-10</h2>
+Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
+
+## 🔥 Hot Takes Tuesday for 2025-06-10
 
 💰 + 🤖 Funding for AI in search and security continues but on a long enough timeline they will likely converge.
 
 [https://www.techmeme.com/250610/p33#a250610p33](https://www.techmeme.com/250610/p33#a250610p33)
 
-[https://www.techmeme.com/250610/p20#a250610p20](https://www.techmeme.com/250610/p20#a250610p20)<h2>🤪 Wacky Wednesday for 2025-06-11</h2>
+[https://www.techmeme.com/250610/p20#a250610p20](https://www.techmeme.com/250610/p20#a250610p20)
+
+## 🤪 Wacky Wednesday for 2025-06-11
 
 Each Wednesday I then select the most interesting shared link from dozens of Slack communities. This will always be a safe for work link. 🙈
 
-[https://melmagazine.com/en-us/story/the-untold-story-of-new-years-novelty-glasses](https://melmagazine.com/en-us/story/the-untold-story-of-new-years-novelty-glasses)<h2>🔙 Throwback Thursday for 2025-06-12</h2>
+[https://melmagazine.com/en-us/story/the-untold-story-of-new-years-novelty-glasses](https://melmagazine.com/en-us/story/the-untold-story-of-new-years-novelty-glasses)
+
+## 🔙 Throwback Thursday for 2025-06-12
 
 🤖 + 🕸️ One story caught my eye this week was the growth in AI crawlers that are gathering instant results for users of various alternatives to web search. Some coverage uses the “bot” name as an inside baseball style reference to [robots.txt](https://en.wikipedia.org/wiki/Robots.txt).
 
@@ -59,7 +76,9 @@ Each Wednesday I then select the most interesting shared link from dozens of Sla
 
 As for “bots”, if you look back at coverage of early web crawlers, there are some familiar patterns. 20 years ago, [coverage of Google Base](https://www.techmeme.com/051025/p31#a051025p31) was mixed but provided a roadmap for where the increasingly machine readable web was heading.
 
-[https://googleblog.blogspot.com/2005/11/first-base.html](https://googleblog.blogspot.com/2005/11/first-base.html)<h2>✅ Final Thoughts Friday for 2025-06-13</h2>
+[https://googleblog.blogspot.com/2005/11/first-base.html](https://googleblog.blogspot.com/2005/11/first-base.html)
+
+## ✅ Final Thoughts Friday for 2025-06-13
 
 ☁️ + 🚨 The story that caught my eye this week was the still newsworthy nature of a cloud scale outage.
 
@@ -71,9 +90,13 @@ Back in the ancient times of 2021, I wrote this piece on the theme of [Cloud in 
 
 These days, one can easily see just how offline something truly is… and often get a root cause analysis in record time.
 * [Google Cloud Status](https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW)
-* [Cloudflare Status](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)<h2>🔮 Sneak Peak Saturday for 2025-06-14</h2>
+* [Cloudflare Status](https://www.cloudflarestatus.com/incidents/25r9t0vz99rp)
 
-Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.<h3>Peak 🏔️ vs. Peek 👀</h3>
+## 🔮 Sneak Peak Saturday for 2025-06-14
+
+Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.
+
+### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
@@ -81,11 +104,18 @@ Then there is a trope, cliché, or bromide about slow news days and the quietly 
 
 [https://www.techmeme.com/250613/p12#a250613p12](https://www.techmeme.com/250613/p12#a250613p12)
 
-[https://www.techmeme.com/250614/p1#a250614p1](https://www.techmeme.com/250614/p1#a250614p1)<hr/><h1 data-pm-slice="1 3 []">#OpenToWork Weekly</h1><hr/>
+[https://www.techmeme.com/250614/p1#a250614p1](https://www.techmeme.com/250614/p1#a250614p1)<hr/>
+
+# #OpenToWork Weekly
+
+<hr/>
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 
-I added those [#OpenToWork](https://www.linkedin.com/search/results/content/?keywords=%23OpenToWork&origin=FACETED_SEARCH&postedBy=%5B%22first%22%5D&sid=TbC&sortBy=%22date_posted%22) from my LinkedIn network to this newsletter. Over time, we've grown an Alumni 🎉 section for those that transitioned to their next career adventure.<h3>Alumni 🎉</h3>
+I added those [#OpenToWork](https://www.linkedin.com/search/results/content/?keywords=%23OpenToWork&origin=FACETED_SEARCH&postedBy=%5B%22first%22%5D&sid=TbC&sortBy=%22date_posted%22) from my LinkedIn network to this newsletter. Over time, we've grown an Alumni 🎉 section for those that transitioned to their next career adventure.
+
+### Alumni 🎉
+
 * [Congrats Dan Kelleher 🎉](https://www.linkedin.com/in/kelleherdan/)
 * [Congrats Jarrod Weise 🎉](https://www.linkedin.com/posts/jarrodweise_thechargeahead-electricvehicles-innovation-activity-7325543362621509632-t5Oy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)
 * [Congrats Karl Edwards 🎉](https://www.linkedin.com/posts/edwardskarl_im-happy-to-share-that-im-starting-a-new-activity-7323502970120138752-SLA-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)

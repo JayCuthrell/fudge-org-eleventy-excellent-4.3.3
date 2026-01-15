@@ -6,7 +6,8 @@ date: 2024-06-07 22:24:46.226198+00:00
 ---
 
 
-<h1>Final Thoughts Friday</h1>
+
+# Final Thoughts Friday
 
 Looking back at the week with an eye to the future.
 

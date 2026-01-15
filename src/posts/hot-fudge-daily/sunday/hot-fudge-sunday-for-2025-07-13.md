@@ -7,6 +7,7 @@ date: 2025-07-13 13:00:00.000+00:00
 
 
 
+
 Thanks again for sticking with new formats and redirects. 🤓
 
 {{ subscribe_form }}
@@ -27,14 +28,16 @@ I continue to streamline my process and believe I am getting closer to the level
 ## 📈 Markets Monday for 2025-07-07
  
 
-It’s much less spicy this week.<h3><strong>Last</strong> week</h3>
+It’s much less spicy this week.
+
+### **Last**week
 
 Mergers and Quantumania!
 
 ![More spicy!](https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&fit=max)
 *More spicy!*
 
-<h3>This Week</h3>
+### This Week
 
 ![Not so spicy…](https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max)
 *Not so spicy…*
@@ -148,7 +151,7 @@ While 5 days isn’t the same as 5 years… news travels fast.
 
 ---
 
-<h1 data-pm-slice="1 3 []">#OpenToWork Weekly</h1>
+# #OpenToWork Weekly
 
 ---
 

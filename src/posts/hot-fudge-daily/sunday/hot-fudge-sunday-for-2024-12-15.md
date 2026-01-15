@@ -8,9 +8,9 @@ date: 2024-12-15 16:45:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
@@ -32,9 +32,8 @@ This week I’m highlighting [Rich Green](https://www.linkedin.com/in/rich-green
 
 More about [Rich Green](https://www.linkedin.com/in/rich-green-5304804/):
 
-<blockquote class="pullquote">
-
-I am an seasoned technology and sales professional who has worked in both pre-sales and post-sales roles and in Customer Operations roles over my career. I am a self starter who works well both independently and in a team environment. I have been successful at every step of my career - whether it was helping launch the Iridium Satellite System while at Motorola SATCOM or taking a startup Internet Service Provider (softAware) to the next level to be acquired or selling into Enterprise, SMB, and SLED customers at Hughes, EMC, Brocade, Broadcom and Faction. I feel that I am an asset to any organization that I join. I am willing to relocate for the right opportunity.<br/><br/>Specialties: Sales Engineering, Solution Engineering, SAN, LAN, Storage, Technical Sales, Account Management</blockquote>
+> I am an seasoned technology and sales professional who has worked in both pre-sales and post-sales roles and in Customer Operations roles over my career. I am a self starter who works well both independently and in a team environment. I have been successful at every step of my career - whether it was helping launch the Iridium Satellite System while at Motorola SATCOM or taking a startup Internet Service Provider (softAware) to the next level to be acquired or selling into Enterprise, SMB, and SLED customers at Hughes, EMC, Brocade, Broadcom and Faction. I feel that I am an asset to any organization that I join. I am willing to relocate for the right opportunity.
+> Specialties: Sales Engineering, Solution Engineering, SAN, LAN, Storage, Technical Sales, Account Management
 
 Source: [Rich Green on LinkedIn](https://www.linkedin.com/in/rich-green-5304804/)
 ![Japanese-Mayonnaise-Drink-FT-BLOG1224-0a25be8bc31f4fd694dd5518bf64aeb0.jpg](https://assets.buttondown.email/images/2c97f781-d517-4b91-b3d0-e01e8e1f936c.jpg?w=960&fit=max)
@@ -46,7 +45,9 @@ Source: [Rich Green on LinkedIn](https://www.linkedin.com/in/rich-green-5304804/
 ### 📈 Markets Monday for 2024-12-09
  
 
-As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+As a reminder, this is an end of day snapshot…
+
+### Quick Recap
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
@@ -63,13 +64,13 @@ This week…
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
    
 {{ subscribe_form }}
    
@@ -114,13 +115,12 @@ Here in the US, a [mobile virtual network operator (MVNO)](https://en.wikipedia.
 
 And now… a recent $73M Series-B is making it even easier for MVNO ambitions to be set in motion. 
 
-[https://www.techmeme.com/241212/p28#a241212p28](https://www.techmeme.com/241212/p28#a241212p28)<blockquote class="pullquote">
+[https://www.techmeme.com/241212/p28#a241212p28](https://www.techmeme.com/241212/p28#a241212p28)
 
-You get a mobile phone network! 
+> You get a mobile phone network!
+> And you get a mobile phone network!
+> 🤓
 
-And you get a mobile phone network! 
-
-🤓</blockquote>
    
 {{ subscribe_form }}
    
@@ -138,19 +138,31 @@ For example, when you hear statistics such as [AI queries use up a bottle of wat
 ### 🔮 Sneak Peak Saturday for 2024-12-14
  
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+
+#### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/241214/p15#a241214p15](https://www.techmeme.com/241214/p15#a241214p15)<h4>Insert Ceiling Cat Meme</h4>
+#### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/241214/p19#a241214p19](https://www.techmeme.com/241214/p19#a241214p19)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+[https://www.techmeme.com/241214/p15#a241214p15](https://www.techmeme.com/241214/p15#a241214p15)
 
-[https://www.techmeme.com/241213/p11#a241213p11](https://www.techmeme.com/241213/p11#a241213p11)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+#### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/241213/p14#a241213p14](https://www.techmeme.com/241213/p14#a241213p14)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+[https://www.techmeme.com/241214/p19#a241214p19](https://www.techmeme.com/241214/p19#a241214p19)
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/241213/p11#a241213p11](https://www.techmeme.com/241213/p11#a241213p11)
+
+#### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/241213/p14#a241213p14](https://www.techmeme.com/241213/p14#a241213p14)
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/241213/p12#a241213p12](https://www.techmeme.com/241213/p12#a241213p12)
    

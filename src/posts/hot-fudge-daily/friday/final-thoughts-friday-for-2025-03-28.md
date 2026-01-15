@@ -6,10 +6,11 @@ date: 2025-03-29 02:08:36.704960+00:00
 ---
 
 
+
 The story that caught my eye this week was how Signal was catapulted into mainstream news… but for all the wrong reasons.
 
 [https://www.techmeme.com/250324/p30#a250324p30](https://www.techmeme.com/250324/p30#a250324p30)
 
-So, in the hope of educating those that might not have gotten the gist of <strong><em>why</em></strong> Signal before, here is Meredith Whittaker, President of Signal being awesome on stage at SXSW.
+So, in the hope of educating those that might not have gotten the gist of ***why*** Signal before, here is Meredith Whittaker, President of Signal being awesome on stage at SXSW.
 
 https://www.youtube.com/watch?v=AyH7zoP-JOg

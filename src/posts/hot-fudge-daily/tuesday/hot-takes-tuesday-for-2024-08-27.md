@@ -6,13 +6,16 @@ date: 2024-08-27 22:18:13.391791+00:00
 ---
 
 
+
 First… an interesting post arrived from VMworld. For perspective, my first VMworld experience was in 2010 and the community I met there would alter the course of my career for the next decade.
 
 I was even a one time vExpert in 2013 within the massive VMware community aka vCommunity… and since then, well, things have changed. Things have changed — [drastically](https://digitalsunshinesolutions.com/mourning-our-vcommunity-navigating-grief-after-the-broadcom-acquisition/).
 
 [https://digitalsunshinesolutions.com/mourning-our-vcommunity-navigating-grief-after-the-broadcom-acquisition/](https://digitalsunshinesolutions.com/mourning-our-vcommunity-navigating-grief-after-the-broadcom-acquisition/)
 
-And now, back to our regular Hot Takes Tuesday…<h2>Funds, Funding, and M&A</h2>
+And now, back to our regular Hot Takes Tuesday…
+
+## Funds, Funding, and M&A
 
 Let’s take a look at where the money is flowing.
 
@@ -30,7 +33,7 @@ Let’s take a look at where the money is flowing.
 
 [https://www.techmeme.com/240826/p22#a240826p22](https://www.techmeme.com/240826/p22#a240826p22)
 
-📺 + 🤖 Perhaps I’m just not creative enough to be a video creator, but I get a vibe that <em>ethically sourced ingredients</em> is crossing over from food supply chains into A.I. video services training corpus chains.
+📺 + 🤖 Perhaps I’m just not creative enough to be a video creator, but I get a vibe that *ethically sourced ingredients* is crossing over from food supply chains into A.I. video services training corpus chains.
 
 [https://www.techmeme.com/240827/p22#a240827p22](https://www.techmeme.com/240827/p22#a240827p22)
 

@@ -7,18 +7,19 @@ date: 2024-09-04 00:17:06.613191+00:00
 
 
 
+
 First… an observation and a question. 
 
 [![Gartner Hype Cycle for Emerging Technologies, 2024](https://assets.buttondown.email/images/bfca3f64-fba4-4614-81c2-1a0844b4b22c.png?w=960&fit=max)](https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security)
 *Gartner Hype Cycle for Emerging Technologies, 2024*
 
-<blockquote class="pullquote">
-
-By the time our industry achieves ubiquitous AI infrastructure that is as agile, elastic, cost-effective, and TRiSM mature when compared to current non-AI infrastructure, will practitioners have moved on to another non-AI technology marvel (shiny object! squirrel!) or will AI be the defining specialization of the next several decades?</blockquote>
+> By the time our industry achieves ubiquitous AI infrastructure that is as agile, elastic, cost-effective, and TRiSM mature when compared to current non-AI infrastructure, will practitioners have moved on to another non-AI technology marvel (shiny object! squirrel!) or will AI be the defining specialization of the next several decades?
 
 If you are reading this question in your internal voice of wonder, I’d love to get your thoughts in a reply.
 
-And now, back to our regular Hot Takes Tuesday…<h2>Funds, Funding, and M&A</h2>
+And now, back to our regular Hot Takes Tuesday…
+
+## Funds, Funding, and M&A
 
 Let’s take a look at where the money is flowing.
 

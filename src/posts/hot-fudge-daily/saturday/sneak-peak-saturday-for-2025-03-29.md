@@ -6,18 +6,31 @@ date: 2025-03-29 22:35:49.787188+00:00
 ---
 
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+
+#### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/250328/p35#a250328p35](https://www.techmeme.com/250328/p35#a250328p35)<h4>Insert Ceiling Cat Meme</h4>
+#### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/250328/p30#a250328p30](https://www.techmeme.com/250328/p30#a250328p30)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+[https://www.techmeme.com/250328/p35#a250328p35](https://www.techmeme.com/250328/p35#a250328p35)
 
-[https://www.techmeme.com/250327/p42#a250327p42](https://www.techmeme.com/250327/p42#a250327p42)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+#### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/250328/p33#a250328p33](https://www.techmeme.com/250328/p33#a250328p33)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+[https://www.techmeme.com/250328/p30#a250328p30](https://www.techmeme.com/250328/p30#a250328p30)
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/250327/p42#a250327p42](https://www.techmeme.com/250327/p42#a250327p42)
+
+#### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/250328/p33#a250328p33](https://www.techmeme.com/250328/p33#a250328p33)
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/250328/p36#a250328p36](https://www.techmeme.com/250328/p36#a250328p36)

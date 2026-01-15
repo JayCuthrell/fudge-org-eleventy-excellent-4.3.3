@@ -6,9 +6,10 @@ date: 2024-12-28 06:32:04.387353+00:00
 ---
 
 
-The tech news story that caught my eye this week was the conflation of Artificial General Intelligence (AGI) with… <blockquote>
 
-[ checks notes… ] </blockquote>
+The tech news story that caught my eye this week was the conflation of Artificial General Intelligence (AGI) with… 
+
+> [ checks notes… ]
 
 A seemingly arbitrary amount of revenue?
 

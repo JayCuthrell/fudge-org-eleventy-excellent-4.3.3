@@ -7,9 +7,14 @@ date: 2024-08-12 22:57:53.528252+00:00
 
 
 
-Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
 
-As a recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.<h2>This week</h2>
+Analyzing the past and future of the tech market in Markets Monday.
+
+## Last week
+
+As a recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.
+
+## This week
 
 Looking at the week ahead for the tech market.
 
@@ -38,10 +43,10 @@ As for my regular screenshot at the end of a Monday? Behold.
 *Nature is healing? 🤣*
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region:<strong> United States</strong>
-* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector:<strong> Technology</strong>
-* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region:** United States**
+* Market Cap (Intraday):** Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector:** Technology**
+* Industry:** Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**

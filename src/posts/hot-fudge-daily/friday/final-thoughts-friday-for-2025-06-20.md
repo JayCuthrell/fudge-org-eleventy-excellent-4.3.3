@@ -7,11 +7,12 @@ date: 2025-06-21 01:28:40.376024+00:00
 
 
 
+
 🪖 + 🧑‍💻 The story that caught my eye this week was the US Army Reserve’s Detachment 201.
 
 [https://www.techmeme.com/250613/p10#a250613p10](https://www.techmeme.com/250613/p10#a250613p10)
 
-At SXSW 2024, I attended a fireside chat on “<strong>Cyber Talent in the Era of Great Power Competition</strong>“. The talk was interesting and I took a few notes in my Obsidian. 
+At SXSW 2024, I attended a fireside chat on “**Cyber Talent in the Era of Great Power Competition**“. The talk was interesting and I took a few notes in my Obsidian. 
 
 Here’s the YouTube video:
 

@@ -7,6 +7,7 @@ date: 2025-07-27
 
 
 
+
 {{ subscribe_form }}
 
 ## Last week
@@ -25,16 +26,12 @@ I'll be traveling and the newsletter daily posts will be done from 37k feet, air
 
  Less spicy.
 
-<h3>
- Last week
-</h3>
+### Last week
 
 ![Quantum Computing, AI, Software, and Space](https://assets.buttondown.email/images/2d11e585-bd17-49cc-983d-85cee9c65881.png?w=960&fit=max)
 *Quantum Computing, AI, Software, and Space*
 
-<h3>
- This week
-</h3>
+### This week
 
 ![Less spicy.](https://assets.buttondown.email/images/2f00e15d-a028-4227-bb17-24d8176dd8ff.png?w=960&fit=max)
 *Less spicy.*
@@ -48,51 +45,51 @@ I'll be traveling and the newsletter daily posts will be done from 37k feet, air
 
 * [Poseidon](https://www.techmeme.com/250722/p26#a250722p26)
    (decentralized AI data layer):
-   <strong>
+   **
     $15M
-   </strong>
+   **
 
 * [Composio](https://www.techmeme.com/250722/p34#a250722p34)
    (AI agent development tools):
-   <strong>
+   **
     $25M
-   </strong>
+   **
 
 * [Asylon](https://www.techmeme.com/250722/p16#a250722p16)
    (AI robot guard dogs):
-   <strong>
+   **
     $26M
-   </strong>
+   **
 
 * [Delve](https://www.techmeme.com/250722/p20#a250722p20)
    (AI compliance startup):
-   <strong>
+   **
     $32M
-   </strong>
+   **
 
 * [Inforcer](https://www.techmeme.com/250722/p13#a250722p13)
    (AI for SMB):
-   <strong>
+   **
     $35M
-   </strong>
+   **
 
 * [Ashby](https://www.techmeme.com/250722/p11#a250722p11)
    (AI-powered HR platform):
-   <strong>
+   **
     $50M
-   </strong>
+   **
 
 * [Reka AI](https://www.techmeme.com/250722/p10#a250722p10)
    (AI efficient LLMs):
-   <strong>
+   **
     $110M
-   </strong>
+   **
 
 * [xAI](https://www.techmeme.com/250722/p22#a250722p22)
    (AI research and development):
-   <strong>
+   **
     $12B
-   </strong>
+   **
 
 ## 🤪 Wacky Wednesday for 2025-07-23
 
@@ -143,9 +140,7 @@ I'll be traveling and the newsletter daily posts will be done from 37k feet, air
  Source:
  [https://commercial.allianz.com/news-and-insights/reports/allianz-risk-barometer.html](https://commercial.allianz.com/news-and-insights/reports/allianz-risk-barometer.html)
 
-<h1 data-pm-slice="1 3 []">
- #OpenToWork Weekly
-</h1>
+# #OpenToWork Weekly
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 

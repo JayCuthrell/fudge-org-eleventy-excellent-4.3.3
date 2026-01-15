@@ -7,6 +7,7 @@ date: 2025-07-20 16:00:00.000+00:00
 
 
 
+
 {{ subscribe_form }}
 
 ## Last week
@@ -31,19 +32,12 @@ I'll continue working on automation ideas for the newsletter.
 
  Spicier!
 
-<h3>
-<strong>
-  Last
- </strong>
- week
-</h3>
+### **Last**week
 
 ![Not so spicy…](https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max)
 *Not so spicy…*
 
-<h3>
- This week
-</h3>
+### This week
 
 ![Quantum Computing, AI, Software, and Space](https://assets.buttondown.email/images/2d11e585-bd17-49cc-983d-85cee9c65881.png?w=960&fit=max)
 *Quantum Computing, AI, Software, and Space*
@@ -103,9 +97,9 @@ https://www.techmeme.com/250718/p9#a250718p9
  Of course. Of course.
 
 ---
-<h1 data-pm-slice="1 3 []">
- #OpenToWork Weekly
-</h1>
+
+# #OpenToWork Weekly
+
 ---
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).

@@ -8,13 +8,18 @@ date: 2025-06-01 20:27:45+00:00
 
 
 
-This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.<h2>Last week</h2>
+
+This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
+
+## Last week
 
 Last week was a shorter week due to the holiday weekend.
 
 It was nice to see NexusTek recognized for a 7th year in a row!
 
-[https://www.prnewswire.com/news-releases/nexustek-named-to-crn-solution-provider-500-list-for-2025-302467361.html](https://www.prnewswire.com/news-releases/nexustek-named-to-crn-solution-provider-500-list-for-2025-302467361.html)<h2>Next week</h2>
+[https://www.prnewswire.com/news-releases/nexustek-named-to-crn-solution-provider-500-list-for-2025-302467361.html](https://www.prnewswire.com/news-releases/nexustek-named-to-crn-solution-provider-500-list-for-2025-302467361.html)
+
+## Next week
 
 Are you going to be in NYC next week on June 11-12?
 
@@ -24,9 +29,17 @@ Are you going to be in NYC next week on June 11-12?
 
 Also, if you are an owner/operator in Hospitality / Leisure / Travel, let me know if you’d like to be invited to an invitation for an exclusive event in NYC on June 12! 🎟️🛥️🌃 
 
-(or, if you know someone in NYC that might be interest — please forward this newsletter along)<h3></h3><hr/><h1>Hot Fudge Daily Digest</h1><hr/><h2>📈 Markets Monday for 2025-05-26</h2>
+(or, if you know someone in NYC that might be interest — please forward this newsletter along)<hr/>
 
-U.S. stock markets were closed on Monday, May 26th 2025 in observance of Memorial Day.<h2>🔥 Hot Takes Tuesday for 2025-05-27</h2>
+# Hot Fudge Daily Digest
+
+<hr/>
+
+## 📈 Markets Monday for 2025-05-26
+
+U.S. stock markets were closed on Monday, May 26th 2025 in observance of Memorial Day.
+
+## 🔥 Hot Takes Tuesday for 2025-05-27
 
 Two hot takes on the market.
 
@@ -38,7 +51,9 @@ Tuesday also arrived with two acquisitions that were long overdue: Red Canary an
 
 [https://www.techmeme.com/250527/p35#a250527p35](https://www.techmeme.com/250527/p35#a250527p35)
 
-[https://www.techmeme.com/250527/p13#a250527p13](https://www.techmeme.com/250527/p13#a250527p13)<h2>🤪 Wacky Wednesday for 2025-05-28</h2>
+[https://www.techmeme.com/250527/p13#a250527p13](https://www.techmeme.com/250527/p13#a250527p13)
+
+## 🤪 Wacky Wednesday for 2025-05-28
 
 Each Wednesday I go through dozens of Slack communities.
 
@@ -46,39 +61,54 @@ I then select the most interesting shared link.
 
 This will always be a safe for work link. 🙈
 
-https://www.youtube.com/watch?v=QxjwNpVhknY<h2>🔙 Throwback Thursday for 2025-05-29</h2>
+https://www.youtube.com/watch?v=QxjwNpVhknY
+
+## 🔙 Throwback Thursday for 2025-05-29
 
 🤖 + 💰 One story caught my eye this week was the recent Series A raised by Chalk AI. Who? These folks:
 
 [https://www.techmeme.com/250529/p12#a250529p12](https://www.techmeme.com/250529/p12#a250529p12)
 
-Chalk AI is interesting because of the origin story and founding team background but also because while some companies are building <em>on top of</em> Snowflake, Databricks, etc. it is companies like Chalk AI looking to be the companies that <em>come after</em> Snowflake, Databricks, etc.
+Chalk AI is interesting because of the origin story and founding team background but also because while some companies are building *on top of* Snowflake, Databricks, etc. it is companies like Chalk AI looking to be the companies that *come after* Snowflake, Databricks, etc.
 
-In fact, it is <strong><em>just 18 months</em></strong> since Chalk AI got Seed funding.
+In fact, it is ***just 18 months*** since Chalk AI got Seed funding.
 
-[https://chalk.ai/blog/announcing-chalk-10m-seed-funding](https://chalk.ai/blog/announcing-chalk-10m-seed-funding)<h2>✅ Final Thoughts Friday for 2025-05-30</h2>
+[https://chalk.ai/blog/announcing-chalk-10m-seed-funding](https://chalk.ai/blog/announcing-chalk-10m-seed-funding)
+
+## ✅ Final Thoughts Friday for 2025-05-30
 
 🤖 + 🔮 The story that caught my eye this week was a tale of two white collar worker realities… the banal and the existential threat of AI to gainful employment. However, I suspect the truth may not be somewhere in the middle… but is instead playing in another small town nearby in an empty lot just waiting to be discovered.
 
 [https://www.techmeme.com/250525/p16#a250525p16](https://www.techmeme.com/250525/p16#a250525p16)
 
-[https://www.techmeme.com/250529/p8#a250529p8](https://www.techmeme.com/250529/p8#a250529p8)<h2>🔮 Sneak Peak Saturday for 2025-05-31</h2>
+[https://www.techmeme.com/250529/p8#a250529p8](https://www.techmeme.com/250529/p8#a250529p8)
+
+## 🔮 Sneak Peak Saturday for 2025-05-31
 
 Ah, the Friday news dump. Let’s see the memes!
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h3>Peak 🏔️ vs. Peek 👀</h3>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
-Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.<h3>A long list this week…</h3>
+### Peak 🏔️ vs. Peek 👀
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+### A long list this week…
 
 [https://www.techmeme.com/250531/p1#a250531p1](https://www.techmeme.com/250531/p1#a250531p1)
 
 [https://www.techmeme.com/250529/p49#a250529p49](https://www.techmeme.com/250529/p49#a250529p49)
 
-[https://www.techmeme.com/250529/p43#a250529p43](https://www.techmeme.com/250529/p43#a250529p43)<h2>#OpenToWork Weekly</h2>
+[https://www.techmeme.com/250529/p43#a250529p43](https://www.techmeme.com/250529/p43#a250529p43)
+
+## #OpenToWork Weekly
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 
-I added those [#OpenToWork](https://www.linkedin.com/search/results/content/?keywords=%23OpenToWork&origin=FACETED_SEARCH&postedBy=%5B%22first%22%5D&sid=TbC&sortBy=%22date_posted%22) from my LinkedIn network to this newsletter. Over time, we've grown an Alumni 🎉 section for those that transitioned to their next career adventure.<h3>Alumni 🎉</h3>
+I added those [#OpenToWork](https://www.linkedin.com/search/results/content/?keywords=%23OpenToWork&origin=FACETED_SEARCH&postedBy=%5B%22first%22%5D&sid=TbC&sortBy=%22date_posted%22) from my LinkedIn network to this newsletter. Over time, we've grown an Alumni 🎉 section for those that transitioned to their next career adventure.
+
+### Alumni 🎉
+
 * [Congrats Jarrod Weise 🎉](https://www.linkedin.com/posts/jarrodweise_thechargeahead-electricvehicles-innovation-activity-7325543362621509632-t5Oy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)
 * [Congrats Karl Edwards 🎉](https://www.linkedin.com/posts/edwardskarl_im-happy-to-share-that-im-starting-a-new-activity-7323502970120138752-SLA-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)
 * [Congrats Paul Lysko 🎉](https://www.linkedin.com/posts/paullysko_hellyeah-activity-7315070360708603905-ZDc_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)

@@ -8,7 +8,8 @@ date: 2024-06-30 16:00:00+00:00
 
 
 
-<h1>Spicy Edition Sunday for 2024-06-30</h1>
+
+# Spicy Edition Sunday for 2024-06-30
 
 Welcome to 🌶️ Spicy Edition Sunday!
 
@@ -16,13 +17,17 @@ Uncover the spicy inspiration behind this week's Fudge Sunday edition, packed wi
 
 As a quick reminder, longer form [Fudge Sunday](https://fudge.org/) topics are posted weekly on at [https://fudge.org/](https://fudge.org/).
 
-{{ subscribe_form }}<h2>🌶️ Spicy Edition Sunday</h2>
+{{ subscribe_form }}
+
+## 🌶️ Spicy Edition Sunday
 
 Good times. I’ll collapse [fudge.org](http://fudge.org) newsletter content into [fudge.org](http://fudge.org) for ONLY newsletters and reclaim [fudge.org](http://fudge.org) as a more advanced blogging platform that is not limited to email.
 
 I'm also incredibly excited to begin using automated sponsorship features from the platform used to generate this newsletter, Buttondown. 🤓
 
-{{ subscribe_form }}<h2>📈 Markets Monday</h2>
+{{ subscribe_form }}
+
+## 📈 Markets Monday
 
 Analyzing the past and future of the tech market in Markets Monday.
 
@@ -53,13 +58,13 @@ And… the winners list narrowed from a dozen to… five.
 *Heat Map view this week*
 
 If you are using Yahoo Applied Filters for Stocks screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
 I didn’t have any podcasts or other recorded insights but I did find a few updates on Mastodon and LinkedIn. One link shows the importance of breaking up the few into the many. One link shows, well, not that.
 
@@ -67,13 +72,17 @@ I didn’t have any podcasts or other recorded insights but I did find a few upd
 
 [https://www.linkedin.com/posts/markrhinkle_guess-what-the-biggest-company-in-the-world-activity-7209170513900752897-mjCY?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/markrhinkle_guess-what-the-biggest-company-in-the-world-activity-7209170513900752897-mjCY?utm_source=share&utm_medium=member_desktop)
 
-{{ subscribe_form }}<h2>🔥 Hot Takes Tuesday</h2>
+{{ subscribe_form }}
+
+## 🔥 Hot Takes Tuesday
 
 Off the cuff analysis in a rapid fire format.
 
 A few things that caught my attention today in big funding and M&A moves in tech yesterday… and the trend was A.I. related.
 
-AI dominates tech funding and M&A moves, shaping a future of bioengineered indicators and internal data mastery.<h2>Funds, Funding, and M&A</h2>
+AI dominates tech funding and M&A moves, shaping a future of bioengineered indicators and internal data mastery.
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240625/p14#a240625p14](https://www.techmeme.com/240625/p14#a240625p14)
 
@@ -99,7 +108,9 @@ AI dominates tech funding and M&A moves, shaping a future of bioengineered indic
 
 💸 + 🤖 Literal non-page turner document analysis is perfectly suited for A.I. and is precisely the kind of utility that makes massive impacts in time savings for creative time that could be spent elsewhere in the business.
 
-{{ subscribe_form }}<h2>🤪 Wacky Wednesday</h2>
+{{ subscribe_form }}
+
+## 🤪 Wacky Wednesday
 
 Explore the wild and wacky world of shared links from online Slack communities.
 
@@ -121,7 +132,9 @@ https://www.youtube.com/watch?v=DkZOuqgu7_4
 
 https://www.youtube.com/watch?v=FJXMhzjb26Y
 
-{{ subscribe_form }}<h2>🔙 Throwback Thursday</h2>
+{{ subscribe_form }}
+
+## 🔙 Throwback Thursday
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.
 
@@ -131,15 +144,17 @@ Past examples of "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?ut
 
 For example, if you were to look back to 2019 press coverage, you’d probably recognize how much the future was going to be awful based on the coverage at the time. Well, okay them.
 
-[Red Hat and IBM](https://www.techmeme.com/190627/p18#a190627p18) - While it might seem like it has been longer than 5 years, IBM got approval from the very young EU to acquire Red Hat — and IBM stock has continued to rise another <strong><em>~30%</em></strong>.
+[Red Hat and IBM](https://www.techmeme.com/190627/p18#a190627p18) - While it might seem like it has been longer than 5 years, IBM got approval from the very young EU to acquire Red Hat — and IBM stock has continued to rise another ***~30%***.
 
 [https://www.techmeme.com/190627/p18#a190627p18](https://www.techmeme.com/190627/p18#a190627p18)
 
-[Apple](https://www.techmeme.com/190627/p30#a190627p30) - When Jony Ive announce leaving Apple the gloom and doom coverage was fascinating — but in the past 5 years, Apple stock has continued to rise an eye popping <strong><em>330%+</em></strong>.
+[Apple](https://www.techmeme.com/190627/p30#a190627p30) - When Jony Ive announce leaving Apple the gloom and doom coverage was fascinating — but in the past 5 years, Apple stock has continued to rise an eye popping ***330%+***.
 
 [https://www.techmeme.com/190627/p30#a190627p30](https://www.techmeme.com/190627/p30#a190627p30)
 
-{{ subscribe_form }}<h2>✅ Final Thoughts Friday</h2>
+{{ subscribe_form }}
+
+## ✅ Final Thoughts Friday
 
 Looking back at the week with an eye to the future.
 
@@ -157,25 +172,41 @@ This week, I decided [Hot Fudge Daily](https://fudge.org/) will get a weekly dig
 
 [https://fudge.org/archive/spicy-edition-sunday-for-2024-06-23/](https://fudge.org/archive/spicy-edition-sunday-for-2024-06-23/)
 
-{{ subscribe_form }}<h2>🔮 Sneak Peak Saturday</h2>
+{{ subscribe_form }}
 
-Unveiling overlooked tech news with a sprinkle of satire.<h2 style="text-align: start">Peak 🏔️ vs. Peek 👀</h2>
+## 🔮 Sneak Peak Saturday
+
+Unveiling overlooked tech news with a sprinkle of satire.
+
+## Peak 🏔️ vs. Peek 👀
 
 Yes, a play on words.
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.<h2 style="text-align: start">Why Sneak Peak?</h2>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.
+
+## Why Sneak Peak?
 
 It sometimes seems like we reach a fever pitch in news coverage throughout the week. Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h2>Insert Let's See Who This Really Is Meme</h2>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/240628/p20#a240628p20](https://www.techmeme.com/240628/p20#a240628p20)<h2>Insert Ceiling Cat Meme</h2>
+## Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/240628/p18#a240628p18](https://www.techmeme.com/240628/p18#a240628p18)<h2>Insert We're All Trying To Find The Guy Who Did This Meme</h2>
+[https://www.techmeme.com/240628/p20#a240628p20](https://www.techmeme.com/240628/p20#a240628p20)
 
-[https://www.techmeme.com/240628/p2#a240628p2](https://www.techmeme.com/240628/p2#a240628p2)<h2>Insert That Wasn't Me, That Was Patricia Meme</h2>
+## Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/240627/p39#a240627p39](https://www.techmeme.com/240627/p39#a240627p39)<h2>Insert Anthony Adams Rubbing Hands Meme</h2>
+[https://www.techmeme.com/240628/p18#a240628p18](https://www.techmeme.com/240628/p18#a240628p18)
+
+## Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/240628/p2#a240628p2](https://www.techmeme.com/240628/p2#a240628p2)
+
+## Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/240627/p39#a240627p39](https://www.techmeme.com/240627/p39#a240627p39)
+
+## Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240628/p13#a240628p13](https://www.techmeme.com/240628/p13#a240628p13)
 

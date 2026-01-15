@@ -6,13 +6,16 @@ date: 2024-06-25 20:42:49.935358+00:00
 ---
 
 
-<h1>Hot Takes Tuesday for 2024-06-25</h1>
+
+# Hot Takes Tuesday for 2024-06-25
 
 Off the cuff analysis in a rapid fire format.
 
 A few things that caught my attention today in big funding and M&A moves in tech yesterday… and the trend was A.I. related.
 
-AI dominates tech funding and M&A moves, shaping a future of bioengineered indicators and internal data mastery.<h2>Funds, Funding, and M&A</h2>
+AI dominates tech funding and M&A moves, shaping a future of bioengineered indicators and internal data mastery.
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240625/p14#a240625p14](https://www.techmeme.com/240625/p14#a240625p14)
 

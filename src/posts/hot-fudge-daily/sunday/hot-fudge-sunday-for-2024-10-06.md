@@ -8,9 +8,9 @@ date: 2024-10-06 16:30:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
@@ -21,9 +21,12 @@ date: 2024-10-06 16:30:00+00:00
 ---
 ### 📈 Markets Monday for 2024-09-30
  
-<h3>Reading Recommendation</h3>
 
-The GenAI market can be hard to keep up with and if you aren’t reading [GAI Insights](https://gaiinsights.com/about), you should be. As for why, the writer behind [GAI Insights](https://gaiinsights.com/about) is [Paul Baier](https://www.linkedin.com/in/paulbaier/)<em> </em>.<h3>Quick Recap</h3>
+### Reading Recommendation
+
+The GenAI market can be hard to keep up with and if you aren’t reading [GAI Insights](https://gaiinsights.com/about), you should be. As for why, the writer behind [GAI Insights](https://gaiinsights.com/about) is [Paul Baier](https://www.linkedin.com/in/paulbaier/)* *.
+
+### Quick Recap
 
 For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.
 
@@ -33,13 +36,13 @@ For Market Monday, I look at the same key indicator that I take from a simple Ya
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region: <strong>United States</strong>
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector: <strong>Technology</strong>
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region: **United States**
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector: **Technology**
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
    
 {{ subscribe_form }}
    
@@ -50,9 +53,9 @@ Two hot takes on the two stories caught my eye on Tuesday.
 
 💰 + 🤖 When I see $500M participation in an (allegedly) oversubscribed $6.5B raise… it tells me that there might be someone else that decided not to participate.
 
-[https://www.techmeme.com/240930/p13#a240930p13](https://www.techmeme.com/240930/p13#a240930p13)<blockquote class="pullquote">
+[https://www.techmeme.com/240930/p13#a240930p13](https://www.techmeme.com/240930/p13#a240930p13)
 
-[ meanwhile… ]</blockquote>
+> [ meanwhile… ]
 
 💸 + 🍎 Indeed. Someone else (allegedly) decided not to participate.
 
@@ -112,19 +115,31 @@ Two big numbers stories that caught me eye this week:
 ### 🔮 Sneak Peak Saturday for 2024-10-05
  
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+
+#### Peak 🏔️ vs. Peek 👀
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/241004/p15#a241004p15](https://www.techmeme.com/241004/p15#a241004p15)<h4>Insert Ceiling Cat Meme</h4>
+#### Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/241004/p19#a241004p19](https://www.techmeme.com/241004/p19#a241004p19)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+[https://www.techmeme.com/241004/p15#a241004p15](https://www.techmeme.com/241004/p15#a241004p15)
 
-[https://www.techmeme.com/241004/p4#a241004p4](https://www.techmeme.com/241004/p4#a241004p4)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+#### Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/241004/p2#a241004p2](https://www.techmeme.com/241004/p2#a241004p2)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+[https://www.techmeme.com/241004/p19#a241004p19](https://www.techmeme.com/241004/p19#a241004p19)
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/241004/p4#a241004p4](https://www.techmeme.com/241004/p4#a241004p4)
+
+#### Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/241004/p2#a241004p2](https://www.techmeme.com/241004/p2#a241004p2)
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/241004/p17#a241004p17](https://www.techmeme.com/241004/p17#a241004p17)
    

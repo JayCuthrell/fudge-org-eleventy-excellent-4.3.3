@@ -7,14 +7,17 @@ date: 2025-07-08 02:28:17.545+00:00
 
 
 
-It’s much less spicy this week.<h3><strong>Last</strong> week</h3>
+
+It’s much less spicy this week.
+
+### **Last**week
 
 Mergers and Quantumania!
 
 ![More spicy!](https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&fit=max)
 *More spicy!*
 
-<h3>This Week</h3>
+### This Week
 
 ![Not so spicy…](https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max)
 *Not so spicy…*

@@ -8,6 +8,7 @@ date: 2024-06-23 13:53:16.396437+00:00
 
 
 
+
 {{ subscribe_form }}
 
 # Spicy Edition Sunday for 2024-06-23
@@ -42,7 +43,9 @@ Previously, I mentioned adding a 5 day view contrasted with a 5 year view.
 ![5 year view](https://assets.buttondown.email/images/3be71cb3-6efa-44d5-80d4-3ca6ef534b01.png?w=960&fit=max)
 *5 year view*
 
-I have only a context of “this seems to be going up for now”.<h2>This week</h2>
+I have only a context of “this seems to be going up for now”.
+
+## This week
 
 Looking at the week ahead for the tech market.
 
@@ -55,13 +58,13 @@ Previously, I decided on a view from Yahoo Finance. For example, this was a view
 *Heat Map view this week*
 
 If you are using Yahoo Applied Filters for Stocks screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region:<strong> United States</strong>
-* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector:<strong> Technology</strong>
-* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region:** United States**
+* Market Cap (Intraday):** Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector:** Technology**
+* Industry:** Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
 Just before Apple WWDC, I recorded a podcast with some predictions. I think I did okay! 🤓
 
@@ -71,7 +74,9 @@ Just before Apple WWDC, I recorded a podcast with some predictions. I think I di
 
 {{ subscribe_form }}
 
-A few things that caught my attention today in big funding and M&A moves in tech.<h2>Funds, Funding, and M&A</h2>
+A few things that caught my attention today in big funding and M&A moves in tech.
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240618/p25#a240618p25](https://www.techmeme.com/240618/p25#a240618p25)
 
@@ -121,7 +126,7 @@ https://www.youtube.com/watch?v=rn9dkV4sVYQ
 
 {{ subscribe_form }}
 
-<h1>Throwback Thursday for 2024-06-20</h1>
+# Throwback Thursday for 2024-06-20
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.
 
@@ -163,23 +168,37 @@ For Hot Fudge Daily, I changed to a $9.99 yearly subscription since Stripe takin
 
 {{ subscribe_form }}
 
-Unveiling overlooked tech news with a sprinkle of satire.<h2 style="text-align: start">Peak 🏔️ vs. Peek 👀</h2>
+Unveiling overlooked tech news with a sprinkle of satire.
+
+## Peak 🏔️ vs. Peek 👀
 
 Yes, a play on words.
 
-By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.<h2 style="text-align: start">Why Sneak Peak?</h2>
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.
+
+## Why Sneak Peak?
 
 It sometimes seems like we reach a fever pitch in news coverage throughout the week. Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h2>Insert Let's See Who This Really Is Meme</h2>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/240621/p27#a240621p27](https://www.techmeme.com/240621/p27#a240621p27)<h2>Insert Ceiling Cat Meme</h2>
+## Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/240621/p25#a240621p25](https://www.techmeme.com/240621/p25#a240621p25)<h2>Insert We're All Trying To Find The Guy Who Did This Meme</h2>
+[https://www.techmeme.com/240621/p27#a240621p27](https://www.techmeme.com/240621/p27#a240621p27)
 
-[https://www.techmeme.com/240621/p29#a240621p29](https://www.techmeme.com/240621/p29#a240621p29)<h2>Insert That Wasn't Me, That Was Patricia Meme</h2>
+## Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/240621/p3#a240621p3](https://www.techmeme.com/240621/p3#a240621p3)<h2>Insert Anthony Adams Rubbing Hands Meme</h2>
+[https://www.techmeme.com/240621/p25#a240621p25](https://www.techmeme.com/240621/p25#a240621p25)
+
+## Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/240621/p29#a240621p29](https://www.techmeme.com/240621/p29#a240621p29)
+
+## Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/240621/p3#a240621p3](https://www.techmeme.com/240621/p3#a240621p3)
+
+## Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240621/p12#a240621p12](https://www.techmeme.com/240621/p12#a240621p12)
 

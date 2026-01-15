@@ -8,48 +8,53 @@ date: 2024-08-25 13:30:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 <hr/>
-<h1>Hot Fudge Daily Digest</h1>
+
+# Hot Fudge Daily Digest
+
 <hr/>
-<h3>📈 Markets Monday for 2024-08-19</h3>
+
+### 📈 Markets Monday for 2024-08-19
 
 Analyzing the past and future of the tech market in Markets Monday.
-<h4>Last week</h4>
+
+#### Last week
 
 As a recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.
-<h4>This week</h4>
+
+#### This week
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
 
-* % Change in Price (Intraday):<strong>greater than 4</strong>
+* % Change in Price (Intraday):**greater than 4**
 
-* Region: <strong>United States</strong>
+* Region: **United States**
 
-* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Market Cap (Intraday): **Mid Cap and Large Cap and Mega Cap**
 
-* Price (Intraday):<strong>greater than or equal 5</strong>
+* Price (Intraday):**greater than or equal 5**
 
-* Volume:<strong>greater than 15000</strong>
+* Volume:**greater than 15000**
 
-* Sector: <strong>Technology</strong>
+* Sector: **Technology**
 
-* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
-<blockquote class="pullquote">
+* Industry: **Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
 
-Update: Here’s what this chart looked like just before building this digest for Sunday August 25, 2025.</blockquote>
+> Update: Here’s what this chart looked like just before building this digest for Sunday August 25, 2025.
 
 [![Heatmap of tech stocks](https://assets.buttondown.email/images/50980e83-1e35-4cd6-ae70-e20d1f26ca12.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
 *A healthy mix of things as of Sunday August 25, 2025*
 
 {{ subscribe_form }}
-<h3>🔥 Hot Takes Tuesday for 2024-08-20</h3>
+
+### 🔥 Hot Takes Tuesday for 2024-08-20
 
 Off the cuff analysis in a rapid fire format.
 
@@ -59,7 +64,8 @@ First… a quick nerdy aside. My [Pi-hole](https://pi-hole.net/) approved list o
 *22.4% less garbage in my Interwebs!*
 
 And back to our regular Hot Takes Tuesday…
-<h4>Funds, Funding, and M&A</h4>
+
+#### Funds, Funding, and M&A
 
 [https://www.techmeme.com/240820/p13#a240820p13](https://www.techmeme.com/240820/p13#a240820p13)
 
@@ -67,7 +73,7 @@ And back to our regular Hot Takes Tuesday…
 
 [https://www.techmeme.com/240819/p11#a240819p11](https://www.techmeme.com/240819/p11#a240819p11)
 
-💰 + 🔐 Seeing funding coverage for companies with “cryptography” in the name vs. <em>cryptocurrency or $omethingCoin</em> might just mean that nature is healing.
+💰 + 🔐 Seeing funding coverage for companies with “cryptography” in the name vs. *cryptocurrency or $omethingCoin* might just mean that nature is healing.
 
 [https://www.techmeme.com/240818/p1#a240818p1](https://www.techmeme.com/240818/p1#a240818p1)
 
@@ -75,10 +81,11 @@ And back to our regular Hot Takes Tuesday…
 
 [https://www.techmeme.com/240819/p3#a240819p3](https://www.techmeme.com/240819/p3#a240819p3)
 
-💰 + 🤖 Speaking of M&A, the vertical integration for solving key customer challenges is <em><strong>very</strong></em> <em><strong>impressive</strong></em> when there is a specific carve out intended to focus on the accretive value of the combination and simultaneously widen access to growth in the process for the remaining entity… and it probably anticipates regulatory approval questions before they are posed.
+💰 + 🤖 Speaking of M&A, the vertical integration for solving key customer challenges is ***very* *impressive*** when there is a specific carve out intended to focus on the accretive value of the combination and simultaneously widen access to growth in the process for the remaining entity… and it probably anticipates regulatory approval questions before they are posed.
 
 {{ subscribe_form }}
-<h3>🤪 Wacky Wednesday for 2024-08-21</h3>
+
+### 🤪 Wacky Wednesday for 2024-08-21
 
 Each Wednesday I go through dozens of Slack communities and select the most interesting shared links found. This will always be a safe for work list. 🙈
 
@@ -101,7 +108,8 @@ Each Wednesday I go through dozens of Slack communities and select the most inte
 *No substitutions please.*
 
 {{ subscribe_form }}
-<h3>🔙 Throwback Thursday for 2024-08-22</h3>
+
+### 🔙 Throwback Thursday for 2024-08-22
 
 Throwback Thursday is based upon the classic Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)".
 
@@ -120,7 +128,8 @@ What makes this story interesting is the parallels of accessing encrypted messag
 [https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
 
 {{ subscribe_form }}
-<h3>✅ Final Thoughts Friday for 2024-08-23</h3>
+
+### ✅ Final Thoughts Friday for 2024-08-23
 
 As a reminder, I’ve committed to four events for the remainder of this year.
 
@@ -159,26 +168,34 @@ Switching gears back to technology, the bigger tech stories this week seemed to 
 [https://www.techmeme.com/240823/p10#a240823p10](https://www.techmeme.com/240823/p10#a240823p10)
 
 {{ subscribe_form }}
-<h3>🔮 Sneak Peak Saturday for 2024-08-24</h3>
-<h4 style="text-align: start">Peak 🏔️ vs. Peek 👀</h4>
+
+### 🔮 Sneak Peak Saturday for 2024-08-24
+
+#### Peak 🏔️ vs. Peek 👀
 
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
+
+#### Insert Let's See Who This Really Is Meme
 
 [https://www.techmeme.com/240822/p34#a240822p34](https://www.techmeme.com/240822/p34#a240822p34)
-<h4>Insert Ceiling Cat Meme</h4>
+
+#### Insert Ceiling Cat Meme
 
 [https://www.techmeme.com/240823/p9#a240823p9](https://www.techmeme.com/240823/p9#a240823p9)
-<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+#### Insert We're All Trying To Find The Guy Who Did This Meme
 
 [https://www.techmeme.com/240823/p11#a240823p11](https://www.techmeme.com/240823/p11#a240823p11)
-<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+#### Insert That Wasn't Me, That Was Patricia Meme
 
 [https://www.techmeme.com/240822/p40#a240822p40](https://www.techmeme.com/240822/p40#a240822p40)
-<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+#### Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240823/p8#a240823p8](https://www.techmeme.com/240823/p8#a240823p8)
 

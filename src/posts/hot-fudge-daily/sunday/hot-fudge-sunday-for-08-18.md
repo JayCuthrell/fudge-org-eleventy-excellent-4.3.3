@@ -8,9 +8,9 @@ date: 2024-08-18 12:55:00+00:00
 
 
 
-<blockquote class="pullquote">
 
-🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+> 🙏 A big thank you to our sponsors. 🙏
+> (Scroll to the end…)
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
@@ -22,9 +22,13 @@ date: 2024-08-18 12:55:00+00:00
 ### 📈 Markets Monday for 2024-08-12
  
 
-Analyzing the past and future of the tech market in Markets Monday.<h4>Last week</h4>
+Analyzing the past and future of the tech market in Markets Monday.
 
-As a recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.<h4>This week</h4>
+#### Last week
+
+As a recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.
+
+#### This week
 
 Looking at the week ahead for the tech market.
 
@@ -53,13 +57,13 @@ As for my regular screenshot at the end of a Monday? Behold.
 *Nature is healing? 🤣*
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region:<strong> United States</strong>
-* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector:<strong> Technology</strong>
-* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region:** United States**
+* Market Cap (Intraday):** Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector:** Technology**
+* Industry:** Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**
    
 {{ subscribe_form }}
    
@@ -83,11 +87,13 @@ SXSW 2025 PanelPicker voting started and I gathered some graphs.
 [![Levels histogram](https://assets.buttondown.email/images/1eae43d3-8bec-4440-ac3b-2439607e5fad.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
 *Goldilocks level?*
 
-Okay. Let’s dig in…<h2>Funds, Funding, and M&A</h2>
+Okay. Let’s dig in…
+
+## Funds, Funding, and M&A
 
 [https://www.techmeme.com/240813/p16#a240813p16](https://www.techmeme.com/240813/p16#a240813p16)
 
-💰 + 👮‍♂️ There is probably a slice of the funding data from the origins of various Lord of the Rings named companies that could summarize how effective these founders have become at convincing US Government to part with constituent tax dollars while simultaneously claiming the US Government <strong><em>wastes</em></strong> constituent tax dollars. 💸
+💰 + 👮‍♂️ There is probably a slice of the funding data from the origins of various Lord of the Rings named companies that could summarize how effective these founders have become at convincing US Government to part with constituent tax dollars while simultaneously claiming the US Government ***wastes*** constituent tax dollars. 💸
 
 [https://www.techmeme.com/240812/p25#a240812p25](https://www.techmeme.com/240812/p25#a240812p25)
 
@@ -193,21 +199,32 @@ Switching gears, the bigger tech stories this week seemed to be Patreon (and App
    
 ### 🔮 Sneak Peak Saturday for 2024-08-10
  
-<h2 style="text-align: start">Peak 🏔️ vs. Peek 👀</h2>
+
+## Peak 🏔️ vs. Peek 👀
 
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week. 
 
 Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
 
-In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h2>Insert Let's See Who This Really Is Meme</h2>
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.
 
-[https://www.techmeme.com/240816/p16#a240816p16](https://www.techmeme.com/240816/p16#a240816p16)<h2>Insert Ceiling Cat Meme</h2>
+## Insert Let's See Who This Really Is Meme
 
-[https://www.techmeme.com/240816/p15#a240816p15](https://www.techmeme.com/240816/p15#a240816p15)<h2>Insert We're All Trying To Find The Guy Who Did This Meme</h2>
+[https://www.techmeme.com/240816/p16#a240816p16](https://www.techmeme.com/240816/p16#a240816p16)
 
-[https://www.techmeme.com/240816/p19#a240816p19](https://www.techmeme.com/240816/p19#a240816p19)<h2>Insert That Wasn't Me, That Was Patricia Meme</h2>
+## Insert Ceiling Cat Meme
 
-[https://www.techmeme.com/240816/p20#a240816p20](https://www.techmeme.com/240816/p20#a240816p20)<h2>Insert Anthony Adams Rubbing Hands Meme</h2>
+[https://www.techmeme.com/240816/p15#a240816p15](https://www.techmeme.com/240816/p15#a240816p15)
+
+## Insert We're All Trying To Find The Guy Who Did This Meme
+
+[https://www.techmeme.com/240816/p19#a240816p19](https://www.techmeme.com/240816/p19#a240816p19)
+
+## Insert That Wasn't Me, That Was Patricia Meme
+
+[https://www.techmeme.com/240816/p20#a240816p20](https://www.techmeme.com/240816/p20#a240816p20)
+
+## Insert Anthony Adams Rubbing Hands Meme
 
 [https://www.techmeme.com/240816/p22#a240816p22](https://www.techmeme.com/240816/p22#a240816p22)
    

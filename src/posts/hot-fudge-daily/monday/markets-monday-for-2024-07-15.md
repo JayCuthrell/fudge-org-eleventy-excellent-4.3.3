@@ -7,9 +7,12 @@ date: 2024-07-15 21:06:27.277290+00:00
 
 
 
-<h1>📈 Markets Monday for 2024-07-15</h1>
 
-Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
+# 📈 Markets Monday for 2024-07-15
+
+Analyzing the past and future of the tech market in Markets Monday.
+
+## Last week
 
 Looking at the week behind for the tech market.
 
@@ -25,7 +28,9 @@ Last week I corrected my prior error and gathered the intended 5D view. I’m st
 [![5 year view](https://assets.buttondown.email/images/1bc7be08-d071-4b60-b7df-f4ede03f9790.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?window=5Y)
 *5 year view*
 
-And again, “this seems to be going up for now”, is still true on a long enough timeline.<h2>This week</h2>
+And again, “this seems to be going up for now”, is still true on a long enough timeline.
+
+## This week
 
 Looking at the week ahead for the tech market.
 
@@ -44,10 +49,10 @@ Last week the expansion where the two (before the bell) went to fifteen. This we
 This week went from 15 down to 13. Again, I waited for the bell and should probably begin to pull in some commentary once this view can be automated as well.
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
-* % Change in Price (Intraday):<strong>greater than 4</strong>
-* Region:<strong> United States</strong>
-* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
-* Price (Intraday):<strong>greater than or equal 5</strong>
-* Volume:<strong>greater than 15000</strong>
-* Sector:<strong> Technology</strong>
-* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+* % Change in Price (Intraday):**greater than 4**
+* Region:** United States**
+* Market Cap (Intraday):** Mid Cap and Large Cap and Mega Cap**
+* Price (Intraday):**greater than or equal 5**
+* Volume:**greater than 15000**
+* Sector:** Technology**
+* Industry:** Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors**

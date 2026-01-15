@@ -7,9 +7,12 @@ date: 2024-07-23 21:56:16.403190+00:00
 
 
 
-<h1>📈 Markets Monday for 2024-07-22</h1>
 
-Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
+# 📈 Markets Monday for 2024-07-22
+
+Analyzing the past and future of the tech market in Markets Monday.
+
+## Last week
 
 Looking at the week behind for the tech market.
 

@@ -6,11 +6,12 @@ date: 2025-01-22 06:47:03.307508+00:00
 ---
 
 
+
 Two hot takes on stories that caught my eye on Tuesday and a bonus third hot take.
 
 🤖 + 💰 As someone that has seen joint-ventures gone right and wrong… It was the best of times, it was the worst of times, it was the age of… 
 
-<em>[ checks notes ] </em>
+*[ checks notes ] *
 
 Investing half a $T (!!!) in US AI infrastructure. 🤯
 

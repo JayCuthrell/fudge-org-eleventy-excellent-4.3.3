@@ -6,7 +6,8 @@ date: 2024-12-25 21:28:59.369802+00:00
 ---
 
 
-<blockquote><h1>🎁 Merry Christmas Edition 🎁</h1></blockquote>
+
+> # 🎁 Merry Christmas Edition 🎁
 
 Each Wednesday I go through dozens of Slack communities.
 

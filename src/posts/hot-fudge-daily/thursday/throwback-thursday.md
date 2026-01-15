@@ -7,7 +7,8 @@ date: 2024-06-06 14:36:31.012793+00:00
 
 
 
-<h1>Throwback Thursday</h1>
+
+# Throwback Thursday
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.
 
