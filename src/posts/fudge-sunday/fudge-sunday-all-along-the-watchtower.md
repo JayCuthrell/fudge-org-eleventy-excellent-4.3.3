@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-all-along-the-watchtower/
 title: Fudge Sunday - All Along the Watchtower
 ---
 
+
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 3 of a 5 part series
@@ -71,7 +72,7 @@ Breaking free of *data gravity* is how *companies* achieve *multicloud* goals.
 
 [@FactionInc](https://twitter.com/FactionInc/status/1412848841469145094)
 
-What is Data Gravity? Watch this video for a quick summary in under 30 seconds: <https://t.co/EwcoBlUy7d> [#datagravity](https://twitter.com/search?q=%23datagravity "#datagravity") [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud") <https://t.co/3rStRI8S2J>
+What is Data Gravity? Watch this video for a quick summary in under 30 seconds: [https://t.co/EwcoBlUy7d](https://t.co/EwcoBlUy7d) [#datagravity](https://twitter.com/search?q=%23datagravity "#datagravity") [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud") [https://t.co/3rStRI8S2J](https://t.co/3rStRI8S2J)
 
  [2:59 PM - 7 Jul 2021](https://twitter.com/FactionInc/status/1412848841469145094)
 
@@ -85,7 +86,7 @@ Related to the themes above, a Quote Tweet of Techmeme coverage to highlight wha
 
 Today: Typically, an automobile must be taken to a dealership to wait for hours while a USB thumb drive or CDROM/DVD is used to manually install a software fix or update.🚗⏳🔧💸  
   
-Soon: Automotive OTA (over the air) update will eventually be embraced by all manufacturers.📻🚗💰📈 <https://t.co/NfNZyoRBdY>
+Soon: Automotive OTA (over the air) update will eventually be embraced by all manufacturers.📻🚗💰📈 [https://t.co/NfNZyoRBdY](https://t.co/NfNZyoRBdY)
 
  [2:52 PM - 3 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409177507606188032)
 
@@ -95,7 +96,7 @@ Soon: Automotive OTA (over the air) update will eventually be embraced by all ma
 
 Tesla to issue a software fix to 285K+ cars in China, after regulator finds its autopilot can get activated automatically, which may lead to sudden acceleration (Bloomberg)  
   
-<https://t.co/CoC1ZbGNZn>  
-<https://t.co/j7MlEO4pKi>
+[https://t.co/CoC1ZbGNZn](https://t.co/CoC1ZbGNZn)  
+[https://t.co/j7MlEO4pKi](https://t.co/j7MlEO4pKi)
 
  [5:10 PM - 26 Jun 2021](https://twitter.com/Techmeme/status/1408895576955973632)

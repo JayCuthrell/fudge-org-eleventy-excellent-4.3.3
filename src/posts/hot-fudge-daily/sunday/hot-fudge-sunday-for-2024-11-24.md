@@ -9,10 +9,13 @@ date: 2024-11-24 21:20:00+00:00
 
 
 
+
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+---
 
 # Hot Fudge Daily Digest
 
@@ -22,7 +25,7 @@ date: 2024-11-24 21:20:00+00:00
 
 > I'll be sharing more about my journey on LinkedIn. In the meantime, you can stay up-to-date on my latest thoughts and experiments through [Hot Fudge Daily](https://fudge.org/) and [Fudge Factor](https://fudge.org/). I'll also be contributing to the [NexusTek Insights blog](https://nexustek.com/insights), so keep an eye out for my articles. 🤓
 
-<hr/>
+---
 
 ### 📈 Markets Monday for 2024-11-18
 

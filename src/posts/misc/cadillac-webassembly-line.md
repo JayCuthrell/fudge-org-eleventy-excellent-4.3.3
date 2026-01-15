@@ -5,6 +5,7 @@ permalink: /archive/cadillac-webassembly-line/
 title: Cadillac WebAssembly Line
 ---
 
+
 *[Albert King - “Cadillac Assembly Line” (1980)](https://www.youtube.com/watch?v=7bdtuOJycFQ)*
 
 Getting Informed
@@ -46,7 +47,6 @@ By 2016, another Web Assembly video appears… and there’s still a space. And 
 * Specific reference to “larger content”
 * and ~15 minutes of Q&A including two categories of speculative use cases
 
-
 	+ computationally expensive number crunching (games, media, data)
 	+ server side pre-processing of what was previously client side processing
 
@@ -84,25 +84,23 @@ So, what will the next big breakout Wasm use case[8](#footnote-8) be in 2023?
 
 Until then… Place your bets!
 
-
-
 Disclosure
 ==========
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Read: <https://webassembly.org>
+[1](#footnote-anchor-1)Read: [https://webassembly.org](https://webassembly.org)
 
-[2](#footnote-anchor-2)Read: <https://wasmcloud.com/blog/road_to_ubiquity/>
+[2](#footnote-anchor-2)Read: [https://wasmcloud.com/blog/road_to_ubiquity/](https://wasmcloud.com/blog/road_to_ubiquity/)
 
-[3](#footnote-anchor-3)Play: <https://madewithwebassembly.com/showcase/diabloweb/>
+[3](#footnote-anchor-3)Play: [https://madewithwebassembly.com/showcase/diabloweb/](https://madewithwebassembly.com/showcase/diabloweb/)
 
 [4](#footnote-anchor-4)Read: [Google offers low-budget ARM-based Chromebook](https://web.archive.org/web/20121018212316/http://news.cnet.com/8301-1023_3-57534803-93/google-offers-low-budget-arm-based-chromebook/)
 
 [5](#footnote-anchor-5)Watch: [JSConf History](https://videos.elastic.co/watch/2YjKwpPx6MUREm6ZsdWy8Q?chapter=1)
 
-[6](#footnote-anchor-6)Read: <https://replit.com/site/about>
+[6](#footnote-anchor-6)Read: [https://replit.com/site/about](https://replit.com/site/about)
 
-[7](#footnote-anchor-7)Read: <https://chsrbrts.medium.com/webassembly-the-future-looks-bright-6c76a0afc621>
+[7](#footnote-anchor-7)Read: [https://chsrbrts.medium.com/webassembly-the-future-looks-bright-6c76a0afc621](https://chsrbrts.medium.com/webassembly-the-future-looks-bright-6c76a0afc621)
 
-[8](#footnote-anchor-8)Read: <https://webassembly.org/docs/use-cases/>
+[8](#footnote-anchor-8)Read: [https://webassembly.org/docs/use-cases/](https://webassembly.org/docs/use-cases/)

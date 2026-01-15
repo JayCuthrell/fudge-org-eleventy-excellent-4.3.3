@@ -4,11 +4,12 @@ description: 'A look at the past, present, and future of Apache Parquet.'
 date: 2023-08-28 
 ---
 
+
 This week we take a look at the past, present, and future of Apache Parquet.
 
 This week's musical inspiration in title and lyrics:
 
-<https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea?si=ece0e6f236f348e5>
+[https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea?si=ece0e6f236f348e5](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea?si=ece0e6f236f348e5)
 
 # Getting Informed
 

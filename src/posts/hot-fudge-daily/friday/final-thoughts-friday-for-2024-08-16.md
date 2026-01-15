@@ -5,6 +5,7 @@ description: "Four upcoming events, SXSW panel, tech news highlights, and person
 date: 2024-08-16 20:24:02.885311+00:00
 ---
 
+
 As a reminder, I’ve committed to four events for the remainder of this year.
 
 - [AI Field Day 5](https://techfieldday.com/event/aifd5/) in Silicon Valley September 11-13, 2024 for [Tech Field Day](https://techfieldday.com/events/)
@@ -25,12 +26,12 @@ Switching gears, the bigger tech stories this week seemed to be Patreon (and App
 - It was probably inevitable that the first wave of AI safety bills in the United States would be watered down or cut back in response to a whole host of objections that either came directly from the industry or via proxy and likely lobby related communications.
 - Seeing CHIPS grants happen is exciting and [I hope the investments turn into a story that we look back up on fondly](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022/) — even if I was probably a few years ahead of my time.
 
-<https://www.techmeme.com/240812/p17#a240812p17>
+[https://www.techmeme.com/240812/p17#a240812p17](https://www.techmeme.com/240812/p17#a240812p17)
 
-<https://www.techmeme.com/240813/p32#a240813p32>
+[https://www.techmeme.com/240813/p32#a240813p32](https://www.techmeme.com/240813/p32#a240813p32)
 
-<https://www.techmeme.com/240814/p32#a240814p32>
+[https://www.techmeme.com/240814/p32#a240814p32](https://www.techmeme.com/240814/p32#a240814p32)
 
-<https://www.techmeme.com/240815/p29#a240815p29>
+[https://www.techmeme.com/240815/p29#a240815p29](https://www.techmeme.com/240815/p29#a240815p29)
 
-<https://www.techmeme.com/240816/p4#a240816p4>
+[https://www.techmeme.com/240816/p4#a240816p4](https://www.techmeme.com/240816/p4#a240816p4)

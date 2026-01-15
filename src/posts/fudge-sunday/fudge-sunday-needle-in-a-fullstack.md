@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-needle-in-a-fullstack/
 title: Fudge Sunday - Needle in a Fullstack
 ---
 
+
 This week we take a closer look at DevSec, SCA, xAST, RASP, DevSecOps, FinOps, and code search.
 
 The Velvelettes "Needle in a Haystack" (1965)
@@ -63,7 +64,7 @@ For example:
 
 [@beyang](https://twitter.com/beyang/status/1454937232368832522)
 
-Nothing like using @[sourcegraph](https://twitter.com/sourcegraph) to build @[sourcegraph](https://twitter.com/sourcegraph)—we're migrating from global CSS to CSS Modules and our frontend platform team is using Code Insights to track migration progress: <https://t.co/1lRqYjLiwz>
+Nothing like using @[sourcegraph](https://twitter.com/sourcegraph) to build @[sourcegraph](https://twitter.com/sourcegraph)—we're migrating from global CSS to CSS Modules and our frontend platform team is using Code Insights to track migration progress: [https://t.co/1lRqYjLiwz](https://t.co/1lRqYjLiwz)
 
  [6:24 PM - 31 Oct 2021](https://twitter.com/beyang/status/1454937232368832522)
 

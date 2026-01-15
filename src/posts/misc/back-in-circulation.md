@@ -5,6 +5,7 @@ date: 2024-05-12
 ---
 
 
+
 This week we take a look at what's next in post-pandemic travel and apps potpourri.
 
 ## Housekeeping
@@ -17,7 +18,7 @@ BTW, if you missed any of my LinkedIn updates during Red Hat Summit, I've summar
 
 ### Looking ahead
 
-🗓️ Later this month, I am headed to [Dell Technologies World](https://www.dell.com/en-us/dt/events/delltechnologiesworld/2024/index.htm) in Las Vegas. If you'll be in Las Vegas too, let's meet at [Elevate Technology User Group](https://bit.ly/etug-at-dtw-2024). Register now: <https: bit.ly="" etug-at-dtw-2024=""> 🎫 🎟️
+🗓️ Later this month, I am headed to [Dell Technologies World](https://www.dell.com/en-us/dt/events/delltechnologiesworld/2024/index.htm) in Las Vegas. If you'll be in Las Vegas too, let's meet at [Elevate Technology User Group](https://bit.ly/etug-at-dtw-2024). Register now: [https: bit.ly="" etug-at-dtw-2024=""](https: bit.ly="" etug-at-dtw-2024="") 🎫 🎟️
 
 🗓️ Next month, I am honored to be a [Tech Field Day delegate](https://techfieldday.com/people/jay-cuthrell/) at [Qlik Connect](https://www.qlikconnect.com/) in Orlando.
 
@@ -113,4 +114,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/), I'm going to be scanning the picture side of the postcards I've received and link to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️</https:>
+p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/), I'm going to be scanning the picture side of the postcards I've received and link to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️

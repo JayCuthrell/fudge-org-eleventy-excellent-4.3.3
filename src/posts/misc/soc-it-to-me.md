@@ -5,6 +5,7 @@ permalink: /archive/soc-it-to-me/
 title: SoC It To Me
 ---
 
+
 Getting Informed
 ================
 
@@ -27,7 +28,6 @@ For more than a decade, security concepts used analogies to personal health[5](#
 
 As technology is the response to perceived needs, those needs may be satisfied initially by an approach or practice that is ultimately eschewed for the better in the wake of paradigm shifts[7](#footnote-7). Just consider the technology of *The Flintstones* cartoons and even our modern day mining practices.
 
-
 > *On this day in 1986, a mining tradition dating back to 1911 ended: the use of canaries in coal mines to detect carbon monoxide and other toxic gases before they hurt humans. New plans from the government declared that the “[electronic nose](http://www.bbc.co.uk/archive/mining/6923.shtml),” a detector with a digital reading, would replace the birds, [according to](http://news.bbc.co.uk/onthisday/hi/dates/stories/december/30/newsid_2547000/2547587.stm) the BBC.*[8](#footnote-8)
 > 
 > 
@@ -48,11 +48,11 @@ Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Read: <https://en.wikipedia.org/wiki/Separation_of_concerns>
+[1](#footnote-anchor-1)Read: [https://en.wikipedia.org/wiki/Separation_of_concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
-[2](#footnote-anchor-2)Read: <https://en.wikipedia.org/wiki/System_on_a_chip>
+[2](#footnote-anchor-2)Read: [https://en.wikipedia.org/wiki/System_on_a_chip](https://en.wikipedia.org/wiki/System_on_a_chip)
 
-[3](#footnote-anchor-3)Read: <https://en.wikipedia.org/wiki/Security_operations_center>
+[3](#footnote-anchor-3)Read: [https://en.wikipedia.org/wiki/Security_operations_center](https://en.wikipedia.org/wiki/Security_operations_center)
 
 [4](#footnote-anchor-4)Watch: [Modernize your micro-service deployments with virtual canaries](https://www.youtube.com/watch?v=s_NkN8eGqQk)
 
@@ -60,6 +60,6 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [6](#footnote-anchor-6)Read: [Security Operation Center Based on Immune System](https://ieeexplore.ieee.org/document/4425455)
 
-[7](#footnote-anchor-7)Read: <https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions>
+[7](#footnote-anchor-7)Read: [https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
 
 [8](#footnote-anchor-8)Read: [The Story of the Real Canary in the Coal Mine](https://www.smithsonianmag.com/smart-news/story-real-canary-coal-mine-180961570/)

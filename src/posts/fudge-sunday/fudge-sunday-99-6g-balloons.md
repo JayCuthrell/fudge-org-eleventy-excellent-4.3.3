@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-99-6g-balloons/
 title: Fudge Sunday - 99 6G Balloons
 ---
 
+
 This week we take a look at Mobile World Congress 2022, marketing, memes, and the growing democratization of mobile technology.
 
  **Getting Informed**
@@ -36,10 +37,9 @@ Let’s take a look back then look ahead.
 
 Setting aside the AT&T “you will” meme… the only thing holding back telecom in the 1990s was… telecom itself.
 
-
 [@BBCArchive](https://twitter.com/BBCArchive/status/1490288663346827264)
 
-1989: Blue Peter showed us that video meetings are nothing new. <https://t.co/L5N0xzNmOg>
+1989: Blue Peter showed us that video meetings are nothing new. [https://t.co/L5N0xzNmOg](https://t.co/L5N0xzNmOg)
 
  **1993 = (soon to be) Memes...**
 
@@ -84,7 +84,6 @@ Source:
 [www.helium.com](https://www.helium.com/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Tune in within 3-5 years to see how this newsletter has aged.🤓🤔🤣
-
 
  # Disclosure
 

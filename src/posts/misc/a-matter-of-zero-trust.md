@@ -6,6 +6,7 @@ permalink: /archive/a-matter-of-zero-trust/
 title: A Matter of Zero Trust
 ---
 
+
 *[Billy Joel - “A Matter of Trust” (1986)](https://www.youtube.com/watch?v=6yYchgX1fMw)*
 
 # Getting Informed
@@ -13,8 +14,6 @@ title: A Matter of Zero Trust
 This week we take a look at Zero Trust, Zero Trust Model, Zero Trust Security Model, Zero Trust Reference Architecture, Zero Trust Network Access, and Zero Trust Network Architecture. So, if this seems like an elongated list now, you should have zero *— ahem —* trust the list will be the last of the variants.
 
 Please Subscribe!
-
-
 
 # And they may not want it to end 🎶
 
@@ -85,12 +84,12 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [7](#footnote-anchor-7)Read: [Department of Defense (DoD) Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf)
 
-[8](#footnote-anchor-8)Read: <https://en.wikipedia.org/wiki/Zero_trust_security_model>
+[8](#footnote-anchor-8)Read: [https://en.wikipedia.org/wiki/Zero_trust_security_model](https://en.wikipedia.org/wiki/Zero_trust_security_model)
 
 [9](#footnote-anchor-9)Read: [Thinking Remotely](https://fudge.org/archive/thinking-remotely/)
 
-[10](#footnote-anchor-10)Read: <https://news.ycombinator.com/item?id=31842778>
+[10](#footnote-anchor-10)Read: [https://news.ycombinator.com/item?id=31842778](https://news.ycombinator.com/item?id=31842778)
 
 [11](#footnote-anchor-11)Read: [The BeyondCorp Story](https://www.beyondcorp.com)
 
-[12](#footnote-anchor-12)Read: <https://web.archive.org/web/20051116174445/http://wifi.google.com/faq.html>
+[12](#footnote-anchor-12)Read: [https://web.archive.org/web/20051116174445/http://wifi.google.com/faq.html](https://web.archive.org/web/20051116174445/http://wifi.google.com/faq.html)

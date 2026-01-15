@@ -5,6 +5,7 @@ description: "Busy week with hosting events, planning future gatherings, and tra
 date: 2024-06-21 16:35:16.334897+00:00
 ---
 
+
 # Final Thoughts Friday for 2024-06-21
 
 Looking back at the week with an eye to the future.
@@ -15,11 +16,11 @@ Regular readers know I normally work out of The Vault in Beaufort, NC USA. While
 
 In fact, I’m considering making this event a weekly occurrence. I’ve already created the event for next week.
 
-<https://lu.ma/7d2bcsvg>
+[https://lu.ma/7d2bcsvg](https://lu.ma/7d2bcsvg)
 
 This week, I also published a full week of “Free Preview” posts for Hot Fudge Daily on Fudge Sunday.
 
-<https://fudge.org/archive/hot-fudge-daily-digest/>
+[https://fudge.org/archive/hot-fudge-daily-digest/](https://fudge.org/archive/hot-fudge-daily-digest/)
 
 Again, I’ll likely collapse [fudge.org](http://fudge.org) content that is exclusively newsletter content into [fudge.org](http://fudge.org) for ONLY newsletters and reclaim [fudge.org](http://fudge.org) as a blogging platform. We shall see.
 

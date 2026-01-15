@@ -5,6 +5,7 @@ permalink: /archive/on-twitter/
 title: On Twitter
 ---
 
+
 A few days ago I reset almost all of my primary Twitter output since 2007.
 
 First, I made archives to revisit some prior analysis.
@@ -27,7 +28,7 @@ Trends: @Qthrul
 
 This time around I found another example using Python:
 
-<https://github.com/dangoldin/twitter-archive-analysis>
+[https://github.com/dangoldin/twitter-archive-analysis](https://github.com/dangoldin/twitter-archive-analysis)
 
 A few seconds later… this caught my eye for @Qthrul:
 
@@ -43,8 +44,6 @@ Let’s take a look at @JayCuthrell:
 Let’s take a look at @JayAtDellEMC:
 
 I’ll revisit this post as I come across more tools with good results.
-
-
 
 # Update for July 2022
 

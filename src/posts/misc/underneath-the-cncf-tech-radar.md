@@ -5,13 +5,13 @@ permalink: /archive/underneath-the-cncf-tech-radar/
 title: Underneath The CNCF Tech Radar
 ---
 
+
 *Music: [Underworld - Underneath The Radar (1988)](https://www.youtube.com/watch?v=br8AvTqZ0w4)*
 
 Getting Informed
 ================
 
 The Cloud Native Computing Foundation (CNCF) was formed in 2015 by 22 supporting member companies.[1](#footnote-1) At launch, the mission statement was *“to create and drive the adoption of a new computing paradigm that is optimized for modern distributed systems environments“.* [2](#footnote-2)
-
 
 Today, the CNCF mission is, according to their charter, “to make cloud native computing ubiquitous”.[3](#footnote-3) In addition, there are now 23 “Platinum” supporting companies, 27 “Gold” supporting companies, 659 “Silver” supporting companies, 103 “End User” supporting companies, 21 “Non-profit” members, and 4 “Academic” members — or ~837 member companies in total if you are looking for the big number.
 
@@ -30,7 +30,6 @@ You might have noted the Gartner Survey of 2203 CIOs findings this week.[5](#foo
 
 * Represents $322B in spending across 81 countries
 * Respondents were grouped by increased investments (***emphasis*** mine)
-
 
 	+ ***cyber and information security (66%)***
 	+ business intelligence/data analytics (55%)
@@ -63,22 +62,22 @@ Until next time… Place your bets!
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Read: <https://web.archive.org/web/20150907011025/https://cncf.io/about/supporting-companies>
+[1](#footnote-anchor-1)Read: [https://web.archive.org/web/20150907011025/https://cncf.io/about/supporting-companies](https://web.archive.org/web/20150907011025/https://cncf.io/about/supporting-companies)
 
-[2](#footnote-anchor-2)Read: <https://web.archive.org/web/20150907071648/https://cncf.io/about/our-mission>
+[2](#footnote-anchor-2)Read: [https://web.archive.org/web/20150907071648/https://cncf.io/about/our-mission](https://web.archive.org/web/20150907071648/https://cncf.io/about/our-mission)
 
-[3](#footnote-anchor-3)Read: <https://github.com/cncf/foundation/blob/main/charter.md>
+[3](#footnote-anchor-3)Read: [https://github.com/cncf/foundation/blob/main/charter.md](https://github.com/cncf/foundation/blob/main/charter.md)
 
-[4](#footnote-anchor-4)Read: <https://landscape.cncf.io>
+[4](#footnote-anchor-4)Read: [https://landscape.cncf.io](https://landscape.cncf.io)
 
-[5](#footnote-anchor-5)Read: <https://www.gartner.com/en/newsroom/press-releases/2022-10-18-gartner-survey-of-over-2000-cios-reveals-the-need-to-accelerate-time-to-value-from-digital-investments>
+[5](#footnote-anchor-5)Read: [https://www.gartner.com/en/newsroom/press-releases/2022-10-18-gartner-survey-of-over-2000-cios-reveals-the-need-to-accelerate-time-to-value-from-digital-investments](https://www.gartner.com/en/newsroom/press-releases/2022-10-18-gartner-survey-of-over-2000-cios-reveals-the-need-to-accelerate-time-to-value-from-digital-investments)
 
-[6](#footnote-anchor-6)Read: <https://radar.cncf.io/2021-09-devsecops>
+[6](#footnote-anchor-6)Read: [https://radar.cncf.io/2021-09-devsecops](https://radar.cncf.io/2021-09-devsecops)
 
-[7](#footnote-anchor-7)Read: <https://www.getxray.app>
+[7](#footnote-anchor-7)Read: [https://www.getxray.app](https://www.getxray.app)
 
-[8](#footnote-anchor-8)Read: <https://www.jfrog.com/confluence/display/JFROG/JFrog+Xray>
+[8](#footnote-anchor-8)Read: [https://www.jfrog.com/confluence/display/JFROG/JFrog+Xray](https://www.jfrog.com/confluence/display/JFROG/JFrog+Xray)
 
-[9](#footnote-anchor-9)Read: <https://github.com/cncf/radar/search?q=xray>
+[9](#footnote-anchor-9)Read: [https://github.com/cncf/radar/search?q=xray](https://github.com/cncf/radar/search?q=xray)
 
-[10](#footnote-anchor-10)Read: <https://stackshare.io>
+[10](#footnote-anchor-10)Read: [https://stackshare.io](https://stackshare.io)

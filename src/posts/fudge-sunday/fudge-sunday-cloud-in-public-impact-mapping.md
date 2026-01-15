@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-cloud-in-public-impact-mapping/
 title: 'Fudge Sunday - Cloud in Public: Impact Mapping'
 ---
 
+
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑
@@ -41,7 +42,7 @@ Impact Mapping can be challenging because the public cloud is increasingly less 
 
 +15 years: Hyperscale public cloud service providers invest to enable globally diverse infrastructure to support well-architected frameworks.💰☁️  
   
-+15 months: GAIA-X Policy Rules and Architecture of Standards support geopolitical data sovereignty and balkanization frameworks.⚖️🤔 <https://t.co/hv5wZJfOyA>
++15 months: GAIA-X Policy Rules and Architecture of Standards support geopolitical data sovereignty and balkanization frameworks.⚖️🤔 [https://t.co/hv5wZJfOyA](https://t.co/hv5wZJfOyA)
 
  [2:36 PM - 31 Oct 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1454879951895900165)
 
@@ -101,7 +102,7 @@ Notes:
 
  **Findings**
 
-In summary, there are **incredibly** **stark variations** amongst the hyperscalers in expressing Impact Mapping. Further, it is reasonable to expect the market will drive demand for standards that normalize the variations or promote wider adoption of approaches such as [the C4 model](https://c4model.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+In summary, there are **incredibly stark variations** amongst the hyperscalers in expressing Impact Mapping. Further, it is reasonable to expect the market will drive demand for standards that normalize the variations or promote wider adoption of approaches such as [the C4 model](https://c4model.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 * ***Oracle Cloud emphasis is on 1. Security (and Compliance)*** whereas Alibaba Cloud, AWS, and Azure place emphasis on 2. Security and Google Cloud at 3. Security (Privacy and Compliance)
 * ***AWS emphasis is on 1. Operational Excellence*** whereas Google Cloud has 2. Operational Excellence and both Azure and Oracle Cloud has 4. Operational Excellence (Efficiency)

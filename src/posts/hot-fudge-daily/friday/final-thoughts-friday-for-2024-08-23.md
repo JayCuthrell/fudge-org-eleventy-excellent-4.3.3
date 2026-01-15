@@ -5,6 +5,7 @@ description: "Tech events, thankfulness, and big tech stories covered in this ed
 date: 2024-08-24 00:20:22.592482+00:00
 ---
 
+
 As a reminder, I’ve committed to four events for the remainder of this year.
 
 - [AI Field Day 5](https://techfieldday.com/event/aifd5/) in Silicon Valley September 11-13, 2024 for [Tech Field Day](https://techfieldday.com/events/)
@@ -23,12 +24,12 @@ Switching gears back to technology, the bigger tech stories this week seemed to 
 - As someone that enjoys iOS beta releases, seeing the EU compel one of the most valuable companies on the planet to alter course can be a bit surreal. Ultimately, this change in course is a net benefit to all.
 - While I haven't been in the rental market recently, this allegation against RealPage is a bit of a confirmation for my prior bias. When I've considered relocating to other cities and reviewed rental pricing, anecdotally, the oddly similar patterns were hard to not notice, and perhaps the US DOJ will eventually prove this was not coincidental in a court of law.
 
-<https://www.techmeme.com/240819/p3#a240819p3>
+[https://www.techmeme.com/240819/p3#a240819p3](https://www.techmeme.com/240819/p3#a240819p3)
 
-<https://www.techmeme.com/240820/p9#a240820p9>
+[https://www.techmeme.com/240820/p9#a240820p9](https://www.techmeme.com/240820/p9#a240820p9)
 
-<https://www.techmeme.com/240821/p25#a240821p25>
+[https://www.techmeme.com/240821/p25#a240821p25](https://www.techmeme.com/240821/p25#a240821p25)
 
-<https://www.techmeme.com/240822/p23#a240822p23>
+[https://www.techmeme.com/240822/p23#a240822p23](https://www.techmeme.com/240822/p23#a240822p23)
 
-<https://www.techmeme.com/240823/p10#a240823p10>
+[https://www.techmeme.com/240823/p10#a240823p10](https://www.techmeme.com/240823/p10#a240823p10)

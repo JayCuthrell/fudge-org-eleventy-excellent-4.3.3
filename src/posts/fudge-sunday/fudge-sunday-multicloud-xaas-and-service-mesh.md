@@ -6,6 +6,7 @@ permalink: /archive/fudge-sunday-multicloud-xaas-and-service-mesh/
 title: Fudge Sunday - Multicloud, XaaS, and Service Mesh
 ---
 
+
 This week we take a look at Multicloud Data Services and everything evolving to be a service with an increasing emphasis on observability.
 
  **Getting Informed**
@@ -22,7 +23,7 @@ Blog posts can be a great place to take in longer form perspectives on a specifi
 
 I've written down my thoughts on how eBPF will help solve service mesh complexity and performance by getting rid of sidecars.  
   
-<https://t.co/c8PGTyNru0>
+[https://t.co/c8PGTyNru0](https://t.co/c8PGTyNru0)
 
 [11:52 AM - 8 Dec 2021](https://twitter.com/tgraf__/status/1468624598853988358)
 

@@ -6,6 +6,7 @@ date: 2021-07-04 16:39:01+00:00
 
 
 
+
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 1 of a 5 part series
@@ -60,7 +61,7 @@ Indeed, the very notion of needing to move data from edge to core to cloud seems
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409983779616264201)
 
-What is Data Gravity? Watch this video from @[factioninc](https://twitter.com/factioninc) for a quick summary in under 30 seconds: <https://t.co/0aLKqRsNTs> [#datagravity](https://twitter.com/search?q=%23datagravity "#datagravity") [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud")
+What is Data Gravity? Watch this video from @[factioninc](https://twitter.com/factioninc) for a quick summary in under 30 seconds: [https://t.co/0aLKqRsNTs](https://t.co/0aLKqRsNTs) [#datagravity](https://twitter.com/search?q=%23datagravity "#datagravity") [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud")
 
  [5:15 PM - 29 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409983779616264201)
 
@@ -89,4 +90,3 @@ The tipping point will be when throwing crypto in the tip jar is normalized and 
 Considering the new form factors in the Acoustic Doppler Current Profiler (ADCP) market, moving into shallows and tidal flat characterization seems like the logical movement for open data grants tracking variation in currents beyond commercial closed data source applications.
 
 [12:23 PM - 4 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1411722348844158976)
-

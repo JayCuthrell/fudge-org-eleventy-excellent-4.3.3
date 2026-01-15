@@ -5,6 +5,7 @@ description: "Wrapping up AI Field Day 5 notes while exploring energy solutions 
 date: 2024-09-21 02:24:07.592976+00:00
 ---
 
+
 As of this update, [AI Field Day 5](https://techfieldday.com/event/aifd5/) for [Tech Field Day](https://techfieldday.com/events/) videos are posted and I am wrapping up publishing my delegate notes on Keysight, Integrail, Cisco, Vmware, Elastic, Arista, and Enfabrica *as well as* a Delegate Ignite Talk series and Delegate Roundtable.
 
 > I would like to give a HUGE shout out to the team that makes Tech Field Day possible and to Futurum Group as well the sponsoring companies for making the event possible. 🙏 🙏 🙏
@@ -13,7 +14,7 @@ Once again, I am thankful for [new and ongoing client work](https://cuthrell.con
 
 The biggest stories this week were a mixed for me. On the one hand, I get that tech journalism has to earn their impressions and drive clicks. On the other hand, clicks from spicy headlines sometimes turn into reading just a few hundred words that do not support the headline. 🧗‍♀️
 
-<https://www.techmeme.com/240916/p20#a240916p20>
+[https://www.techmeme.com/240916/p20#a240916p20](https://www.techmeme.com/240916/p20#a240916p20)
 
 For context, I personally and professionally know 100s of people at AWS all over the planet. I was also on the AWS Partner Advisory Board during my time at IBM.
 
@@ -23,21 +24,21 @@ While I have no inside information, I can say that Return To Office (RTO) is a p
 >
 > Source: [Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles)
 
-<https://www.techmeme.com/240918/p34#a240918p34>
+[https://www.techmeme.com/240918/p34#a240918p34](https://www.techmeme.com/240918/p34#a240918p34)
 
 I shared [an update about this LinkedIn “setting”](https://www.linkedin.com/posts/jaycuthrell_psa-privacy-optindefault-activity-7242142795845500928-PEYT?utm_source=share&utm_medium=member_desktop) and [a parting thought](https://www.linkedin.com/posts/jaycuthrell_im-not-a-lawyer-expect-more-emails-with-activity-7242568537213472770--aTJ?utm_source=share&utm_medium=member_desktop) on the topic itself. 
 
 > If you reading this in the United States — you can [check your LinkedIn “setting”](https://www.linkedin.com/mypreferences/d/settings/data-for-ai-improvement) at this link: 
 >
-> <https://www.linkedin.com/mypreferences/d/settings/data-for-ai-improvement> 
+> [https://www.linkedin.com/mypreferences/d/settings/data-for-ai-improvement](https://www.linkedin.com/mypreferences/d/settings/data-for-ai-improvement) 
 
-<https://www.techmeme.com/240919/p20#a240919p20>
+[https://www.techmeme.com/240919/p20#a240919p20](https://www.techmeme.com/240919/p20#a240919p20)
 
 A report on a report lands as somewhat limited coverage… 
 
 > So, now do one on credit cards too! 💳
 
-<https://www.techmeme.com/240920/p6#a240920p6>
+[https://www.techmeme.com/240920/p6#a240920p6](https://www.techmeme.com/240920/p6#a240920p6)
 
 [Physical Power Purchasing Agreements (PPA)](https://www.epa.gov/green-power-markets/physical-ppa) and [financial virtual PPAs (vPPAs)](https://www.epa.gov/green-power-markets/financial-ppa) are entering the wider lexicon. That’s a good thing.
 

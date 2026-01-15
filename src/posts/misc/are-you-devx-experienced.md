@@ -4,6 +4,7 @@ description: 'a look at recent Developer Experience (DevX) coverage and articles
 date: 2023-04-30 16:19:58.364000+00:00
 ---
 
+
 Music: [Devo - Are U X-perienced? (1984)](https://www.youtube.com/watch?v=YVCt\_mAAZpQ)
 
 This week we take a look at recent Developer Experience (DevX) coverage and articles that caught my attention.
@@ -33,7 +34,7 @@ Of course, people will interchangeably use DX, DevX, and DevEx so the context an
 
 First, be sure to read this newsletter post from the CEO of [DX](https://getdx.com), [Abi Noda](https://www.linkedin.com/in/abinoda/) summarizing a discussion with the former CTO of Etsy, [Mike Fisher](https://www.linkedin.com/in/mike-fisher-3317a8/) on DevEx initiatives. And I assure you it isn't a reference to Roblox. 🤓
 
-<https://newsletter.abinoda.com/p/devex-at-etsy>
+[https://newsletter.abinoda.com/p/devex-at-etsy](https://newsletter.abinoda.com/p/devex-at-etsy)
 
 There are a few items that caught my eye and ear ([podcast!](https://getdx.com/podcast/35)).
 
@@ -55,7 +56,7 @@ So, if you are attracting folks... what better recruiting tool could there be th
 
 Next, as [DORA](https://dora.dev) will turn ten (10!) years old soon, check out this post from [David Rant](https://www.linkedin.com/in/daverant/) and [Matt Campbell](https://www.linkedin.com/in/mbcampbell360/) to avoid the dreaded "you're holding it wrong" outcome of metrics for the sake of metrics.
 
-<https://www.infoq.com/articles/dora-metrics-anti-patterns/>
+[https://www.infoq.com/articles/dora-metrics-anti-patterns/](https://www.infoq.com/articles/dora-metrics-anti-patterns/)
 
 So, continuing the folks reference, what do folks need that could be related to a metric and reporting? Perhaps, thinking out loud...
 

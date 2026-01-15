@@ -9,7 +9,8 @@ date: 2024-08-11 13:09:00+00:00
 
 
 
-<hr/>
+
+---
 
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)

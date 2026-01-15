@@ -6,6 +6,7 @@ date: 2021-06-20 17:00:06+00:00
 
 
 
+
 If you find yourself hitting refresh on Twitter, Reddit, Facebook, Hacker News or *\*shiver\** BuzzFeed then it might be time to subscribe to a few mailing lists and newsletters. This week, I am sharing articles linked in the mailing lists and newsletters I’ve been reading lately.
 
  **Recommendation: Oh... M. G.**
@@ -68,7 +69,7 @@ My fleeting tweet take on this….
   
 🤔Why?  
   
-🔮Perhaps a content farm gets more deal flow than tech finance journalists questioning investment theses for a post-biomimicry crypto paradigm "future" <https://t.co/3c6MDBIpFW>
+🔮Perhaps a content farm gets more deal flow than tech finance journalists questioning investment theses for a post-biomimicry crypto paradigm "future" [https://t.co/3c6MDBIpFW](https://t.co/3c6MDBIpFW)
 
  [5:30 PM - 19 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406363851151532035)
 
@@ -103,17 +104,8 @@ One last tweet for the road…
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406376556528812036)
 
 Eventually "the hot aisle" will become niche as changing heat exchange uses cases bring two-phase engineered fluid immersion cooling into wider adoption that are compounded by the progression of advanced RISC machines to edge / core / cloud modalities.  
-<https://t.co/2PoEwFESGs>
+[https://t.co/2PoEwFESGs](https://t.co/2PoEwFESGs)
 
  [6:21 PM - 19 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406376556528812036)
 
 The end. 🤓
-
-
-
-
-
-
-
-
-

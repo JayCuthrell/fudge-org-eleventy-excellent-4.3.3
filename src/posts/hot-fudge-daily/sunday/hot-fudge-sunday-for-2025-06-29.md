@@ -9,6 +9,7 @@ date: 2025-06-29 13:00:00+00:00
 
 
 
+
 This week is a shorter vacation edition of 🌶️ Hot Fudge Sunday. During vacation, I worked out how to mirror all prior [fudge.org](http://fudge.org) [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) hosted content (~370+ posts) on [fudge.org](http://fudge.org) and will be collapsing the archives there soon with a redirect.
 
 Once web archives are migrated, [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) will continue to be my [trusted newsletter delivery service](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email). In case you are interested, I ended up adding two simple [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) and Mastodon related [python scripts](https://github.com/JayCuthrell/buttondown-python-scripts) to handle manual migration and a mistake I made with automation while testing.
@@ -27,11 +28,13 @@ Last week I toook a glorious vacation, but NexusTek kept rockin’ without me!
 
 ## This week
 
-🪫 ➡️ 🔋 I’m recharged from vacation and looking forward to getting back into the groove again.<hr/>
+🪫 ➡️ 🔋 I’m recharged from vacation and looking forward to getting back into the groove again.
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ## 📈 Markets Monday for 2025-06-23
 
@@ -100,11 +103,13 @@ I select a Friday news dump selection that reaches a peak level of trope, clich�
 
 [https://www.techmeme.com/250627/p11#a250627p11](https://www.techmeme.com/250627/p11#a250627p11)
 
-So, while [Microsoft’s AI chips](https://www.techmeme.com/250627/p11#a250627p11) struggle, the past two weeks have seen positive coverage of [Google’s AI chips](https://www.techmeme.com/250627/p23#a250627p23) and [AWS’s AI chips](https://www.techmeme.com/250618/p12#a250618p12).<hr/>
+So, while [Microsoft’s AI chips](https://www.techmeme.com/250627/p11#a250627p11) struggle, the past two weeks have seen positive coverage of [Google’s AI chips](https://www.techmeme.com/250627/p23#a250627p23) and [AWS’s AI chips](https://www.techmeme.com/250618/p12#a250618p12).
+
+---
 
 # #OpenToWork Weekly
 
-<hr/>
+---
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 

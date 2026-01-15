@@ -7,6 +7,7 @@ permalink: /archive/fudge-sunday-everything-counts-in-ops-amounts/
 title: Fudge Sunday - Everything Counts in Ops Amounts
 ---
 
+
 This week we take a look at portmanteaus of Development and Operations (DevOps) making inroads toward operationalizing Finance, Data Management, Machine Learning, Communications, and more
 
 Depeche Mode - Everything Counts (Official Video)
@@ -100,7 +101,7 @@ hey Twitter people!
   
 What are some of your favourite documentation websites? And why do you like them? (features? Design?)  
   
-Looking to beef up the planned todos for <https://t.co/wEjdkI7xEp> 🔥  
+Looking to beef up the planned todos for [https://t.co/wEjdkI7xEp](https://t.co/wEjdkI7xEp) 🔥  
   
 (RT for reach 🙏)
 
@@ -120,7 +121,7 @@ What I like about them is that they offer functional code samples and demos on h
 
 [@TwilioDevs](https://twitter.com/TwilioDevs/status/1486878444885577732)
 
-as an unofficial official Twilio Docs Team stan account, the specifics bring such joy 🥺😭 <https://t.co/2r4NZE7Oh5>
+as an unofficial official Twilio Docs Team stan account, the specifics bring such joy 🥺😭 [https://t.co/2r4NZE7Oh5](https://t.co/2r4NZE7Oh5)
 
  [8:47 PM - 27 Jan 2022](https://twitter.com/TwilioDevs/status/1486878444885577732)
 

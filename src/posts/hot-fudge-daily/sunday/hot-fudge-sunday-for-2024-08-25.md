@@ -9,15 +9,17 @@ date: 2024-08-25 13:30:00+00:00
 
 
 
+
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
-<hr/>
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ### 📈 Markets Monday for 2024-08-19
 

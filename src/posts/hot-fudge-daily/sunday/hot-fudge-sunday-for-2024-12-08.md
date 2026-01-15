@@ -8,10 +8,13 @@ date: 2024-12-08 16:30:00+00:00
 
 
 
+
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+---
 
 # Hot Fudge Daily Digest
 
@@ -23,7 +26,9 @@ date: 2024-12-08 16:30:00+00:00
 
 > Thanks in advance for clicking a survey link!
 
-[https://www.linkedin.com/posts/jaycuthrell_gartner-gartnerit-iocs-activity-7271179662121123840-3PMs?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_gartner-gartnerit-iocs-activity-7271179662121123840-3PMs?utm_source=share&utm_medium=member_desktop)<hr/>
+[https://www.linkedin.com/posts/jaycuthrell_gartner-gartnerit-iocs-activity-7271179662121123840-3PMs?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_gartner-gartnerit-iocs-activity-7271179662121123840-3PMs?utm_source=share&utm_medium=member_desktop)
+
+---
 
 ### 📈 Markets Monday for 2024-12-02
 

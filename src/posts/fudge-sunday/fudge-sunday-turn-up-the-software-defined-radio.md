@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-turn-up-the-software-defined-radio/
 title: Fudge Sunday - Turn Up the (Software Defined) Radio
 ---
 
+
 Happy New Year! This week we take a look at the widening world of Software Defined Radios (SDRs) and edge computing solutions.
 
  **Getting Informed**
@@ -29,7 +30,7 @@ SDRs are not new. However, getting another chunk of radio spectrum that *anyone*
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1475991365666410498)
 
-This is excellent news. US citizens will enjoy the fruits of this ruling concurrent with the growing ubiquity of democratized access to signal processing via Software Defined Radios (SDRs) and edge computing solutions.🤖📻☁️📡📶 <https://t.co/rEbrrCIs99>
+This is excellent news. US citizens will enjoy the fruits of this ruling concurrent with the growing ubiquity of democratized access to signal processing via Software Defined Radios (SDRs) and edge computing solutions.🤖📻☁️📡📶 [https://t.co/rEbrrCIs99](https://t.co/rEbrrCIs99)
 
  [7:45 PM - 28 Dec 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1475991365666410498)
 

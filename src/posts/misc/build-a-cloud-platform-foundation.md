@@ -5,6 +5,7 @@ permalink: /archive/build-a-cloud-platform-foundation/
 title: Build a Cloud Platform Foundation
 ---
 
+
 Music: [Spandau Ballet - Foundation (1983)](https://www.youtube.com/watch?v=XbdHH-MbNrI)
 
 Getting Informed
@@ -31,7 +32,6 @@ First, you may recall developer experience, or DexEx/DevX, from past posts back 
 
 While you’ve probably heard of DevOps, the term *“platform engineering”* might not be as familiar. For context, one definition of *“platform engineering”* comes from a relatively new[1](#footnote-1) website of the same name:
 
-
 > *Platform engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era.*[2](#footnote-2)
 > 
 > 
@@ -41,7 +41,6 @@ Some would argue that, culturally, DevOps has less appeal in a truly developer e
 Others, like Gartner, might argue that hype cycles play out over time and “Platform Engineering” will plateau in 2-5 years.[4](#footnote-4) That said, it is important to consider that emerging technologies might represent a catalyst to the embrace and adoption or convergence of other emerging technologies.
 
 ![Gartner says so!](/assets/images/screenshots/2024-07-08-18-37-28.png)
-
 
 Plans were laid, no compromise was made 🎶
 -----------------------------------------
@@ -68,7 +67,7 @@ Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Read: <https://web.archive.org/web/20220117154511/https://platformengineering.org/>
+[1](#footnote-anchor-1)Read: [https://web.archive.org/web/20220117154511/https://platformengineering.org/](https://web.archive.org/web/20220117154511/https://platformengineering.org/)
 
 [2](#footnote-anchor-2)Read: [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering)
 

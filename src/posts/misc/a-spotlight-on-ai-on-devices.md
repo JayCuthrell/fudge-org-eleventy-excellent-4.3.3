@@ -4,6 +4,7 @@ description: A look at A.I. running on devices nearest the data
 date: 2023-11-05
 ---
 
+
 # Origins
 
 This week we take a look at A.I. running on devices nearest the data. Fudge Sunday inspiration for this week comes from a recent comment at [M.G. Siegler's 500ish.com](https://500ish.com/apples-literal-scary-fast-event-fc04d39cfec6):
@@ -80,7 +81,7 @@ Through the wonders of the Fediverse, [Matthew Broberg pinged me on Mastodon](ht
 
 > Attached: 1 image  @<jay@cuthrell.com>   I always check to see if previous maps survive translation to new interface... works for this one 😀"
 
-Source: <https://mastodon.social/@tristanls/111359626043341826>
+Source: [https://mastodon.social/@tristanls/111359626043341826](https://mastodon.social/@tristanls/111359626043341826)
 
 As it turns out, if you want to create your maps you can now [join the waitlist](https://mapkeep.com/.join-the-waitlist)! 🗺️🤓
 
@@ -95,3 +96,4 @@ I received  clever alternative expansions of the L.L.M. acronym in response to l
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
+</jay@cuthrell.com>

@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-ramble-on/
 title: Fudge Sunday - Ramble On
 ---
 
+
 This week is a quick look a back at the “great resignation”.
 
 *Note: After a solid year using Revue for this newsletter, new formats will arrive in the coming weeks (and months) from a new provider after we migrate everything over.*
@@ -91,7 +92,7 @@ Management consulting 2nd highest attrition
   
 @[BCG](https://twitter.com/BCG) @[McKinsey](https://twitter.com/McKinsey) @[BainAlerts](https://twitter.com/BainAlerts) @[BoozAllen](https://twitter.com/BoozAllen)   
   
-<https://t.co/buSJS7Qxd9> <https://t.co/49Uabealyd>
+[https://t.co/buSJS7Qxd9](https://t.co/buSJS7Qxd9) [https://t.co/49Uabealyd](https://t.co/49Uabealyd)
 
 [12:18 PM - 11 Jan 2022](https://twitter.com/CultureXInsight/status/1480952251711688706)
 

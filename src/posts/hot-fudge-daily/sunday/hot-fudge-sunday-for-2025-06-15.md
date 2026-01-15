@@ -9,6 +9,7 @@ date: 2025-06-15 13:55:44+00:00
 
 
 
+
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 {{ subscribe_form }}
@@ -32,11 +33,13 @@ NexusTek hosted [an exclusive 🎟️🛥️🌃 event in NYC on on Thursday](ht
 
 I’m going to experiment with [a new meeting maker landing page](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell) — just click if you want to catch up soon!
 
-[https://info.nexustek.com/request-a-meeting-with-jay-cuthrell](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)<hr/>
+[https://info.nexustek.com/request-a-meeting-with-jay-cuthrell](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ## 📈 Markets Monday for 2025-06-09
 
@@ -104,11 +107,13 @@ Then there is a trope, cliché, or bromide about slow news days and the quietly 
 
 [https://www.techmeme.com/250613/p12#a250613p12](https://www.techmeme.com/250613/p12#a250613p12)
 
-[https://www.techmeme.com/250614/p1#a250614p1](https://www.techmeme.com/250614/p1#a250614p1)<hr/>
+[https://www.techmeme.com/250614/p1#a250614p1](https://www.techmeme.com/250614/p1#a250614p1)
+
+---
 
 # #OpenToWork Weekly
 
-<hr/>
+---
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 

@@ -9,16 +9,19 @@ date: 2024-11-17 16:20:00+00:00
 
 
 
+
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+---
 
 # Hot Fudge Daily Digest
 
 > I’ve been traveling for ~3 weeks, working with clients, refining my everyday carry co-working setup, and will have some more news to share in my next update.
 
-<hr/>
+---
 
 ### 📈 Markets Monday for 2024-11-11
 

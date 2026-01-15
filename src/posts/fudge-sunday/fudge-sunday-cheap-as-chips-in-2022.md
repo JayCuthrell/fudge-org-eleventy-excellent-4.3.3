@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-cheap-as-chips-in-2022/
 title: Fudge Sunday - Cheap as Chips in 2022
 ---
 
+
 This week we are looking ahead to Cheap as Chips in 2022!
 
  **Getting Informed**
@@ -33,7 +34,7 @@ Now: Pandemic.
   
 Soon: A "cheap as chips" future.📉  
   
-Images via @[BlocksandFiles](https://twitter.com/BlocksandFiles) @[Wikibon](https://twitter.com/Wikibon) @[backblaze](https://twitter.com/backblaze) <https://t.co/oL636IaPg1> <https://t.co/W3mmVNRya2>
+Images via @[BlocksandFiles](https://twitter.com/BlocksandFiles) @[Wikibon](https://twitter.com/Wikibon) @[backblaze](https://twitter.com/backblaze) [https://t.co/oL636IaPg1](https://t.co/oL636IaPg1) [https://t.co/W3mmVNRya2](https://t.co/W3mmVNRya2)
 
  [9:49 PM - 19 Dec 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1472761084113215498)
 

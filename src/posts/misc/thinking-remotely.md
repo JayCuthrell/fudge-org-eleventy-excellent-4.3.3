@@ -5,6 +5,7 @@ permalink: /archive/thinking-remotely/
 title: Thinking Remotely
 ---
 
+
 I’ve had a chance to think more about the past few months that for many might seem as though it has lasted for years not just months. This post is about thinking remotely.
 
 First, I want to be clear that I’m incredibly *fortunate* and *privileged* to be able to even had the spare time to think let alone write this post. See also: It’s easy for me to say this as a long time technology consultant that has spent the majority of my career in telecommunications as well as information and communications technology (ICT) being a “road warrior” operating far outside of traditional office settings.
@@ -89,16 +90,13 @@ There are several options available thanks to the advent of ChatOps or other cha
 
 * [Slack](https://slack.com) has promoted an *“IRC for muggles”* friendlier way to stay connected that appeals to everyone from Sales to Engineering.
 
-
 	+ There is a freemium version to get you and others hooked on the idea after attempting group chats with a finite scrolling history.
 	+ Next, the paid options offer a durable history of chat complete with GIF meme insertion and WYSIWYG inputs and all of the richer Enterprise grade features with tiered pricing to match.
 * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software) has all of the Enterprise features one would expect of a Microsoft product or service that appeals to the most common use cases or lowest common denominators.
 
-
 	+ For an Office 365 shop, this is probably the lowest cost option to explore.
 	+ Adoption and persistence of use will vary depending on the use of other Office 365 products and services — YMMV.
 * [Discord](https://discord.com) has a ways to go before there is a corporate or Enterprise ready feature set.
-
 
 	+ Being able to play music with voice channels is pretty much like the office radio of days gone by or even the overhead Spotify, Pandora, etc. playlist
 	+ Just keep in mind the primary audiences for the tool are gamers that needed gamer features.
@@ -123,7 +121,7 @@ While it might seem odd to seek out yet another video meeting these days, here i
 
 Using Lunchclub AI, I was able to have virtual lunch meetings with people from ViaSat, Exxon Mobil, Microsoft Azure, Sealed Air, KPMG, Jungle Disk, RelativityHQ, and WP Engine. The meetings took place over the course of a few weeks because eating 8 lunches back to back would be gluttonous. :wink:
 
-If this sounds interesting, I’ve got a referral link you can use: <https://lunchclub.com/?invite_code=jayc11>
+If this sounds interesting, I’ve got a referral link you can use: [https://lunchclub.com/?invite_code=jayc11](https://lunchclub.com/?invite_code=jayc11)
 
 Referrals earn what are called *Clubpoints*. Yes yes yes. It’s a *points system* or currency system of sorts.
 
@@ -131,7 +129,6 @@ So far, I think the current (growth gaming design pattern) points system for Lun
 
 * Earn points for various actions that grow the platform userbase
 * Spend points to
-
 
 	+ essentially decline the wider AI in Lunchclub AI for narrower model
 	
@@ -169,12 +166,12 @@ Fifth, create your own specific [Down Detector](https://downdetector.com) dashbo
 
 Examples:
 
-* <https://downdetector.com/status/zoom/>
-* <https://downdetector.com/status/office-365/>
-* <https://downdetector.com/status/dropbox/>
-* <https://downdetector.com/status/spectrum/>
-* <https://downdetector.com/status/att/>
-* <https://downdetector.com/status/verizon/>
+* [https://downdetector.com/status/zoom/](https://downdetector.com/status/zoom/)
+* [https://downdetector.com/status/office-365/](https://downdetector.com/status/office-365/)
+* [https://downdetector.com/status/dropbox/](https://downdetector.com/status/dropbox/)
+* [https://downdetector.com/status/spectrum/](https://downdetector.com/status/spectrum/)
+* [https://downdetector.com/status/att/](https://downdetector.com/status/att/)
+* [https://downdetector.com/status/verizon/](https://downdetector.com/status/verizon/)
 * and all the other services that are essential for your day to day work
 
 ### Virtual Resource Groups
@@ -218,8 +215,6 @@ In the earliest days on the Interwebs, it was not uncommon to set up a webcam th
 
 (https://gist.github.com/JayCuthrell/78dbeac6b7e5ea0f00e7f40c0a1a0f68) or similar streaming platforms.
 
-
-
 ### Out of Office automation
 
 You can be in the office and also be out of the office. Let me explain…
@@ -243,7 +238,6 @@ Further, understanding the time zones and global nature of your work should alwa
 For example, almost all modern email tools now have a form of delayed delivery to maximize the intended receipt time. In fact, you can now use delayed delivery in Office 365 and G Suite.
 
 ## Productivity and Balance
-
 
 Now let’s explore what it means to be productive and to achieve balance in a world that feels unbalanced.
 

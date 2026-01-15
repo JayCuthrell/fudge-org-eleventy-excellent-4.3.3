@@ -5,6 +5,7 @@ permalink: /archive/around-the-bend/
 title: Around the Bend
 ---
 
+
 The Asteroids Galaxy Tour - Around The Bend (2009)
 
 *Note: This issue marks a successful migration from Revue (Twitter) to Substack.*
@@ -46,9 +47,9 @@ jack @jackthis will likely be our most important contribution to the internet. p
 (RIP web3 VCs 🤫)
 
 [developer.tbd.website/projects/web5/](https://developer.tbd.website/projects/web5/) ![Twitter avatar for @TBD54566975](https://cuthrell.com/favicon.png)TBD @TBD54566975Web5: An extra decentralized web platform
-<https://t.co/LDW3MZ8tON>](<https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)[5:35> PM ∙ Jun 10, 2022
+[https://t.co/LDW3MZ8tON](https://t.co/LDW3MZ8tON)]([https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)[5:35](https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)[5:35) PM ∙ Jun 10, 2022
 
-11,400Likes2,406Retweets](<https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA>)
+11,400Likes2,406Retweets]([https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA](https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA))
 
 # I'll stay forever with you 🎶**
 

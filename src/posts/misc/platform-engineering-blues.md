@@ -5,6 +5,7 @@ permalink: /archive/platform-engineering-blues/
 title: Platform Engineering Blues
 ---
 
+
 *[Pavement - Platform Blues (1999)](https://www.youtube.com/watch?v=Lyu7yiLaaH0)*
 
 Getting Informed
@@ -73,10 +74,10 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [2](#footnote-anchor-2)Read: [https://platformengineering.org/](https://web.archive.org/web/20220117154511/https://platformengineering.org/)
 
-[3](#footnote-anchor-3)Read: <https://platformweekly.com>
+[3](#footnote-anchor-3)Read: [https://platformweekly.com](https://platformweekly.com)
 
-[4](#footnote-anchor-4)Read: <https://www.finops.org/about/>
+[4](#footnote-anchor-4)Read: [https://www.finops.org/about/](https://www.finops.org/about/)
 
-[5](#footnote-anchor-5)Read: <https://www.linkedin.com/posts/forrestbrazeal_devops-cloud-digitaltransformation-activity-6983083989125275648-GeVM>
+[5](#footnote-anchor-5)Read: [https://www.linkedin.com/posts/forrestbrazeal_devops-cloud-digitaltransformation-activity-6983083989125275648-GeVM](https://www.linkedin.com/posts/forrestbrazeal_devops-cloud-digitaltransformation-activity-6983083989125275648-GeVM)
 
 [6](#footnote-anchor-6)Read: [https://platformengineering.org/platform-tooling](https://web.archive.org/web/20220130044844/https://platformengineering.org/platform-tooling)

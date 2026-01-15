@@ -8,18 +8,23 @@ date: 2024-11-03 17:30:00+00:00
 
 
 
+
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+---
 
 ## About the changes ahead...
 
-This week marks my crossover beyond 50% automation levels for this [Hot Fudge Daily](https://fudge.org/). With the time I’ve reclaimed, I'll be slowly and patiently updating [Fudge Factor](https://fudge.org/) for new functionality using [11ty 3.0](https://www.11ty.dev/blog/eleventy-v3/) along with recent [enhancements](https://buttondown.com/changelog) from [Buttondown](https://docs.buttondown.com/api-changelog). 🤓<hr/>
+This week marks my crossover beyond 50% automation levels for this [Hot Fudge Daily](https://fudge.org/). With the time I’ve reclaimed, I'll be slowly and patiently updating [Fudge Factor](https://fudge.org/) for new functionality using [11ty 3.0](https://www.11ty.dev/blog/eleventy-v3/) along with recent [enhancements](https://buttondown.com/changelog) from [Buttondown](https://docs.buttondown.com/api-changelog). 🤓
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ### 📈 Markets Monday for 2024-10-28
 

@@ -5,17 +5,18 @@ description: "Recapping the week, navigating coffee meetups, and planning future
 date: 2024-07-12 19:51:46.572624+00:00
 ---
 
+
 # Final Thoughts Friday for 2024-07-12
 
 Looking back at the week with an eye to the future.
 
 The weekly coffee meetup series change of plans ran into tourist overflow and might come back in the Fall. Cru is right next door to The Vault and is also very busy for a Friday Coffee in July. Another lesson learned: If the event has coffee in the name… consider three alternative coffee houses.
 
-<https://www.facebook.com/p/Historic-Grounds-Coffee-Shop-100088196376743/>
+[https://www.facebook.com/p/Historic-Grounds-Coffee-Shop-100088196376743/](https://www.facebook.com/p/Historic-Grounds-Coffee-Shop-100088196376743/)
 
-<https://www.dancingbaristascafe.com>
+[https://www.dancingbaristascafe.com](https://www.dancingbaristascafe.com)
 
-<https://themugshotlounge.com>
+[https://themugshotlounge.com](https://themugshotlounge.com)
 
 I think my events related travel is locked in through next year.
 
@@ -28,9 +29,9 @@ I think my events related travel is locked in through next year.
 
 This week, I continued the [Hot Fudge Daily](https://fudge.org/) digest posted in [🌶️ Spicy Edition Sunday](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/) as “free” weekly content.
 
-<https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/>
+[https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/)
 
-<https://fudge.org/archive/run-fly-visualize/>
+[https://fudge.org/archive/run-fly-visualize/](https://fudge.org/archive/run-fly-visualize/)
 
 Next month, [fudge.org](http://fudge.org) should have Google Adsense enabled which I last experimented with over a decade ago. However, for users browsing with ad blockers there won’t be one of those annoying “please turn off your ad blocker” messages.
 
@@ -38,7 +39,7 @@ I am still getting prepared for traffic to [fudge.org](http://fudge.org) newslet
 
 My original 11ty version and opinionated starter for [fudge.org](http://fudge.org) will be going through major revisions. 11ty is close to reaching 3.x and I’veve been fine with earlier releases but want to get the advantages of what 3.x brings.
 
-<https://github.com/11ty/eleventy/milestone/40>
+[https://github.com/11ty/eleventy/milestone/40](https://github.com/11ty/eleventy/milestone/40)
 
 Mastodon continues to be an interesting experiment and I think that LinkedIn might be worth continuing to publish to but not as a newsletter platform. I believe that my LinkedIn Newsletter(s) experimentation will be to drive traffic elsewhere which is contrary to LinkedIn goals of being a walled garden. 🧗‍♀️
 

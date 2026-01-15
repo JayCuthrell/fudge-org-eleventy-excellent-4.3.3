@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-and-all-points-in-between/
 title: Fudge Sunday - And All Points In Between
 ---
 
+
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 2 of a 5 part series
@@ -43,7 +44,7 @@ Faction has cloud locations from Portland, Oregon to Chicago, Illinois to London
 
 psssst....   
 [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud")   
-pass it on.... <https://t.co/vYz8vFQDDU>
+pass it on.... [https://t.co/vYz8vFQDDU](https://t.co/vYz8vFQDDU)
 
 [10:03 PM - 7 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412955368444018692)
 
@@ -51,7 +52,7 @@ pass it on.... <https://t.co/vYz8vFQDDU>
 
 [@AP](https://twitter.com/AP/status/1412452378041892871)
 
-BREAKING: The Pentagon said it has canceled a cloud-computing contract with Microsoft that could eventually have been worth $10 billion and will instead pursue a deal with both Microsoft and Amazon. <https://t.co/Xik6ll0nYd>
+BREAKING: The Pentagon said it has canceled a cloud-computing contract with Microsoft that could eventually have been worth $10 billion and will instead pursue a deal with both Microsoft and Amazon. [https://t.co/Xik6ll0nYd](https://t.co/Xik6ll0nYd)
 
 [12:44 PM - 6 Jul 2021](https://twitter.com/AP/status/1412452378041892871)
 
@@ -63,7 +64,7 @@ Quote tweeting Techmeme meta summary is still one of my favorite pastimes
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1410274799423832065)
 
-Future findings will likely call out increasing year over year organizational consumption of innovations across two or more public hyperscale cloud service providers as simultaneous spot preemptive arbitrage or workflow focused best in class worker workload alignment. [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud") <https://t.co/ulYXLuzDgY>
+Future findings will likely call out increasing year over year organizational consumption of innovations across two or more public hyperscale cloud service providers as simultaneous spot preemptive arbitrage or workflow focused best in class worker workload alignment. [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud") [https://t.co/ulYXLuzDgY](https://t.co/ulYXLuzDgY)
 
  [2:51 PM - 3 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1410274799423832065)
 
@@ -73,8 +74,8 @@ Future findings will likely call out increasing year over year organizational co
 
 Gartner survey of public cloud services in 2020: AWS had $26.2B in revenue, up ~29% and a 41% share overall, followed by Azure with $12.7B in revenue, up ~60% (@[jgreigj](https://twitter.com/jgreigj) / ZDNet)  
   
-<https://t.co/iVKMRejh8K>  
-<https://t.co/ofRJsXCRmJ>
+[https://t.co/iVKMRejh8K](https://t.co/iVKMRejh8K)  
+[https://t.co/ofRJsXCRmJ](https://t.co/ofRJsXCRmJ)
 
  [8:16 AM - 30 Jun 2021](https://twitter.com/Techmeme/status/1410210561430724613)
 
@@ -86,7 +87,7 @@ Now, imagine a timeline of getting open grid or edge telemetry to enrich these d
 
 Back in 2015, we might have debated how spatial and temporal data markets could evolve with drone captured data companies, satellite captured data companies, and emerging ML/AI companies.  
   
-Now it's likely the market will reward accretive combinations via M&A for all of the above. <https://t.co/LsGfbi9oMU>
+Now it's likely the market will reward accretive combinations via M&A for all of the above. [https://t.co/LsGfbi9oMU](https://t.co/LsGfbi9oMU)
 
  [9:14 PM - 7 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412943255365378054)
 
@@ -96,8 +97,8 @@ Now it's likely the market will reward accretive combinations via M&A for all of
 
 Planet Labs, which provides satellite imagery data analytics to 600+ customers, plans to go public via a SPAC merger at a post-deal equity value of $2.8B (@[thesheetztweetz](https://twitter.com/thesheetztweetz) / CNBC)  
   
-<https://t.co/DQ3MTM3ZiC>  
-<https://t.co/iZjPlqtPkz>
+[https://t.co/DQ3MTM3ZiC](https://t.co/DQ3MTM3ZiC)  
+[https://t.co/iZjPlqtPkz](https://t.co/iZjPlqtPkz)
 
  [8:36 PM - 7 Jul 2021](https://twitter.com/Techmeme/status/1412933527679553538)
 
@@ -115,7 +116,7 @@ GlobalFoundries will invest ~$2.5B in New York and Vermont... this year.
   
 @[USGov](https://twitter.com/USGov)? $52B?  
   
-That's pretty... wait for it... FABulous.🤓 <https://t.co/GZ8DH3pCGu>
+That's pretty... wait for it... FABulous.🤓 [https://t.co/GZ8DH3pCGu](https://t.co/GZ8DH3pCGu)
 
  [9:59 PM - 7 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412954457579704320)
 
@@ -125,8 +126,8 @@ That's pretty... wait for it... FABulous.🤓 <https://t.co/GZ8DH3pCGu>
 
 Inside a GlobalFoundries chipmaking plant in upstate NY, filled with $10B worth of machinery, detailing the three-month, 700-step chip manufacturing process (@[jeannewhalen](https://twitter.com/jeannewhalen) / Washington Post)  
   
-<https://t.co/KNhYwk6APh>  
-<https://t.co/icfUh5wwMb>
+[https://t.co/KNhYwk6APh](https://t.co/KNhYwk6APh)  
+[https://t.co/icfUh5wwMb](https://t.co/icfUh5wwMb)
 
  [2:46 PM - 7 Jul 2021](https://twitter.com/Techmeme/status/1412845597380407297)
 
@@ -136,7 +137,7 @@ Along the way, the companies associated with the future might look different tha
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413324739536474112)
 
-This is what thinking beyond a headphone jack looks like. <https://t.co/1gYQRg6qH1> <https://t.co/MJMiAx5kmZ>
+This is what thinking beyond a headphone jack looks like. [https://t.co/1gYQRg6qH1](https://t.co/1gYQRg6qH1) [https://t.co/MJMiAx5kmZ](https://t.co/MJMiAx5kmZ)
 
 [10:30 PM - 8 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413324739536474112)
 
@@ -148,7 +149,7 @@ Where we find ourselves in a future data artisan economy (that is always on 24/7
 
 Anyone who has spent time studying new media firms raised on modern portfolio theory knows that much of the real action takes place in alpha generating opinion.  
 🤔  
-If you remain a talking head in a Zoom room, best of luck to office REITs seeking market cap gains from puff pieces. <https://t.co/YJdTnPGtXJ>
+If you remain a talking head in a Zoom room, best of luck to office REITs seeking market cap gains from puff pieces. [https://t.co/YJdTnPGtXJ](https://t.co/YJdTnPGtXJ)
 
  [9:22 PM - 9 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413670026410930181)
 
@@ -158,7 +159,7 @@ If you remain a talking head in a Zoom room, best of luck to office REITs seekin
 
 Anyone who has spent time in a satellite office knows that much of the real action takes place in HQ.   
   
-If you remain a talking head in a Zoom room while others are showing up in person, best of luck earning that next promotion or pay rise <https://t.co/FufFTnAa5o> <https://t.co/aIFDlEu1Mw>
+If you remain a talking head in a Zoom room while others are showing up in person, best of luck earning that next promotion or pay rise [https://t.co/FufFTnAa5o](https://t.co/FufFTnAa5o) [https://t.co/aIFDlEu1Mw](https://t.co/aIFDlEu1Mw)
 
 [12:55 PM - 8 Jul 2021](https://twitter.com/bopinion/status/1413179829290209284)
 
@@ -168,6 +169,6 @@ So as social becomes just media and media tries to become more social, it will b
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412225048522461185)
 
-LinkedIn Creator Mode enabled... <https://t.co/aJRBkwRcVD>
+LinkedIn Creator Mode enabled... [https://t.co/aJRBkwRcVD](https://t.co/aJRBkwRcVD)
 
  [9:41 PM - 5 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412225048522461185)

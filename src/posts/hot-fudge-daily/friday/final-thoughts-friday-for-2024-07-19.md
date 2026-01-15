@@ -5,6 +5,7 @@ description: "A busy week ahead with event commitments and website updates."
 date: 2024-07-20 02:21:03.481960+00:00
 ---
 
+
 # ✅ Final Thoughts Friday for 2024-07-19
 
 Looking back at the week with an eye to the future.
@@ -21,9 +22,9 @@ I’ve committed to four events for the remainder of this year. I’ve also subm
 
 This week, I continued the [Hot Fudge Daily](https://fudge.org/) digest posted in [🌶️ Spicy Edition Sunday](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/) as “free” weekly content.
 
-<https://fudge.org/archive/spicy-edition-sunday-for-2024-07-14/>
+[https://fudge.org/archive/spicy-edition-sunday-for-2024-07-14/](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-14/)
 
-<https://fudge.org/archive/sxsw-2025-senior-moments/>
+[https://fudge.org/archive/sxsw-2025-senior-moments/](https://fudge.org/archive/sxsw-2025-senior-moments/)
 
 Next month, [fudge.org](http://fudge.org) Google Adsense goes live. Again, there will not be any annoying “please turn off your ad blocker” messages.
 
@@ -33,7 +34,7 @@ As [fudge.org](http://fudge.org) will be going through major revisions, this is 
 
 Mastodon updates last week enabled a slightly different route for default.
 
-<https://cuthrell.com/@jay/112777041378985114>
+[https://cuthrell.com/@jay/112777041378985114](https://cuthrell.com/@jay/112777041378985114)
 
 So simple.
 

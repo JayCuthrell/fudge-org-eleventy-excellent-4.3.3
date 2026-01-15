@@ -8,16 +8,19 @@ date: 2024-12-01 17:55:00+00:00
 
 
 
+
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+---
 
 # Hot Fudge Daily Digest
 
 > I took time over the holidays to upgrade [fudge.org](http://fudge.org) to [Eleventy Excellent 3.7.3](https://github.com/madrilene/eleventy-excellent)and will soon resume publishing [Fudge Factor](https://fudge.org/).
 
-<hr/>
+---
 
 ### 📈 Markets Monday for 2024-11-25
 

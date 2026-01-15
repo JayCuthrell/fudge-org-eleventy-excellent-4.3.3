@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-get-high-on-a-new-thing/
 title: Fudge Sunday - Get High On a New Thing
 ---
 
+
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 4 of a 5 part series
@@ -16,7 +17,6 @@ This issue is part 4 of a 5 part series
 5. **[Fudge Sunday - I Don’t Know Where I’ll Be Tomorrow](https://fudge.org/archive/fudge-sunday-i-dont-know-where-ill-be-tomorrow/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
  **Get high on a new thing**
-
 
 Hello again. Welcome to part 4 of 5 in this series. Let’s recap.
 
@@ -44,7 +44,7 @@ The early days of point to point connections or a point to multi point connectio
 
 [@monkeybrainsnet](https://twitter.com/monkeybrainsnet/status/1410357766451957760)
 
-New links going up in Oakland! <https://t.co/XZynps8wNB>
+New links going up in Oakland! [https://t.co/XZynps8wNB](https://t.co/XZynps8wNB)
 
  [6:01 PM - 30 Jun 2021](https://twitter.com/monkeybrainsnet/status/1410357766451957760)
 
@@ -52,7 +52,7 @@ New links going up in Oakland! <https://t.co/XZynps8wNB>
 
 [@PathFDLLC](https://twitter.com/PathFDLLC/status/1279043138066288643)
 
-PathFinder is pleased to support @[attochron](https://twitter.com/attochron) Attochron LLC with its Free Space Optic (FSO) full-duplex Gbps Ethernet Backhaul Link tests in Lexington, VA. [#freespaceoptics](https://twitter.com/search?q=%23freespaceoptics "#freespaceoptics") <https://t.co/K6lCUDm1yY>
+PathFinder is pleased to support @[attochron](https://twitter.com/attochron) Attochron LLC with its Free Space Optic (FSO) full-duplex Gbps Ethernet Backhaul Link tests in Lexington, VA. [#freespaceoptics](https://twitter.com/search?q=%23freespaceoptics "#freespaceoptics") [https://t.co/K6lCUDm1yY](https://t.co/K6lCUDm1yY)
 
  [9:23 AM - 3 Jul 2020](https://twitter.com/PathFDLLC/status/1279043138066288643)
 
@@ -68,7 +68,7 @@ Our past can provide cautionary tales. Of course, having diverse network paths o
 
 [@campuscodi](https://twitter.com/campuscodi/status/1418245632922370048)
 
-The internet is on fire again. This time courtesy of Akamai DNS: <https://t.co/BUusCvwNGb> <https://t.co/JiBvzSZXJk>
+The internet is on fire again. This time courtesy of Akamai DNS: [https://t.co/BUusCvwNGb](https://t.co/BUusCvwNGb) [https://t.co/JiBvzSZXJk](https://t.co/JiBvzSZXJk)
 
 [12:24 PM - 22 Jul 2021](https://twitter.com/campuscodi/status/1418245632922370048)
 
@@ -76,7 +76,7 @@ The internet is on fire again. This time courtesy of Akamai DNS: <https://t.co/B
 
 [@KroonenburgRyan](https://twitter.com/KroonenburgRyan/status/1418256476053786625)
 
-A lot of sys admins right now [#akamai](https://twitter.com/search?q=%23akamai "#akamai") [#dns](https://twitter.com/search?q=%23dns "#dns") <https://t.co/GAyxEewNql>
+A lot of sys admins right now [#akamai](https://twitter.com/search?q=%23akamai "#akamai") [#dns](https://twitter.com/search?q=%23dns "#dns") [https://t.co/GAyxEewNql](https://t.co/GAyxEewNql)
 
  [1:07 PM - 22 Jul 2021](https://twitter.com/KroonenburgRyan/status/1418256476053786625)
 
@@ -102,7 +102,7 @@ The past 10 years saw democratization of data science related verbs like extract
   
 The next 10 years will see new verbs\* become startup mission statements that further this democratization.  
   
-\* enrich, clean, validate, collate, ameliorate, deprecate, etc <https://t.co/2JdpuRyhbv>
+\* enrich, clean, validate, collate, ameliorate, deprecate, etc [https://t.co/2JdpuRyhbv](https://t.co/2JdpuRyhbv)
 
  [2:52 PM - 3 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409181624214999042)
 
@@ -112,8 +112,8 @@ The next 10 years will see new verbs\* become startup mission statements that fu
 
 Rasgo, a GitHub-like repository which helps data scientists explore, clean, join, and transform data sets for machine learning models, raises $20M Series A (AlleyWatch)  
   
-<https://t.co/53tEIxBQPv>  
-<https://t.co/o5N13CkT6T>
+[https://t.co/53tEIxBQPv](https://t.co/53tEIxBQPv)  
+[https://t.co/o5N13CkT6T](https://t.co/o5N13CkT6T)
 
  [8:16 PM - 26 Jun 2021](https://twitter.com/Techmeme/status/1408942223375228928)
 
@@ -125,7 +125,7 @@ A preferred high ground game in metro network connectivity arbitrage is roof rig
   
 I would argue that new revenue (forgive me) angles can involve creative use of dormant commercial roof rights.🌆📡🛰️  
   
-What company could possibly afford all the top floors?🤔 <https://t.co/dGvqmFAvHo>
+What company could possibly afford all the top floors?🤔 [https://t.co/dGvqmFAvHo](https://t.co/dGvqmFAvHo)
 
  [6:24 PM - 14 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1415437140104732673)
 
@@ -135,8 +135,8 @@ What company could possibly afford all the top floors?🤔 <https://t.co/dGvqmFA
 
 In April, Amazon acquired over a dozen staff from Facebook to boost its own low earth orbit satellite internet efforts; Amazon paid Facebook to seal agreement (The Information)  
   
-<https://t.co/mlPqwlBQPQ>  
-<https://t.co/mYr741SSeR>
+[https://t.co/mlPqwlBQPQ](https://t.co/mlPqwlBQPQ)  
+[https://t.co/mYr741SSeR](https://t.co/mYr741SSeR)
 
  [5:11 PM - 13 Jul 2021](https://twitter.com/Techmeme/status/1415056194398343169)
 
@@ -144,7 +144,7 @@ In April, Amazon acquired over a dozen staff from Facebook to boost its own low 
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418944928097488902)
 
-Cloud egress fees are the 2020s version of long distance charges from the 1990s. <https://t.co/0dN54ON65X>
+Cloud egress fees are the 2020s version of long distance charges from the 1990s. [https://t.co/0dN54ON65X](https://t.co/0dN54ON65X)
 
 [10:43 AM - 24 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418944928097488902)
 
@@ -152,7 +152,7 @@ Cloud egress fees are the 2020s version of long distance charges from the 1990s.
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418945477341483015)
 
-There will be a precipitous drop in memory costs and the future of egregious egress fees for cloud hosting providers is going to shift from awkward to completely unjustifiable. <https://t.co/up1aKoC3qe>
+There will be a precipitous drop in memory costs and the future of egregious egress fees for cloud hosting providers is going to shift from awkward to completely unjustifiable. [https://t.co/up1aKoC3qe](https://t.co/up1aKoC3qe)
 
 [10:45 AM - 24 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418945477341483015)
 
@@ -162,7 +162,7 @@ There will be a precipitous drop in memory costs and the future of egregious egr
 
 Cloudflare accuses AWS of massive markups on egress bandwidth fees per region, estimating North American and European customers pay 80x the operational costs (The Cloudflare Blog)  
   
-<https://t.co/UICUo9wlJe>  
-<https://t.co/Pz4J1G25U2>
+[https://t.co/UICUo9wlJe](https://t.co/UICUo9wlJe)  
+[https://t.co/Pz4J1G25U2](https://t.co/Pz4J1G25U2)
 
  [9:51 PM - 23 Jul 2021](https://twitter.com/Techmeme/status/1418750564423241729)

@@ -4,15 +4,14 @@ description: "A look at what's on my mind as a map with A.I."
 date: 2024-05-19
 ---
 
+
 This week we take a look at what's on my mind as a map.
 
 ## Housekeeping
 
-🗓️ This week, I am headed to [Dell Technologies World](https://www.dell.com/en-us/dt/events/delltechnologiesworld/2024/index.htm) in Las Vegas. If you'll be in Las Vegas too, let's meet at [Elevate Technology User Group](https://bit.ly/etug-at-dtw-2024). Register now: <https: bit.ly="" etug-at-dtw-2024=""> 🎫 🎟️
-
+🗓️ This week, I am headed to [Dell Technologies World](https://www.dell.com/en-us/dt/events/delltechnologiesworld/2024/index.htm) in Las Vegas. If you'll be in Las Vegas too, let's meet at [Elevate Technology User Group](https://bit.ly/etug-at-dtw-2024). Register now: [https: bit.ly="" etug-at-dtw-2024=""](https: bit.ly="" etug-at-dtw-2024="") 🎫 🎟️
 
 > **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7197989421474865153](https://www.linkedin.com/embed/feed/update/urn:li:share:7197989421474865153) has been removed.
-
 
 ### Looking ahead
 
@@ -24,9 +23,7 @@ This week we take a look at what's on my mind as a map.
 
 🆕 I'm experimenting with [LinkedIn Company page posts for Cuthrell Consulting](https://www.linkedin.com/feed/update/urn:li:activity:7198009083172454401/). Yes, the SVG generation of the Open Graph image isn't quite perfect yet but I'll get there. 🤣
 
-
 > **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7198009082610429953](https://www.linkedin.com/embed/feed/update/urn:li:share:7198009082610429953) has been removed.
-
 
 🏦 🎙️ 🎧 Reminder: My appearance on [Fred Cadena](https://www.linkedin.com/in/fredcadena/)'s [Banking on Disruption](https://bankingondisruption.com) podcast will dive into SXSW 2024 findings, FinTech, and much more.
 
@@ -80,9 +77,7 @@ If you consider [a recent post from Insight Partners](https://www.linkedin.com/p
 
 The premise and promise of A.I. agents are to harness the technologies of personal knowledge graphs, vector databases, synthetic data (i.e. noise, GANs), and GenAI to provide humans (and other A.I. agents) with API-accessible applications that provide high-utility value. In effect, these are the agents of human-machine partnerships.
 
-
 > **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7194371575901474816](https://www.linkedin.com/embed/feed/update/urn:li:share:7194371575901474816) has been removed.
-
 
 ### Feeding the Machine
 
@@ -96,9 +91,7 @@ https://www.youtube.com/watch?v=g-pG79LOtMw
 
 Lastly, logo dramas aside, I'm still an [A.I. technology optimist](https://trends.google.com/trends/explore?date=today%205-y&q=AI%20overlord,AI%20helper&hl=en). That said, I'm also making sure I [promote and donate to folks who are keeping watch and making impact on the future of A.I.](https://www.ajl.org) like [Dr. Joy Buolamwini](https://www.linkedin.com/in/buolamwini/) and [The Algorithmic Justice League](https://www.ajl.org).
 
-
 > **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7197699851294253056](https://www.linkedin.com/embed/feed/update/urn:li:share:7197699851294253056) has been removed.
-
 
 What's the next big thing going to be in personal knowledge graphs, vector databases, and benevolent high-utility value A.I. agents?
 
@@ -113,4 +106,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/), I'm going to be scanning the picture side of the postcards I've received and link to a Fudge Sunday Reader Postcards gallery (with suitable redactions and filtering for greater anonymity) as a newsletter trailer of sorts. Stay tuned! ✉️
 
 p.p.s. Thank you to [Jacob Molz](https://www.linkedin.com/in/jacobmolz/) for noticing my missing paragraphs in the newsletter. ✅
-</https:>

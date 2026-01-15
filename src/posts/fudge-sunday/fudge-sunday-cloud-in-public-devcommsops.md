@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-cloud-in-public-devcommsops/
 title: 'Fudge Sunday - Cloud in Public: DevCommsOps'
 ---
 
+
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑
@@ -35,7 +36,7 @@ Luckily, there’s always a cat meme ready to help us better understand.
 
 [@CapitaineFlam4](https://twitter.com/CapitaineFlam4/status/1415008668899332096)
 
-Image rare d'une reproduction de la pyramide de Chatops <https://t.co/KLEYyqyTkL>
+Image rare d'une reproduction de la pyramide de Chatops [https://t.co/KLEYyqyTkL](https://t.co/KLEYyqyTkL)
 
  [2:02 PM - 13 Jul 2021](https://twitter.com/CapitaineFlam4/status/1415008668899332096)
 

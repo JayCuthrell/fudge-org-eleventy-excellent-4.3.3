@@ -6,6 +6,7 @@ date: 2022-03-07 02:40:03+00:00
 
 
 
+
 This week we take a look at Max Headroom, Open-Source INTelligence (OSINT), and today’s Tom Sawyer.
 
 Sting - Russians (1985)
@@ -70,7 +71,7 @@ Now, if you had told me that the following year I would witness a billionaire no
 
 [@FedorovMykhailo](https://twitter.com/FedorovMykhailo/status/1498392515262746630)
 
-Starlink — here. Thanks, @[elonmusk](https://twitter.com/elonmusk) <https://t.co/dZbaYqWYCf>
+Starlink — here. Thanks, @[elonmusk](https://twitter.com/elonmusk) [https://t.co/dZbaYqWYCf](https://t.co/dZbaYqWYCf)
 
  [3:19 PM - 28 Feb 2022](https://twitter.com/FedorovMykhailo/status/1498392515262746630)
 
@@ -90,7 +91,7 @@ There are also recent examples of how Imagery Intelligence (IMINT), Financial in
 
 [@elonmuskjet](https://twitter.com/elonmuskjet/status/1498658939356987397)
 
-Landed in Van Nuys, California, US. Apx. flt. time 2 Hours : 44 Mins. <https://t.co/nqRrD34TGI>
+Landed in Van Nuys, California, US. Apx. flt. time 2 Hours : 44 Mins. [https://t.co/nqRrD34TGI](https://t.co/nqRrD34TGI)
 
  [8:58 AM - 1 Mar 2022](https://twitter.com/elonmuskjet/status/1498658939356987397)
 
@@ -98,7 +99,7 @@ Landed in Van Nuys, California, US. Apx. flt. time 2 Hours : 44 Mins. <https://t
 
 [@RUOligarchJets](https://twitter.com/RUOligarchJets/status/1499088188463202306)
 
-The latest list is below. Trying to stay the most accurate, red removed green added. <https://t.co/WjZV2J9Tib>
+The latest list is below. Trying to stay the most accurate, red removed green added. [https://t.co/WjZV2J9Tib](https://t.co/WjZV2J9Tib)
 
  [1:24 PM - 2 Mar 2022](https://twitter.com/RUOligarchJets/status/1499088188463202306)
 
@@ -106,7 +107,7 @@ The latest list is below. Trying to stay the most accurate, red removed green ad
 
 [@RussiaYachts](https://twitter.com/RussiaYachts/status/1500278686674739207)
 
-Keeping watch on these Russian's Yacht's <https://t.co/BaZQeNyyKB>
+Keeping watch on these Russian's Yacht's [https://t.co/BaZQeNyyKB](https://t.co/BaZQeNyyKB)
 
  [8:14 PM - 5 Mar 2022](https://twitter.com/RussiaYachts/status/1500278686674739207)
 

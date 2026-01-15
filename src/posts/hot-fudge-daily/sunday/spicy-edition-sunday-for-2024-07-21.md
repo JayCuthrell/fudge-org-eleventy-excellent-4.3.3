@@ -9,6 +9,7 @@ date: 2024-07-21 13:37:10.225034+00:00
 
 
 
+
 # 🌶️  Spicy Edition Sunday for 2024-07-21
 
 Welcome to 🌶️ Spicy Edition Sunday!
@@ -33,11 +34,13 @@ This week, the digest is powered by [Buttondown API and python scripts](https://
 
 [https://github.com/JayCuthrell/buttondown-python-scripts](https://github.com/JayCuthrell/buttondown-python-scripts)
 
-{{ subscribe_form }}<hr/>
+{{ subscribe_form }}
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 # 📈 Markets Monday for 2024-07-15
 

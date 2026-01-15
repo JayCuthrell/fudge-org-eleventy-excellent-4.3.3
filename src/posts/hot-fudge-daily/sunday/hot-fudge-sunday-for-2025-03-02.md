@@ -9,9 +9,12 @@ date: 2025-03-02 17:04:38.259334+00:00
 
 
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
-{{ subscribe_form }}<hr/>
+{{ subscribe_form }}
+
+---
 
 ## Quick Recaps
 
@@ -193,11 +196,11 @@ I'm also pleased to add an Alumni 🎉 section this week for those that have tra
 > Experienced cybersecurity and technology strategist with a proven record of delivering innovative, tailored solutions by collaborating with C-suite executives and cross-functional teams across Sales, Product, Engineering, and Marketing. Adept at driving business growth and client success through strategic insights, technology leadership, and effective pre-sales engagement. A self-driven contributor with expertise in technology strategy, client advocacy, and sales enablement, recognized for enhancing company visibility through impactful presentations and industry event participation. Seeking a dynamic pre-sales role that leverages cross-functional collaboration to create transformative solutions while maintaining a balanced scope of responsibility and work-life integration.
 > Source: [Sam Aiello, Ph.D.](https://www.linkedin.com/in/samaiello/)
 
-<hr/>
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ## 📈 Markets Monday for 2025-02-24
 

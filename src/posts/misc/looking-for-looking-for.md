@@ -5,10 +5,10 @@ permalink: /archive/looking-for-looking-for/
 title: Looking For Looking For
 ---
 
+
 Happy New Year!
 
 Over the past few months I’ve been catching up with peers. Some are at their same companies, others were just starting new roles, and a few asked me a simple question as they are looking for something new in their career.
-
 
 > Do you know anyone that is hiring?
 > 
@@ -21,7 +21,6 @@ As a matter of fact, [I do](https://grnh.se/66f4d22d4us).
 (BTW – If you are reading this and you have a dream role in mind that’s [not listed here](https://grnh.se/66f4d22d4us)… please [let me know](https://jaycuthrell.com/contact/)!)
 
 That got me thinking about the question again – this time less selfishly.
-
 
 > *Do I know anyone else that is hiring?*
 > 
@@ -47,13 +46,11 @@ Perhaps finding the where, what, and who is hiring might be possible by using a 
 
 ## LinkedIn searches
 
-
 My first thought was to run through LinkedIn which is the social network for people that create work related content to find the “people I know that are hiring”. However, I was not successful in my quest.
 
 Apparently, there is no button or link to get this on LinkedIn or finding one is beyond my searching patience. This seemed really odd but since the Jobs part of LinkedIn is monetized, perhaps I was naive in thinking such a simple link might exist.
 
 ## The wisdom of social activation platforms
-
 
 My next thought was the search for posts from my 1st degree network for phrases like “we are hiring” or “we are looking for a” but realized the approach was a fuzzy search at best. Then I noticed a pattern of automation.
 
@@ -72,25 +69,23 @@ Surely there are some smart folks that have already chased this topic? It turns 
 
 ### Dell Technologies Capital
 
-
 Currently, I’m working at [Faction](https://grnh.se/66f4d22d4us) which is a portfolio company of Dell Technologies Capital (DTC). The thinking would be that after 10 years with Dell Technologies through concurrent nested mergers I might know someone that knows someone.
 
 As you might expect, the DTC folks are pretty smart.
 
 (https://www.getro.com/getro-jobs/)
 
-<https://careers.delltechnologiescapital.com>
+[https://careers.delltechnologiescapital.com](https://careers.delltechnologiescapital.com)
 
 But what about other VC firms?
 
 ### a16z
 
-
 The folks at a16z are smart too.
 
 (https://product.consider.com/ctc/talent-circle)
 
-<https://portfoliojobs.a16z.com/jobs>
+[https://portfoliojobs.a16z.com/jobs](https://portfoliojobs.a16z.com/jobs)
 
 And the VC search continues…
 
@@ -101,7 +96,6 @@ The folks at GV are smart but they do not appear to have invested in… well… 
 (https://www.gv.com/portfolio/) if they did.
 
 ### Growing this list…
-
 
 If you are reading this and you have suggestions or corrections… or if you have thoughts on this topic…
 

@@ -5,10 +5,10 @@ permalink: /archive/have-your-ai-call-my-ai/
 title: Have Your AI Call My AI
 ---
 
+
 For as long as I’ve been a professional worker, I’ve wondered why it is so hard to get a group of individuals to agree to times and durations for meetings. Then again, there is a case to be made for avoiding meetings if at all possible.
 
 # How’s Tuesday Afternoon?
-
 
 You might remember the first time someone exposed you to the concept of *getting things done* and all the power this simple phrase promised to deliver. You probably also remember when slap bracelets were a thing.
 
@@ -40,7 +40,7 @@ Of special note, I do think that the folks behind [x.ai](https://x.ai) are cleve
 
 The space is getting more crowded or shrinking depending on your perspective.
 
-Here’s a useful query to keep track of recent listicles <https://www.google.com/search?tbs=qdr%3Ay&q=calendly+x.ai+tools>
+Here’s a useful query to keep track of recent listicles [https://www.google.com/search?tbs=qdr%3Ay&q=calendly+x.ai+tools](https://www.google.com/search?tbs=qdr%3Ay&q=calendly+x.ai+tools)
 
 So, for now at least, I’m using a few alternatives while I await meeting scheduling nirvana
 
@@ -60,8 +60,6 @@ It’s easy to see why startups want to embody what an executive assistant can d
 If only there was AI for pricing models. Actually, that probably exists somewhere too. :wink:
 
 # Update for 14-April-2023
-
-
 
 And it would seem that [x.ai (aka Bizzabo in 2021)](https://web.archive.org/web/20230000000000\*/x.ai) has a potentially new lease on life... 
 

@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-dig-your-own-sql/
 title: Fudge Sunday - Dig Your Own SQL
 ---
 
+
 This week we take a look back a year of podcasts episodes from a16z relating to data science and references to artificial intelligence and machine learning. Specifically, we’ll focus on the episodes worth downloading to your podcasting app that are evergreen and worth more than a single listen alone.
 
  **Since the last issue: 20 minutes of me talking**
@@ -93,7 +94,7 @@ However, if you are interested in the topics covered in this issue of my newslet
 
 [@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1425923292414816260)
 
-Tip of the hat to those that opine on the timelines for eventual displacement (or at least partnering via augmentation) of the C Suite by sufficiently advanced AI. <https://t.co/WfKMzt5BEc>
+Tip of the hat to those that opine on the timelines for eventual displacement (or at least partnering via augmentation) of the C Suite by sufficiently advanced AI. [https://t.co/WfKMzt5BEc](https://t.co/WfKMzt5BEc)
 
  [4:52 PM - 12 Aug 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1425923292414816260)
 
@@ -103,7 +104,7 @@ Tip of the hat to those that opine on the timelines for eventual displacement (o
 
 Nvidia says part of its April keynote was led by a virtual replica of CEO Jensen Huang, created by scanning Huang and then training an AI to mimic his gestures (@[lorenzofb](https://twitter.com/lorenzofb) / VICE)  
   
-<https://t.co/sDdlGz6NZv>  
-<https://t.co/oNgeOzgzU6>
+[https://t.co/sDdlGz6NZv](https://t.co/sDdlGz6NZv)  
+[https://t.co/oNgeOzgzU6](https://t.co/oNgeOzgzU6)
 
  [4:30 PM - 12 Aug 2021](https://twitter.com/Techmeme/status/1425917707053006849)

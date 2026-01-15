@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-oh-what-a-tangled-web3-we-weave/
 title: Fudge Sunday - Oh What A Tangled Web3 We Weave
 ---
 
+
 This week is about Web3. The goal is to avoid taking a particular side or in any way represent investment advice about Web3.
 
 I once [opined on Twitter](https://www.techmeme.com/211102/p20?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a211102p20) regarding web1, web2, and web3 as follows in response to [Zoom considering advertising](https://www.techmeme.com/211102/p20?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a211102p20) back on November 2, 2021:
@@ -106,7 +107,7 @@ Then broadband happened.
   
 Then mobile happened.  
   
-Then this platform allowed us to learn about "silly" new things. <https://t.co/LRpixWR6Hy>
+Then this platform allowed us to learn about "silly" new things. [https://t.co/LRpixWR6Hy](https://t.co/LRpixWR6Hy)
 
  [4:29 PM - 28 Nov 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1465070361784074244)
 

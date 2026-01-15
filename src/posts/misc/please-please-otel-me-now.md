@@ -5,6 +5,7 @@ permalink: /archive/please-please-otel-me-now/
 title: Please Please OTel Me Now
 ---
 
+
 *[Duran Duran - Is There Something I Should Know? (1982)](https://www.youtube.com/watch?v=3M0hogZyRyU)*
 
 Getting Informed
@@ -36,7 +37,6 @@ Well, first, let’s recall recent posts regarding platform engineering and [tel
 
 Platform Engineers:
 
-
 > *Builds for Internal developer teams*
 > 
 > *Uses APM, observability, tracing. Cares a lot about instrumentation and OpenTelemetry.*
@@ -44,7 +44,6 @@ Platform Engineers:
 > 
 
 Site Reliability Engineers:
-
 
 > *Builds for customers*
 > 
@@ -63,13 +62,9 @@ Liz Fong-Jones (方禮真) @lizthegreyIn case you're curious what getting featur
 
 Same data side by side in @LightstepHQ and in @honeycombio, from the #OpenTelemetry collector receiving browser instrumentation and teeing it to both sinks (thanks @austinlparker!) ![honeycomb graph showing latency heatmap and number of requests](https://cuthrell.com/favicon.png)![lightstep latency histogram](https://cuthrell.com/favicon.png)![lightstep query builder showing rate of requests received for trailing hours to opentelemetry.io](https://cuthrell.com/favicon.png)](https://twitter.com/lizthegrey/status/1453525797243797510?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[12:55 AM ∙ Oct 28, 2021
 
-
-
 15Likes2Retweets](https://twitter.com/lizthegrey/status/1453525797243797510?s=20&t=40rloke9wxFY3fbZZU2ZCQ)Charity Majors @mipsytipsyFor those of you who have been living under a rock, OTel is an open standard for generating, collecting, and exporting telemetry in a vendor agnostic way.
 
 Before OTel, every vendor had its own libraries, and switching (or trying out) new vendors was a \*bitch\*.](https://twitter.com/mipsytipsy/status/1494857554714718209?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[2:13 AM ∙ Feb 19, 2022
-
-
 
 97Likes7Retweets](https://twitter.com/mipsytipsy/status/1494857554714718209?s=20&t=40rloke9wxFY3fbZZU2ZCQ)Gordon Radlein @maascampToday was my last day at Meta.
 
@@ -77,11 +72,7 @@ On Monday I'll start my new role as an Eng Director @datadoghq working on APM an
 
 Excited to try my hand on the product side of the business.](https://twitter.com/maascamp/status/1507473053814439936?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[9:42 PM ∙ Mar 25, 2022
 
-
-
 624Likes16Retweets](https://twitter.com/maascamp/status/1507473053814439936?s=20&t=40rloke9wxFY3fbZZU2ZCQ)(https://twitter.com/alolita/status/1486519136528179203?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[1:59 AM ∙ Jan 27, 2022
-
-
 
 124Likes6Retweets](https://twitter.com/alolita/status/1486519136528179203?s=20&t=40rloke9wxFY3fbZZU2ZCQ)So, how will Otel factor into the next industrial revolution?
 
@@ -92,18 +83,18 @@ Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Read: <https://web.archive.org/web/20160115075431/http://opentracing.io/>
+[1](#footnote-anchor-1)Read: [https://web.archive.org/web/20160115075431/http://opentracing.io/](https://web.archive.org/web/20160115075431/http://opentracing.io/)
 
-[2](#footnote-anchor-2)Read: <https://web.archive.org/web/20180105085814/http://opencensus.io/>
+[2](#footnote-anchor-2)Read: [https://web.archive.org/web/20180105085814/http://opencensus.io/](https://web.archive.org/web/20180105085814/http://opencensus.io/)
 
-[3](#footnote-anchor-3)Read: <https://www.statista.com/statistics/486354/application-performance-management-software-vendor-market-share/>
+[3](#footnote-anchor-3)Read: [https://www.statista.com/statistics/486354/application-performance-management-software-vendor-market-share/](https://www.statista.com/statistics/486354/application-performance-management-software-vendor-market-share/)
 
-[4](#footnote-anchor-4)Read: <https://www.idc.com/getdoc.jsp?containerId=US48353021>
+[4](#footnote-anchor-4)Read: [https://www.idc.com/getdoc.jsp?containerId=US48353021](https://www.idc.com/getdoc.jsp?containerId=US48353021)
 
-[5](#footnote-anchor-5)Read: <https://www.cncf.io/blog/2019/05/21/a-brief-history-of-opentelemetry-so-far/>
+[5](#footnote-anchor-5)Read: [https://www.cncf.io/blog/2019/05/21/a-brief-history-of-opentelemetry-so-far/](https://www.cncf.io/blog/2019/05/21/a-brief-history-of-opentelemetry-so-far/)
 
-[6](#footnote-anchor-6)Read: <https://opentelemetry.io>
+[6](#footnote-anchor-6)Read: [https://opentelemetry.io](https://opentelemetry.io)
 
-[7](#footnote-anchor-7)Read: <https://www.cncf.io/blog/2022/01/31/cncf-archives-the-opentracing-project/>
+[7](#footnote-anchor-7)Read: [https://www.cncf.io/blog/2022/01/31/cncf-archives-the-opentracing-project/](https://www.cncf.io/blog/2022/01/31/cncf-archives-the-opentracing-project/)
 
-[8](#footnote-anchor-8)Read: <https://www.honeycomb.io/blog/future-ops-platform-engineering>
+[8](#footnote-anchor-8)Read: [https://www.honeycomb.io/blog/future-ops-platform-engineering](https://www.honeycomb.io/blog/future-ops-platform-engineering)

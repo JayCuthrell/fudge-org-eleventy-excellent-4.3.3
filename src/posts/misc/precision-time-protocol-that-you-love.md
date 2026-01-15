@@ -4,6 +4,7 @@ description: ''
 date: 2022-10-02 22:44:33.004000+00:00
 ---
 
+
 *[Tom Waits - "Time" (1985)](https://www.youtube.com/watch?v=VhWTDvPLGTE)*
 
 Getting Informed
@@ -77,23 +78,22 @@ Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Watch: <https://youtube.com/clip/UgkxlbaWw8R7fJBfxhZFepzTKRqOZqCxzmXq>
+[1](#footnote-anchor-1)Watch: [https://youtube.com/clip/UgkxlbaWw8R7fJBfxhZFepzTKRqOZqCxzmXq](https://youtube.com/clip/UgkxlbaWw8R7fJBfxhZFepzTKRqOZqCxzmXq)
 
 [2](#footnote-anchor-2)Watch: [Nice Grouping](https://www.youtube.com/watch?v=8BF95hdIuOg)
 
-[3](#footnote-anchor-3)Read: <https://en.wikipedia.org/wiki/Precision_Time_Protocol>
+[3](#footnote-anchor-3)Read: [https://en.wikipedia.org/wiki/Precision_Time_Protocol](https://en.wikipedia.org/wiki/Precision_Time_Protocol)
 
 [4](#footnote-anchor-4)Read: [A Guide to the Silicom Time Sync (STS) Operator on OpenShift](https://cloud.redhat.com/blog/a-guide-to-the-silicom-time-sync-sts-operator-on-openshift)
 
-[5](#footnote-anchor-5)Read: <https://www.opencompute.org/projects/time-appliances-project-tap>
+[5](#footnote-anchor-5)Read: [https://www.opencompute.org/projects/time-appliances-project-tap](https://www.opencompute.org/projects/time-appliances-project-tap)
 
 [6](#footnote-anchor-6)Read: [Equinix Precision Time](https://www.equinix.com/services/digital-infrastructure-services/equinix-precision-time) 
 
-[7](#footnote-anchor-7)Read: <https://developers.google.com/time/smear>
+[7](#footnote-anchor-7)Read: [https://developers.google.com/time/smear](https://developers.google.com/time/smear)
 
-[8](#footnote-anchor-8)Read: <https://roughtime.googlesource.com>
+[8](#footnote-anchor-8)Read: [https://roughtime.googlesource.com](https://roughtime.googlesource.com)
 
-[9](#footnote-anchor-9)Search: <https://portal.awsevents.com/events/reInvent2022/sessions>
+[9](#footnote-anchor-9)Search: [https://portal.awsevents.com/events/reInvent2022/sessions](https://portal.awsevents.com/events/reInvent2022/sessions)
 
-[10](#footnote-anchor-10)Read: <https://en.wikipedia.org/wiki/SMPTE_2110>
-
+[10](#footnote-anchor-10)Read: [https://en.wikipedia.org/wiki/SMPTE_2110](https://en.wikipedia.org/wiki/SMPTE_2110)

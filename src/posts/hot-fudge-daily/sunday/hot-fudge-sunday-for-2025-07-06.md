@@ -8,6 +8,7 @@ date: 2025-07-06 14:40:01.268+00:00
 
 
 
+
 As I mentioned last week, [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) continues to be my [trusted newsletter delivery service](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email). My simple [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) and Mastodon related [python scripts](https://github.com/JayCuthrell/buttondown-python-scripts) handle the replication to [fudge.org](https://fudge.org/) now.
 
 {{ subscribe_form }}
@@ -20,11 +21,13 @@ Last week was short but NexusTek kept rockin’ again!
 
 ## This week
 
-Depending on the weather in Raleigh-Durham this week, I’m looking forward to [Tuesday's Triangle Biotech](https://www.trianglebiotech.com/) and hope to make it back for [First Friday's Founded](https://downtownraleigh.org/do/first-fridays-at-founded) too.<hr/>
+Depending on the weather in Raleigh-Durham this week, I’m looking forward to [Tuesday's Triangle Biotech](https://www.trianglebiotech.com/) and hope to make it back for [First Friday's Founded](https://downtownraleigh.org/do/first-fridays-at-founded) too.
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ## 📈 Markets Monday for 2025-06-30
 
@@ -105,11 +108,13 @@ I’ve selected a Friday news dump item that reached a peak level of trope, clic
 
 [https://www.techmeme.com/250704/p11#a250704p11](https://www.techmeme.com/250704/p11#a250704p11)
 
-[AI TRiSM](https://www.gartner.com/en/information-technology/glossary/ai-trism) aside, a shift in focus to military superiority in later stage institutional AI work means [the concept of ESTEEM](https://fudge.org/archive/esteem-is-stem-plus-ethics-plus-empathy/) and programs like [ESTEEM (NCSU)](https://research.ced.ncsu.edu/esteemhub/) are even more important in early stage institutional AI work. Arguably, societies risk the eventual export of military grade dystopian fever dream panopticons into more widespread commercial application.<hr/>
+[AI TRiSM](https://www.gartner.com/en/information-technology/glossary/ai-trism) aside, a shift in focus to military superiority in later stage institutional AI work means [the concept of ESTEEM](https://fudge.org/archive/esteem-is-stem-plus-ethics-plus-empathy/) and programs like [ESTEEM (NCSU)](https://research.ced.ncsu.edu/esteemhub/) are even more important in early stage institutional AI work. Arguably, societies risk the eventual export of military grade dystopian fever dream panopticons into more widespread commercial application.
+
+---
 
 # #OpenToWork Weekly
 
-<hr/>
+---
 
 I participated in a [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA) [#JSC](https://www.phyl.org/jsc) after rebooting [Cuthrell Consulting](https://cuthrell.consulting) and [joining NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/).
 

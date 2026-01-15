@@ -6,9 +6,10 @@ date: 2023-07-23 20:36:29.885430+00:00
 
  
 
+
 This week's musical inspiration in title and lyrics:
 
-<https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy?si=0b18b7171314483d>
+[https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy?si=0b18b7171314483d](https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy?si=0b18b7171314483d)
 
 This week we take a look at recent updates to AI in and around platform engineering and DevX.
 
@@ -40,8 +41,8 @@ Now it's time for reading 📖, watching 📺, and listening 🎧 suggestions:
 
 - Second, [📺 GitLab Generative AI Feature Walkthrough](https://www.youtube.com/watch?v=ILJeqWoVswM) in which [GitLab](https://about.gitlab.com) Group Product Manager [Taylor McCaslin](https://www.linkedin.com/in/taylormccaslin/) makes the case for using AI to improve overall DevX.
 
-- Third, [📺 IaC Migration using AI: From CloudFormation to Terraform in Seconds](https://www.youtube.com/watch?v=udoLHw97QL0) in which [Whitney Lee](<https://www>
-.linkedin.com/in/whitneylee/) of [VMware](<https://tanzu.vmware.com/developer/tv/>
+- Third, [📺 IaC Migration using AI: From CloudFormation to Terraform in Seconds](https://www.youtube.com/watch?v=udoLHw97QL0) in which [Whitney Lee]([https://www](https://www)
+.linkedin.com/in/whitneylee/) of [VMware]([https://tanzu.vmware.com/developer/tv/](https://tanzu.vmware.com/developer/tv/)
 enlightning/47/) speaks with [Firefly](https://www.firefly.ai) CTO [Sefi Genis](https://www.linkedin.com/in/sefi-genis/) about [AIAC](https://aiac.dev) use cases.
 
 ## And lead me through Babylon 🎶

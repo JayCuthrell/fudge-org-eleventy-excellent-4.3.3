@@ -4,11 +4,12 @@ description: "A look at the proliferation of M.L. and A.I. across the Enterprise
 date: 2023-09-10
 ---
 
+
 This week we take a look at the proliferation of M.L. and A.I. across the Enterprise knowledge worker stack.
 
 This week's musical inspiration in title and lyrics:
 
-<https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao?si=b155df34df3c4b61>
+[https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao?si=b155df34df3c4b61](https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao?si=b155df34df3c4b61)
 
 # Getting Informed
 

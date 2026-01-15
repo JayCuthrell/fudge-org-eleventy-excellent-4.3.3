@@ -5,6 +5,7 @@ permalink: /archive/me-and-my-posse/
 title: Me and My POSSE
 ---
 
+
 *Note: Thank you readers for the great migration feedback and helpful suggestions. I’m happy this newsletter continues to provide so many of you with utility.*
 
 *[Rivers Cuomo - Me and My Posse (2020)](https://www.youtube.com/watch?v=uPAzNXk59P8)*
@@ -34,7 +35,7 @@ Five years later… Michael Dell’s “soon” is closer at hand.
 
 Now, a 4-bit microcontroller for less than $0.01 using thin-film semiconductor processes with indium gallium zinc oxide (IGZO) on bendable plastic is *possible*.
 
-Source: <https://spectrum.ieee.org/plastic-microprocessor>
+Source: [https://spectrum.ieee.org/plastic-microprocessor](https://spectrum.ieee.org/plastic-microprocessor)
 
 So, we are at the art of *possible*. What’s next? The rest of the ibles and the ables.
 
@@ -46,12 +47,11 @@ I’m stating up front that *even after moving* from my prior platform, Revue (T
 
 ### POSSE (2016)
 
-
 > *POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.*
 > 
 > 
 
-Source: <https://indieweb.org/POSSE>
+Source: [https://indieweb.org/POSSE](https://indieweb.org/POSSE)
 
 I’ve tried to keep my long lived content on my own site. Typically that site is my blog ([fudge.org](https://fudge.org)) or linked on my personal website ([jaycuthrell.com](https://jaycuthrell.com/)). 
 
@@ -61,12 +61,11 @@ While I don’t use Facebook, when I do share links I try to make sure that [Twi
 
 When possible, always own your platform.
 
-
 > *I refuse to display meta data for other platforms. Nope. Not doing it. Always own your platform.*
 > 
 > 
 
-Source: <https://www.alwaysownyourplatform.com>
+Source: [https://www.alwaysownyourplatform.com](https://www.alwaysownyourplatform.com)
 
 Presently, I’m still using Linode for my older web experiments, redirects, containers, tailscale, etc. that require a VPS experience. Otherwise, for my content that can be rendered from my GitHub repositories via headless CMS, I opt for Netlify to host my personal website and Gatsby Cloud to host my blog.
 
@@ -85,16 +84,15 @@ I’m still experimenting with this section but readers seem to click on these l
 
 (https://github.com/Mailtrain-org/mailtrain)
 
-
 > *Self hosted newsletter app*
 > 
 > 
 
-Source: <https://github.com/Mailtrain-org/mailtrain>
+Source: [https://github.com/Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain)
 
 **Disclosure**
 ==============
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)<https://www.google.com/search?q=%22Soon+there+will+be+a+perfect+digital+mirror+of+our+world%22>
+[1](#footnote-anchor-1)[https://www.google.com/search?q=%22Soon+there+will+be+a+perfect+digital+mirror+of+our+world%22](https://www.google.com/search?q=%22Soon+there+will+be+a+perfect+digital+mirror+of+our+world%22)

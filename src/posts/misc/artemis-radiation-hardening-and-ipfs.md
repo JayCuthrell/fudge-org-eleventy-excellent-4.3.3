@@ -5,6 +5,7 @@ permalink: /archive/artemis-radiation-hardening-and-ipfs/
 title: Artemis, Radiation Hardening, and IPFS
 ---
 
+
 Getting Informed
 ================
 
@@ -29,7 +30,6 @@ And yet, this awesome spaceship that is very hospitable is surrounded by not so 
 
 Until dramatic dystopian sci-fi plot device textbooks[1](#footnote-1) become future reality textbooks that tell me differently, I believe we landed on the moon. Now, it's time to send probes and get ready to return people to the moon with bagged lunches to stay a bit longer than last time — and continuously iterate.
 
-
 > With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before. We will collaborate with commercial and international partners and establish the first long-term presence on the Moon. Then, we will use what we learn on and around the Moon to take the next giant leap: sending the first astronauts to Mars.[2](#footnote-2)
 > 
 > 
@@ -43,7 +43,6 @@ If you haven’t thought about radiation hardening[3](#footnote-3), just remembe
 
 (https://twitter.com/anildash/status/1366931110752567297?s=20&t=wMmadh2wv70xWatBgd2ZgA)[1:59 AM ∙ Mar 3, 2021
 
-
 41Likes9Retweets](https://twitter.com/anildash/status/1366931110752567297?s=20&t=wMmadh2wv70xWatBgd2ZgA)Pavol Rusnak 🍯🦡 @pavolrusnakDid you know that James Webb Space Telescope runs on RAD750?
 
 It's a $200,000 radiation-hardened single-board computer based on PowerPC 750 running at 118 MHz, first released over 20 years ago in 2001.
@@ -56,11 +55,9 @@ Astro peeps: holy smokes #JWST has 68GB of radiation hardened storage, that's 30
 
 It's hard to run computers in high radiation environments! ![james webb space GIF by NASA](https://substackcdn.com/video/upload/e_loop,vs_40/kgwe4gdn6nnmeghsafsb.gif)](https://twitter.com/DrRob_Thacker/status/1550980072307363843?s=20&t=wMmadh2wv70xWatBgd2ZgA)[11:03 PM ∙ Jul 23, 2022
 
-
 12Likes2Retweets](https://twitter.com/DrRob_Thacker/status/1550980072307363843?s=20&t=wMmadh2wv70xWatBgd2ZgA)Tren Griffin @trengriffin@Simon\_Fabbri @VirtuallyNathan @mikepuchol @larrypress @mtaht @SpaceX @Megaconstellati @danyork @jane\_coffin Serve all markets means what? Includes Polar? How much capacity? 38X is based on what assumptions? 
 
 Every LEO satellite is usable only a fraction of the time. They circle the Earth. Lifetime of a LEO at that altitude without expensive radiation hardened electronics is ~ 5 years.](https://twitter.com/trengriffin/status/1563935603053723648?s=20&t=wMmadh2wv70xWatBgd2ZgA)[5:04 PM ∙ Aug 28, 2022](https://twitter.com/trengriffin/status/1563935603053723648?s=20&t=wMmadh2wv70xWatBgd2ZgA)(https://twitter.com/Dr_StefaniaP/status/1491727854635159552?s=20&t=wMmadh2wv70xWatBgd2ZgA)[10:56 AM ∙ Feb 10, 2022
-
 
 13Likes3Retweets](https://twitter.com/Dr_StefaniaP/status/1491727854635159552?s=20&t=wMmadh2wv70xWatBgd2ZgA)Fill my heart with song 🎶
 -------------------------
@@ -115,18 +112,18 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [1](#footnote-anchor-1)Spoiler Alert: [Interstellar books scene](https://www.youtube.com/watch?v=hBaiyzj5wdc)
 
-[2](#footnote-anchor-2)Read: <https://www.nasa.gov/specials/artemis/>
+[2](#footnote-anchor-2)Read: [https://www.nasa.gov/specials/artemis/](https://www.nasa.gov/specials/artemis/)
 
-[3](#footnote-anchor-3)Read: <https://en.wikipedia.org/wiki/Radiation_hardening>
+[3](#footnote-anchor-3)Read: [https://en.wikipedia.org/wiki/Radiation_hardening](https://en.wikipedia.org/wiki/Radiation_hardening)
 
 [4](#footnote-anchor-4)Spoiler Alert: [Interstellar “you’ve got mail” scene](https://www.youtube.com/watch?v=dxF1PA8RQgU)
 
-[5](#footnote-anchor-5)Read: <https://docs.ipfs.tech/concepts/what-is-ipfs/#what-is-ipfs>
+[5](#footnote-anchor-5)Read: [https://docs.ipfs.tech/concepts/what-is-ipfs/#what-is-ipfs](https://docs.ipfs.tech/concepts/what-is-ipfs/#what-is-ipfs)
 
 [6](#footnote-anchor-6)Read: [IPFS and Phishing](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/ipfs-the-new-hotbed-of-phishing/)
 
 [7](#footnote-anchor-7)Watch: [Rail Gun at NASA (2012)](https://www.youtube.com/watch?v=AuCGlwoAtp8)
 
-[8](#footnote-anchor-8)Math: <https://www.wolframalpha.com/input?i=Tsiolkovsky+rocket+equation> 
+[8](#footnote-anchor-8)Math: [https://www.wolframalpha.com/input?i=Tsiolkovsky+rocket+equation](https://www.wolframalpha.com/input?i=Tsiolkovsky+rocket+equation) 
 
-[9](#footnote-anchor-9)Read: <https://en.wikipedia.org/wiki/Media_access_unit>
+[9](#footnote-anchor-9)Read: [https://en.wikipedia.org/wiki/Media_access_unit](https://en.wikipedia.org/wiki/Media_access_unit)

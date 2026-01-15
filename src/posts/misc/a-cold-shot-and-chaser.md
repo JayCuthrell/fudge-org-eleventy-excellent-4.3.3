@@ -5,6 +5,7 @@ permalink: /archive/a-cold-shot-and-chaser/
 title: A Cold Shot and Chaser
 ---
 
+
 *[Stevie Ray Vaughan & Double Trouble - Cold Shot (1984)](https://www.youtube.com/watch?v=oqBtVaLXPw0)*
 
 Getting Informed
@@ -66,9 +67,9 @@ Liron Shapira @liron.@helium, often cited as one of the best examples of a Web3 
 
 Regular folks have also been convinced to spend $250M buying hotspot nodes, in hopes of earning passive income.
 
-The result? Helium's total revenue is $6.5k/month ![Image](https://cuthrell.com/favicon.png)![Image](https://cuthrell.com/favicon.png)![Image](https://cuthrell.com/favicon.png)![Image](https://cuthrell.com/favicon.png)](<https://twitter.com/liron/status/1551738599254773765?s=20&t=Gw745mz2_mg_Sr7nEHfKlA)[1:18> AM ∙ Jul 26, 2022
+The result? Helium's total revenue is $6.5k/month ![Image](https://cuthrell.com/favicon.png)![Image](https://cuthrell.com/favicon.png)![Image](https://cuthrell.com/favicon.png)![Image](https://cuthrell.com/favicon.png)]([https://twitter.com/liron/status/1551738599254773765?s=20&t=Gw745mz2_mg_Sr7nEHfKlA)[1:18](https://twitter.com/liron/status/1551738599254773765?s=20&t=Gw745mz2_mg_Sr7nEHfKlA)[1:18) AM ∙ Jul 26, 2022
 
-15,172Likes2,171Retweets](<https://twitter.com/liron/status/1551738599254773765?s=20&t=Gw745mz2_mg_Sr7nEHfKlA>) But wait… there was even a Planet Money podcast reference to Helium as well.
+15,172Likes2,171Retweets]([https://twitter.com/liron/status/1551738599254773765?s=20&t=Gw745mz2_mg_Sr7nEHfKlA](https://twitter.com/liron/status/1551738599254773765?s=20&t=Gw745mz2_mg_Sr7nEHfKlA)) But wait… there was even a Planet Money podcast reference to Helium as well.
 
 And then there is this recent query of Techmeme coverage[7](#footnote-7) that puts the recent months story arc of Helium / Nova Labs into sobering perspective
 
@@ -82,11 +83,11 @@ It turns out that Nova Labs has [checks notes] acquired FreedomFi.[8](#footnote-
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-[1](#footnote-anchor-1)Query: <https://duckduckgo.com/?q=%22ubiquitous+workload+substrate%22>
+[1](#footnote-anchor-1)Query: [https://duckduckgo.com/?q=%22ubiquitous+workload+substrate%22](https://duckduckgo.com/?q=%22ubiquitous+workload+substrate%22)
 
-[2](#footnote-anchor-2)Read: <https://fudge.org/archive/my-third-year-at-vce/>
+[2](#footnote-anchor-2)Read: [https://fudge.org/archive/my-third-year-at-vce/](https://fudge.org/archive/my-third-year-at-vce/)
 
-[3](#footnote-anchor-3)Read: <https://fudge.org/archive/augmented-reality/>
+[3](#footnote-anchor-3)Read: [https://fudge.org/archive/augmented-reality/](https://fudge.org/archive/augmented-reality/)
 
 [4](#footnote-anchor-4)Read:
 
@@ -94,6 +95,6 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [6](#footnote-anchor-6)Read:
 
-(#footnote-anchor-7)Query: <https://techmeme.com/search/query?q=helium&wm=false>
+(#footnote-anchor-7)Query: [https://techmeme.com/search/query?q=helium&wm=false](https://techmeme.com/search/query?q=helium&wm=false)
 
-[8](#footnote-anchor-8)Read: <https://web.archive.org/web/20220818160310/https://freedomfi.com/press-release/>
+[8](#footnote-anchor-8)Read: [https://web.archive.org/web/20220818160310/https://freedomfi.com/press-release/](https://web.archive.org/web/20220818160310/https://freedomfi.com/press-release/)

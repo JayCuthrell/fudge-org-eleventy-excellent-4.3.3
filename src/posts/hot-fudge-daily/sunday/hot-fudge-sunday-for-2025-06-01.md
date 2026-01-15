@@ -9,6 +9,7 @@ date: 2025-06-01 20:27:45+00:00
 
 
 
+
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 ## Last week
@@ -29,11 +30,13 @@ Are you going to be in NYC next week on June 11-12?
 
 Also, if you are an owner/operator in Hospitality / Leisure / Travel, let me know if you’d like to be invited to an invitation for an exclusive event in NYC on June 12! 🎟️🛥️🌃 
 
-(or, if you know someone in NYC that might be interest — please forward this newsletter along)<hr/>
+(or, if you know someone in NYC that might be interest — please forward this newsletter along)
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ## 📈 Markets Monday for 2025-05-26
 

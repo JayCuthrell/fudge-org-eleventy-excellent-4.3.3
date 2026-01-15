@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-twitter-travel-algorithmic-oddities/
 title: 'Fudge Sunday - Twitter Travel Algorithmic Oddities '
 ---
 
+
 This week we look at IP targeting and geofencing while traveling.
 
 A Tribe Called Quest - Scenario (1992)
@@ -182,7 +183,7 @@ Instead, I’m embedding a tweet that is as lyrical as it was informative since 
 
 watch this space  
   
-<https://t.co/MYmG7rlXRS>
+[https://t.co/MYmG7rlXRS](https://t.co/MYmG7rlXRS)
 
  [4:53 PM - 25 Apr 2022](https://twitter.com/willnorris/status/1518694675909013504)
 
@@ -192,7 +193,7 @@ Moments later…
 
 [@willnorris](https://twitter.com/willnorris/status/1518754475124482048)
 
-My most popular tweet about open source is for an empty repo. <https://t.co/XyznhiMN2f>
+My most popular tweet about open source is for an empty repo. [https://t.co/XyznhiMN2f](https://t.co/XyznhiMN2f)
 
  [8:50 PM - 25 Apr 2022](https://twitter.com/willnorris/status/1518754475124482048)
 
@@ -231,7 +232,6 @@ Brandolini’s law, also known as the bullshit asymmetry principle, is an intern
 Source:
 
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Brandolini's_law?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
 
  **Disclosure**
 

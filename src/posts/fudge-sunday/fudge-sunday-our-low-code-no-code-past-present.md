@@ -6,6 +6,7 @@ date: 2021-12-06 03:28:33+00:00
 
 
 
+
 This week we take a quick look at the past, present, and future of Low Code No Code + Developer Evangelism Relations Advocacy. Buckle up for a ride!
 
  **Getting Informed**
@@ -84,7 +85,7 @@ You know how you balance metrics and magic in DevRel?
   
 Good leadership.   
   
-Thanks for coming to my Ted Talk. <https://t.co/eRjXgUMV6c>
+Thanks for coming to my Ted Talk. [https://t.co/eRjXgUMV6c](https://t.co/eRjXgUMV6c)
 
  [4:23 PM - 2 Dec 2021](https://twitter.com/jdooley_clt/status/1466518294186409989)
 
@@ -174,7 +175,7 @@ So, at this point, it might be fair to say “This May Be A Revolution”.
 
 [@irmavermaat](https://twitter.com/irmavermaat/status/673853344272793600)
 
-Low code platforms <https://t.co/wwkpoR8h2d>
+Low code platforms [https://t.co/wwkpoR8h2d](https://t.co/wwkpoR8h2d)
 
  [8:15 AM - 7 Dec 2015](https://twitter.com/irmavermaat/status/673853344272793600)
 
@@ -202,7 +203,7 @@ By 2018, we see Low Code appear next to topics like robotic process automation (
 
 [@YingChen42](https://twitter.com/YingChen42/status/1053426360272728064)
 
-Great insight from Reetu Khosla on pragmatic [#AI](https://twitter.com/search?q=%23AI "#AI") & [#RPA](https://twitter.com/search?q=%23RPA "#RPA") within [#KYC](https://twitter.com/search?q=%23KYC "#KYC") [#banking](https://twitter.com/search?q=%23banking "#banking") and how low code/no code changes the game @[Pegasystems](https://twitter.com/Pegasystems) <https://t.co/uPLHKKwQGL>
+Great insight from Reetu Khosla on pragmatic [#AI](https://twitter.com/search?q=%23AI "#AI") & [#RPA](https://twitter.com/search?q=%23RPA "#RPA") within [#KYC](https://twitter.com/search?q=%23KYC "#KYC") [#banking](https://twitter.com/search?q=%23banking "#banking") and how low code/no code changes the game @[Pegasystems](https://twitter.com/Pegasystems) [https://t.co/uPLHKKwQGL](https://t.co/uPLHKKwQGL)
 
  [7:23 PM - 19 Oct 2018](https://twitter.com/YingChen42/status/1053426360272728064)
 
@@ -214,7 +215,7 @@ By 2019, companies that are fully exploring the extended capabilities of Office 
 
 [@MicrosoftTeams](https://twitter.com/MicrosoftTeams/status/1113142912483778565)
 
-One of the core value drivers within [#MicrosoftTeams](https://twitter.com/search?q=%23MicrosoftTeams "#MicrosoftTeams") is its extensible and customizable platform. Learn how to build low code/no code approval workflows for your team using @[MicrosoftTeams](https://twitter.com/MicrosoftTeams), @[SharePoint](https://twitter.com/SharePoint), and @[MicrosoftFlow](https://twitter.com/MicrosoftFlow): <https://t.co/mpBFRKQJIl> <https://t.co/hX2GSIstbq>
+One of the core value drivers within [#MicrosoftTeams](https://twitter.com/search?q=%23MicrosoftTeams "#MicrosoftTeams") is its extensible and customizable platform. Learn how to build low code/no code approval workflows for your team using @[MicrosoftTeams](https://twitter.com/MicrosoftTeams), @[SharePoint](https://twitter.com/SharePoint), and @[MicrosoftFlow](https://twitter.com/MicrosoftFlow): [https://t.co/mpBFRKQJIl](https://t.co/mpBFRKQJIl) [https://t.co/hX2GSIstbq](https://t.co/hX2GSIstbq)
 
  [2:15 PM - 2 Apr 2019](https://twitter.com/MicrosoftTeams/status/1113142912483778565)
 
@@ -230,7 +231,7 @@ I built a todo list app simply by describing it to GPT-3.
   
 It generated the React code for a fully functioning app within seconds.  
   
-I'm becoming more impressed and aware of its capabilities every single day. <https://t.co/QGrClar03s>
+I'm becoming more impressed and aware of its capabilities every single day. [https://t.co/QGrClar03s](https://t.co/QGrClar03s)
 
  [5:35 AM - 18 Jul 2020](https://twitter.com/sharifshameem/status/1284421499915403264)
 
@@ -268,7 +269,7 @@ Top 7 [#ERP](https://twitter.com/search?q=%23ERP "#ERP") trends for 2021
 📌 Low code/no code  
 📌 Customer experience  
   
-➡️ Learn more: <https://t.co/IK72Sv0nvk>  
+➡️ Learn more: [https://t.co/IK72Sv0nvk](https://t.co/IK72Sv0nvk)  
   
 @[nealweinberg](https://twitter.com/nealweinberg) [#CX](https://twitter.com/search?q=%23CX "#CX") [#cloudmigration](https://twitter.com/search?q=%23cloudmigration "#cloudmigration") [#lowcode](https://twitter.com/search?q=%23lowcode "#lowcode")
 
@@ -298,7 +299,7 @@ Great piece on how the rise of low code/no code tools is opening the floodgates 
   
 From TikTok, to Fortnite creative mode, to Weta + Unity.  
   
-<https://t.co/UUf3ctiapR>
+[https://t.co/UUf3ctiapR](https://t.co/UUf3ctiapR)
 
  [4:25 AM - 22 Nov 2021](https://twitter.com/zoescaman/status/1462713714977558528)
 
@@ -338,7 +339,7 @@ Now, imagine if the CEO of a SaaS Observability company (Observe) built entirely
 
 [@jburton](https://twitter.com/jburton/status/1467291448143794177)
 
-This 👇 I’m a fan of the low code movement (no code is just dumb). In late 90s - Visual Basic IMHO set the high bar in history for app dev productivity and since then nothing has come close to matching its ease of UI creation and declarative binding to database objects. <https://t.co/ZA2RaqXFpX>
+This 👇 I’m a fan of the low code movement (no code is just dumb). In late 90s - Visual Basic IMHO set the high bar in history for app dev productivity and since then nothing has come close to matching its ease of UI creation and declarative binding to database objects. [https://t.co/ZA2RaqXFpX](https://t.co/ZA2RaqXFpX)
 
  [7:35 PM - 4 Dec 2021](https://twitter.com/jburton/status/1467291448143794177)
 
@@ -348,7 +349,7 @@ This 👇 I’m a fan of the low code movement (no code is just dumb). In late 9
 
 “No code” is an appealing phrase, but in the end, “no code” is just about raising the level of abstraction while hiding a myriad of pre-decided design decisions just below the surface.  
   
-Don’t get me wrong; there is good value here just as there was with @[MrAlanCooper](https://twitter.com/MrAlanCooper)’s VB <https://t.co/8uw0EYxQYi>
+Don’t get me wrong; there is good value here just as there was with @[MrAlanCooper](https://twitter.com/MrAlanCooper)’s VB [https://t.co/8uw0EYxQYi](https://t.co/8uw0EYxQYi)
 
  [6:43 PM - 4 Dec 2021](https://twitter.com/Grady_Booch/status/1467278429221384193)
 
@@ -359,7 +360,7 @@ Don’t get me wrong; there is good value here just as there was with @[MrAlanCo
 In the past, No-Code tools were used by developers to prototype their ideas but now these tools are more user-friendly and you don't need to be a developer to use them!  
   
 { author: @[Mark16593885](https://twitter.com/Mark16593885) } [#DEVCommunity](https://twitter.com/search?q=%23DEVCommunity "#DEVCommunity")  
-<https://t.co/Zrje6SGD6e>
+[https://t.co/Zrje6SGD6e](https://t.co/Zrje6SGD6e)
 
  [6:08 PM - 4 Dec 2021](https://twitter.com/ThePracticalDev/status/1467269489603620865)
 

@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-cloud-in-public-engineering-slo/
 title: 'Fudge Sunday - Cloud in Public: Engineering SLO'
 ---
 
+
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑
@@ -86,7 +87,7 @@ Finally the most concise and clear explanation of the difference between SLI, SL
   
 "SLIs drive SLOs which inform SLAs."  
   
-<https://t.co/tNE5zXKQMD> <https://t.co/lVELDj2sEm>
+[https://t.co/tNE5zXKQMD](https://t.co/tNE5zXKQMD) [https://t.co/lVELDj2sEm](https://t.co/lVELDj2sEm)
 
  [9:53 PM - 16 Mar 2018](https://twitter.com/rakyll/status/974826146343788544)
 
@@ -94,7 +95,7 @@ Finally the most concise and clear explanation of the difference between SLI, SL
 
 [@whereistanya](https://twitter.com/whereistanya/status/986954786661650432)
 
-This is the clearest SLI/SLO/SLA explanation I've seen so far. From @[elisabPDX](https://twitter.com/elisabPDX) and @[mflaming](https://twitter.com/mflaming) at SRECon Americas. I'm using this formulation to describe it from now on. <https://t.co/VzVKwqmQgy>
+This is the clearest SLI/SLO/SLA explanation I've seen so far. From @[elisabPDX](https://twitter.com/elisabPDX) and @[mflaming](https://twitter.com/mflaming) at SRECon Americas. I'm using this formulation to describe it from now on. [https://t.co/VzVKwqmQgy](https://t.co/VzVKwqmQgy)
 
  [9:08 AM - 19 Apr 2018](https://twitter.com/whereistanya/status/986954786661650432)
 
@@ -102,7 +103,7 @@ This is the clearest SLI/SLO/SLA explanation I've seen so far. From @[elisabPDX]
 
 [@copyconstruct](https://twitter.com/copyconstruct/status/1007034020725587969)
 
-Once you have an SLO that’s really not an SLO since the users have come to expect better, then you’re unable to take any risks. Systems that are \*too\* reliable can become problematic too. [#VelocityConf](https://twitter.com/search?q=%23VelocityConf "#VelocityConf") <https://t.co/KsZ8CQxkJk>
+Once you have an SLO that’s really not an SLO since the users have come to expect better, then you’re unable to take any risks. Systems that are \*too\* reliable can become problematic too. [#VelocityConf](https://twitter.com/search?q=%23VelocityConf "#VelocityConf") [https://t.co/KsZ8CQxkJk](https://t.co/KsZ8CQxkJk)
 
  [6:56 PM - 13 Jun 2018](https://twitter.com/copyconstruct/status/1007034020725587969)
 
@@ -110,7 +111,7 @@ Once you have an SLO that’s really not an SLO since the users have come to exp
 
 [@Illdrinn](https://twitter.com/Illdrinn/status/1174477540121030657)
 
-SLO / SLI / SLA crisp definitions with @[ahidalgosre](https://twitter.com/ahidalgosre) from @[squarespace](https://twitter.com/squarespace) [#systemsatscale](https://twitter.com/search?q=%23systemsatscale "#systemsatscale") @[at\_scale\_events](https://twitter.com/at_scale_events) <https://t.co/ILTF7pLwtH>
+SLO / SLI / SLA crisp definitions with @[ahidalgosre](https://twitter.com/ahidalgosre) from @[squarespace](https://twitter.com/squarespace) [#systemsatscale](https://twitter.com/search?q=%23systemsatscale "#systemsatscale") @[at\_scale\_events](https://twitter.com/at_scale_events) [https://t.co/ILTF7pLwtH](https://t.co/ILTF7pLwtH)
 
  [8:17 PM - 18 Sep 2019](https://twitter.com/Illdrinn/status/1174477540121030657)
 
@@ -118,7 +119,7 @@ SLO / SLI / SLA crisp definitions with @[ahidalgosre](https://twitter.com/ahidal
 
 [@Illdrinn](https://twitter.com/Illdrinn/status/1447421674979221507)
 
-@[JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell) @[rakyll](https://twitter.com/rakyll) @[whereistanya](https://twitter.com/whereistanya) @[copyconstruct](https://twitter.com/copyconstruct) @[lizthegrey](https://twitter.com/lizthegrey) @[mipsytipsy](https://twitter.com/mipsytipsy) Oh so that's literally just a tweet of me taking a photo of @[ahidalgosre](https://twitter.com/ahidalgosre) at DevOps Days. If you want to see things I'm doing with SLOs atm check out my TLs talk at SLOConf <https://t.co/myjpcOxGcl>
+@[JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell) @[rakyll](https://twitter.com/rakyll) @[whereistanya](https://twitter.com/whereistanya) @[copyconstruct](https://twitter.com/copyconstruct) @[lizthegrey](https://twitter.com/lizthegrey) @[mipsytipsy](https://twitter.com/mipsytipsy) Oh so that's literally just a tweet of me taking a photo of @[ahidalgosre](https://twitter.com/ahidalgosre) at DevOps Days. If you want to see things I'm doing with SLOs atm check out my TLs talk at SLOConf [https://t.co/myjpcOxGcl](https://t.co/myjpcOxGcl)
 
 [12:39 AM - 11 Oct 2021](https://twitter.com/Illdrinn/status/1447421674979221507)
 
@@ -128,7 +129,7 @@ SLOconf: SLOs at Facebook - by Posten A
 
 [@lizthegrey](https://twitter.com/lizthegrey/status/1192090284081000448)
 
-@[QuinnyPig](https://twitter.com/QuinnyPig) This is the impact on our SLO (it's \_bad\_): <https://t.co/d3AXBVGyH3>
+@[QuinnyPig](https://twitter.com/QuinnyPig) This is the impact on our SLO (it's \_bad\_): [https://t.co/d3AXBVGyH3](https://t.co/d3AXBVGyH3)
 
  [9:44 AM - 6 Nov 2019](https://twitter.com/lizthegrey/status/1192090284081000448)
 
@@ -140,7 +141,7 @@ Updated definition:
   
 📉 Monitoring is for running and understanding other people's code (aka "your infrastructure")  
   
-📈 Observability is for running and understanding \*your\* code -- the code you write, change and ship every day; the code that solves your core business problems. <https://t.co/P4xIp2xs9K>
+📈 Observability is for running and understanding \*your\* code -- the code you write, change and ship every day; the code that solves your core business problems. [https://t.co/P4xIp2xs9K](https://t.co/P4xIp2xs9K)
 
  [2:48 AM - 14 Sep 2020](https://twitter.com/mipsytipsy/status/1305398051842871297)
 

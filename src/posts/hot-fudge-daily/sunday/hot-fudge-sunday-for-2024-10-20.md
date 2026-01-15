@@ -9,10 +9,13 @@ date: 2024-10-20 16:20:00+00:00
 
 
 
+
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+---
 
 ## Changes ahead...
 
@@ -20,11 +23,13 @@ Readers of Hot Fudge Daily and Fudge Factor have voted and commented on both the
 
 [https://www.linkedin.com/posts/jaycuthrell_survey-says-thanks-for-the-replies-activity-7247030261173862400-R5A0?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_survey-says-thanks-for-the-replies-activity-7247030261173862400-R5A0?utm_source=share&utm_medium=member_desktop)
 
-And here’s your short combo weekly email! 🤓<hr/>
+And here’s your short combo weekly email! 🤓
+
+---
 
 # Hot Fudge Daily Digest
 
-<hr/>
+---
 
 ### 📈 Markets Monday for 2024-10-14
 

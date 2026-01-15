@@ -5,6 +5,7 @@ permalink: /archive/a-new-map/
 title: A New Map
 ---
 
+
 Perhaps you’ve heard a phrase regarding conscious choice and decisive action.
 
 Perhaps, in the days before maps were built into your mobile phone you found yourself going somewhere and wondered why you didn’t bring a map.
@@ -16,7 +17,7 @@ The Path from Portland to Austin
 
 Please set aside 20 minutes to watch this OSCON 2015 keynote talk entitled “Situation Normal, Everything Must Change”. The video is embedded below for your convenience.
 
-<https://www.youtube.com/watch?v=Ty6pOVEc3bA>
+[https://www.youtube.com/watch?v=Ty6pOVEc3bA](https://www.youtube.com/watch?v=Ty6pOVEc3bA)
 
 Don’t worry. There are no ponytails, no neck beards, no flip flops… Just a solid introduction to mapping with a healthy dose of style and humor. The speaker, [Simon Wardley](https://www.linkedin.com/in/simonwardley), is worth following over at his blog [Bits or pieces?](http://blog.gardeviance.org/2017/06/to-infinity-and-beyond.html)
 
@@ -33,4 +34,4 @@ But don’t take my word for it. Instead, consider the lessons of the beloved 19
 
 Indeed, sometimes even if you have a map… you need to get yourself a new map.
 
-<https://www.youtube.com/watch?v=TgvyparsP0c>
+[https://www.youtube.com/watch?v=TgvyparsP0c](https://www.youtube.com/watch?v=TgvyparsP0c)

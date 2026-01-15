@@ -5,6 +5,7 @@ permalink: /archive/fudge-sunday-multicloudwashing-detergent/
 title: Fudge Sunday - MultiCloudWashing Detergent
 ---
 
+
 Fun fact: A year ago was my last day with Dell Technologies. For this installment, we examine cloudwashing through a multicloud lens as multicloudwashing.
 
  **Last week**
@@ -83,7 +84,7 @@ In fact, if you just look at a simple [search for #multicloud with more than 300
 
 [@discoposse](https://twitter.com/discoposse/status/1397688148742787074)
 
-[#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud") <https://t.co/7fRBV6WOha>
+[#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud") [https://t.co/7fRBV6WOha](https://t.co/7fRBV6WOha)
 
  [6:56 PM - 26 May 2021](https://twitter.com/discoposse/status/1397688148742787074)
 

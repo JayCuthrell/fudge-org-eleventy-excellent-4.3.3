@@ -9,7 +9,10 @@ date: 2024-12-22 23:30:00+00:00
 
 
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/>
+
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+---
 
 # Hot Fudge Daily Digest
 
@@ -29,7 +32,9 @@ More about [Chris Mojica](https://www.linkedin.com/posts/pcmojica_opentowork-act
 > Technical backgrounds include the disciplines of HCI, Virtualization, Software Defined (SDN/SDS/SDC) storage area networks (SAN), network, and broadband technologies. Additionally, having supported various levels within multiple organizations demonstrates my ability to effectively conduct business and technical level discussions within each of these tiers.
 > Leveraging my knowledge, background and experience allows me to understand complex datacenter environments. This technical acumen allows me to propose creative solutions that maximize ROI and minimize TCO. Strong organizational skills and ability to support multiple projects allows me to meet multiple deadlines.
 
-Source: [Chris Mojica on LinkedIn](https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop)<hr/>
+Source: [Chris Mojica on LinkedIn](https://www.linkedin.com/posts/pcmojica_opentowork-activity-7262851768944918529-iUxD?utm_source=share&utm_medium=member_desktop)
+
+---
 
 # Hot Fudge Daily Digest
 
@@ -41,7 +46,9 @@ https://bsky.app/profile/cuthrell.com
 
 Follow Hot Fudge Daily on Bluesky:
 
-https://bsky.app/profile/fudge.org<hr/>
+https://bsky.app/profile/fudge.org
+
+---
 
 ### 📈 Markets Monday for 2024-12-16
 
