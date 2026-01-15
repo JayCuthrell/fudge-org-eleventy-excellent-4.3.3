@@ -5,6 +5,7 @@ description: "This week I celebrate job seekers and alumni success stories while
 date: 2025-04-06 21:30:00+00:00
 ---
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
@@ -219,11 +220,13 @@ For Market Monday, I continue to look at the same key indicator that I take from
 
 Last week:
 
-<figure><img src="https://assets.buttondown.email/images/555dae30-00c5-4514-891b-a7d79a8336db.png?w=960&amp;fit=max" alt="Spicy Level 23!" draggable="false"><figcaption>Spicy Level 23!</figcaption></figure>
+![Spicy Level 23!](https://assets.buttondown.email/images/555dae30-00c5-4514-891b-a7d79a8336db.png?w=960&fit=max)
+*Spicy Level 23!*
 
 This week:
 
-<figure><img src="https://assets.buttondown.email/images/7f2ff0ed-b915-4f1e-b32c-bd3e4ae57823.png?w=960&amp;fit=max" alt="Not so spicy returns" draggable="false"><figcaption>Not so spicy returns</figcaption></figure>
+![Not so spicy returns](https://assets.buttondown.email/images/7f2ff0ed-b915-4f1e-b32c-bd3e4ae57823.png?w=960&fit=max)
+*Not so spicy returns*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 

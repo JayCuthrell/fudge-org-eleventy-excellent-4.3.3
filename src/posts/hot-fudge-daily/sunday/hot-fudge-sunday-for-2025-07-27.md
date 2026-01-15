@@ -6,6 +6,7 @@ date: 2025-07-27
 ---
 
 
+
 {{ subscribe_form }}
 
 ## Last week
@@ -27,21 +28,16 @@ I'll be traveling and the newsletter daily posts will be done from 37k feet, air
 <h3>
  Last week
 </h3>
-<figure>
-<img alt="Quantum Computing, AI, Software, and Space" draggable="false" src="https://assets.buttondown.email/images/2d11e585-bd17-49cc-983d-85cee9c65881.png?w=960&fit=max"/>
-<figcaption>
-  Quantum Computing, AI, Software, and Space
- </figcaption>
-</figure>
+
+![Quantum Computing, AI, Software, and Space](https://assets.buttondown.email/images/2d11e585-bd17-49cc-983d-85cee9c65881.png?w=960&fit=max)
+*Quantum Computing, AI, Software, and Space*
+
 <h3>
  This week
 </h3>
-<figure>
-<img alt="Less spicy." draggable="false" src="https://assets.buttondown.email/images/2f00e15d-a028-4227-bb17-24d8176dd8ff.png?w=960&fit=max"/>
-<figcaption>
-  Less spicy.
- </figcaption>
-</figure>
+
+![Less spicy.](https://assets.buttondown.email/images/2f00e15d-a028-4227-bb17-24d8176dd8ff.png?w=960&fit=max)
+*Less spicy.*
 
  Source:
  [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
@@ -114,12 +110,8 @@ I'll be traveling and the newsletter daily posts will be done from 37k feet, air
 
  Indeed. I even managed to capture it with a RIPE probe.
 
-<figure>
-<img alt="RIPE probe statistics showing packet loss" draggable="false" src="https://assets.buttondown.email/images/a7f9d2c4-77b3-48d4-aac9-a9603bb0ca85.png?w=960&fit=max"/>
-<figcaption>
-  packet loss
- </figcaption>
-</figure>
+![RIPE probe statistics showing packet loss](https://assets.buttondown.email/images/a7f9d2c4-77b3-48d4-aac9-a9603bb0ca85.png?w=960&fit=max)
+*packet loss*
 
  For perspective, a Starlink outage becoming newsworthy (i.e. longer than a few hours) this isn’t that common. You would need to look back ~3 years for a similar coverage.
 
@@ -145,14 +137,8 @@ I'll be traveling and the newsletter daily posts will be done from 37k feet, air
 
  This is interesting on two levels. First, cyber incidents are “when not if” (so #hugops to the Allianz security and marcom teams responding as well as their technology partners) eventualities. Second, this eventuality reinforces Allianz Risk Barometer findings.
 
-<figure>
-<a href="https://commercial.allianz.com/news-and-insights/reports/allianz-risk-barometer.html" rel="noopener noreferrer" target="_blank">
-<img alt="Cyber incidents top the list of most important business risks" draggable="false" src="https://assets.buttondown.email/images/aa720411-0c86-425c-93d0-14b8ed4a4822.png?w=960&fit=max"/>
-</a>
-<figcaption>
-  Cyber incidents top the list
- </figcaption>
-</figure>
+[![Cyber incidents top the list of most important business risks](https://assets.buttondown.email/images/aa720411-0c86-425c-93d0-14b8ed4a4822.png?w=960&fit=max)](https://commercial.allianz.com/news-and-insights/reports/allianz-risk-barometer.html)
+*Cyber incidents top the list*
 
  Source:
  [https://commercial.allianz.com/news-and-insights/reports/allianz-risk-barometer.html](https://commercial.allianz.com/news-and-insights/reports/allianz-risk-barometer.html)

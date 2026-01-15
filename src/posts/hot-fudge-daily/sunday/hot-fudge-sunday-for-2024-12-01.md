@@ -6,6 +6,7 @@ date: 2024-12-01 17:55:00+00:00
 ---
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -18,9 +19,15 @@ As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
-Last week…<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Once again, many green things continue to appear." draggable="false" src="https://assets.buttondown.email/images/12b78f69-f6c7-4924-ac41-69cb2cc43511.png?w=960&fit=max"/></a><figcaption>Green things appeared last week.</figcaption></figure>
+Last week…
 
-By comparison…<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Double the green things appeared compared to last week." draggable="false" src="https://assets.buttondown.email/images/abf60daa-3273-4075-a837-c9bd8b916928.png?w=960&fit=max"/></a><figcaption>Double the green things appeared this week.</figcaption></figure>
+[![Once again, many green things continue to appear.](https://assets.buttondown.email/images/12b78f69-f6c7-4924-ac41-69cb2cc43511.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Green things appeared last week.*
+
+By comparison…
+
+[![Double the green things appeared compared to last week.](https://assets.buttondown.email/images/abf60daa-3273-4075-a837-c9bd8b916928.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Double the green things appeared this week.*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
@@ -85,7 +92,10 @@ By 2010, alternative browser popularity was still solidly in the shadows of Micr
 
 [https://www.techmeme.com/121002/p9#a121002p9](https://www.techmeme.com/121002/p9#a121002p9)
 
-By 2012, Chrome became available (yes, as a Beta) on Android. Now, there was a growth in mobile browsers besides Safari on iPhone and Safari on Windows has reached its nadir — and Chrome reached parity with MSIE.<figure><a href="https://gs.statcounter.com/browser-market-share#monthly-200901-201206" rel="noopener noreferrer" target="_blank"><img alt="Browser stats 2009-2012" draggable="false" src="https://assets.buttondown.email/images/a0aecb77-52a9-455d-88a3-ac02324ac345.png?w=960&fit=max"/></a><figcaption>Source: [https://gs.statcounter.com/browser-market-share#monthly-200901-201206](https://gs.statcounter.com/browser-market-share#monthly-200901-201206)</figcaption></figure>
+By 2012, Chrome became available (yes, as a Beta) on Android. Now, there was a growth in mobile browsers besides Safari on iPhone and Safari on Windows has reached its nadir — and Chrome reached parity with MSIE.
+
+[![Browser stats 2009-2012](https://assets.buttondown.email/images/a0aecb77-52a9-455d-88a3-ac02324ac345.png?w=960&fit=max)](https://gs.statcounter.com/browser-market-share#monthly-200901-201206)
+*Source: [https://gs.statcounter.com/browser-market-share#monthly-200901-201206](https://gs.statcounter.com/browser-market-share#monthly-200901-201206)*
 
 By 2013, Safari on iPhone had taken a commanding lead as a mobile browser. Increasingly, mobile was part of the browser market share story.
 
@@ -95,7 +105,10 @@ Fast forwarding to this year, Google Chrome isn’t just popular… it’s the m
 
 [https://www.techmeme.com/241120/p43#a241120p43](https://www.techmeme.com/241120/p43#a241120p43)
 
-Why now? Here’s [a hint](https://gs.statcounter.com/browser-market-share#monthly-200901-202410):<figure><a href="https://gs.statcounter.com/browser-market-share#monthly-200901-202410" rel="noopener noreferrer" target="_blank"><img alt="Browser stats 2009 to 2024" draggable="false" src="https://assets.buttondown.email/images/da07ad26-11b0-4556-a2ee-319ba6feb118.png?w=960&fit=max"/></a><figcaption>Source: [https://gs.statcounter.com/browser-market-share#monthly-200901-202410](https://gs.statcounter.com/browser-market-share#monthly-200901-202410)</figcaption></figure>
+Why now? Here’s [a hint](https://gs.statcounter.com/browser-market-share#monthly-200901-202410):
+
+[![Browser stats 2009 to 2024](https://assets.buttondown.email/images/da07ad26-11b0-4556-a2ee-319ba6feb118.png?w=960&fit=max)](https://gs.statcounter.com/browser-market-share#monthly-200901-202410)
+*Source: [https://gs.statcounter.com/browser-market-share#monthly-200901-202410](https://gs.statcounter.com/browser-market-share#monthly-200901-202410)*
 
 {{ subscribe_form }}<h3>✅ Final Thoughts Friday for 2024-11-29</h3>
 

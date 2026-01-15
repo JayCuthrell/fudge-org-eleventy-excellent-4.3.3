@@ -7,11 +7,17 @@ date: 2024-08-11 13:09:00+00:00
 
 
 
+
 <hr/><blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
 
-[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<figure><a href="https://unsplash.com/@m_usm04?utm_source=Buttondown&utm_medium=referral" rel="noopener noreferrer" target="_blank"><img alt="double dutch ice cream in glass" contenteditable="false" draggable="false" src="https://images.unsplash.com/photo-1571089465427-cd3c533e809f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Mjg2OTV8MHwxfHNlYXJjaHwyN3x8ZnVkZ2V8ZW58MHx8fHwxNzIyNzM3NDY5fDA&ixlib=rb-4.0.3&q=80&w=1080"/></a><figcaption>Photo by [Muhammad Usman](https://unsplash.com/@m_usm04?utm_source=Buttondown&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Buttondown&utm_medium=referral)</figcaption></figure><h2>Fudge Factor</h2>
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
+
+[![double dutch ice cream in glass](https://images.unsplash.com/photo-1571089465427-cd3c533e809f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Mjg2OTV8MHwxfHNlYXJjaHwyN3x8ZnVkZ2V8ZW58MHx8fHwxNzIyNzM3NDY5fDA&ixlib=rb-4.0.3&q=80&w=1080)](https://unsplash.com/@m_usm04?utm_source=Buttondown&utm_medium=referral)
+*Photo by [Muhammad Usman](https://unsplash.com/@m_usm04?utm_source=Buttondown&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Buttondown&utm_medium=referral)*
+
+<h2>Fudge Factor</h2>
 
 As of this update, [fudge.org](https://fudge.org) has transitioned to niche posts with a rebrand as “[Fudge Factor](https://fudge.org)”.
 
@@ -45,9 +51,15 @@ Looking at the week ahead for the tech market.
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
-Here is one from a few weeks ago before my two-ish week vacation.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heat Map view this week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/cad65354-15f0-4aa8-87d9-a3fdd325ccdd.png?w=960&fit=max"/></a><figcaption>Heat Map view mid July 2024</figcaption></figure>
+Here is one from a few weeks ago before my two-ish week vacation.
 
-This week… tells another tale.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="ONTO" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3cf7c5f7-2d06-459f-acc0-e413d2b56854.png?w=960&fit=max"/></a><figcaption>Heat Map this week</figcaption></figure>
+[![Heat Map view this week](https://assets.buttondown.email/images/cad65354-15f0-4aa8-87d9-a3fdd325ccdd.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map view mid July 2024*
+
+This week… tells another tale.
+
+[![ONTO](https://assets.buttondown.email/images/3cf7c5f7-2d06-459f-acc0-e413d2b56854.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map this week*
 
 Why? I don’t know but have a hunch it is because of semiconductors, value chains, and the like. Oh, and [this rise is happeningbeforeearnings on August 8, 2024](https://investors.ontoinnovation.com/news/news-details/2024/Onto-Innovation-to-Report-Second-Quarter-2024-Financial-Results-on-August-8-2024/default.aspx). 🤔
 

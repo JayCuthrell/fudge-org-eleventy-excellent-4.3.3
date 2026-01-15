@@ -6,9 +6,13 @@ date: 2024-11-19 03:28:23.844338+00:00
 ---
 
 
+
 And we’re back to the end of day snapshot… <h3 data-pm-slice="1 1 []">Quick Recap</h3>
 
-For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Once again, many green things continue to appear." draggable="false" src="https://assets.buttondown.email/images/12b78f69-f6c7-4924-ac41-69cb2cc43511.png?w=960&fit=max"/></a><figcaption>Once again, many green things continue to appear.</figcaption></figure>
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+[![Once again, many green things continue to appear.](https://assets.buttondown.email/images/12b78f69-f6c7-4924-ac41-69cb2cc43511.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Once again, many green things continue to appear.*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 

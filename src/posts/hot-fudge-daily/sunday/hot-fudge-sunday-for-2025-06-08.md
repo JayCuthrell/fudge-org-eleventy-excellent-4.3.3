@@ -6,6 +6,7 @@ date: 2025-06-08 20:21:59+00:00
 ---
 
 
+
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 ## Last week
@@ -23,7 +24,9 @@ Are you going to be in NYC next week on June 11-12?
 [https://www.linkedin.com/feed/update/urn:li:activity:7333870764112171008/](https://www.linkedin.com/feed/update/urn:li:activity:7333870764112171008/)
 
 Also, if you are an owner/operator in Hospitality / Leisure / Travel, [let me know if you’d like to be invited to  an exclusive event in NYC on June 12](https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler)! 🎟️🛥️🌃
-<figure><a href="https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler" rel="noopener noreferrer" target="_blank"><img alt="ESP Does NYC" draggable="false" src="https://assets.buttondown.email/images/525e8249-5cab-4522-a98e-15214dbb85f7.png?w=960&fit=max"/></a><figcaption>🎟️ 🛥️ 🌃</figcaption></figure>
+
+[![ESP Does NYC](https://assets.buttondown.email/images/525e8249-5cab-4522-a98e-15214dbb85f7.png?w=960&fit=max)](https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler)
+*🎟️ 🛥️ 🌃*
 
 (or, if you know someone in NYC that might be interest — please forward this newsletter along)
 
@@ -37,11 +40,14 @@ Also, if you are an owner/operator in Hospitality / Leisure / Travel, [let me kn
 
 ### Last week
 
-<figure><img alt="Slightly more spicy!" draggable="false" src="https://assets.buttondown.email/images/fd38e4b7-494f-40aa-82d0-cf49e4f9e72f.png?w=960&fit=max"/><figcaption>Slightly more spicy!</figcaption></figure>
+![Slightly more spicy!](https://assets.buttondown.email/images/fd38e4b7-494f-40aa-82d0-cf49e4f9e72f.png?w=960&fit=max)
+*Slightly more spicy!*
 
 ### This week
 
-<figure><img alt="Not as spicy" draggable="false" src="https://assets.buttondown.email/images/dd8121a7-767e-4cbf-ba3d-600ce9468730.png?w=960&fit=max"/><figcaption>Much less spicy…</figcaption></figure>
+![Not as spicy](https://assets.buttondown.email/images/dd8121a7-767e-4cbf-ba3d-600ce9468730.png?w=960&fit=max)
+*Much less spicy…*
+
  
 
 ## 🔥 Hot Takes Tuesday for 2025-06-03

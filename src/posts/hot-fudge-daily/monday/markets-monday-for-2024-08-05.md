@@ -6,6 +6,7 @@ date: 2024-08-06 01:49:19.322211+00:00
 ---
 
 
+
 Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
 
 Today was an odd day to listen to the news discussing the market. Everyone seems to have decided this is the beginning of the beginning of the end… or something to that effect. 
@@ -26,9 +27,15 @@ Looking at the week ahead for the tech market.
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
-Here is one from a few weeks ago before my two-ish week vacation.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heat Map view this week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/cad65354-15f0-4aa8-87d9-a3fdd325ccdd.png?w=960&fit=max"/></a><figcaption>Heat Map view mid July 2024</figcaption></figure>
+Here is one from a few weeks ago before my two-ish week vacation.
 
-This week… tells another tale.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="ONTO" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3cf7c5f7-2d06-459f-acc0-e413d2b56854.png?w=960&fit=max"/></a><figcaption>Heat Map this week</figcaption></figure>
+[![Heat Map view this week](https://assets.buttondown.email/images/cad65354-15f0-4aa8-87d9-a3fdd325ccdd.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map view mid July 2024*
+
+This week… tells another tale.
+
+[![ONTO](https://assets.buttondown.email/images/3cf7c5f7-2d06-459f-acc0-e413d2b56854.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map this week*
 
 Why? I don’t know but have a hunch it is because of semiconductors, value chains, and the like. Oh, and [this rise is happeningbeforeearnings on August 8, 2024](https://investors.ontoinnovation.com/news/news-details/2024/Onto-Innovation-to-Report-Second-Quarter-2024-Financial-Results-on-August-8-2024/default.aspx). 🤔
 

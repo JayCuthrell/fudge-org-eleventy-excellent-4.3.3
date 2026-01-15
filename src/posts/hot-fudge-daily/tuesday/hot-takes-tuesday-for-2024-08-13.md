@@ -6,13 +6,23 @@ date: 2024-08-13 14:28:50.320562+00:00
 ---
 
 
+
 Off the cuff analysis in a rapid fire format.
 
 First… a quick aside.
 
 SXSW 2025 PanelPicker voting started and I gathered some graphs.
 
-[https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)<figure><a href="https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop" rel="noopener noreferrer" target="_blank"><img alt="Track histogram" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/2e296671-16f6-4116-bf9e-5c56da42f372.png?w=960&fit=max"/></a><figcaption>Nobody puts baby (Quantum) in the corner?</figcaption></figure><figure><a href="https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop" rel="noopener noreferrer" target="_blank"><img alt="Format histogram" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/40788298-fe3b-4fc2-9550-405661b1de39.png?w=960&fit=max"/></a><figcaption>Form follows format?</figcaption></figure><figure><a href="https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop" rel="noopener noreferrer" target="_blank"><img alt="Levels histogram" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/1eae43d3-8bec-4440-ac3b-2439607e5fad.png?w=960&fit=max"/></a><figcaption>Goldilocks level?</figcaption></figure>
+[https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+
+[![Track histogram](https://assets.buttondown.email/images/2e296671-16f6-4116-bf9e-5c56da42f372.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+*Nobody puts baby (Quantum) in the corner?*
+
+[![Format histogram](https://assets.buttondown.email/images/40788298-fe3b-4fc2-9550-405661b1de39.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+*Form follows format?*
+
+[![Levels histogram](https://assets.buttondown.email/images/1eae43d3-8bec-4440-ac3b-2439607e5fad.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+*Goldilocks level?*
 
 Okay. Let’s dig in…<h2>Funds, Funding, and M&A</h2>
 

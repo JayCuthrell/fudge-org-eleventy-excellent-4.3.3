@@ -7,11 +7,15 @@ date: 2024-09-09 22:10:40.294642+00:00
 
 
 
+
 <h3>Reading Recommendation</h3>
 
 The technology market can be hard to keep up with and if you aren’t reading [Spyglass](https://spyglass.org/), you should be. As for why, the writer behind [Spyglass](https://spyglass.org/) is [M.G. Siegler](https://mgsiegler.com/about).<h3>Quick Recap</h3>
 
-As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Markets Monday for 2024-09-09" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/49c668e8-a834-4063-ba04-66b4b05f6c5e.png?w=960&fit=max"/></a><figcaption>Lots of green things on 📈 Markets Monday for 2024-09-09</figcaption></figure>
+As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.
+
+[![Markets Monday for 2024-09-09](https://assets.buttondown.email/images/49c668e8-a834-4063-ba04-66b4b05f6c5e.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Lots of green things on 📈 Markets Monday for 2024-09-09*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 

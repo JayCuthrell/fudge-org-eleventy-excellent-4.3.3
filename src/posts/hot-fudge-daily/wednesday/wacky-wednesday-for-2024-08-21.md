@@ -6,6 +6,7 @@ date: 2024-08-22 05:04:05.964191+00:00
 ---
 
 
+
 Each Wednesday I go through dozens of Slack communities and select the most interesting shared links found. This will always be a safe for work list. 🙈
 
 [https://inews.co.uk/opinion/comment/the-long-and-underappreciated-history-of-male-witches-and-the-countries-where-more-people-accused-of-witchcraft-were-men-354563](https://inews.co.uk/opinion/comment/the-long-and-underappreciated-history-of-male-witches-and-the-countries-where-more-people-accused-of-witchcraft-were-men-354563)
@@ -16,6 +17,12 @@ Each Wednesday I go through dozens of Slack communities and select the most inte
 
 [https://github.com/drakh/acid-generator](https://github.com/drakh/acid-generator)
 
-https://www.youtube.com/watch?v=rIQajWjgDQg<figure><img alt="change" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3f28cb37-0cfa-43b1-b07f-643639196f40.png?w=960&fit=max"/><figcaption>True story.</figcaption></figure>
+https://www.youtube.com/watch?v=rIQajWjgDQg
 
-[https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)<figure><img alt="hotdogs!" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/da7171a4-c33e-42ee-b641-2772c731e2c4.jpg?w=960&fit=max"/><figcaption>No substitutions please.</figcaption></figure>
+![change](https://assets.buttondown.email/images/3f28cb37-0cfa-43b1-b07f-643639196f40.png?w=960&fit=max)
+*True story.*
+
+[https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)
+
+![hotdogs!](https://assets.buttondown.email/images/da7171a4-c33e-42ee-b641-2772c731e2c4.jpg?w=960&fit=max)
+*No substitutions please.*

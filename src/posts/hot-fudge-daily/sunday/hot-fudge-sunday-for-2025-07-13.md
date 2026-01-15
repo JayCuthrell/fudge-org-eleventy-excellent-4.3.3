@@ -6,6 +6,7 @@ date: 2025-07-13 13:00:00.000+00:00
 ---
 
 
+
 Thanks again for sticking with new formats and redirects. 🤓
 
 {{ subscribe_form }}
@@ -28,7 +29,15 @@ I continue to streamline my process and believe I am getting closer to the level
 
 It’s much less spicy this week.<h3><strong>Last</strong> week</h3>
 
-Mergers and Quantumania!<figure><img alt="More spicy!" draggable="false" src="https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&fit=max"/><figcaption>More spicy!</figcaption></figure><h3>This Week</h3><figure><img alt="Not so spicy…" draggable="false" src="https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max"/><figcaption>Not so spicy…</figcaption></figure>
+Mergers and Quantumania!
+
+![More spicy!](https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&fit=max)
+*More spicy!*
+
+<h3>This Week</h3>
+
+![Not so spicy…](https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max)
+*Not so spicy…*
 
 Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
    
@@ -112,9 +121,15 @@ So, perhaps, this is more about a CEO with compensation tied to stock price.
 
 Surely, this isn’t about Top 10 by revenue. Even with declining revenue (~$50B), Intel has revenue that would easily keep it in a Top 10 list.
 
-Of course, stock price performance is a brutal comparison over 5 years. Also, the “too late” quip about NVIDIA makes more sense in this stock price performance view.<figure><img alt="Ouch." draggable="false" src="https://assets.buttondown.email/images/eab9cbe4-4bee-4a45-a9cb-d62a4158ba60.png?w=960&fit=max"/><figcaption>Ouch.</figcaption></figure>
+Of course, stock price performance is a brutal comparison over 5 years. Also, the “too late” quip about NVIDIA makes more sense in this stock price performance view.
 
-So, let’s look at Intel’s Market Cap performance… and…<figure><img alt="Ouch." draggable="false" src="https://assets.buttondown.email/images/59c5e6e8-a416-4bdf-b15d-6b3d8995e421.png?w=960&fit=max"/><figcaption>Ouch.</figcaption></figure>
+![Ouch.](https://assets.buttondown.email/images/eab9cbe4-4bee-4a45-a9cb-d62a4158ba60.png?w=960&fit=max)
+*Ouch.*
+
+So, let’s look at Intel’s Market Cap performance… and…
+
+![Ouch.](https://assets.buttondown.email/images/59c5e6e8-a416-4bdf-b15d-6b3d8995e421.png?w=960&fit=max)
+*Ouch.*
 
 If Market Cap is the only measurement, then Intel is well outside of the Top 10 list of semiconductor companies. If the downward trend continues, Intel will be at risk of staying in the Top 20 list of semiconductor companies.
 
@@ -126,7 +141,10 @@ Indeed, other news this week was the continuation of layoffs at Intel. Also, exp
 
 [https://www.oregonlive.com/silicon-forest/2025/07/intel-layoffs-begin-chipmaker-is-cutting-many-thousands-of-jobs.html](https://www.oregonlive.com/silicon-forest/2025/07/intel-layoffs-begin-chipmaker-is-cutting-many-thousands-of-jobs.html)
 
-While 5 days isn’t the same as 5 years… news travels fast.<figure><img alt="Intel “outperformed” NVIDIA… this week." draggable="false" src="https://assets.buttondown.email/images/13c3e26c-92d6-44c3-aab0-344a310e66e9.png?w=960&fit=max"/><figcaption>Intel “outperformed” NVIDIA… this week.</figcaption></figure>
+While 5 days isn’t the same as 5 years… news travels fast.
+
+![Intel “outperformed” NVIDIA… this week.](https://assets.buttondown.email/images/13c3e26c-92d6-44c3-aab0-344a310e66e9.png?w=960&fit=max)
+*Intel “outperformed” NVIDIA… this week.*
 
 ---
 

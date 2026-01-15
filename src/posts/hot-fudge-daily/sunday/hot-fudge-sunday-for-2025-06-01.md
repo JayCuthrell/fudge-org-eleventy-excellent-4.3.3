@@ -7,6 +7,7 @@ date: 2025-06-01 20:27:45+00:00
 
 
 
+
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.<h2>Last week</h2>
 
 Last week was a shorter week due to the holiday weekend.
@@ -29,7 +30,9 @@ U.S. stock markets were closed on Monday, May 26th 2025 in observance of Memoria
 
 Two hot takes on the market.
 
-Tuesday arrived with tech stock movement after Monday markets being closed for observance of Memorial Day.<figure><img alt="Tuesday Market snapshot of tech movers" draggable="false" src="https://assets.buttondown.email/images/50d9ee5f-3c66-4410-948d-434957fc923f.png?w=960&fit=max"/><figcaption></figcaption></figure>
+Tuesday arrived with tech stock movement after Monday markets being closed for observance of Memorial Day.
+
+![Tuesday Market snapshot of tech movers](https://assets.buttondown.email/images/50d9ee5f-3c66-4410-948d-434957fc923f.png?w=960&fit=max)
 
 Tuesday also arrived with two acquisitions that were long overdue: Red Canary and Informatica
 

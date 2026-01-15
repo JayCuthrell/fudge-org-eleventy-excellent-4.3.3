@@ -6,6 +6,7 @@ date: 2025-07-06 14:40:01.268+00:00
 ---
 
 
+
 As I mentioned last week, [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) continues to be my [trusted newsletter delivery service](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email). My simple [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) and Mastodon related [python scripts](https://github.com/JayCuthrell/buttondown-python-scripts) handle the replication to [fudge.org](https://fudge.org/) now.
 
 {{ subscribe_form }}<h2>Last week</h2>
@@ -18,9 +19,17 @@ Depending on the weather in Raleigh-Durham this week, I’m looking forward to [
 
 It’s triple the spicy this week.<h3><strong>Last</strong> week</h3>
 
-AI, space satellites, and AI related networking!<figure><img alt="Not so spicy…" draggable="false" src="https://assets.buttondown.email/images/7d75d1d0-d5c2-45dd-9421-bffaffc9dd4c.png?w=960&fit=max"/><figcaption>Not so spicy…</figcaption></figure><h3>This week</h3>
+AI, space satellites, and AI related networking!
 
-Mergers and Quantumania!<figure><img alt="More spicy!" draggable="false" src="https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&fit=max"/><figcaption>More spicy!</figcaption></figure>
+![Not so spicy…](https://assets.buttondown.email/images/7d75d1d0-d5c2-45dd-9421-bffaffc9dd4c.png?w=960&fit=max)
+*Not so spicy…*
+
+<h3>This week</h3>
+
+Mergers and Quantumania!
+
+![More spicy!](https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&fit=max)
+*More spicy!*
 
 Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)<h2>🔥 Hot Takes Tuesday for 2025-07-01</h2>
 
@@ -49,22 +58,15 @@ CEOs claiming AI will replace people in current jobs is click bait at best and s
 [Surveys are plentiful in characterizing CEO confidence](https://info.futurumgroup.com/ceos-ai-2025) but the same was true of “digital transformation” before this and “big data” of years before that. Results matter.
 
 A year ago, I attended “[Life After Big Tech: Where Are Laid Off Workers Now?](https://schedule.sxsw.com/2024/events/PP141421)“ at SXSW 2024. Here are some of [my notes](https://fudge.org/archive/sxsw-2024-days-1-3/):
-* Trends leading to where we are today<ul><li>
-
-Over hiring</li><li>
-
-Bloated and overstuffed organizations</li><li>
-
-<em>AI and automation rendering some amount of labor reductions</em></li></ul>
-* Debates<ul><li>
-
-Layoffs as a mask for poor performance</li><li>
-
-<em>Instead of 20 staff with a speciality, you’ll need 2 because of AI</em></li><li>
-
-<em>If you can be Upwork’d you can be AI’d</em></li><li>
-
-<em>There are freelancers doing top 1% work getting a 16% increase in their rates and 12% more revenue from AI as their toolchain</em></li></ul>
+* Trends leading to where we are today
+* Over hiring
+* Bloated and overstuffed organizations
+* <em>AI and automation rendering some amount of labor reductions</em>
+* Debates
+* Layoffs as a mask for poor performance
+* <em>Instead of 20 staff with a speciality, you’ll need 2 because of AI</em>
+* <em>If you can be Upwork’d you can be AI’d</em>
+* <em>There are freelancers doing top 1% work getting a 16% increase in their rates and 12% more revenue from AI as their toolchain</em>
 
 Source:
 

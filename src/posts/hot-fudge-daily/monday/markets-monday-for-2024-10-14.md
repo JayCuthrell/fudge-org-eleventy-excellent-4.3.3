@@ -7,6 +7,7 @@ date: 2024-10-14 21:22:49.923456+00:00
 
 
 
+
 <h3>Remember and Reminder on Reactors</h3>
 
 You might recall [my Hot Fudge Daily update from last month](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-22/)…<blockquote class="pullquote">
@@ -19,7 +20,10 @@ https://www.youtube.com/watch?v=S163YUdfckg
 
 [https://kairospower.com/technology/](https://kairospower.com/technology/)<h3>Quick Recap</h3>
 
-For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="A few green things on 📈 Markets Monday for 2024-10-14" draggable="false" src="https://assets.buttondown.email/images/81ad1387-0786-4058-8149-5ec4da11783c.png?w=960&fit=max"/></a><figcaption>A few green things on 📈 Markets Monday for 2024-10-14</figcaption></figure>
+For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.
+
+[![A few green things on 📈 Markets Monday for 2024-10-14](https://assets.buttondown.email/images/81ad1387-0786-4058-8149-5ec4da11783c.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*A few green things on 📈 Markets Monday for 2024-10-14*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 

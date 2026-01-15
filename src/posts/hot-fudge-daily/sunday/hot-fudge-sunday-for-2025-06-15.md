@@ -7,6 +7,7 @@ date: 2025-06-15 13:55:44+00:00
 
 
 
+
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 {{ subscribe_form }}<h2>Last week</h2>
@@ -19,13 +20,26 @@ NexusTek presented at [an amazing business leader event](https://www.linkedin.co
 
 [https://www.linkedin.com/feed/update/urn:li:activity:7333870764112171008/](https://www.linkedin.com/feed/update/urn:li:activity:7333870764112171008/)
 
-NexusTek hosted [an exclusive 🎟️🛥️🌃 event in NYC on on Thursday](https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler)!<figure><a href="https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler" rel="noopener noreferrer" target="_blank"><img alt="ESP Does NYC" draggable="false" src="https://assets.buttondown.email/images/525e8249-5cab-4522-a98e-15214dbb85f7.png?w=960&fit=max"/></a><figcaption>🎟️ 🛥️ 🌃</figcaption></figure><h2>This week</h2>
+NexusTek hosted [an exclusive 🎟️🛥️🌃 event in NYC on on Thursday](https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler)!
+
+[![ESP Does NYC](https://assets.buttondown.email/images/525e8249-5cab-4522-a98e-15214dbb85f7.png?w=960&fit=max)](https://meetings.hubspot.com/gil-rosario/bde-rr-scheduler)
+*🎟️ 🛥️ 🌃*
+
+<h2>This week</h2>
 
 I’m going to experiment with [a new meeting maker landing page](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell) — just click if you want to catch up soon!
 
-[https://info.nexustek.com/request-a-meeting-with-jay-cuthrell](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h2>📈 Markets Monday for 2025-06-09</h2><h3>Last week</h3><figure><img alt="Not as spicy" draggable="false" src="https://assets.buttondown.email/images/dd8121a7-767e-4cbf-ba3d-600ce9468730.png?w=960&fit=max"/><figcaption>Much less spicy…</figcaption></figure><h3>This week</h3>
+[https://info.nexustek.com/request-a-meeting-with-jay-cuthrell](https://info.nexustek.com/request-a-meeting-with-jay-cuthrell)<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h2>📈 Markets Monday for 2025-06-09</h2><h3>Last week</h3>
 
-It’s all about love and rockets… so, a bit more spicy.<figure><img alt="More spicy!" draggable="false" src="https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max"/><figcaption>More spicy!</figcaption></figure>
+![Not as spicy](https://assets.buttondown.email/images/dd8121a7-767e-4cbf-ba3d-600ce9468730.png?w=960&fit=max)
+*Much less spicy…*
+
+<h3>This week</h3>
+
+It’s all about love and rockets… so, a bit more spicy.
+
+![More spicy!](https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max)
+*More spicy!*
 
 Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)<h2>🔥 Hot Takes Tuesday for 2025-06-10</h2>
 

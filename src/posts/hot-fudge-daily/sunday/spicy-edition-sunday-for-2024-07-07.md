@@ -7,6 +7,7 @@ date: 2024-07-07 16:00:00+00:00
 
 
 
+
 <h1>Spicy Edition Sunday for 2024-07-07</h1>
 
 Welcome to 🌶️ Spicy Edition Sunday!
@@ -21,15 +22,27 @@ By next month [fudge.org](http://fudge.org) will become a funnel to drive more t
 
 {{ subscribe_form }}<h2>📈 Markets Monday</h2>
 
-Previously, I mentioned adding a 5 day view contrasted with a 5 year view.<figure><a href="https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ" rel="noopener noreferrer" target="_blank"><img alt="5 day view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/8234fdb7-a729-4946-bb1b-aca709afeb89.png?w=960&fit=max"/></a><figcaption>5 day view</figcaption></figure><figure><a href="https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ" rel="noopener noreferrer" target="_blank"><img alt="5 year view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/a3aa1934-36e8-425d-8d78-f3df98ecb8a6.png?w=960&fit=max"/></a><figcaption>5 year view</figcaption></figure>
+Previously, I mentioned adding a 5 day view contrasted with a 5 year view.
+
+[![5 day view](https://assets.buttondown.email/images/8234fdb7-a729-4946-bb1b-aca709afeb89.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ)
+*5 day view*
+
+[![5 year view](https://assets.buttondown.email/images/a3aa1934-36e8-425d-8d78-f3df98ecb8a6.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ)
+*5 year view*
 
 And so, “this seems to be going up for now”, is still true on a long enough timeline.<h2>This week</h2>
 
 Looking at the week ahead for the tech market.
 
-Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heat Map view last week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/84cbf859-e1ad-409d-9d82-1e8d588b54c4.png?w=960&fit=max"/></a><figcaption>Heat Map view last week</figcaption></figure>
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
-And… the winners list narrowed from five to… two.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heat Map view this week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/1c5dfdcf-fcba-4686-af3f-f1987e705359.png?w=960&fit=max"/></a><figcaption>Heat Map view this week</figcaption></figure>
+[![Heat Map view last week](https://assets.buttondown.email/images/84cbf859-e1ad-409d-9d82-1e8d588b54c4.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map view last week*
+
+And… the winners list narrowed from five to… two.
+
+[![Heat Map view this week](https://assets.buttondown.email/images/1c5dfdcf-fcba-4686-af3f-f1987e705359.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map view this week*
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
 * % Change in Price (Intraday):<strong>greater than 4</strong>
@@ -88,7 +101,10 @@ https://www.youtube.com/watch?v=wdNsxYcID1U
 
 If you were to look back 40 years at press coverage, you’d probably not bat an eyelash for the impact of one company on the current underpinnings of A.I. fervor today.
 
-[Micron](https://finance.yahoo.com/quote/MU/) - While it might seem like it has been 40 years, Micron has been a fixture in technology for decades since and decades to come. Recent commentary on HBM alone is just the latest story in the history of this amazing company.<figure><a href="https://www.google.com/finance/quote/MU:NASDAQ?sa=X&window=MAX" rel="noopener noreferrer" target="_blank"><img alt="MU stock price graph from 1984 to Present" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/165d3c42-1f40-49ab-aa5f-f4d35b83fd0a.png?w=960&fit=max"/></a><figcaption>MU from 1984 to Present</figcaption></figure>
+[Micron](https://finance.yahoo.com/quote/MU/) - While it might seem like it has been 40 years, Micron has been a fixture in technology for decades since and decades to come. Recent commentary on HBM alone is just the latest story in the history of this amazing company.
+
+[![MU stock price graph from 1984 to Present](https://assets.buttondown.email/images/165d3c42-1f40-49ab-aa5f-f4d35b83fd0a.png?w=960&fit=max)](https://www.google.com/finance/quote/MU:NASDAQ?sa=X&window=MAX)
+*MU from 1984 to Present*
 
 [https://www.techmeme.com/240626/p41#a240626p41](https://www.techmeme.com/240626/p41#a240626p41)
 

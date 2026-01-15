@@ -7,6 +7,7 @@ date: 2024-08-18 12:55:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -29,15 +30,27 @@ Looking at the week ahead for the tech market.
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
-Last week was a bit anemic.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="ONTO" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3cf7c5f7-2d06-459f-acc0-e413d2b56854.png?w=960&fit=max"/></a><figcaption>Heat Map last week</figcaption></figure>
+Last week was a bit anemic.
+
+[![ONTO](https://assets.buttondown.email/images/3cf7c5f7-2d06-459f-acc0-e413d2b56854.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map last week*
 
 Last week I had a hunch it is because of semiconductors, value chains, and the like. Oh, and [this rise is happeningbeforeearnings on August 8, 2024](https://investors.ontoinnovation.com/news/news-details/2024/Onto-Innovation-to-Report-Second-Quarter-2024-Financial-Results-on-August-8-2024/default.aspx). 🤔
 
-This looks a lot like someone knew something. Maybe?<figure><img alt="$ONTO 5D performance" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/a201d8a1-451e-47ab-859f-f195698137bb.png?w=960&fit=max"/><figcaption>$ONTO speculation?</figcaption></figure>
+This looks a lot like someone knew something. Maybe?
 
-Let’s zoom out a bit. Ah, the rise on the fall of the rise.<figure><img alt="$ONTO 1M performance" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/4f39134d-462a-427a-a056-a0a491aafdbd.png?w=960&fit=max"/><figcaption>$ONTO seems normal</figcaption></figure>
+![$ONTO 5D performance](https://assets.buttondown.email/images/a201d8a1-451e-47ab-859f-f195698137bb.png?w=960&fit=max)
+*$ONTO speculation?*
 
-As for my regular screenshot at the end of a Monday? Behold.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap?utm_source=hot-fudge-daily&utm_medium=email" rel="noopener noreferrer" target="_blank"><img alt="My regular heatmap" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/73757d58-a41c-4c34-9b45-11bab80516ed.png?w=960&fit=max"/></a><figcaption>Nature is healing? 🤣</figcaption></figure>
+Let’s zoom out a bit. Ah, the rise on the fall of the rise.
+
+![$ONTO 1M performance](https://assets.buttondown.email/images/4f39134d-462a-427a-a056-a0a491aafdbd.png?w=960&fit=max)
+*$ONTO seems normal*
+
+As for my regular screenshot at the end of a Monday? Behold.
+
+[![My regular heatmap](https://assets.buttondown.email/images/73757d58-a41c-4c34-9b45-11bab80516ed.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap?utm_source=hot-fudge-daily&utm_medium=email)
+*Nature is healing? 🤣*
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
 * % Change in Price (Intraday):<strong>greater than 4</strong>
@@ -59,7 +72,16 @@ First… a quick aside.
 
 SXSW 2025 PanelPicker voting started and I gathered some graphs.
 
-[https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)<figure><a href="https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop" rel="noopener noreferrer" target="_blank"><img alt="Track histogram" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/2e296671-16f6-4116-bf9e-5c56da42f372.png?w=960&fit=max"/></a><figcaption>Nobody puts baby (Quantum) in the corner?</figcaption></figure><figure><a href="https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop" rel="noopener noreferrer" target="_blank"><img alt="Format histogram" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/40788298-fe3b-4fc2-9550-405661b1de39.png?w=960&fit=max"/></a><figcaption>Form follows format?</figcaption></figure><figure><a href="https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop" rel="noopener noreferrer" target="_blank"><img alt="Levels histogram" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/1eae43d3-8bec-4440-ac3b-2439607e5fad.png?w=960&fit=max"/></a><figcaption>Goldilocks level?</figcaption></figure>
+[https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+
+[![Track histogram](https://assets.buttondown.email/images/2e296671-16f6-4116-bf9e-5c56da42f372.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+*Nobody puts baby (Quantum) in the corner?*
+
+[![Format histogram](https://assets.buttondown.email/images/40788298-fe3b-4fc2-9550-405661b1de39.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+*Form follows format?*
+
+[![Levels histogram](https://assets.buttondown.email/images/1eae43d3-8bec-4440-ac3b-2439607e5fad.png?w=960&fit=max)](https://www.linkedin.com/posts/jaycuthrell_panelpicker-activity-7229116768751890432-n-2x?utm_source=share&utm_medium=member_desktop)
+*Goldilocks level?*
 
 Okay. Let’s dig in…<h2>Funds, Funding, and M&A</h2>
 
@@ -94,13 +116,22 @@ One unique thing about online Slack Communities is the use of #random channel. S
 
 Each week I go through dozens of Slack communities and select the most interesting shared links found. This will be a safe for work list.
 
-Join me in this collection of what is being shared that is wow, wild, wtf, and wacky each Wednesday.<figure><img alt="Sales Engineer humor" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/daa740ba-1408-41cf-aac3-804c8b422559.png?w=960&fit=max"/><figcaption>Sales Engineer humor</figcaption></figure><figure><img alt="Telecom humor" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/744c7c40-e9fa-4078-a15d-a467d55f7188.png?w=960&fit=max"/><figcaption>Telecom humor</figcaption></figure>
+Join me in this collection of what is being shared that is wow, wild, wtf, and wacky each Wednesday.
+
+![Sales Engineer humor](https://assets.buttondown.email/images/daa740ba-1408-41cf-aac3-804c8b422559.png?w=960&fit=max)
+*Sales Engineer humor*
+
+![Telecom humor](https://assets.buttondown.email/images/744c7c40-e9fa-4078-a15d-a467d55f7188.png?w=960&fit=max)
+*Telecom humor*
 
 [https://interestingengineering.com/energy/mayonnaise-may-unlock-never-unstable-nuclear-fusion](https://interestingengineering.com/energy/mayonnaise-may-unlock-never-unstable-nuclear-fusion)
 
 But if you watched Disney movies from the late 1970s… you may know the “mayonnaise” (13m 20s) story already… [https://www.youtube.com/watch?v=3NfQSurV6Ck&t=800s](https://www.youtube.com/watch?v=3NfQSurV6Ck&t=800s)
 
-[https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)<figure><img alt="Ice cream humor" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3a2e2a5e-42a5-46c0-b0bb-e73aa296734e.png?w=960&fit=max"/><figcaption>Ice cream humor</figcaption></figure>
+[https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
+
+![Ice cream humor](https://assets.buttondown.email/images/3a2e2a5e-42a5-46c0-b0bb-e73aa296734e.png?w=960&fit=max)
+*Ice cream humor*
 
 [https://www.theonion.com/cia-realizes-its-been-using-black-highlighters-all-thes-1819568147](https://www.theonion.com/cia-realizes-its-been-using-black-highlighters-all-thes-1819568147)
    

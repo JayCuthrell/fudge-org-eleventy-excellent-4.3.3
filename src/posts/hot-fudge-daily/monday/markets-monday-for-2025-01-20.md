@@ -6,11 +6,15 @@ date: 2025-01-21 15:15:37.806206+00:00
 ---
 
 
+
 As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
-Last week:<figure><a href="https://finance.yahoo.com/" rel="noopener noreferrer" target="_blank"><img alt="Spicy level 1… and the end of year calm returns." draggable="false" src="https://assets.buttondown.email/images/8a1ed8b7-bb6d-4dbf-88c6-350ba113de9b.png?w=960&fit=max"/></a><figcaption>Spicy level 1… a new year calm returns.</figcaption></figure>
+Last week:
+
+[![Spicy level 1… and the end of year calm returns.](https://assets.buttondown.email/images/8a1ed8b7-bb6d-4dbf-88c6-350ba113de9b.png?w=960&fit=max)](https://finance.yahoo.com/)
+*Spicy level 1… a new year calm returns.*
 
 This week:<blockquote class="pullquote">
 

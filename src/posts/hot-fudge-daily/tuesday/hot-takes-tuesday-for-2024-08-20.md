@@ -6,9 +6,13 @@ date: 2024-08-20 23:55:29.756807+00:00
 ---
 
 
+
 Off the cuff analysis in a rapid fire format.
 
-First… a quick nerdy aside. My [Pi-hole](https://pi-hole.net/) approved list of FQDNs grows one entry at a time. Better than 1/5 of objectionable (to me) traffic is being effectively blocked. 🙏<figure><a href="https://pi-hole.net" rel="noopener noreferrer" target="_blank"><img alt="Dashboard of my pi-hole showing 22.4% of objectionable traffic being blocked" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/4c11dac7-e97a-47bd-a552-d009e93cf108.png?w=960&fit=max"/></a><figcaption>22.4% less garbage in my Interwebs!</figcaption></figure>
+First… a quick nerdy aside. My [Pi-hole](https://pi-hole.net/) approved list of FQDNs grows one entry at a time. Better than 1/5 of objectionable (to me) traffic is being effectively blocked. 🙏
+
+[![Dashboard of my pi-hole showing 22.4% of objectionable traffic being blocked](https://assets.buttondown.email/images/4c11dac7-e97a-47bd-a552-d009e93cf108.png?w=960&fit=max)](https://pi-hole.net)
+*22.4% less garbage in my Interwebs!*
 
 And back to our regular Hot Takes Tuesday…<h2>Funds, Funding, and M&A</h2>
 

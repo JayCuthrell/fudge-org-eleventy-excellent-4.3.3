@@ -7,6 +7,7 @@ date: 2024-07-04 23:17:24.099581+00:00
 
 
 
+
 <h1>Throwback Thursday for 2024-07-04</h1>
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.
@@ -17,6 +18,9 @@ Past examples of "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?ut
 
 For example, if you were to look back 40 years press coverage, you’d probably not bat an eyelash for the impact of one company on the current underpinnings of A.I. fervor today.
 
-[Micron](https://finance.yahoo.com/quote/MU/) - While it might seem like it has been 40 years, Micron has been a fixture in technology for decades since and decades to come. Recent commentary on HBM alone is just the latest story in the history of this amazing company.<figure><a href="https://www.google.com/finance/quote/MU:NASDAQ?sa=X&window=MAX" rel="noopener noreferrer" target="_blank"><img alt="MU stock price graph from 1984 to Present" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/165d3c42-1f40-49ab-aa5f-f4d35b83fd0a.png?w=960&fit=max" style="width: nullpx !important; display:block; margin:auto;"/></a><figcaption>MU from 1984 to Present</figcaption></figure>
+[Micron](https://finance.yahoo.com/quote/MU/) - While it might seem like it has been 40 years, Micron has been a fixture in technology for decades since and decades to come. Recent commentary on HBM alone is just the latest story in the history of this amazing company.
+
+[![MU stock price graph from 1984 to Present](https://assets.buttondown.email/images/165d3c42-1f40-49ab-aa5f-f4d35b83fd0a.png?w=960&fit=max)](https://www.google.com/finance/quote/MU:NASDAQ?sa=X&window=MAX)
+*MU from 1984 to Present*
 
 [https://www.techmeme.com/240626/p41#a240626p41](https://www.techmeme.com/240626/p41#a240626p41)

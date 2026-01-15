@@ -7,6 +7,7 @@ date: 2025-06-29 13:00:00+00:00
 
 
 
+
 This week is a shorter vacation edition of 🌶️ Hot Fudge Sunday. During vacation, I worked out how to mirror all prior [fudge.org](http://fudge.org) [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) hosted content (~370+ posts) on [fudge.org](http://fudge.org) and will be collapsing the archives there soon with a redirect.
 
 Once web archives are migrated, [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) will continue to be my [trusted newsletter delivery service](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email). In case you are interested, I ended up adding two simple [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) and Mastodon related [python scripts](https://github.com/JayCuthrell/buttondown-python-scripts) to handle manual migration and a mistake I made with automation while testing.
@@ -23,9 +24,17 @@ Last week I toook a glorious vacation, but NexusTek kept rockin’ without me!
 
 🪫 ➡️ 🔋 I’m recharged from vacation and looking forward to getting back into the groove again.<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h2>📈 Markets Monday for 2025-06-23</h2><h3><strong>Last week</strong></h3>
 
-Quantumania!<figure><img alt="Even more spicy!" draggable="false" src="https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max"/><figcaption>Even more spicy!</figcaption></figure><h3>This week</h3>
+Quantumania!
 
-AI, space satellites, and AI related networking!<figure><img alt="Not so spicy…" draggable="false" src="https://assets.buttondown.email/images/7d75d1d0-d5c2-45dd-9421-bffaffc9dd4c.png?w=960&fit=max"/><figcaption>Not so spicy…</figcaption></figure>
+![Even more spicy!](https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max)
+*Even more spicy!*
+
+<h3>This week</h3>
+
+AI, space satellites, and AI related networking!
+
+![Not so spicy…](https://assets.buttondown.email/images/7d75d1d0-d5c2-45dd-9421-bffaffc9dd4c.png?w=960&fit=max)
+*Not so spicy…*
 
 Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)<h2>🔥 Hot Takes Tuesday for 2025-06-24</h2>
 

@@ -7,6 +7,7 @@ date: 2024-12-15 16:45:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -49,9 +50,15 @@ As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
-Last week…<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Still many green things" draggable="false" src="https://assets.buttondown.email/images/5b745842-dd8f-4120-a08a-9e6d43673cbc.png?w=960&fit=max"/></a><figcaption>Many green things</figcaption></figure>
+Last week…
 
-This week…<figure><a href="Not as many green things" rel="noopener noreferrer" target="_blank"><img alt="Not as many green things" draggable="false" src="https://assets.buttondown.email/images/54b12512-6b18-4b04-923b-d536607da93c.png?w=960&fit=max"/></a><figcaption>Not as many green things</figcaption></figure>
+[![Still many green things](https://assets.buttondown.email/images/5b745842-dd8f-4120-a08a-9e6d43673cbc.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Many green things*
+
+This week…
+
+[![Not as many green things](https://assets.buttondown.email/images/54b12512-6b18-4b04-923b-d536607da93c.png?w=960&fit=max)](Not as many green things)
+*Not as many green things*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 

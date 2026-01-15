@@ -7,6 +7,7 @@ date: 2024-11-10 17:59:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -19,7 +20,10 @@ There are many sayings about change. This week was a lot to take in outside of m
 
 Besides the grand A/B test 📊 at scale experiment 🧪 of these United States 🇺🇸, I was also traveling and working with clients as the year counts down until 2025. 🤓<h2>Looking back on 2024...</h2>
 
-It's pretty remarkable what Buttondown, 11ty, and my workflow automation have enabled me to publish in 2024.<figure><a href="https://notbyai.fyi/" rel="noopener noreferrer" target="_blank"><img alt="https://notbyai.fyi" draggable="false" src="https://buttondown-attachments.s3.amazonaws.com/images/cac2ad37-7f5c-4f49-b956-d2b9872b22cb.svg?w=960&fit=max"/></a><figcaption>[https://notbyai.fyi](https://notbyai.fyi)</figcaption></figure>
+It's pretty remarkable what Buttondown, 11ty, and my workflow automation have enabled me to publish in 2024.
+
+[![https://notbyai.fyi](https://buttondown-attachments.s3.amazonaws.com/images/cac2ad37-7f5c-4f49-b956-d2b9872b22cb.svg?w=960&fit=max)](https://notbyai.fyi/)
+*[https://notbyai.fyi](https://notbyai.fyi)*
 
 Also, my newsletter expanded into newsletters plural.
 

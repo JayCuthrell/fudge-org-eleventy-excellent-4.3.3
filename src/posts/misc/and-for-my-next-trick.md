@@ -6,10 +6,9 @@ title: And for my next trick
 ---
 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jcuthrell/2582551200/in/photolist-bScBX-bScGQ-bScuv-kDKeaG-kDHvC4-4WdfuQ-bScLm-bScRi" title="Wayback machine: Red Hat badge for iXL"><img alt="Wayback machine: Red Hat badge for iXL" height="480" src="https://live.staticflickr.com/3030/2582551200_54422ecac2_z.jpg" width="640"/></a>
+
+[![Wayback machine: Red Hat badge for iXL](https://live.staticflickr.com/3030/2582551200_54422ecac2_z.jpg)](https://www.flickr.com/photos/jcuthrell/2582551200/in/photolist-bScBX-bScGQ-bScuv-kDKeaG-kDHvC4-4WdfuQ-bScLm-bScRi)
 > *[Interactive script removed]*
-
-
 
 To: All Scient Global
 

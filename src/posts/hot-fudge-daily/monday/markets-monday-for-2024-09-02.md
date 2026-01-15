@@ -6,6 +6,7 @@ date: 2024-09-02 19:56:35.073613+00:00
 ---
 
 
+
 <em>Today is Labor Day in the United States and markets are closed. Enjoy this free Labor Day edition of Markets Monday.</em>
 
 Happy Labor Day! Labor Day is an important national holiday and important part of the relatively short history of the United States. 🇺🇸
@@ -37,4 +38,7 @@ If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/sc
 * Sector:<strong> Technology</strong>
 * Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong><blockquote class="pullquote">
 
-Update: Here’s what this chart looked like just before building this digest for Sunday September 1, 2025.</blockquote><figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Hot Fudge Daily Monday Markets Heatmap as of Sunday September 1, 2025" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/7b3fd1f0-cea0-42f1-b459-3c981f9846a2.png?w=960&fit=max"/></a><figcaption>Hot Fudge Daily Monday Markets as of Sunday September 1, 2025</figcaption></figure>
+Update: Here’s what this chart looked like just before building this digest for Sunday September 1, 2025.</blockquote>
+
+[![Hot Fudge Daily Monday Markets Heatmap as of Sunday September 1, 2025](https://assets.buttondown.email/images/7b3fd1f0-cea0-42f1-b459-3c981f9846a2.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Hot Fudge Daily Monday Markets as of Sunday September 1, 2025*

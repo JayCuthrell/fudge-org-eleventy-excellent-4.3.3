@@ -5,6 +5,7 @@ date: 2024-04-21
 ---
 
 
+
 This week we take a look at plants, polyphony, and progressively converging technologies over the past 20 years.
 
 ## Housekeeping Notes
@@ -35,9 +36,8 @@ To understand my sheer delight and joy about [Data Garden](https://www.youtube.c
 
 Convergence is on display at your grocery store. For example, if you've flown over the rural US, you might recall seeing [green and brown circles or semi-circles from your airplane window seat](https://www.flickr.com/photos/wessexman/18743017212).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wessexman/18743017212/in/photolist-uyfS2b-2jwtQMK-2oy8YFH-puBKD6-2n35EH4-qLx7VX-59pLRD-UzN8Sw-227vQob-Tzw52K-q19XTu-2nGb99n-qURZCQ-pwuUYz-pPtWaZ-oNw6gn-oNt7N7-psVfKL-CYth8Q-oNt88f-8GmrXv-q1ntYV-zCtyVq-gxtqVY-2ej3rBq-H7vnXi-qEGGi4-2bK9LgG-2fkkmCC-psQ67g-ipa1sq-pwZVAg-pNKLCn-CQzvjG-2h6mwCx-q1ntFk-2iWgzvz-pwxyxY-UajMSq-cMyTUm-nVq3FZ-pwZsxG-2nW4wCz-psSCNh-px5Ly1-qX5xoJ-ng6GPk-ipa2Wj-nzbVX1-RCeAgS" title="Crop circles over Kansas?"><img alt="Crop circles over Kansas?" height="276" src="https://live.staticflickr.com/440/18743017212_8f77660409.jpg" width="500"/></a>
+[![Crop circles over Kansas?](https://live.staticflickr.com/440/18743017212_8f77660409.jpg)](https://www.flickr.com/photos/wessexman/18743017212/in/photolist-uyfS2b-2jwtQMK-2oy8YFH-puBKD6-2n35EH4-qLx7VX-59pLRD-UzN8Sw-227vQob-Tzw52K-q19XTu-2nGb99n-qURZCQ-pwuUYz-pPtWaZ-oNw6gn-oNt7N7-psVfKL-CYth8Q-oNt88f-8GmrXv-q1ntYV-zCtyVq-gxtqVY-2ej3rBq-H7vnXi-qEGGi4-2bK9LgG-2fkkmCC-psQ67g-ipa1sq-pwZVAg-pNKLCn-CQzvjG-2h6mwCx-q1ntFk-2iWgzvz-pwxyxY-UajMSq-cMyTUm-nVq3FZ-pwZsxG-2nW4wCz-psSCNh-px5Ly1-qX5xoJ-ng6GPk-ipa2Wj-nzbVX1-RCeAgS)
 > *[Interactive script removed]*
-
 
 To be clear, these are not [alien crop circles](https://www.npr.org/sections/13.7/2011/06/15/137188796/mysterious-crop-circles-alien-messages-or-hoax). Rather, they are the image of [pivot farm operations](https://en.wikipedia.org/wiki/Center-pivot_irrigation) where many of the plants we consume and the natural fibers we wear are grown.
 

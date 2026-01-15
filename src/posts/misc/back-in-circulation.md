@@ -4,6 +4,7 @@ description: "A look at what's next in post-pandemic travel and apps potpourri"
 date: 2024-05-12
 ---
 
+
 This week we take a look at what's next in post-pandemic travel and apps potpourri.
 
 ## Housekeeping
@@ -28,9 +29,7 @@ BTW, if you missed any of my LinkedIn updates during Red Hat Summit, I've summar
 
 For example, my latest [LinkedIn Article](https://www.linkedin.com/pulse/guess-who-back-circulation-jay-cuthrell-9byle/) is a summary of my updates from Red Hat Summit last week.
 
-
 > **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7195156095638589440](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7195156095638589440) has been removed.
-
 
 🏦 🎙️ 🎧 Reminder: My appearance on [Fred Cadena](https://www.linkedin.com/in/fredcadena/)'s [Banking on Disruption](https://bankingondisruption.com) podcast will dive into SXSW 2024 findings, FinTech, and much more.
 
@@ -69,9 +68,8 @@ Essentially, you'll increase the probability of happy collisions by letting more
 
 While I'm not sharing exactly where I'll be in real-time, it is close enough to further coordinate with others at events. In terms of [OpSec](https://csrc.nist.gov/glossary/term/operations_security), those days of beaconing location via Foursquare are long gone whereas [a decade ago, I connected my real-time Foursquare check-in location to my blog posts via a simplistic IFTTT recipe](https://www.flickr.com/photos/jcuthrell/12898221854).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jcuthrell/12898221854/in/photolist-9pBd2c-ax3zPr-9TR3QS-aEtyy1-aCgxvg-aDQCp6-dfTvVx-dxo8Ey-dj7GmK-dCkr7v-aDMhxo-9pDY75-9R7sSA-9ZBdkS-dqsXC5-9ZCJEH-dsH7Gn-dC7G3P-dfKn2D-dhTmG2-duwheT-9pDT2T-9TzWxb-9D4Ksg-9Nvu87-doQD1u-dAXYwB-dt5ddH-aDHVHi-aFgTPx-aEZzMF-dAkRrH-9WdmsW-9ZHk3A-cHWbJN-cQo1gh-dfS7ZX-9NrS3t-dseXQC-djapPm-9UXews-9UoqYp-9XEtLD-9UqR3q-9WzPEL-9X9jH9-9WwQxr-9WzLoG-kDHZKD-kDLKZq" title="One of the cool things I..."><img alt="One of the cool things I..." height="612" src="https://live.staticflickr.com/7441/12898221854_199a715d3c_z.jpg" width="612"/></a>
+[![One of the cool things I...](https://live.staticflickr.com/7441/12898221854_199a715d3c_z.jpg)](https://www.flickr.com/photos/jcuthrell/12898221854/in/photolist-9pBd2c-ax3zPr-9TR3QS-aEtyy1-aCgxvg-aDQCp6-dfTvVx-dxo8Ey-dj7GmK-dCkr7v-aDMhxo-9pDY75-9R7sSA-9ZBdkS-dqsXC5-9ZCJEH-dsH7Gn-dC7G3P-dfKn2D-dhTmG2-duwheT-9pDT2T-9TzWxb-9D4Ksg-9Nvu87-doQD1u-dAXYwB-dt5ddH-aDHVHi-aFgTPx-aEZzMF-dAkRrH-9WdmsW-9ZHk3A-cHWbJN-cQo1gh-dfS7ZX-9NrS3t-dseXQC-djapPm-9UXews-9UoqYp-9XEtLD-9UqR3q-9WzPEL-9X9jH9-9WwQxr-9WzLoG-kDHZKD-kDLKZq)
 > *[Interactive script removed]*
-
 
 While I do miss the immediacy of fun IFTTT integrations, OpSec times changed. As such, work travel has changed.
 

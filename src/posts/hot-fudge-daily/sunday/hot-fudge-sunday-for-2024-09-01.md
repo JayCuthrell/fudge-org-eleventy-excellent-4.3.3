@@ -7,6 +7,7 @@ date: 2024-09-01 13:30:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -18,13 +19,23 @@ date: 2024-09-01 13:30:00+00:00
 <h3>📈 Markets Monday for 2024-08-26</h3>
 
 According to the tech press, the future of the tech market in Markets Monday will hinge upon NVIDIA earnings on Wednesday August 28, 2024… if you believe the tech press. I kind of don’t but here we go.
-<figure><a href="https://finance.yahoo.com/quote/NVDA/" rel="noopener noreferrer" target="_blank"><img alt="NVIDIA is up a lot over a long time" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/f5c51ef4-a50f-4a63-a8ef-705cbedf9067.png?w=960&fit=max"/></a><figcaption>NVIDIA as I typed this update</figcaption></figure><h4>Last week</h4>
+
+[![NVIDIA is up a lot over a long time](https://assets.buttondown.email/images/f5c51ef4-a50f-4a63-a8ef-705cbedf9067.png?w=960&fit=max)](https://finance.yahoo.com/quote/NVDA/)
+*NVIDIA as I typed this update*
+
+<h4>Last week</h4>
 
 As a recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things.
-<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heatmap of tech stocks" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/50980e83-1e35-4cd6-ae70-e20d1f26ca12.png?w=960&fit=max"/></a><figcaption>A healthy mix of things as of Sunday August 25, 2025</figcaption></figure><h4>This week</h4>
+
+[![Heatmap of tech stocks](https://assets.buttondown.email/images/50980e83-1e35-4cd6-ae70-e20d1f26ca12.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*A healthy mix of things as of Sunday August 25, 2025*
+
+<h4>This week</h4>
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
-<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Monday skewed to UI, BILL, and ASAN" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/9978a7b7-3b48-4228-be80-fdabc74763f0.png?w=960&fit=max"/></a><figcaption>Monday skewed to UI, BILL, and ASAN</figcaption></figure>
+
+[![Monday skewed to UI, BILL, and ASAN](https://assets.buttondown.email/images/9978a7b7-3b48-4228-be80-fdabc74763f0.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Monday skewed to UI, BILL, and ASAN*
 
 If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
 
@@ -90,7 +101,9 @@ Each Wednesday I go through dozens of Slack communities and select the most inte
 [https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil](https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil)
 
 [https://en.wikipedia.org/wiki/Bingham_plastic](https://en.wikipedia.org/wiki/Bingham_plastic)
-<figure><img alt="Finding Xeno" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/69552c4f-5b22-4873-985d-3688268030b5.png?w=960&fit=max"/><figcaption>Who wants a hug?</figcaption></figure>
+
+![Finding Xeno](https://assets.buttondown.email/images/69552c4f-5b22-4873-985d-3688268030b5.png?w=960&fit=max)
+*Who wants a hug?*
 
 [https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/](https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 
@@ -106,7 +119,9 @@ Datacenter power consumption has been a below the fold news topic in the past bu
 In short, the datacenter energy crisis has always been there. The difference is that modern datacenter demands are now hyperscale cloud service providers.
 
 For example, if you were to look back to 2007, you might recall so-called green datacenter initiatives like “[IBM Project Big Green](https://web.archive.org/web/20070514190956/http://www-03.ibm.com/press/us/en/presskit/21440.wss)” in response to the datacenter energy crisis.
-<figure><a href="https://web.archive.org/web/20070518070012/http://www-03.ibm.com/press/us/en/pressrelease/21524.wss" rel="noopener noreferrer" target="_blank"><img alt="IBM Project Big Green in 2007" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/0024d31f-57b9-492c-903d-1c892651207b.png?w=960&fit=max"/></a><figcaption>via archive.org</figcaption></figure>
+
+[![IBM Project Big Green in 2007](https://assets.buttondown.email/images/0024d31f-57b9-492c-903d-1c892651207b.png?w=960&fit=max)](https://web.archive.org/web/20070518070012/http://www-03.ibm.com/press/us/en/pressrelease/21524.wss)
+*via archive.org*
 
 Fast forward to the present… What makes “green” claims so interesting is how the  established datacenter players are always looking for better power purchase agreements (PPAs) or virtual power purchase agreements(vPPAs) terms — but is always about more electrons, not less.
 

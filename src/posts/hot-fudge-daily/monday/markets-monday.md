@@ -6,17 +6,34 @@ date: 2024-06-10 19:48:41.664143+00:00
 ---
 
 
+
 <h1>Markets Monday</h1>
 
 Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
 
 Looking at the week behind for the tech market. 
 
-I might decide on a view such as 5 days prior using Google Finance. For example, this shows the relative bounds and can be contrasted with a 5 year view.<figure><img alt="NASDAQ 5 days ago" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/47f8a138-c5c7-448f-912b-3fd57679cb5b.png?w=960&fit=max"/><figcaption>NASDAQ 5 days ago</figcaption></figure><figure><img alt="NASDAQ 5 years ago" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/49f00073-0713-4160-8c51-7e5d294f641a.png?w=960&fit=max"/><figcaption>NASDAQ 5 years ago</figcaption></figure><h2>This week</h2>
+I might decide on a view such as 5 days prior using Google Finance. For example, this shows the relative bounds and can be contrasted with a 5 year view.
+
+![NASDAQ 5 days ago](https://assets.buttondown.email/images/47f8a138-c5c7-448f-912b-3fd57679cb5b.png?w=960&fit=max)
+*NASDAQ 5 days ago*
+
+![NASDAQ 5 years ago](https://assets.buttondown.email/images/49f00073-0713-4160-8c51-7e5d294f641a.png?w=960&fit=max)
+*NASDAQ 5 years ago*
+
+<h2>This week</h2>
 
 Looking at the week ahead for the tech market.
 
-I might decide on a view from Yahoo Finance or similar. For example, this is a view of intraday in Technology which usually gets around a dozen or so interesting companies.<figure><img alt="Heat Map view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/fa137813-143f-4d95-a603-4df6c0130500.png?w=960&fit=max"/><figcaption>Heat Map view</figcaption></figure><figure><img alt="Table view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/5258d0f6-d3d9-4f46-974d-a9fd3c2e972c.png?w=960&fit=max"/><figcaption>Table view</figcaption></figure><h2></h2>
+I might decide on a view from Yahoo Finance or similar. For example, this is a view of intraday in Technology which usually gets around a dozen or so interesting companies.
+
+![Heat Map view](https://assets.buttondown.email/images/fa137813-143f-4d95-a603-4df6c0130500.png?w=960&fit=max)
+*Heat Map view*
+
+![Table view](https://assets.buttondown.email/images/5258d0f6-d3d9-4f46-974d-a9fd3c2e972c.png?w=960&fit=max)
+*Table view*
+
+<h2></h2>
 
 Generally, I will experiment on Monday with what I think might matter in the market. For example, today we heard from Apple WWDC, and while not an explicitly investor oriented event, it is fascinating to hear what is said and what is not said.
 

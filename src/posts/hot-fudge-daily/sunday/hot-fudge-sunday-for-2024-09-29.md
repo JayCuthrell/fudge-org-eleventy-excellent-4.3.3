@@ -7,6 +7,7 @@ date: 2024-09-29 16:30:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -15,7 +16,10 @@ date: 2024-09-29 16:30:00+00:00
 
 The software development and DevX market can be hard to keep up with and if you aren’t reading [Coté's Wunderkammer](https://newsletter.cote.io/), you should be. As for why, the writer behind [Coté's Wunderkammer](https://newsletter.cote.io/) is [Michael Coté](https://cote.io/)<em> </em>.<h3>Quick Recap</h3>
 
-For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="A few green things on 📈 Markets Monday for 2024-09-23" draggable="false" src="https://assets.buttondown.email/images/0461385a-81f1-484c-85db-2722b877b544.png?w=960&fit=max"/></a><figcaption>A few green things on 📈 Markets Monday for 2024-09-23</figcaption></figure>
+For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.
+
+[![A few green things on 📈 Markets Monday for 2024-09-23](https://assets.buttondown.email/images/0461385a-81f1-484c-85db-2722b877b544.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*A few green things on 📈 Markets Monday for 2024-09-23*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
@@ -68,7 +72,10 @@ https://www.youtube.com/watch?v=ISgHpUDeLBw
 
 In these modern times of $1000+ smart phones, it is interesting to look back 15 years to when an [iPhone 3GS](https://en.wikipedia.org/wiki/IPhone_3GS) sold 1M units in a weekend.
 
-It was also just 15 years ago that you could get a [Palm Pre](https://en.wikipedia.org/wiki/Palm_Pre) which sold… only 0.1M units in an entire week.<figure><a href="https://web.archive.org/web/20090928063915/http://www.engadget.com/2009/09/26/pre-drops-to-79-99-at-walmart/" rel="noopener noreferrer" target="_blank"><img alt="Palm Pre in 2009" draggable="false" src="https://assets.buttondown.email/images/c0f4654d-1f75-4b68-bd22-7776232d3fa3.jpg?w=960&fit=max"/></a><figcaption>via [archive.org](http://archive.org)</figcaption></figure>
+It was also just 15 years ago that you could get a [Palm Pre](https://en.wikipedia.org/wiki/Palm_Pre) which sold… only 0.1M units in an entire week.
+
+[![Palm Pre in 2009](https://assets.buttondown.email/images/c0f4654d-1f75-4b68-bd22-7776232d3fa3.jpg?w=960&fit=max)](https://web.archive.org/web/20090928063915/http://www.engadget.com/2009/09/26/pre-drops-to-79-99-at-walmart/)
+*via [archive.org](http://archive.org)*
 
 The Palm Pre ran [webOS](https://en.wikipedia.org/wiki/WebOS). Today, webOS is running on 150M+ devices that are [much larger than a phone](https://webos.developer.lge.com/webos-hub).
 

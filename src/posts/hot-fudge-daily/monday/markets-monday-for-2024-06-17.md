@@ -7,6 +7,7 @@ date: 2024-06-17 20:03:12.465747+00:00
 
 
 
+
 <h1>Markets Monday for 2024-06-17</h1>
 
 Analyzing the past and future of the tech market in Markets Monday.<h2>Last week</h2>
@@ -15,13 +16,25 @@ Looking at the week behind for the tech market.
 
 I typically ask Siri how NASDAQ is doing and wait to hear it if is a big change or not. Siri logic on the definition of what to say if the there is +/- < 1% seems to be varied by day of attempts. More experimentation or going deeper into how Siri makes word choices will be interesting as the new Apple WWDC stories of Siri evolve over the year. 
 
-Previously, I mentioned adding a 5 day view contrasted with a 5 year view.<figure><img alt="5 day view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/23270f77-88e6-4d69-beb9-4bf23eebdbe4.png?w=960&fit=max"/><figcaption>5 day view</figcaption></figure><figure><img alt="5 year view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3be71cb3-6efa-44d5-80d4-3ca6ef534b01.png?w=960&fit=max"/><figcaption>5 year view</figcaption></figure>
+Previously, I mentioned adding a 5 day view contrasted with a 5 year view.
+
+![5 day view](https://assets.buttondown.email/images/23270f77-88e6-4d69-beb9-4bf23eebdbe4.png?w=960&fit=max)
+*5 day view*
+
+![5 year view](https://assets.buttondown.email/images/3be71cb3-6efa-44d5-80d4-3ca6ef534b01.png?w=960&fit=max)
+*5 year view*
 
 I have only a context of “this seems to be going up for now”.<h2>This week</h2>
 
 Looking at the week ahead for the tech market.
 
-Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.<figure><img alt="Heat Map view last week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/fa137813-143f-4d95-a603-4df6c0130500.png?w=960&fit=max"/><figcaption>Heat Map view last week</figcaption></figure><figure><img alt="Heat Map view this week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/6c710f6d-f19b-4591-a376-269b78c8990a.png?w=960&fit=max"/><figcaption>Heat Map view this week</figcaption></figure>
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
+
+![Heat Map view last week](https://assets.buttondown.email/images/fa137813-143f-4d95-a603-4df6c0130500.png?w=960&fit=max)
+*Heat Map view last week*
+
+![Heat Map view this week](https://assets.buttondown.email/images/6c710f6d-f19b-4591-a376-269b78c8990a.png?w=960&fit=max)
+*Heat Map view this week*
 
 If you are using Yahoo Applied Filters for Stocks screener you can bookmark your own heat map view.
 * % Change in Price (Intraday):<strong>greater than 4</strong>

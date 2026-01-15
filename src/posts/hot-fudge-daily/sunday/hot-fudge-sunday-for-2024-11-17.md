@@ -7,6 +7,7 @@ date: 2024-11-17 16:20:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -17,7 +18,10 @@ I’ve been traveling for ~3 weeks, working with clients, refining my everyday c
 
 For Market Monday, I must acknowledge the moment. Yes, this week saw the Dow reach 44K and the S&P 500 reach 6K while NASDAQ is still around 19K but will likely be flirting with 20K.
 
-As the old saying goes about eggs in a basket…<figure><a href="https://fred.stlouisfed.org/graph/?g=PUbY#" rel="noopener noreferrer" target="_blank"><img alt="Average Price: Eggs, Grade A, Large (Cost per Dozen) in U.S. City Average/Coinbase Bitcoin*100000000" draggable="false" src="https://assets.buttondown.email/images/adf188a8-7aed-4e8c-b0b4-a66f855333d7.png?w=960&fit=max"/></a><figcaption>[https://fred.stlouisfed.org/graph/?g=PUbY#](https://fred.stlouisfed.org/graph/?g=PUbY#)</figcaption></figure>
+As the old saying goes about eggs in a basket…
+
+[![Average Price: Eggs, Grade A, Large (Cost per Dozen) in U.S. City Average/Coinbase Bitcoin*100000000](https://assets.buttondown.email/images/adf188a8-7aed-4e8c-b0b4-a66f855333d7.png?w=960&fit=max)](https://fred.stlouisfed.org/graph/?g=PUbY#)
+*[https://fred.stlouisfed.org/graph/?g=PUbY#](https://fred.stlouisfed.org/graph/?g=PUbY#)*
 
 {{ subscribe_form }}<h3>🔥 Hot Takes Tuesday for 2024-11-12</h3>
 

@@ -6,6 +6,7 @@ date: 2025-07-20 16:00:00.000+00:00
 ---
 
 
+
 {{ subscribe_form }}
 
 ## Last week
@@ -36,21 +37,16 @@ I'll continue working on automation ideas for the newsletter.
  </strong>
  week
 </h3>
-<figure>
-<img alt="Not so spicy…" draggable="false" src="https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max"/>
-<figcaption>
-  Not so spicy…
- </figcaption>
-</figure>
+
+![Not so spicy…](https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max)
+*Not so spicy…*
+
 <h3>
  This week
 </h3>
-<figure>
-<img alt="Quantum Computing, AI, Software, and Space" draggable="false" src="https://assets.buttondown.email/images/2d11e585-bd17-49cc-983d-85cee9c65881.png?w=960&fit=max"/>
-<figcaption>
-  Quantum Computing, AI, Software, and Space
- </figcaption>
-</figure>
+
+![Quantum Computing, AI, Software, and Space](https://assets.buttondown.email/images/2d11e585-bd17-49cc-983d-85cee9c65881.png?w=960&fit=max)
+*Quantum Computing, AI, Software, and Space*
 
  Source:
  [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
@@ -101,14 +97,8 @@ https://www.techmeme.com/250718/p9#a250718p9
 
 [https://www.techmeme.com/250718/p7#a250718p7](https://www.techmeme.com/250718/p7#a250718p7)
 
-<figure>
-<a href="https://www.linkedin.com/posts/joel-kaplan-63905618_europe-is-heading-down-the-wrong-path-on-activity-7351928745668055042-XuF7/" rel="noopener noreferrer" target="_blank">
-<img alt="Comments turned off too..." draggable="false" src="https://assets.buttondown.email/images/607f58cd-cae8-482e-9ba3-0a69475d6c32.png?w=960&fit=max"/>
-</a>
-<figcaption>
-  Comments turned off too...
- </figcaption>
-</figure>
+[![Comments turned off too...](https://assets.buttondown.email/images/607f58cd-cae8-482e-9ba3-0a69475d6c32.png?w=960&fit=max)](https://www.linkedin.com/posts/joel-kaplan-63905618_europe-is-heading-down-the-wrong-path-on-activity-7351928745668055042-XuF7/)
+*Comments turned off too...*
 
  Of course. Of course.
 

@@ -5,11 +5,11 @@ date: 2023-10-29
 ---
 
 
+
 This week we take a look at Large Language Model (LLM) hype, LLM Operations (LLMOps), Help A Reporter Out (HARO), and Site Reliabiity Engineer (SRE) learnings over the past twenty (20!) years.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jcuthrell/53294760162/in/datetaken-family/" title="Large Language Marmalade"><img alt="Large Language Marmalade" height="800" src="https://live.staticflickr.com/65535/53294760162_b1228d1298_c.jpg" width="800"/></a>
+[![Large Language Marmalade](https://live.staticflickr.com/65535/53294760162_b1228d1298_c.jpg)](https://www.flickr.com/photos/jcuthrell/53294760162/in/datetaken-family/)
 > *[Interactive script removed]*
-
 
 *Adobe Firefly prompt: "A photo of a marmalade jar with a blank front label on an old wooden table" Canva manually added label text: "Large Language Marmalade"*
 
@@ -151,7 +151,6 @@ With that in mind, enjoy these eleven (11) lessons from the field courtesy of th
 
 [![Lessons learned from two decades of Site Reliability Engineering](https://kstatic.googleusercontent.com/files/4782a313e3cdd6cbe3346d30d1d1cb6778950ceb535f955d91c84f80eacb10a1f8fa164af5471ce0b188c1fcfe27c7e877aad9b350411c6a8a8fddd6b02b4400)](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 Source: [Google](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
-
 
 # Disclosure
 

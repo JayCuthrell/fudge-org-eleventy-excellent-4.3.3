@@ -7,11 +7,15 @@ date: 2024-09-17 03:22:22.753903+00:00
 
 
 
+
 <h3>Reading Recommendation</h3>
 
 The data operations and RevOps market can be hard to keep up with and if you aren’t reading [Finding Data Operations](https://www.finddataops.com/), you should be. As for why, the writer behind [Finding Data Operations](https://www.finddataops.com/) is [Greg Meyer](https://www.linkedin.com/in/gregmeyer/).<h3>Quick Recap</h3>
 
-As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple Yahoo Finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Markets Monday for 2024-09-16" draggable="false" src="https://assets.buttondown.email/images/075adab6-6ca6-4220-96d1-83e8c267177c.png?w=960&fit=max"/></a><figcaption>A few green things on 📈 Markets Monday for 2024-09-16</figcaption></figure>
+As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple Yahoo Finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.
+
+[![Markets Monday for 2024-09-16](https://assets.buttondown.email/images/075adab6-6ca6-4220-96d1-83e8c267177c.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*A few green things on 📈 Markets Monday for 2024-09-16*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 

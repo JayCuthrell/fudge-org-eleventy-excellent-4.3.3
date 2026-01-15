@@ -6,13 +6,20 @@ date: 2025-04-08 00:26:57.196380+00:00
 ---
 
 
+
 As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
 
 For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
 
-Last week:<figure><img alt="Not so spicy returns" draggable="false" src="https://assets.buttondown.email/images/7f2ff0ed-b915-4f1e-b32c-bd3e4ae57823.png?w=960&fit=max"/><figcaption>Not so spicy returns</figcaption></figure>
+Last week:
 
-This week:<figure><img alt="Spicy Level 19!" draggable="false" src="https://assets.buttondown.email/images/863e15f8-24e9-4d9e-91d2-afe42fbb6ad8.png?w=960&fit=max)"/><figcaption>Spicy Level 19!</figcaption></figure>
+![Not so spicy returns](https://assets.buttondown.email/images/7f2ff0ed-b915-4f1e-b32c-bd3e4ae57823.png?w=960&fit=max)
+*Not so spicy returns*
+
+This week:
+
+![Spicy Level 19!](https://assets.buttondown.email/images/863e15f8-24e9-4d9e-91d2-afe42fbb6ad8.png?w=960&fit=max))
+*Spicy Level 19!*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 

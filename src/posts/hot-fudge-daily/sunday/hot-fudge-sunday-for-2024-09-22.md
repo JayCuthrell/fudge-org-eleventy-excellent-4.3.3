@@ -7,6 +7,7 @@ date: 2024-09-22 19:04:05+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -24,7 +25,10 @@ date: 2024-09-22 19:04:05+00:00
 
 The data operations and RevOps market can be hard to keep up with and if you aren’t reading [Finding Data Operations](https://www.finddataops.com/), you should be. As for why, the writer behind [Finding Data Operations](https://www.finddataops.com/) is [Greg Meyer](https://www.linkedin.com/in/gregmeyer/).<h3>Quick Recap</h3>
 
-As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple Yahoo Finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Markets Monday for 2024-09-16" draggable="false" src="https://assets.buttondown.email/images/075adab6-6ca6-4220-96d1-83e8c267177c.png?w=960&fit=max"/></a><figcaption>A few green things on 📈 Markets Monday for 2024-09-16</figcaption></figure>
+As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple Yahoo Finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.
+
+[![Markets Monday for 2024-09-16](https://assets.buttondown.email/images/075adab6-6ca6-4220-96d1-83e8c267177c.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*A few green things on 📈 Markets Monday for 2024-09-16*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
 
@@ -94,38 +98,30 @@ The reason I ask in this ⬅️ Throwback Thursday is because Google is getting 
 
 [https://www.techmeme.com/240919/p28#a240919p28](https://www.techmeme.com/240919/p28#a240919p28)
 
-I had so many thoughts about this that I decided to open my dictation and note summarization stack from Limitless AI. 🤓<figure><a href="https://www.limitless.ai" rel="noopener noreferrer" target="_blank"><img alt="Limitless AI" draggable="false" src="https://assets.buttondown.email/images/998d0567-93e2-433a-8293-04e5ff9ee888.png?w=960&fit=max"/></a><figcaption>[https://www.limitless.ai/](https://www.limitless.ai/)</figcaption></figure>
+I had so many thoughts about this that I decided to open my dictation and note summarization stack from Limitless AI. 🤓
+
+[![Limitless AI](https://assets.buttondown.email/images/998d0567-93e2-433a-8293-04e5ff9ee888.png?w=960&fit=max)](https://www.limitless.ai)
+*[https://www.limitless.ai/](https://www.limitless.ai/)*
 
 Limitless isn’t perfect but it is helpful for turning 10 minutes of me talking extemporaneously while staring at Techmeme into a set of notes and observations. 🤓
 
 I’ve hyperlinked where appropriate as Limitless doesn’t know (or isn’t supposed to know) what I’m looking at on screen while I’m talking. 🤓<h4 node="[object Object]"><em>Notes and Observations</em></h4>
-* <strong><em>Google's Entry into Passkey and Password Manager Sector</em></strong><em>:</em><ul><li>
-
-[Google is entering the password manager and passkey sector](https://www.techmeme.com/240919/p28#a240919p28)<em>, prompting a discussion about the longevity and trustworthiness of Google's products, given </em>[Google’s track record of discontinuing things](https://killedbygoogle.com/)<em>.</em></li><li>
-
-<em>The implications of Google managing </em>[passkeys](https://fidoalliance.org/passkeys/)<em> were highlighted, given the potential for service shutdowns and the domain Google could have over users' security keys.</em></li></ul>
-* <strong><em>Passkeys and the Rise of New Security Standards</em></strong><em>:</em><ul><li>
-
-[Passkeys](https://fidoalliance.org/passkeys/)<em> represent a focus on combating phishing and simplifying user account management, especially as systems become more interconnected.</em></li><li>
-
-<em>Key developments took place leading up to the formation of </em>[FIDO Alliance](https://fidoalliance.org/)<em> in February 2013.</em></li><li>
-
-[Passkeys](https://fidoalliance.org/passkeys/)<em> are </em>[a relatively new concept](https://www.techmeme.com/101101/p32#a101101p32)<em>, with Microsoft and Apple showcasing demos of functionality for passkeys over the past few years. Outside of specific vendors, </em>[FIDO Alliance](https://fidoalliance.org/)<em> is working on open authentication standards to enhance security overall.</em></li></ul>
-* <strong><em>Trust and Compatibility Concerns</em></strong><em>:</em><ul><li>
-
-<em>Discussion centered around which companies (e.g., Apple, Google) consumers should trust with their passkeys and whether these systems will allow for seamless migration of security information if necessary.</em></li><li>
-
-[Google](https://www.techmeme.com/221012/p13#a221012p13)<em> and </em>[Apple](https://www.techmeme.com/220827/p11#a220827p11)<em> have been encouraging users to create passkeys, aiming to phase out traditional passwords.</em></li></ul>
-* <strong><em>Potential Industry Shifts</em></strong><em>:</em><ul><li>
-
-<em>Google's moves could pose competitive challenges to Apple's ecosystem, which typically restricts passkeys to Apple devices.</em></li><li>
-
-<em>Google's approach hints at broader compatibility across device manufacturers and operating systems, unlike Apple's more vertically integrated (closed) system.</em></li></ul>
-* <strong><em>Questions About Product Longevity</em></strong><em>:</em><ul><li>
-
-[Google's past with product lifecycles](https://killedbygoogle.com/)<em> raises questions about the long-term viability of their password management solutions.</em></li><li>
-
-<em>Despite Google Chrome's continued success, other products have been polarizing or discontinued, leading to skepticism about the new password manager’s longevity.</em></li></ul>
+* <strong><em>Google's Entry into Passkey and Password Manager Sector</em></strong><em>:</em>
+* [Google is entering the password manager and passkey sector](https://www.techmeme.com/240919/p28#a240919p28)<em>, prompting a discussion about the longevity and trustworthiness of Google's products, given </em>[Google’s track record of discontinuing things](https://killedbygoogle.com/)<em>.</em>
+* <em>The implications of Google managing </em>[passkeys](https://fidoalliance.org/passkeys/)<em> were highlighted, given the potential for service shutdowns and the domain Google could have over users' security keys.</em>
+* <strong><em>Passkeys and the Rise of New Security Standards</em></strong><em>:</em>
+* [Passkeys](https://fidoalliance.org/passkeys/)<em> represent a focus on combating phishing and simplifying user account management, especially as systems become more interconnected.</em>
+* <em>Key developments took place leading up to the formation of </em>[FIDO Alliance](https://fidoalliance.org/)<em> in February 2013.</em>
+* [Passkeys](https://fidoalliance.org/passkeys/)<em> are </em>[a relatively new concept](https://www.techmeme.com/101101/p32#a101101p32)<em>, with Microsoft and Apple showcasing demos of functionality for passkeys over the past few years. Outside of specific vendors, </em>[FIDO Alliance](https://fidoalliance.org/)<em> is working on open authentication standards to enhance security overall.</em>
+* <strong><em>Trust and Compatibility Concerns</em></strong><em>:</em>
+* <em>Discussion centered around which companies (e.g., Apple, Google) consumers should trust with their passkeys and whether these systems will allow for seamless migration of security information if necessary.</em>
+* [Google](https://www.techmeme.com/221012/p13#a221012p13)<em> and </em>[Apple](https://www.techmeme.com/220827/p11#a220827p11)<em> have been encouraging users to create passkeys, aiming to phase out traditional passwords.</em>
+* <strong><em>Potential Industry Shifts</em></strong><em>:</em>
+* <em>Google's moves could pose competitive challenges to Apple's ecosystem, which typically restricts passkeys to Apple devices.</em>
+* <em>Google's approach hints at broader compatibility across device manufacturers and operating systems, unlike Apple's more vertically integrated (closed) system.</em>
+* <strong><em>Questions About Product Longevity</em></strong><em>:</em>
+* [Google's past with product lifecycles](https://killedbygoogle.com/)<em> raises questions about the long-term viability of their password management solutions.</em>
+* <em>Despite Google Chrome's continued success, other products have been polarizing or discontinued, leading to skepticism about the new password manager’s longevity.</em>
 
 Well, I do think that Limitless AI notes and observations make me sound very negative. 🤣 Actually, I think any products or services that moves us beyond usernames and written passwords on notes attached to computer screens or desks is a very good thing.
 

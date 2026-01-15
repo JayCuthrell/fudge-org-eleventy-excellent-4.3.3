@@ -7,6 +7,7 @@ date: 2024-09-08 15:50:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -55,16 +56,22 @@ If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/sc
 * Sector: <strong>Technology</strong>
 
 * Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
-
 <blockquote class="pullquote">
 
-Update: Here’s what this chart looked like just before building this digest for Sunday September 1, 2025.</blockquote><figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Hot Fudge Daily Monday Markets Heatmap as of Sunday September 1, 2025" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/7b3fd1f0-cea0-42f1-b459-3c981f9846a2.png?w=960&fit=max"/></a><figcaption>Hot Fudge Daily Monday Markets as of Sunday September 1, 2025</figcaption></figure>
+Update: Here’s what this chart looked like just before building this digest for Sunday September 1, 2025.</blockquote>
+
+[![Hot Fudge Daily Monday Markets Heatmap as of Sunday September 1, 2025](https://assets.buttondown.email/images/7b3fd1f0-cea0-42f1-b459-3c981f9846a2.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Hot Fudge Daily Monday Markets as of Sunday September 1, 2025*
 
 {{ subscribe_form }}
 <h3>🔥 Hot Takes Tuesday for 2024-09-03</h3>
 
 First… an observation and a question.
-<figure><a href="https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security" rel="noopener noreferrer" target="_blank"><img alt="Gartner Hype Cycle for Emerging Technologies, 2024" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/bfca3f64-fba4-4614-81c2-1a0844b4b22c.png?w=960&fit=max"/></a><figcaption>Gartner Hype Cycle for Emerging Technologies, 2024</figcaption></figure><blockquote class="pullquote">
+
+[![Gartner Hype Cycle for Emerging Technologies, 2024](https://assets.buttondown.email/images/bfca3f64-fba4-4614-81c2-1a0844b4b22c.png?w=960&fit=max)](https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security)
+*Gartner Hype Cycle for Emerging Technologies, 2024*
+
+<blockquote class="pullquote">
 
 By the time our industry achieves ubiquitous AI infrastructure that is as agile, elastic, cost-effective, and TRiSM mature when compared to current non-AI infrastructure, will practitioners have moved on to another non-AI technology marvel (shiny object! squirrel!) or will AI be the defining specialization of the next several decades?</blockquote>
 
@@ -105,7 +112,9 @@ Each Wednesday I go through dozens of Slack communities and select the most inte
 [https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 
 [https://nautil.us/the-weirdest-stuff-weve-sent-into-orbit-758360/](https://nautil.us/the-weirdest-stuff-weve-sent-into-orbit-758360/)
-<figure><a href="https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html" rel="noopener noreferrer" target="_blank"><img alt="HOT FUDGE DAILY" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/43b9f48f-95e6-49a9-860a-c0e356f37037.png?w=960&fit=max"/></a><figcaption>[https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)</figcaption></figure>
+
+[![HOT FUDGE DAILY](https://assets.buttondown.email/images/43b9f48f-95e6-49a9-860a-c0e356f37037.png?w=960&fit=max)](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
+*[https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)*
 
 {{ subscribe_form }}
 <h3>🔙 Throwback Thursday for 2024-09-05</h3>

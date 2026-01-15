@@ -6,18 +6,28 @@ date: 2024-08-15 02:14:47.799631+00:00
 ---
 
 
+
 Explore the wild and wacky world of shared links from online Slack communities.
 
 One unique thing about online Slack Communities is the use of #random channel. Sometimes you come across some real gems.
 
 Each week I go through dozens of Slack communities and select the most interesting shared links found. This will be a safe for work list.
 
-Join me in this collection of what is being shared that is wow, wild, wtf, and wacky each Wednesday.<figure><img alt="Sales Engineer humor" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/daa740ba-1408-41cf-aac3-804c8b422559.png?w=960&fit=max"/><figcaption>Sales Engineer humor</figcaption></figure><figure><img alt="Telecom humor" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/744c7c40-e9fa-4078-a15d-a467d55f7188.png?w=960&fit=max"/><figcaption>Telecom humor</figcaption></figure>
+Join me in this collection of what is being shared that is wow, wild, wtf, and wacky each Wednesday.
+
+![Sales Engineer humor](https://assets.buttondown.email/images/daa740ba-1408-41cf-aac3-804c8b422559.png?w=960&fit=max)
+*Sales Engineer humor*
+
+![Telecom humor](https://assets.buttondown.email/images/744c7c40-e9fa-4078-a15d-a467d55f7188.png?w=960&fit=max)
+*Telecom humor*
 
 [https://interestingengineering.com/energy/mayonnaise-may-unlock-never-unstable-nuclear-fusion](https://interestingengineering.com/energy/mayonnaise-may-unlock-never-unstable-nuclear-fusion)
 
 But if you watched Disney movies from the late 1970s… you may know the “mayonnaise” (13m 20s) story already… [https://www.youtube.com/watch?v=3NfQSurV6Ck&t=800s](https://www.youtube.com/watch?v=3NfQSurV6Ck&t=800s)
 
-[https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)<figure><img alt="Ice cream humor" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3a2e2a5e-42a5-46c0-b0bb-e73aa296734e.png?w=960&fit=max"/><figcaption>Ice cream humor</figcaption></figure>
+[https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
+
+![Ice cream humor](https://assets.buttondown.email/images/3a2e2a5e-42a5-46c0-b0bb-e73aa296734e.png?w=960&fit=max)
+*Ice cream humor*
 
 [https://www.theonion.com/cia-realizes-its-been-using-black-highlighters-all-thes-1819568147](https://www.theonion.com/cia-realizes-its-been-using-black-highlighters-all-thes-1819568147)

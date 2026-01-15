@@ -7,6 +7,7 @@ date: 2025-06-22 15:00:00+00:00
 
 
 
+
 This week continues our new shortened format. Next week will be a shorter vacation edition of 🌶️ Hot Fudge Sunday.
 
 {{ subscribe_form }}
@@ -35,9 +36,17 @@ Wish me luck! 🤓
  
 <h3>Last week</h3>
 
-It’s all about love and rockets… so, a bit more spicy.<figure><img alt="More spicy!" draggable="false" src="https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max"/><figcaption>More spicy!</figcaption></figure><h3><strong>This week</strong></h3>
+It’s all about love and rockets… so, a bit more spicy.
 
-Quantumania!<figure><img alt="Even more spicy!" draggable="false" src="https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max"/><figcaption>Even more spicy!</figcaption></figure>
+![More spicy!](https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max)
+*More spicy!*
+
+<h3><strong>This week</strong></h3>
+
+Quantumania!
+
+![Even more spicy!](https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max)
+*Even more spicy!*
 
 Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
    
@@ -83,24 +92,16 @@ https://www.youtube.com/watch?v=iecffd3h0EI?feature=shared
 
 My notes:
 * 77% of our youth is ineligible to serve
-* Propensity to Serve is key. <ul><li>
-
-SCIF work is the workplace. </li><li>
-
-Hotspots exist. </li><li>
-
-If that exists it can now enable a unique talent for no uniform roles as part of an attractive benefits, work flexibility, competitive compensation, and retention bonuses. </li><li>
-
-Total compensation package to go full uniform is differentiated through healthcare and savings plans for military. </li></ul>
-* As of late 2023, Constructive Service Credit expansion includes R&D (up to Colonel) to solve big challenges.<ul><li>
-
-Off ramp and on ramp paths are becoming more flexible.</li><li>
-
-Cyber and intelligence will be drawn from industry.</li><li>
-
-Find us and we will find a way for you to serve.</li><li>
-
-Example: Civilian to OTS to Major is 10 years and this approach does it in 6 months.</li></ul>
+* Propensity to Serve is key. 
+* SCIF work is the workplace.
+* Hotspots exist.
+* If that exists it can now enable a unique talent for no uniform roles as part of an attractive benefits, work flexibility, competitive compensation, and retention bonuses.
+* Total compensation package to go full uniform is differentiated through healthcare and savings plans for military.
+* As of late 2023, Constructive Service Credit expansion includes R&D (up to Colonel) to solve big challenges.
+* Off ramp and on ramp paths are becoming more flexible.
+* Cyber and intelligence will be drawn from industry.
+* Find us and we will find a way for you to serve.
+* Example: Civilian to OTS to Major is 10 years and this approach does it in 6 months.
    
 ## 🔮 Sneak Peak Saturday for 2025-06-21
  

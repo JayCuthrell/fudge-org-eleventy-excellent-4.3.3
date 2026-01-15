@@ -7,6 +7,7 @@ date: 2024-08-25 13:30:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -40,10 +41,12 @@ If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/sc
 * Sector: <strong>Technology</strong>
 
 * Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
-
 <blockquote class="pullquote">
 
-Update: Here’s what this chart looked like just before building this digest for Sunday August 25, 2025.</blockquote><figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heatmap of tech stocks" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/50980e83-1e35-4cd6-ae70-e20d1f26ca12.png?w=960&fit=max"/></a><figcaption>A healthy mix of things as of Sunday August 25, 2025</figcaption></figure>
+Update: Here’s what this chart looked like just before building this digest for Sunday August 25, 2025.</blockquote>
+
+[![Heatmap of tech stocks](https://assets.buttondown.email/images/50980e83-1e35-4cd6-ae70-e20d1f26ca12.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*A healthy mix of things as of Sunday August 25, 2025*
 
 {{ subscribe_form }}
 <h3>🔥 Hot Takes Tuesday for 2024-08-20</h3>
@@ -51,7 +54,9 @@ Update: Here’s what this chart looked like just before building this digest fo
 Off the cuff analysis in a rapid fire format.
 
 First… a quick nerdy aside. My [Pi-hole](https://pi-hole.net/) approved list of FQDNs grows one entry at a time. Better than 1/5 of objectionable (to me) traffic is being effectively blocked. 🙏
-<figure><a href="https://pi-hole.net" rel="noopener noreferrer" target="_blank"><img alt="Dashboard of my pi-hole showing 22.4% of objectionable traffic being blocked" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/4c11dac7-e97a-47bd-a552-d009e93cf108.png?w=960&fit=max"/></a><figcaption>22.4% less garbage in my Interwebs!</figcaption></figure>
+
+[![Dashboard of my pi-hole showing 22.4% of objectionable traffic being blocked](https://assets.buttondown.email/images/4c11dac7-e97a-47bd-a552-d009e93cf108.png?w=960&fit=max)](https://pi-hole.net)
+*22.4% less garbage in my Interwebs!*
 
 And back to our regular Hot Takes Tuesday…
 <h4>Funds, Funding, and M&A</h4>
@@ -86,10 +91,14 @@ Each Wednesday I go through dozens of Slack communities and select the most inte
 [https://github.com/drakh/acid-generator](https://github.com/drakh/acid-generator)
 
 [https://www.youtube.com/watch?v=rIQajWjgDQg](https://www.youtube.com/watch?v=rIQajWjgDQg)
-<figure><img alt="change" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/3f28cb37-0cfa-43b1-b07f-643639196f40.png?w=960&fit=max"/><figcaption>True story.</figcaption></figure>
+
+![change](https://assets.buttondown.email/images/3f28cb37-0cfa-43b1-b07f-643639196f40.png?w=960&fit=max)
+*True story.*
 
 [https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/](https://www.texasmonthly.com/travel/curtis-eckerman-photographer-moth-man/)
-<figure><img alt="hotdogs!" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/da7171a4-c33e-42ee-b641-2772c731e2c4.jpg?w=960&fit=max"/><figcaption>No substitutions please.</figcaption></figure>
+
+![hotdogs!](https://assets.buttondown.email/images/da7171a4-c33e-42ee-b641-2772c731e2c4.jpg?w=960&fit=max)
+*No substitutions please.*
 
 {{ subscribe_form }}
 <h3>🔙 Throwback Thursday for 2024-08-22</h3>

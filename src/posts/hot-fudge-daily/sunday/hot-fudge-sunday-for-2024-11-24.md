@@ -7,6 +7,7 @@ date: 2024-11-24 21:20:00+00:00
 
 
 
+
 <blockquote class="pullquote">
 
 🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
@@ -21,7 +22,10 @@ I'll be sharing more about my journey on LinkedIn. In the meantime, you can stay
 
 And we’re back to the end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
 
-For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Once again, many green things continue to appear." draggable="false" src="https://assets.buttondown.email/images/12b78f69-f6c7-4924-ac41-69cb2cc43511.png?w=960&fit=max"/></a><figcaption>Once again, many green things continue to appear.</figcaption></figure>
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+[![Once again, many green things continue to appear.](https://assets.buttondown.email/images/12b78f69-f6c7-4924-ac41-69cb2cc43511.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Once again, many green things continue to appear.*
 
 Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
 
@@ -86,13 +90,19 @@ Thanks folks! You’ve been great — I’m here all week. Try the fish! Please 
 
 {{ subscribe_form }}<h3>✅ Final Thoughts Friday for 2024-11-22</h3>
 
-Posting on LinkedIn about [my new role at NexusTek](https://www.linkedin.com/in/jaycuthrell) was well received and a great way to end the week.<figure><a href="https://www.linkedin.com/in/jaycuthrell/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn top performing posts" draggable="false" src="https://assets.buttondown.email/images/98d8ddef-3e08-4700-9d2f-97c8374a7ed0.png?w=960&fit=max"/></a><figcaption>via LinkedIn</figcaption></figure>
+Posting on LinkedIn about [my new role at NexusTek](https://www.linkedin.com/in/jaycuthrell) was well received and a great way to end the week.
+
+[![LinkedIn top performing posts](https://assets.buttondown.email/images/98d8ddef-3e08-4700-9d2f-97c8374a7ed0.png?w=960&fit=max)](https://www.linkedin.com/in/jaycuthrell/)
+*via LinkedIn*
 
 For the tech news stories that caught my eye this week, Palo Alto earnings and exploits have also been quite the ride.
 
 [https://www.techmeme.com/241120/p37#a241120p37](https://www.techmeme.com/241120/p37#a241120p37)
 
-[https://www.techmeme.com/241122/p22#a241122p22](https://www.techmeme.com/241122/p22#a241122p22)<figure><a href="https://www.google.com/finance/quote/PANW:NASDAQ" rel="noopener noreferrer" target="_blank"><img alt="10+ years of PANW" draggable="false" src="https://assets.buttondown.email/images/49de0317-30fe-4c31-9aff-e02efcf42c2f.png?w=960&fit=max"/></a><figcaption>10+ years of PANW</figcaption></figure>
+[https://www.techmeme.com/241122/p22#a241122p22](https://www.techmeme.com/241122/p22#a241122p22)
+
+[![10+ years of PANW](https://assets.buttondown.email/images/49de0317-30fe-4c31-9aff-e02efcf42c2f.png?w=960&fit=max)](https://www.google.com/finance/quote/PANW:NASDAQ)
+*10+ years of PANW*
 
 {{ subscribe_form }}<h3>🔮 Sneak Peak Saturday for 2024-11-23</h3>
 

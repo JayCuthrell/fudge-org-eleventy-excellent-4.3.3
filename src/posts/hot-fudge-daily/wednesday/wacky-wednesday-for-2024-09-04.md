@@ -6,6 +6,7 @@ date: 2024-09-05 00:16:01.371854+00:00
 ---
 
 
+
 Each Wednesday I go through dozens of Slack communities and select the most interesting shared links. This will always be a safe for work list. 🙈
 
 [https://www.youtube.com/watch?v=I2kbdl1P2PI](https://www.history.com/news/mailing-children-post-office)
@@ -20,4 +21,7 @@ Each Wednesday I go through dozens of Slack communities and select the most inte
 
 [https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html](https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 
-[https://nautil.us/the-weirdest-stuff-weve-sent-into-orbit-758360/](https://nautil.us/the-weirdest-stuff-weve-sent-into-orbit-758360/)<figure><a href="https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html" rel="noopener noreferrer" target="_blank"><img alt="HOT FUDGE DAILY" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/43b9f48f-95e6-49a9-860a-c0e356f37037.png?w=960&fit=max"/></a><figcaption>[https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)</figcaption></figure>
+[https://nautil.us/the-weirdest-stuff-weve-sent-into-orbit-758360/](https://nautil.us/the-weirdest-stuff-weve-sent-into-orbit-758360/)
+
+[![HOT FUDGE DAILY](https://assets.buttondown.email/images/43b9f48f-95e6-49a9-860a-c0e356f37037.png?w=960&fit=max)](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
+*[https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)*

@@ -7,6 +7,7 @@ date: 2024-07-21 13:37:10.225034+00:00
 
 
 
+
 <h1>🌶️  Spicy Edition Sunday for 2024-07-21</h1>
 
 Welcome to 🌶️ Spicy Edition Sunday!
@@ -37,9 +38,15 @@ Looking at the week behind for the tech market.
 
 I typically ask Siri how NASDAQ is doing and wait to hear it if is a big change or not. Siri logic on the definition of what to say if the there is +/- < 1% seems to be varied by day of attempts. More experimentation or going deeper into how Siri makes word choices will be interesting as the new Apple WWDC stories of Siri evolve over the year.
 
-Previously, I mentioned adding a 5 day view contrasted with a 5 year view.<figure><a href="https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?&window=5D" rel="noopener noreferrer" target="_blank"><img alt="5 day view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/8ab8b8e8-e530-4c8c-93b7-77c431cfaa7d.png?w=960&fit=max"/></a><figcaption>5 day view</figcaption></figure>
+Previously, I mentioned adding a 5 day view contrasted with a 5 year view.
 
-Last week I corrected my prior error and gathered the intended 5D view. I’m still working on an automation to be consistent in the future.<figure><a href="https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?window=5Y" rel="noopener noreferrer" target="_blank"><img alt="5 year view" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/1bc7be08-d071-4b60-b7df-f4ede03f9790.png?w=960&fit=max"/></a><figcaption>5 year view</figcaption></figure>
+[![5 day view](https://assets.buttondown.email/images/8ab8b8e8-e530-4c8c-93b7-77c431cfaa7d.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?&window=5D)
+*5 day view*
+
+Last week I corrected my prior error and gathered the intended 5D view. I’m still working on an automation to be consistent in the future.
+
+[![5 year view](https://assets.buttondown.email/images/1bc7be08-d071-4b60-b7df-f4ede03f9790.png?w=960&fit=max)](https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ?window=5Y)
+*5 year view*
 
 And again, “this seems to be going up for now”, is still true on a long enough timeline.<h2>This week</h2>
 
@@ -49,7 +56,13 @@ Previously, I decided on a view from Yahoo Finance. For example, this was a view
 
 The winners list last narrowed from five to… two.
 
-Last week the expansion where the two (before the bell) went to fifteen. This week I waited for the bell.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heat Map view this week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/cad65354-15f0-4aa8-87d9-a3fdd325ccdd.png?w=960&fit=max"/></a><figcaption>Heat Map view last week</figcaption></figure><figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Heat map view this week" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/6fa1324f-4b8b-4ef9-a20a-b638803287d2.png?w=960&fit=max"/></a><figcaption>Heat map view this week</figcaption></figure>
+Last week the expansion where the two (before the bell) went to fifteen. This week I waited for the bell.
+
+[![Heat Map view this week](https://assets.buttondown.email/images/cad65354-15f0-4aa8-87d9-a3fdd325ccdd.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat Map view last week*
+
+[![Heat map view this week](https://assets.buttondown.email/images/6fa1324f-4b8b-4ef9-a20a-b638803287d2.png?w=960&fit=max)](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap)
+*Heat map view this week*
 
 This week went from 15 down to 13. Again, I waited for the bell and should probably begin to pull in some commentary once this view can be automated as well.
 
@@ -171,7 +184,9 @@ def home_paths(resource)<br/>- paths = [about_path, '/explore']<br/>+ paths = [a
 
 paths << short_account_path(username: resource.account) if single_user_mode? && resource.is_a?(User)
 
-The result is /about vs. /explore which makes more sense for a single-user self-hosted instance.<figure><a href="https://cuthrell.com" rel="noopener noreferrer" target="_blank"><img alt="Mastodon default view for cuthrell.com" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/cc2cdc17-aaf1-4a2d-bbc5-18b1a052538a.png?w=960&fit=max"/></a><figcaption></figcaption></figure>
+The result is /about vs. /explore which makes more sense for a single-user self-hosted instance.
+
+[![Mastodon default view for cuthrell.com](https://assets.buttondown.email/images/cc2cdc17-aaf1-4a2d-bbc5-18b1a052538a.png?w=960&fit=max)](https://cuthrell.com)
 
 I’ve been thinking more about using [qthrul.com](http://qthrul.com) aka QTHRUL CORP as a holding. That would be a nice way to anchor all my other websites — including [cuthrell.com](http://cuthrell.com), [jaycuthrell.com](https://jaycuthrell.com/), [cuthrell.consulting](http://cuthrell.consulting), and maybe even [fudge.org](http://fudge.org) too.
 
