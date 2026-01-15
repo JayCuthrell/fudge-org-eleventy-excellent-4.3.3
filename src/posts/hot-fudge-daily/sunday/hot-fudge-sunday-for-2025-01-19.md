@@ -6,6 +6,7 @@ date: 2025-01-19 19:30:00+00:00
 ---
 
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
@@ -288,13 +289,40 @@ A strategic HR professional with a contagious enthusiasm for empowering employee
 ---
 ## 📈 Markets Monday for 2025-01-13
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week:</p><figure><a href="https://finance.yahoo.com" rel="noopener noreferrer" target="_blank"><img alt="Spicy level 16" draggable="false" src="https://assets.buttondown.email/images/91823387-c82f-4544-a6d4-6680c5b42703.png?w=960&fit=max"/></a><figcaption>Spicy level 16… we’re back?</figcaption></figure><p>This week:</p><figure><a href="https://finance.yahoo.com" rel="noopener noreferrer" target="_blank"><img alt="Spicy level 1… and the end of year calm returns." draggable="false" src="https://assets.buttondown.email/images/8a1ed8b7-bb6d-4dbf-88c6-350ba113de9b.png?w=960&fit=max"/></a><figcaption>Spicy level 1… and the end of year calm returns.</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a href="https://finance.yahoo.com/research-hub/screener/" rel="noopener noreferrer nofollow" target="_blank">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week:<figure><a href="https://finance.yahoo.com" rel="noopener noreferrer" target="_blank"><img alt="Spicy level 16" draggable="false" src="https://assets.buttondown.email/images/91823387-c82f-4544-a6d4-6680c5b42703.png?w=960&fit=max"/></a><figcaption>Spicy level 16… we’re back?</figcaption></figure>
+
+This week:<figure><a href="https://finance.yahoo.com" rel="noopener noreferrer" target="_blank"><img alt="Spicy level 1… and the end of year calm returns." draggable="false" src="https://assets.buttondown.email/images/8a1ed8b7-bb6d-4dbf-88c6-350ba113de9b.png?w=960&fit=max"/></a><figcaption>Spicy level 1… and the end of year calm returns.</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 {{ subscribe_form }}
    
 ## 🔥 Hot Takes Tuesday for 2025-01-14
  
-<p>Two hot takes on stories that caught my eye on Tuesday.</p><p>🍪 + 💰 Granted, the name <a href="https://www.ualinkconsortium.org/" rel="noopener noreferrer nofollow" target="_blank">UALink (Ultra Accelerator Link Consortium)</a> might not sound very familiar but the AI work being done for drastically less eye watering prices with systems that are <a href="https://www.ualinkconsortium.org/members" rel="noopener noreferrer nofollow" target="_blank">not underpinned or based on NVIDIA</a> is becoming an increasingly interesting space to keep an eye on. 2025 might just be the year where even the NVIDIA H100 based approaches are <a href="https://github.com/NovaSky-AI/SkyThought" rel="noopener noreferrer nofollow" target="_blank">well within reach of mid-market Enterprise and even prosumers</a>.</p><p><a href="https://www.techmeme.com/250114/p25#a250114p25" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250114/p25#a250114p25</a></p><p>💰 + 💰 And speaking of <a href="https://www.ualinkconsortium.org/members" rel="noopener noreferrer nofollow" target="_blank">UALink promoter level members</a>, Intel Capital (big fan) is likely to spin out… perhaps as something cleverly named… maybe “IC”? 😉 🤓</p><p><a href="https://www.techmeme.com/250114/p28#a250114p28" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250114/p28#a250114p28</a></p><p></p><p></p>
+
+Two hot takes on stories that caught my eye on Tuesday.
+
+🍪 + 💰 Granted, the name [UALink (Ultra Accelerator Link Consortium)](https://www.ualinkconsortium.org/) might not sound very familiar but the AI work being done for drastically less eye watering prices with systems that are [not underpinned or based on NVIDIA](https://www.ualinkconsortium.org/members) is becoming an increasingly interesting space to keep an eye on. 2025 might just be the year where even the NVIDIA H100 based approaches are [well within reach of mid-market Enterprise and even prosumers](https://github.com/NovaSky-AI/SkyThought).
+
+[https://www.techmeme.com/250114/p25#a250114p25](https://www.techmeme.com/250114/p25#a250114p25)
+
+💰 + 💰 And speaking of [UALink promoter level members](https://www.ualinkconsortium.org/members), Intel Capital (big fan) is likely to spin out… perhaps as something cleverly named… maybe “IC”? 😉 🤓
+
+[https://www.techmeme.com/250114/p28#a250114p28](https://www.techmeme.com/250114/p28#a250114p28)
    
 {{ subscribe_form }}
    
@@ -345,6 +373,21 @@ https://www.techmeme.com/250114/p33#a250114p33
    
 ## 🔮 Sneak Peak Saturday for 2025-01-18
  
-<p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a href="https://www.techmeme.com/250117/p21#a250117p21" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250117/p21#a250117p21</a></p><h4>Insert Ceiling Cat Meme</h4><p><a href="https://www.techmeme.com/250117/p11#a250117p11" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250117/p11#a250117p11</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a href="https://www.techmeme.com/250116/p49#a250116p49" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250116/p49#a250116p49</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a href="https://www.techmeme.com/250117/p34#a250117p34" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250117/p34#a250117p34</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a href="https://www.techmeme.com/250117/p5#a250117p5" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250117/p5#a250117p5</a></p>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/250117/p21#a250117p21](https://www.techmeme.com/250117/p21#a250117p21)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/250117/p11#a250117p11](https://www.techmeme.com/250117/p11#a250117p11)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/250116/p49#a250116p49](https://www.techmeme.com/250116/p49#a250116p49)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/250117/p34#a250117p34](https://www.techmeme.com/250117/p34#a250117p34)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/250117/p5#a250117p5](https://www.techmeme.com/250117/p5#a250117p5)
    
 {{ subscribe_form }}

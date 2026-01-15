@@ -5,4 +5,21 @@ description: "This edition highlights McDonald’s tech evolution, from mobile o
 date: 2025-03-08 04:57:39.672696+00:00
 ---
 
-<p>One headline for Thursday Throwback caught my eye.</p><p>🥛 + 🤖 Considering the sheer amounts of data generated McDonald’s it is useful to remember it should not be known only for a <a target="_blank" rel="noopener noreferrer nofollow" href="https://mcbroken.com/">shake machine is down meme</a> — and effective use of predictive analytics could make that meme a historical footnote.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250307/p2#a250307p2">https://www.techmeme.com/250307/p2#a250307p2</a></p><p>The progression of technology adoption at McDonald’s is real.</p><p>Around <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/170315/p20#a170315p20">8 years ago</a>, mobile ordering appeared.</p><p>Around <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/141115/p3#a141115p3">11 years ago</a>, paying by phone appeared.</p><p>Around <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/130911/p33#a130911p33">12 years ago</a>, an app for that appeared.</p><p>Around <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/091215/p85#a091215p85">16 years ago</a>, free Wi-Fi prevailed.</p><p>Around <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/051018/p35#a051018p35">20 years ago</a>, paid Wi-Fi was coming to the menu.</p><p></p><p></p><p></p>
+
+One headline for Thursday Throwback caught my eye.
+
+🥛 + 🤖 Considering the sheer amounts of data generated McDonald’s it is useful to remember it should not be known only for a [shake machine is down meme](https://mcbroken.com/) — and effective use of predictive analytics could make that meme a historical footnote.
+
+[https://www.techmeme.com/250307/p2#a250307p2](https://www.techmeme.com/250307/p2#a250307p2)
+
+The progression of technology adoption at McDonald’s is real.
+
+Around [8 years ago](https://www.techmeme.com/170315/p20#a170315p20), mobile ordering appeared.
+
+Around [11 years ago](https://www.techmeme.com/141115/p3#a141115p3), paying by phone appeared.
+
+Around [12 years ago](https://www.techmeme.com/130911/p33#a130911p33), an app for that appeared.
+
+Around [16 years ago](https://www.techmeme.com/091215/p85#a091215p85), free Wi-Fi prevailed.
+
+Around [20 years ago](https://www.techmeme.com/051018/p35#a051018p35), paid Wi-Fi was coming to the menu.

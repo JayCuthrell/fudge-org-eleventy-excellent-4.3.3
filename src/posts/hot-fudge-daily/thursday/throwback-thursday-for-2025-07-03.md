@@ -5,4 +5,35 @@ description: "AI job replacement claims in 2025 from CEOs with SXSW 2024 insight
 date: 2025-07-04 04:08:40.810+00:00
 ---
 
-<p>One story that caught my eye this week:</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250703/p13#a250703p13">https://www.techmeme.com/250703/p13#a250703p13</a></p><p>It’s important to remember this is the year 2025.</p><p>CEOs claiming AI will replace people in current jobs is click bait at best and sensationalizing for rage clicks at worst. Where are the results?</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://info.futurumgroup.com/ceos-ai-2025">Surveys are plentiful in characterizing CEO confidence</a> but the same was true of “digital transformation” before this and “big data” of years before that. Results matter.</p><p>A year ago, I attended “<a target="_blank" rel="noopener noreferrer nofollow" href="https://schedule.sxsw.com/2024/events/PP141421">Life After Big Tech: Where Are Laid Off Workers Now?</a>“ at SXSW 2024. Here are some of <a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/sxsw-2024-days-1-3/">my notes</a>: </p><ul><li><p>Trends leading to where we are today</p><ul><li><p>Over hiring</p></li><li><p>Bloated and overstuffed organizations</p></li><li><p><em>AI and automation rendering some amount of labor reductions</em></p></li></ul></li><li><p>Debates</p><ul><li><p>Layoffs as a mask for poor performance</p></li><li><p><em>Instead of 20 staff with a speciality, you’ll need 2 because of AI</em></p></li><li><p><em>If you can be Upwork’d you can be AI’d</em></p></li><li><p><em>There are freelancers doing top 1% work getting a 16% increase in their rates and 12% more revenue from AI as their toolchain</em></p></li></ul></li></ul><p>Source:</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/sxsw-2024-days-1-3/">https://fudge.org/archive/sxsw-2024-days-1-3/</a></p><p></p><p></p><p></p>
+
+One story that caught my eye this week:
+
+[https://www.techmeme.com/250703/p13#a250703p13](https://www.techmeme.com/250703/p13#a250703p13)
+
+It’s important to remember this is the year 2025.
+
+CEOs claiming AI will replace people in current jobs is click bait at best and sensationalizing for rage clicks at worst. Where are the results?
+
+[Surveys are plentiful in characterizing CEO confidence](https://info.futurumgroup.com/ceos-ai-2025) but the same was true of “digital transformation” before this and “big data” of years before that. Results matter.
+
+A year ago, I attended “[Life After Big Tech: Where Are Laid Off Workers Now?](https://schedule.sxsw.com/2024/events/PP141421)“ at SXSW 2024. Here are some of [my notes](https://fudge.org/archive/sxsw-2024-days-1-3/): 
+* Trends leading to where we are today<ul><li>
+
+Over hiring</li><li>
+
+Bloated and overstuffed organizations</li><li>
+
+<em>AI and automation rendering some amount of labor reductions</em></li></ul>
+* Debates<ul><li>
+
+Layoffs as a mask for poor performance</li><li>
+
+<em>Instead of 20 staff with a speciality, you’ll need 2 because of AI</em></li><li>
+
+<em>If you can be Upwork’d you can be AI’d</em></li><li>
+
+<em>There are freelancers doing top 1% work getting a 16% increase in their rates and 12% more revenue from AI as their toolchain</em></li></ul>
+
+Source:
+
+[https://fudge.org/archive/sxsw-2024-days-1-3/](https://fudge.org/archive/sxsw-2024-days-1-3/)

@@ -6,6 +6,7 @@ date: 2025-02-24 01:30:00+00:00
 ---
 
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
@@ -224,24 +225,89 @@ I'm also pleased to add an Alumni 🎉 section this week for those that have tra
 ---
 ## 📈 Markets Monday for 2025-02-17
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week:</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="Spicy Level 16 Unlocked! " draggable="false" src="https://assets.buttondown.email/images/a8a26937-18c5-4558-97d4-da2f88ab1cd8.png?w=960&fit=max"/></a><figcaption>Spicy Level 16 Unlocked!</figcaption></figure><p>This week:</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="Spicy Level 10" draggable="false" src="https://assets.buttondown.email/images/c616113b-19e1-4555-9dec-32bfd586ea65.png?w=960&fit=max"/></a><figcaption>Spicy Level 10 resting place?</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a href="https://finance.yahoo.com/research-hub/screener/" rel="noopener noreferrer nofollow" target="_blank">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week:<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="Spicy Level 16 Unlocked! " draggable="false" src="https://assets.buttondown.email/images/a8a26937-18c5-4558-97d4-da2f88ab1cd8.png?w=960&fit=max"/></a><figcaption>Spicy Level 16 Unlocked!</figcaption></figure>
+
+This week:<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="Spicy Level 10" draggable="false" src="https://assets.buttondown.email/images/c616113b-19e1-4555-9dec-32bfd586ea65.png?w=960&fit=max"/></a><figcaption>Spicy Level 10 resting place?</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 ## 🔥 Hot Takes Tuesday for 2025-02-18
  
-<p>Two hot takes on a story and event that caught my eye on Tuesday.</p><p>⚖️ + 💰 If AI can simplify the rendering of legal boilerplate into more easily understood language, there is a case to be made for finding legal needles in haystacks of legalese too.</p><p><a href="https://www.techmeme.com/250218/p9#a250218p9" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250218/p9#a250218p9</a></p><p>⚖️ + 🧠 Technology assisted review (TAR) and computer assisted review (CAR) are making bigger impact in the legal field of eDiscovery where the expectation of sifting through electronically stored information (ESI) grows larger as more information is being stored digitally. So, it’s time to <a href="https://www.event.law.com/legalweek" rel="noopener noreferrer nofollow" target="_blank">hear from legal technologists, TAR/CAR experts, and network with those at the forefront of innovation</a>.</p>
+
+Two hot takes on a story and event that caught my eye on Tuesday.
+
+⚖️ + 💰 If AI can simplify the rendering of legal boilerplate into more easily understood language, there is a case to be made for finding legal needles in haystacks of legalese too.
+
+[https://www.techmeme.com/250218/p9#a250218p9](https://www.techmeme.com/250218/p9#a250218p9)
+
+⚖️ + 🧠 Technology assisted review (TAR) and computer assisted review (CAR) are making bigger impact in the legal field of eDiscovery where the expectation of sifting through electronically stored information (ESI) grows larger as more information is being stored digitally. So, it’s time to [hear from legal technologists, TAR/CAR experts, and network with those at the forefront of innovation](https://www.event.law.com/legalweek).
    
 ## 🤪 Wacky Wednesday for 2025-02-19
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p>https://www.youtube.com/watch?v=zprSxCMlECA</p><p><a href="https://www.nativecos.com/collections/limited-edition-dunkin" rel="noopener noreferrer nofollow" target="_blank">https://www.nativecos.com/collections/limited-edition-dunkin</a></p><p>https://bsky.app/profile/tylerjameshill.com/post/3liillvsnhc2m</p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+https://www.youtube.com/watch?v=zprSxCMlECA
+
+[https://www.nativecos.com/collections/limited-edition-dunkin](https://www.nativecos.com/collections/limited-edition-dunkin)
+
+https://bsky.app/profile/tylerjameshill.com/post/3liillvsnhc2m
    
 ## 🔙 Throwback Thursday for 2025-02-20
  
-<p>One headline for a Thursday Throwback caught my eye.</p><p>⚛️ + ☁️ I was tipped to the recent Majorana news.</p><p><a href="https://www.linkedin.com/posts/jaycuthrell_majorana-activity-7298823652937007105-kqCH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/posts/jaycuthrell_majorana-activity-7298823652937007105-kqCH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc</a></p><p>In fact, the Microsoft quantum computing related news goes back quite far… to at least 10+ years ago.</p><p><a href="https://www.techmeme.com/140624/p6#a140624p6" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/140624/p6#a140624p6</a></p>
+
+One headline for a Thursday Throwback caught my eye.
+
+⚛️ + ☁️ I was tipped to the recent Majorana news.
+
+[https://www.linkedin.com/posts/jaycuthrell_majorana-activity-7298823652937007105-kqCH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc](https://www.linkedin.com/posts/jaycuthrell_majorana-activity-7298823652937007105-kqCH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)
+
+In fact, the Microsoft quantum computing related news goes back quite far… to at least 10+ years ago.
+
+[https://www.techmeme.com/140624/p6#a140624p6](https://www.techmeme.com/140624/p6#a140624p6)
    
 ## ✅ Final Thoughts Friday for 2025-02-21
  
-<p>The story that caught my eye this week was Apple taking a loud (principled) stance most likely in response to alleged government demands for “backdoors” to be built into Apple encryption.</p><p><a href="https://www.techmeme.com/250221/p12#a250221p12" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250221/p12#a250221p12</a></p><p>Warrant canary aside, this action may further reasoned discussion on balancing for the merits of end to end encryption (E2EE), individual freedoms, individual privacy, national security, willful government ignorance of maths, and government overreach.</p><p></p><p></p>
+
+The story that caught my eye this week was Apple taking a loud (principled) stance most likely in response to alleged government demands for “backdoors” to be built into Apple encryption.
+
+[https://www.techmeme.com/250221/p12#a250221p12](https://www.techmeme.com/250221/p12#a250221p12)
+
+Warrant canary aside, this action may further reasoned discussion on balancing for the merits of end to end encryption (E2EE), individual freedoms, individual privacy, national security, willful government ignorance of maths, and government overreach.
    
 ## 🔮 Sneak Peak Saturday for 2025-02-22
  
-<p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a href="https://www.techmeme.com/250221/p11#a250221p11" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250221/p11#a250221p11</a></p><h4>Insert Ceiling Cat Meme</h4><p><a href="https://www.techmeme.com/250221/p24#a250221p24" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250221/p24#a250221p24</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a href="https://www.techmeme.com/250221/p22#a250221p22" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250221/p22#a250221p22</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a href="https://www.techmeme.com/250221/p9#a250221p9" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250221/p9#a250221p9</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a href="https://www.techmeme.com/250221/p21#a250221p21" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250221/p21#a250221p21</a></p>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/250221/p11#a250221p11](https://www.techmeme.com/250221/p11#a250221p11)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/250221/p24#a250221p24](https://www.techmeme.com/250221/p24#a250221p24)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/250221/p22#a250221p22](https://www.techmeme.com/250221/p22#a250221p22)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/250221/p9#a250221p9](https://www.techmeme.com/250221/p9#a250221p9)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/250221/p21#a250221p21](https://www.techmeme.com/250221/p21#a250221p21)

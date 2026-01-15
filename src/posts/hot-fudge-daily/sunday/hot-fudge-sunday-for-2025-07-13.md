@@ -5,6 +5,7 @@ description: "Automation goals, market spice, AI funding, power in tech, Langcha
 date: 2025-07-13 13:00:00.000+00:00
 ---
 
+
 Thanks again for sticking with new formats and redirects. 🤓
 
 {{ subscribe_form }}
@@ -24,7 +25,12 @@ I continue to streamline my process and believe I am getting closer to the level
 ---
 ## 📈 Markets Monday for 2025-07-07
  
-<p>It’s much less spicy this week.</p><h3><strong>Last</strong> week</h3><p>Mergers and Quantumania!</p><figure><img src="https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&amp;fit=max" alt="More spicy!" draggable="false"><figcaption>More spicy!</figcaption></figure><h3>This Week</h3><figure><img src="https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&amp;fit=max" alt="Not so spicy…" draggable="false"><figcaption>Not so spicy…</figcaption></figure><p></p><p>Source: <a target="_blank" rel="noopener noreferrer nofollow" href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a">https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a</a></p>
+
+It’s much less spicy this week.<h3><strong>Last</strong> week</h3>
+
+Mergers and Quantumania!<figure><img alt="More spicy!" draggable="false" src="https://assets.buttondown.email/images/7619b189-eae5-488e-aa08-c26629d6f184.png?w=960&fit=max"/><figcaption>More spicy!</figcaption></figure><h3>This Week</h3><figure><img alt="Not so spicy…" draggable="false" src="https://assets.buttondown.email/images/48b3c25b-b488-46ca-b829-7697e1dfbe5c.png?w=960&fit=max"/><figcaption>Not so spicy…</figcaption></figure>
+
+Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
    
 ## 🔥 Hot Takes Tuesday for 2025-07-08
  
@@ -38,19 +44,89 @@ I continue to streamline my process and believe I am getting closer to the level
    
 ## 🤪 Wacky Wednesday for 2025-07-09
  
-<p>The most interesting shared link in Slack communities:</p><p>(safe for work link)</p><p>https://bsky.app/profile/sprobeforebros.bsky.social/post/3ltcn6rlxjs2p</p>
+
+The most interesting shared link in Slack communities:
+
+(safe for work link)
+
+https://bsky.app/profile/sprobeforebros.bsky.social/post/3ltcn6rlxjs2p
    
 ## 🔙 Throwback Thursday for 2025-07-10
  
-<p>One theme that caught my eye this week: Power</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250710/p6#a250710p6">https://www.techmeme.com/250710/p6#a250710p6</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250710/p7#a250710p7">https://www.techmeme.com/250710/p7#a250710p7</a> </p><p>Power truly matters when it is taken away from data centers… suddenly.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/throwback-thursday-for-2025-05-08/">https://fudge.org/archive/throwback-thursday-for-2025-05-08/</a></p><p>I’ve been tracking datacenter use of SMR power for a while now.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/final-thoughts-friday-for-2024-10-18/">https://fudge.org/archive/final-thoughts-friday-for-2024-10-18/</a></p><p>Then there is the larger nuclear power options for data centers.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/final-thoughts-friday-for-2024-09-20/">https://fudge.org/archive/final-thoughts-friday-for-2024-09-20/</a></p><p>But the dream of a carbon free future lives on… via unlisted YouTube videos?</p><p>https://www.youtube.com/watch?v=S163YUdfckg</p><p>And the power hungry nature of data centers is not new.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fudge.org/archive/throwback-thursday-for-2024-08-29/">https://fudge.org/archive/throwback-thursday-for-2024-08-29/</a></p>
+
+One theme that caught my eye this week: Power
+
+[https://www.techmeme.com/250710/p6#a250710p6](https://www.techmeme.com/250710/p6#a250710p6)
+
+[https://www.techmeme.com/250710/p7#a250710p7](https://www.techmeme.com/250710/p7#a250710p7) 
+
+Power truly matters when it is taken away from data centers… suddenly.
+
+[https://fudge.org/archive/throwback-thursday-for-2025-05-08/](https://fudge.org/archive/throwback-thursday-for-2025-05-08/)
+
+I’ve been tracking datacenter use of SMR power for a while now.
+
+[https://fudge.org/archive/final-thoughts-friday-for-2024-10-18/](https://fudge.org/archive/final-thoughts-friday-for-2024-10-18/)
+
+Then there is the larger nuclear power options for data centers.
+
+[https://fudge.org/archive/final-thoughts-friday-for-2024-09-20/](https://fudge.org/archive/final-thoughts-friday-for-2024-09-20/)
+
+But the dream of a carbon free future lives on… via unlisted YouTube videos?
+
+https://www.youtube.com/watch?v=S163YUdfckg
+
+And the power hungry nature of data centers is not new.
+
+[https://fudge.org/archive/throwback-thursday-for-2024-08-29/](https://fudge.org/archive/throwback-thursday-for-2024-08-29/)
    
 ## ✅ Final Thoughts Friday for 2025-07-11
  
-<p>🦜🔗 + 💰 The big tech story for the week was <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.langchain.com/">LangChain</a>.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250709/p42#a250709p42">https://www.techmeme.com/250709/p42#a250709p42</a></p><p>What’s that you say?</p><p>Did you know <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.meetup.com/austin-langchain-ai-group/">Austin LangChain Meetup</a> has +1.3k members? 🤯</p><p>Did you know <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.reddit.com/r/LangChain/">/r/LangChain</a> has +66k members? 🤯</p><p>🦜🔗 Yep. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.langchain.com/community">Zero to thriving community</a> in &lt; 1000 days. 🤯</p>
+
+🦜🔗 + 💰 The big tech story for the week was [LangChain](https://www.langchain.com/).
+
+[https://www.techmeme.com/250709/p42#a250709p42](https://www.techmeme.com/250709/p42#a250709p42)
+
+What’s that you say?
+
+Did you know [Austin LangChain Meetup](https://www.meetup.com/austin-langchain-ai-group/) has +1.3k members? 🤯
+
+Did you know [/r/LangChain](https://www.reddit.com/r/LangChain/) has +66k members? 🤯
+
+🦜🔗 Yep. [Zero to thriving community](https://www.langchain.com/community) in < 1000 days. 🤯
    
 ## 🔮 Sneak Peak Saturday for 2025-07-12
  
-<p>I’ve selected a Friday news dump item that reached a peak level of trope, cliché, or bromide on the slowest news day that may be attempting to avoid wider coverage.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250711/p11#a250711p11">https://www.techmeme.com/250711/p11#a250711p11</a></p><p>Top 10 what? Intel isn’t in the Top 10 by what measurement?</p><p>So, everyone loves a stack ranking or Top 10 list. But, the question is what Top number would Intel be now and by what measure?</p><p>So, perhaps, this is more about a CEO with compensation tied to stock price.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://fortune.com/2025/03/15/intel-new-ceo-lip-bu-tan-pay-package-stock-options-bonus-69-million/">https://fortune.com/2025/03/15/intel-new-ceo-lip-bu-tan-pay-package-stock-options-bonus-69-million/</a></p><p>Surely, this isn’t about Top 10 by revenue. Even with declining revenue (~$50B), Intel has revenue that would easily keep it in a Top 10 list.</p><p>Of course, stock price performance is a brutal comparison over 5 years. Also, the “too late” quip about NVIDIA makes more sense in this stock price performance view.</p><figure><img src="https://assets.buttondown.email/images/eab9cbe4-4bee-4a45-a9cb-d62a4158ba60.png?w=960&amp;fit=max" alt="Ouch." draggable="false"><figcaption>Ouch.</figcaption></figure><p>So, let’s look at Intel’s Market Cap performance… and…</p><figure><img src="https://assets.buttondown.email/images/59c5e6e8-a416-4bdf-b15d-6b3d8995e421.png?w=960&amp;fit=max" alt="Ouch." draggable="false"><figcaption>Ouch.</figcaption></figure><p>If Market Cap is the only measurement, then Intel is well outside of the Top 10 list of semiconductor companies. If the downward trend continues, Intel will be at risk of staying in the Top 20 list of semiconductor companies.</p><p>Of course, even with this Friday news coverage there is something to be said for rewinding back in the week. What else was communicated in the news cycle?</p><p>Indeed, other news this week was the continuation of layoffs at Intel. Also, expect to see more actions like selling off parts of the Intel business that are not considered part of the core or outside of the restructuring lines.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250711/p5#a250711p5">https://www.techmeme.com/250711/p5#a250711p5</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.oregonlive.com/silicon-forest/2025/07/intel-layoffs-begin-chipmaker-is-cutting-many-thousands-of-jobs.html">https://www.oregonlive.com/silicon-forest/2025/07/intel-layoffs-begin-chipmaker-is-cutting-many-thousands-of-jobs.html</a></p><p>While 5 days isn’t the same as 5 years… news travels fast.</p><figure><img src="https://assets.buttondown.email/images/13c3e26c-92d6-44c3-aab0-344a310e66e9.png?w=960&amp;fit=max" alt="Intel “outperformed” NVIDIA… this week." draggable="false"><figcaption>Intel “outperformed” NVIDIA… this week.</figcaption></figure>
+
+I’ve selected a Friday news dump item that reached a peak level of trope, cliché, or bromide on the slowest news day that may be attempting to avoid wider coverage.
+
+[https://www.techmeme.com/250711/p11#a250711p11](https://www.techmeme.com/250711/p11#a250711p11)
+
+Top 10 what? Intel isn’t in the Top 10 by what measurement?
+
+So, everyone loves a stack ranking or Top 10 list. But, the question is what Top number would Intel be now and by what measure?
+
+So, perhaps, this is more about a CEO with compensation tied to stock price.
+
+[https://fortune.com/2025/03/15/intel-new-ceo-lip-bu-tan-pay-package-stock-options-bonus-69-million/](https://fortune.com/2025/03/15/intel-new-ceo-lip-bu-tan-pay-package-stock-options-bonus-69-million/)
+
+Surely, this isn’t about Top 10 by revenue. Even with declining revenue (~$50B), Intel has revenue that would easily keep it in a Top 10 list.
+
+Of course, stock price performance is a brutal comparison over 5 years. Also, the “too late” quip about NVIDIA makes more sense in this stock price performance view.<figure><img alt="Ouch." draggable="false" src="https://assets.buttondown.email/images/eab9cbe4-4bee-4a45-a9cb-d62a4158ba60.png?w=960&fit=max"/><figcaption>Ouch.</figcaption></figure>
+
+So, let’s look at Intel’s Market Cap performance… and…<figure><img alt="Ouch." draggable="false" src="https://assets.buttondown.email/images/59c5e6e8-a416-4bdf-b15d-6b3d8995e421.png?w=960&fit=max"/><figcaption>Ouch.</figcaption></figure>
+
+If Market Cap is the only measurement, then Intel is well outside of the Top 10 list of semiconductor companies. If the downward trend continues, Intel will be at risk of staying in the Top 20 list of semiconductor companies.
+
+Of course, even with this Friday news coverage there is something to be said for rewinding back in the week. What else was communicated in the news cycle?
+
+Indeed, other news this week was the continuation of layoffs at Intel. Also, expect to see more actions like selling off parts of the Intel business that are not considered part of the core or outside of the restructuring lines.
+
+[https://www.techmeme.com/250711/p5#a250711p5](https://www.techmeme.com/250711/p5#a250711p5)
+
+[https://www.oregonlive.com/silicon-forest/2025/07/intel-layoffs-begin-chipmaker-is-cutting-many-thousands-of-jobs.html](https://www.oregonlive.com/silicon-forest/2025/07/intel-layoffs-begin-chipmaker-is-cutting-many-thousands-of-jobs.html)
+
+While 5 days isn’t the same as 5 years… news travels fast.<figure><img alt="Intel “outperformed” NVIDIA… this week." draggable="false" src="https://assets.buttondown.email/images/13c3e26c-92d6-44c3-aab0-344a310e66e9.png?w=960&fit=max"/><figcaption>Intel “outperformed” NVIDIA… this week.</figcaption></figure>
 
 ---
 

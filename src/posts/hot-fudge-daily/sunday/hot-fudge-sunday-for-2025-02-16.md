@@ -5,6 +5,7 @@ description: "This week, I highlight #OpenToWork professionals, and share AI ins
 date: 2025-02-16 22:30:00+00:00
 ---
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
@@ -28,7 +29,6 @@ I'm also pleased to add an Alumni 🎉 section this week for those that have tra
 ### Alumni 🎉
 
 > [Congrats Richard Arnesen! 🎉](https://www.linkedin.com/posts/richard-arnesen_im-happy-to-share-that-im-starting-a-new-activity-7290099022084616192-QjYm?utm_source=share&utm_medium=member_desktop)
-
 
 ### [Jarrod Weise](https://www.linkedin.com/in/jarrodweise/)
 
@@ -222,25 +222,97 @@ I'm also pleased to add an Alumni 🎉 section this week for those that have tra
 ---
 ## 📈 Markets Monday for 2025-02-10
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week:</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" target="_blank" rel="noopener noreferrer"><img src="https://assets.buttondown.email/images/59878b9c-1917-47f8-bc8a-75e9dec972af.png?w=960&amp;fit=max" alt="Spicy level 4 returns!" draggable="false"></a><figcaption>Spicy level 4 returns!</figcaption></figure><p>This week:</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" target="_blank" rel="noopener noreferrer"><img src="https://assets.buttondown.email/images/a8a26937-18c5-4558-97d4-da2f88ab1cd8.png?w=960&amp;fit=max" alt="Spicy Level 16 Unlocked! " draggable="false"></a><figcaption>Spicy Level 16 Unlocked!</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a target="_blank" rel="noopener noreferrer nofollow" href="https://finance.yahoo.com/research-hub/screener/">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics &amp; Computer Distribution and Consumer Electronics and Electronic Components and Scientific &amp; Technical Instruments and Semiconductor Equipment &amp; Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week:<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="Spicy level 4 returns!" draggable="false" src="https://assets.buttondown.email/images/59878b9c-1917-47f8-bc8a-75e9dec972af.png?w=960&fit=max"/></a><figcaption>Spicy level 4 returns!</figcaption></figure>
+
+This week:<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="Spicy Level 16 Unlocked! " draggable="false" src="https://assets.buttondown.email/images/a8a26937-18c5-4558-97d4-da2f88ab1cd8.png?w=960&fit=max"/></a><figcaption>Spicy Level 16 Unlocked!</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 ## 🔥 Hot Takes Tuesday for 2025-02-11
  
-<p>Two hot takes for two stories that caught my eye on Tuesday.</p><p>🍪 + 💰 Chips are back in season again so it makes sense to see a grab for vertical integration and custom silicon ambitions to offset NVIDIA only procurement at scale outside the US — and especially if there are dithering tariffs to be considered.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250211/p29#a250211p29">https://www.techmeme.com/250211/p29#a250211p29</a></p><p>🍪 + 💰 That said, the appeal of manufacturing chips close to home within the US is another way to avoid dithering tariffs by investing in the US as a quasi-home team advantage.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250211/p41#a250211p41">https://www.techmeme.com/250211/p41#a250211p41</a></p>
+
+Two hot takes for two stories that caught my eye on Tuesday.
+
+🍪 + 💰 Chips are back in season again so it makes sense to see a grab for vertical integration and custom silicon ambitions to offset NVIDIA only procurement at scale outside the US — and especially if there are dithering tariffs to be considered.
+
+[https://www.techmeme.com/250211/p29#a250211p29](https://www.techmeme.com/250211/p29#a250211p29)
+
+🍪 + 💰 That said, the appeal of manufacturing chips close to home within the US is another way to avoid dithering tariffs by investing in the US as a quasi-home team advantage.
+
+[https://www.techmeme.com/250211/p41#a250211p41](https://www.techmeme.com/250211/p41#a250211p41)
    
 ## 🤪 Wacky Wednesday for 2025-02-12
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p>https://www.youtube.com/shorts/9ZJu12sbn1g</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://weirdkatharine.tumblr.com/post/649665308709339137/my-favorite-things-27-cave-pearls">https://weirdkatharine.tumblr.com/post/649665308709339137/my-favorite-things-27-cave-pearls</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://en.m.wikipedia.org/wiki/Scho-Ka-Kola">https://en.m.wikipedia.org/wiki/Scho-Ka-Kola</a></p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+https://www.youtube.com/shorts/9ZJu12sbn1g
+
+[https://weirdkatharine.tumblr.com/post/649665308709339137/my-favorite-things-27-cave-pearls](https://weirdkatharine.tumblr.com/post/649665308709339137/my-favorite-things-27-cave-pearls)
+
+[https://en.m.wikipedia.org/wiki/Scho-Ka-Kola](https://en.m.wikipedia.org/wiki/Scho-Ka-Kola)
    
 ## 🔙 Throwback Thursday for 2025-02-13
  
-<p>One headline for a Thursday Throwback caught my eye.</p><p>🔐 + 💰 CyberArk went shopping again — this time for Zilla Security.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250213/p29#a250213p29">https://www.techmeme.com/250213/p29#a250213p29</a></p><p>🔐 + 💰 In fact, CyberArk gobbled up Venafi back in May 2024.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240520/p7#a240520p7">https://www.techmeme.com/240520/p7#a240520p7</a></p><p>But M&amp;A is not new for CyberArk. For example, it has been almost 10 years since <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.globes.co.il/en/article-cyberark-buys-israeli-software-co-viewfinity-for-305m-1001071941">the acquisition of Viewfinity in 2015</a>.</p><p>While these aren’t <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/posts/jaycuthrell_wiz-ceo-2024-will-be-the-year-of-acquisitions-activity-7182523881671282688-mGaO?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc">Wiz size numbers</a>, it does show that consolidation is happening in some parts of cybersecurity landscape even as it continuously expands to address the ever expanding threats landscape.</p><p></p>
+
+One headline for a Thursday Throwback caught my eye.
+
+🔐 + 💰 CyberArk went shopping again — this time for Zilla Security.
+
+[https://www.techmeme.com/250213/p29#a250213p29](https://www.techmeme.com/250213/p29#a250213p29)
+
+🔐 + 💰 In fact, CyberArk gobbled up Venafi back in May 2024.
+
+[https://www.techmeme.com/240520/p7#a240520p7](https://www.techmeme.com/240520/p7#a240520p7)
+
+But M&A is not new for CyberArk. For example, it has been almost 10 years since [the acquisition of Viewfinity in 2015](https://en.globes.co.il/en/article-cyberark-buys-israeli-software-co-viewfinity-for-305m-1001071941).
+
+While these aren’t [Wiz size numbers](https://www.linkedin.com/posts/jaycuthrell_wiz-ceo-2024-will-be-the-year-of-acquisitions-activity-7182523881671282688-mGaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc), it does show that consolidation is happening in some parts of cybersecurity landscape even as it continuously expands to address the ever expanding threats landscape.
    
 ## ✅ Final Thoughts Friday for 2025-02-14
  
-<p>🤖🤖🤖❤️💰 3 robot funding stories caught my eye this week.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250214/p32#a250214p32">https://www.techmeme.com/250214/p32#a250214p32</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250214/p12#a250214p12">https://www.techmeme.com/250214/p12#a250214p12</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250213/p18#a250213p18">https://www.techmeme.com/250213/p18#a250213p18</a></p><p></p>
+
+🤖🤖🤖❤️💰 3 robot funding stories caught my eye this week.
+
+[https://www.techmeme.com/250214/p32#a250214p32](https://www.techmeme.com/250214/p32#a250214p32)
+
+[https://www.techmeme.com/250214/p12#a250214p12](https://www.techmeme.com/250214/p12#a250214p12)
+
+[https://www.techmeme.com/250213/p18#a250213p18](https://www.techmeme.com/250213/p18#a250213p18)
    
 ## 🔮 Sneak Peak Saturday for 2025-02-15
  
-<p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250214/p30#a250214p30">https://www.techmeme.com/250214/p30#a250214p30</a></p><h4>Insert Ceiling Cat Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250214/p6#a250214p6">https://www.techmeme.com/250214/p6#a250214p6</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250214/p7#a250214p7">https://www.techmeme.com/250214/p7#a250214p7</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250214/p14#a250214p14">https://www.techmeme.com/250214/p14#a250214p14</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250214/p21#a250214p21">https://www.techmeme.com/250214/p21#a250214p21</a></p>
-   
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/250214/p30#a250214p30](https://www.techmeme.com/250214/p30#a250214p30)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/250214/p6#a250214p6](https://www.techmeme.com/250214/p6#a250214p6)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/250214/p7#a250214p7](https://www.techmeme.com/250214/p7#a250214p7)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/250214/p14#a250214p14](https://www.techmeme.com/250214/p14#a250214p14)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/250214/p21#a250214p21](https://www.techmeme.com/250214/p21#a250214p21)

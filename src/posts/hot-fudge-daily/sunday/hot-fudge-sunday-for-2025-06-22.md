@@ -6,6 +6,7 @@ date: 2025-06-22 15:00:00+00:00
 ---
 
 
+
 This week continues our new shortened format. Next week will be a shorter vacation edition of 🌶️ Hot Fudge Sunday.
 
 {{ subscribe_form }}
@@ -32,7 +33,13 @@ Wish me luck! 🤓
 ---
 ## 📈 Markets Monday for 2025-06-16
  
-<h3>Last week</h3><p>It’s all about love and rockets… so, a bit more spicy.</p><figure><img alt="More spicy!" draggable="false" src="https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max"/><figcaption>More spicy!</figcaption></figure><h3><strong>This week</strong></h3><p>Quantumania!</p><figure><img alt="Even more spicy!" draggable="false" src="https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max"/><figcaption>Even more spicy!</figcaption></figure><p>Source: <a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer nofollow" target="_blank">https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a</a></p><p></p><p></p>
+<h3>Last week</h3>
+
+It’s all about love and rockets… so, a bit more spicy.<figure><img alt="More spicy!" draggable="false" src="https://assets.buttondown.email/images/868ec9a3-69f2-41b6-a3d4-c3d3f9ae350b.png?w=960&fit=max"/><figcaption>More spicy!</figcaption></figure><h3><strong>This week</strong></h3>
+
+Quantumania!<figure><img alt="Even more spicy!" draggable="false" src="https://assets.buttondown.email/images/cee2f745-699b-4f0e-a9f9-d0d6839845f6.png?w=960&fit=max"/><figcaption>Even more spicy!</figcaption></figure>
+
+Source: [https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a](https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a)
    
 ## 🔥 Hot Takes Tuesday for 2025-06-17
  
@@ -47,19 +54,66 @@ Wish me luck! 🤓
    
 ## 🤪 Wacky Wednesday for 2025-06-18
  
-<p>Each Wednesday I then select the most interesting shared link from dozens of Slack communities. This will always be a safe for work link. 🙈</p><p><a href="https://global.honda/en/topics/2025/c_2025-06-17ceng.html" rel="noopener noreferrer nofollow" target="_blank">https://global.honda/en/topics/2025/c_2025-06-17ceng.html</a></p>
+
+Each Wednesday I then select the most interesting shared link from dozens of Slack communities. This will always be a safe for work link. 🙈
+
+[https://global.honda/en/topics/2025/c_2025-06-17ceng.html](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
    
 ## 🔙 Throwback Thursday for 2025-06-19
  
-<p>📡 + 💰 One story caught my eye this week was Eutelsat joining the likes of Project Kuiper.</p><p><a href="https://www.techmeme.com/250619/p29#a250619p29" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250619/p29#a250619p29</a></p><p>Indeed, one need only back in time to <em>[checks notes]</em> <a href="https://fudge.org/archive/hot-fudge-sunday-for-2025-05-04/" rel="noopener noreferrer nofollow" target="_blank">May 2025</a> for a reflection on LEO broadband expansion of alternatives that will (one day) rival Starlink.</p>
+
+📡 + 💰 One story caught my eye this week was Eutelsat joining the likes of Project Kuiper.
+
+[https://www.techmeme.com/250619/p29#a250619p29](https://www.techmeme.com/250619/p29#a250619p29)
+
+Indeed, one need only back in time to <em>[checks notes]</em> [May 2025](https://fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) for a reflection on LEO broadband expansion of alternatives that will (one day) rival Starlink.
    
 ## ✅ Final Thoughts Friday for 2025-06-20
  
-<p>🪖 + 🧑‍💻 The story that caught my eye this week was the US Army Reserve’s Detachment 201.</p><p><a href="https://www.techmeme.com/250613/p10#a250613p10" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250613/p10#a250613p10</a></p><p>At SXSW 2024, I attended a fireside chat on “<strong>Cyber Talent in the Era of Great Power Competition</strong>“. The talk was interesting and I took a few notes in my Obsidian. </p><p>Here’s the YouTube video:</p><p>https://www.youtube.com/watch?v=iecffd3h0EI?feature=shared</p><p>My notes:</p><ul><li><p>77% of our youth is ineligible to serve</p></li><li><p>Propensity to Serve is key. </p><ul><li><p>SCIF work is the workplace. </p></li><li><p>Hotspots exist. </p></li><li><p>If that exists it can now enable a unique talent for no uniform roles as part of an attractive benefits, work flexibility, competitive compensation, and retention bonuses. </p></li><li><p>Total compensation package to go full uniform is differentiated through healthcare and savings plans for military. </p></li></ul></li><li><p>As of late 2023, Constructive Service Credit expansion includes R&D (up to Colonel) to solve big challenges.</p><ul><li><p>Off ramp and on ramp paths are becoming more flexible.</p></li><li><p>Cyber and intelligence will be drawn from industry.</p></li><li><p>Find us and we will find a way for you to serve.</p></li><li><p>Example: Civilian to OTS to Major is 10 years and this approach does it in 6 months.</p></li></ul></li></ul>
+
+🪖 + 🧑‍💻 The story that caught my eye this week was the US Army Reserve’s Detachment 201.
+
+[https://www.techmeme.com/250613/p10#a250613p10](https://www.techmeme.com/250613/p10#a250613p10)
+
+At SXSW 2024, I attended a fireside chat on “<strong>Cyber Talent in the Era of Great Power Competition</strong>“. The talk was interesting and I took a few notes in my Obsidian. 
+
+Here’s the YouTube video:
+
+https://www.youtube.com/watch?v=iecffd3h0EI?feature=shared
+
+My notes:
+* 77% of our youth is ineligible to serve
+* Propensity to Serve is key. <ul><li>
+
+SCIF work is the workplace. </li><li>
+
+Hotspots exist. </li><li>
+
+If that exists it can now enable a unique talent for no uniform roles as part of an attractive benefits, work flexibility, competitive compensation, and retention bonuses. </li><li>
+
+Total compensation package to go full uniform is differentiated through healthcare and savings plans for military. </li></ul>
+* As of late 2023, Constructive Service Credit expansion includes R&D (up to Colonel) to solve big challenges.<ul><li>
+
+Off ramp and on ramp paths are becoming more flexible.</li><li>
+
+Cyber and intelligence will be drawn from industry.</li><li>
+
+Find us and we will find a way for you to serve.</li><li>
+
+Example: Civilian to OTS to Major is 10 years and this approach does it in 6 months.</li></ul>
    
 ## 🔮 Sneak Peak Saturday for 2025-06-21
  
-<p>Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.</p><h3>Peak 🏔️ vs. Peek 👀</h3><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>🤔 🤨 🧐 Just a couple that caught my technologist eye…</p><p><a href="https://www.techmeme.com/250620/p27#a250620p27" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250620/p27#a250620p27</a></p><p><a href="https://www.techmeme.com/250621/p8#a250621p8" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250621/p8#a250621p8</a></p><p></p>
+
+Ah, the Friday news dump. By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line.<h3>Peak 🏔️ vs. Peek 👀</h3>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+🤔 🤨 🧐 Just a couple that caught my technologist eye…
+
+[https://www.techmeme.com/250620/p27#a250620p27](https://www.techmeme.com/250620/p27#a250620p27)
+
+[https://www.techmeme.com/250621/p8#a250621p8](https://www.techmeme.com/250621/p8#a250621p8)
 
 ---
 

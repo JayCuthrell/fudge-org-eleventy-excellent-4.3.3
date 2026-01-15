@@ -6,7 +6,10 @@ date: 2024-12-15 16:45:00+00:00
 ---
 
 
-<blockquote class="pullquote"><p>🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</p></blockquote>
+
+<blockquote class="pullquote">
+
+🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
 
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
@@ -28,7 +31,9 @@ This week I’m highlighting [Rich Green](https://www.linkedin.com/in/rich-green
 
 More about [Rich Green](https://www.linkedin.com/in/rich-green-5304804/):
 
-<blockquote class="pullquote"><p>I am an seasoned technology and sales professional who has worked in both pre-sales and post-sales roles and in Customer Operations roles over my career. I am a self starter who works well both independently and in a team environment. I have been successful at every step of my career - whether it was helping launch the Iridium Satellite System while at Motorola SATCOM or taking a startup Internet Service Provider (softAware) to the next level to be acquired or selling into Enterprise, SMB, and SLED customers at Hughes, EMC, Brocade, Broadcom and Faction. I feel that I am an asset to any organization that I join. I am willing to relocate for the right opportunity.<br/><br/>Specialties: Sales Engineering, Solution Engineering, SAN, LAN, Storage, Technical Sales, Account Management</p></blockquote>
+<blockquote class="pullquote">
+
+I am an seasoned technology and sales professional who has worked in both pre-sales and post-sales roles and in Customer Operations roles over my career. I am a self starter who works well both independently and in a team environment. I have been successful at every step of my career - whether it was helping launch the Iridium Satellite System while at Motorola SATCOM or taking a startup Internet Service Provider (softAware) to the next level to be acquired or selling into Enterprise, SMB, and SLED customers at Hughes, EMC, Brocade, Broadcom and Faction. I feel that I am an asset to any organization that I join. I am willing to relocate for the right opportunity.<br/><br/>Specialties: Sales Engineering, Solution Engineering, SAN, LAN, Storage, Technical Sales, Account Management</blockquote>
 
 Source: [Rich Green on LinkedIn](https://www.linkedin.com/in/rich-green-5304804/)
 ![Japanese-Mayonnaise-Drink-FT-BLOG1224-0a25be8bc31f4fd694dd5518bf64aeb0.jpg](https://assets.buttondown.email/images/2c97f781-d517-4b91-b3d0-e01e8e1f936c.jpg?w=960&fit=max)
@@ -39,36 +44,107 @@ Source: [Rich Green on LinkedIn](https://www.linkedin.com/in/rich-green-5304804/
 ---
 ### 📈 Markets Monday for 2024-12-09
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week…</p><figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Still many green things" draggable="false" src="https://assets.buttondown.email/images/5b745842-dd8f-4120-a08a-9e6d43673cbc.png?w=960&fit=max"/></a><figcaption>Many green things</figcaption></figure><p>This week…</p><figure><a href="Not as many green things" rel="noopener noreferrer" target="_blank"><img alt="Not as many green things" draggable="false" src="https://assets.buttondown.email/images/54b12512-6b18-4b04-923b-d536607da93c.png?w=960&fit=max"/></a><figcaption>Not as many green things</figcaption></figure><p></p><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer nofollow" target="_blank">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week…<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Still many green things" draggable="false" src="https://assets.buttondown.email/images/5b745842-dd8f-4120-a08a-9e6d43673cbc.png?w=960&fit=max"/></a><figcaption>Many green things</figcaption></figure>
+
+This week…<figure><a href="Not as many green things" rel="noopener noreferrer" target="_blank"><img alt="Not as many green things" draggable="false" src="https://assets.buttondown.email/images/54b12512-6b18-4b04-923b-d536607da93c.png?w=960&fit=max"/></a><figcaption>Not as many green things</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 {{ subscribe_form }}
    
 ### 🔥 Hot Takes Tuesday for 2024-12-10
  
-<p>Two hot takes on two stories that caught my eye on Tuesday.</p><p>💰 + 🇫🇷 Again, if you aren’t investing in France then you aren’t taking advantage of unique IP protections — and this time, $48M worth of reasons to consider quantum computing has entered the chat. </p><p><a href="https://www.techmeme.com/241210/p9#a241210p9" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241210/p9#a241210p9</a></p><p>💰 + 💁  If you had told me there would be $40M seed round for detecting sassy responses… I’d assume you were funding <a href="https://www.youtube.com/watch?v=JzF5VawGgiA" rel="noopener noreferrer nofollow" target="_blank">a dystopian trope</a>.</p><p><a href="https://www.techmeme.com/241209/p17#a241209p17" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241209/p17#a241209p17</a></p><p></p><p></p>
+
+Two hot takes on two stories that caught my eye on Tuesday.
+
+💰 + 🇫🇷 Again, if you aren’t investing in France then you aren’t taking advantage of unique IP protections — and this time, $48M worth of reasons to consider quantum computing has entered the chat. 
+
+[https://www.techmeme.com/241210/p9#a241210p9](https://www.techmeme.com/241210/p9#a241210p9)
+
+💰 + 💁  If you had told me there would be $40M seed round for detecting sassy responses… I’d assume you were funding [a dystopian trope](https://www.youtube.com/watch?v=JzF5VawGgiA).
+
+[https://www.techmeme.com/241209/p17#a241209p17](https://www.techmeme.com/241209/p17#a241209p17)
    
 {{ subscribe_form }}
    
 ### 🤪 Wacky Wednesday for 2024-12-11
  
-<p></p><p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p>https://www.youtube.com/watch?v=IFaAjR_RRJs</p><p><a href="https://www.foodandwine.com/nomu-mayo-drinkable-mayonnaise-8757564" rel="noopener noreferrer nofollow" target="_blank">https://www.foodandwine.com/nomu-mayo-drinkable-mayonnaise-8757564</a></p><p>https://www.youtube.com/watch?v=A-mLVVJkH7I</p><p></p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+https://www.youtube.com/watch?v=IFaAjR_RRJs
+
+[https://www.foodandwine.com/nomu-mayo-drinkable-mayonnaise-8757564](https://www.foodandwine.com/nomu-mayo-drinkable-mayonnaise-8757564)
+
+https://www.youtube.com/watch?v=A-mLVVJkH7I
    
 {{ subscribe_form }}
    
 ### 🔙 Throwback Thursday for 2024-12-12
  
-<p>Here in the US, a <a href="https://en.wikipedia.org/wiki/Mobile_virtual_network_operator" rel="noopener noreferrer nofollow" target="_blank">mobile virtual network operator (MVNO)</a> is a fairly recent part of our telecom history.</p><p>~20 years ago, <a href="https://web.archive.org/web/20051204100258/http://today.reuters.com/news/newsArticleSearch.aspx?storyID=59051+07-Nov-2005+RTRS&srch=yahoo" rel="noopener noreferrer nofollow" target="_blank">there was a Google Phone and a Yahoo! Phone</a> and even a <a href="https://www.engadget.com/2005-07-06-disney-announces-disney-mobile.html" rel="noopener noreferrer nofollow" target="_blank">Disney Phone</a>.</p><p>And now… a recent $73M Series-B is making it even easier for MVNO ambitions to be set in motion. </p><p><a href="https://www.techmeme.com/241212/p28#a241212p28" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241212/p28#a241212p28</a></p><blockquote class="pullquote"><p>You get a mobile phone network! </p><p>And you get a mobile phone network! </p><p>🤓</p></blockquote><p></p>
+
+Here in the US, a [mobile virtual network operator (MVNO)](https://en.wikipedia.org/wiki/Mobile_virtual_network_operator) is a fairly recent part of our telecom history.
+
+~20 years ago, [there was a Google Phone and a Yahoo! Phone](https://web.archive.org/web/20051204100258/http://today.reuters.com/news/newsArticleSearch.aspx?storyID=59051+07-Nov-2005+RTRS&srch=yahoo) and even a [Disney Phone](https://www.engadget.com/2005-07-06-disney-announces-disney-mobile.html).
+
+And now… a recent $73M Series-B is making it even easier for MVNO ambitions to be set in motion. 
+
+[https://www.techmeme.com/241212/p28#a241212p28](https://www.techmeme.com/241212/p28#a241212p28)<blockquote class="pullquote">
+
+You get a mobile phone network! 
+
+And you get a mobile phone network! 
+
+🤓</blockquote>
    
 {{ subscribe_form }}
    
 ### ✅ Final Thoughts Friday for 2024-12-13
  
-<p>The tech news story that caught my eye this week was Microsoft claiming next-generation closed-loop cooling datacenter designs will consume zero water.</p><p><a href="https://www.techmeme.com/241210/p4#a241210p4" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241210/p4#a241210p4</a></p><p>For example, when you hear statistics such as <a href="https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/" rel="noopener noreferrer nofollow" target="_blank">AI queries use up a bottle of water per prompt</a>, widening adoption of this Microsoft design could mean <a href="https://arxiv.org/pdf/2304.03271" rel="noopener noreferrer nofollow" target="_blank">AI data centers become less thirsty</a>.</p>
+
+The tech news story that caught my eye this week was Microsoft claiming next-generation closed-loop cooling datacenter designs will consume zero water.
+
+[https://www.techmeme.com/241210/p4#a241210p4](https://www.techmeme.com/241210/p4#a241210p4)
+
+For example, when you hear statistics such as [AI queries use up a bottle of water per prompt](https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/), widening adoption of this Microsoft design could mean [AI data centers become less thirsty](https://arxiv.org/pdf/2304.03271).
    
 {{ subscribe_form }}
    
 ### 🔮 Sneak Peak Saturday for 2024-12-14
  
-<p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a href="https://www.techmeme.com/241214/p15#a241214p15" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241214/p15#a241214p15</a></p><h4>Insert Ceiling Cat Meme</h4><p><a href="https://www.techmeme.com/241214/p19#a241214p19" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241214/p19#a241214p19</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a href="https://www.techmeme.com/241213/p11#a241213p11" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241213/p11#a241213p11</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a href="https://www.techmeme.com/241213/p14#a241213p14" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241213/p14#a241213p14</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a href="https://www.techmeme.com/241213/p12#a241213p12" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/241213/p12#a241213p12</a></p>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/241214/p15#a241214p15](https://www.techmeme.com/241214/p15#a241214p15)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/241214/p19#a241214p19](https://www.techmeme.com/241214/p19#a241214p19)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/241213/p11#a241213p11](https://www.techmeme.com/241213/p11#a241213p11)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/241213/p14#a241213p14](https://www.techmeme.com/241213/p14#a241213p14)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/241213/p12#a241213p12](https://www.techmeme.com/241213/p12#a241213p12)
    
 {{ subscribe_form }}

@@ -5,6 +5,7 @@ description: "This week, I&#39;m spotlighting talented professionals who are #Op
 date: 2024-12-29 17:05:00+00:00
 ---
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
@@ -156,7 +157,6 @@ I believe in [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA). P
 
 > Source: [Rich Green](https://www.linkedin.com/in/rich-green-5304804/)
 
-
 ---
    
 # Hot Fudge Daily Digest
@@ -164,36 +164,115 @@ I believe in [#NeverSearchAlone](https://www.youtube.com/watch?v=OH3nzRdwYPA). P
 ---
 ### 📈 Markets Monday for 2024-12-23
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week, Yahoo Screener (now part of “Research Hub”) has changed the layout options…</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" target="_blank" rel="noopener noreferrer"><img src="https://assets.buttondown.email/images/b2fea2d8-0e6a-4942-a0bc-002b8e1399bb.png?w=960&amp;fit=max" alt="19 spicy stocks" draggable="false"></a><figcaption>Last week? Spicy level 19… and quite the combo!</figcaption></figure><p>This week, I’m doing a similar screenshot and deep link.</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" target="_blank" rel="noopener noreferrer"><img src="https://assets.buttondown.email/images/4f21093d-8012-43bb-9650-250d80576ed7.png?w=960&amp;fit=max" alt="6 spicy stocks" draggable="false"></a><figcaption>This week? Spicy level 6… and quantum remains in the top 2!</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a target="_blank" rel="noopener noreferrer nofollow" href="https://finance.yahoo.com/research-hub/screener/">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics &amp; Computer Distribution and Consumer Electronics and Electronic Components and Scientific &amp; Technical Instruments and Semiconductor Equipment &amp; Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week, Yahoo Screener (now part of “Research Hub”) has changed the layout options…<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="19 spicy stocks" draggable="false" src="https://assets.buttondown.email/images/b2fea2d8-0e6a-4942-a0bc-002b8e1399bb.png?w=960&fit=max"/></a><figcaption>Last week? Spicy level 19… and quite the combo!</figcaption></figure>
+
+This week, I’m doing a similar screenshot and deep link.<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="6 spicy stocks" draggable="false" src="https://assets.buttondown.email/images/4f21093d-8012-43bb-9650-250d80576ed7.png?w=960&fit=max"/></a><figcaption>This week? Spicy level 6… and quantum remains in the top 2!</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 {{ subscribe_form }}
    
 ### 🔥 Hot Takes Tuesday for 2024-12-24
  
-<p>Two hot takes on two Paypal mafia stories that caught my eye on Tuesday.</p><p>💰 + 🤖 Right pocket… You can buy a lot of processing power hungry bets with $3B</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241224/p21#a241224p21">https://www.techmeme.com/241224/p21#a241224p21</a></p><p>💰 + 🤖 Left pocket… You can buy a lot of infrastructure to feed processing power hungry bets with $6B</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241223/p19#a241223p19">https://www.techmeme.com/241223/p19#a241223p19</a></p>
+
+Two hot takes on two Paypal mafia stories that caught my eye on Tuesday.
+
+💰 + 🤖 Right pocket… You can buy a lot of processing power hungry bets with $3B
+
+[https://www.techmeme.com/241224/p21#a241224p21](https://www.techmeme.com/241224/p21#a241224p21)
+
+💰 + 🤖 Left pocket… You can buy a lot of infrastructure to feed processing power hungry bets with $6B
+
+[https://www.techmeme.com/241223/p19#a241223p19](https://www.techmeme.com/241223/p19#a241223p19)
    
 {{ subscribe_form }}
    
 ### 🤪 Wacky Wednesday for 2024-12-25
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.atlasobscura.com/articles/wild-life-excerpt-water-quality-mussels">https://www.atlasobscura.com/articles/wild-life-excerpt-water-quality-mussels</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://rotatingsandwiches.wordpress.com/">https://rotatingsandwiches.wordpress.com/</a></p><p>https://bsky.app/profile/bloodlesscoup.bsky.social/post/3ldp3d4wtlc2a</p><p></p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+[https://www.atlasobscura.com/articles/wild-life-excerpt-water-quality-mussels](https://www.atlasobscura.com/articles/wild-life-excerpt-water-quality-mussels)
+
+[https://rotatingsandwiches.wordpress.com/](https://rotatingsandwiches.wordpress.com/)
+
+https://bsky.app/profile/bloodlesscoup.bsky.social/post/3ldp3d4wtlc2a
    
 {{ subscribe_form }}
    
 ### 🔙 Throwback Thursday for 2024-12-26
  
-<p>I was born in 1972. So was SAP.</p><p>20-ish years later, my early career started at Nortel Networks. By 1998, CRM and computer telephony interface (CTI) had become a big thing while the word Internet occurred ~35 times in the Nortel Networks Annual Report that year.</p><p>By 1999, CRM was big enough that Nortel Networks went on to buy Clarify.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cnet.com/tech/tech-industry/nortel-to-buy-software-maker-clarify/">https://www.cnet.com/tech/tech-industry/nortel-to-buy-software-maker-clarify/</a></p><p>At that time, I decided to leave Nortel Networks and chase .com consulting dreams for a few years as a globe trotting consultant. Meanwhile, SAP and Nortel did a CRM deal.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cnet.com/tech/tech-industry/sap-signs-software-deal-with-nortel/">https://www.cnet.com/tech/tech-industry/sap-signs-software-deal-with-nortel/</a></p><p>A fear years later, SAP and the Nortel Networks + Clarify deal fell apart. So too did my .com dreams.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cnet.com/tech/tech-industry/sap-show-to-focus-on-e-business/">https://www.cnet.com/tech/tech-industry/sap-show-to-focus-on-e-business/</a></p><p>By 2009, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/090114/p31#a090114p31">Nortel no longer existed</a> and I had been steadily heading in the direction of hybrid cloud services. Oddly enough, SAP was headed that way too.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241224/p9#a241224p9">https://www.techmeme.com/241224/p9#a241224p9</a></p>
+
+I was born in 1972. So was SAP.
+
+20-ish years later, my early career started at Nortel Networks. By 1998, CRM and computer telephony interface (CTI) had become a big thing while the word Internet occurred ~35 times in the Nortel Networks Annual Report that year.
+
+By 1999, CRM was big enough that Nortel Networks went on to buy Clarify.
+
+[https://www.cnet.com/tech/tech-industry/nortel-to-buy-software-maker-clarify/](https://www.cnet.com/tech/tech-industry/nortel-to-buy-software-maker-clarify/)
+
+At that time, I decided to leave Nortel Networks and chase .com consulting dreams for a few years as a globe trotting consultant. Meanwhile, SAP and Nortel did a CRM deal.
+
+[https://www.cnet.com/tech/tech-industry/sap-signs-software-deal-with-nortel/](https://www.cnet.com/tech/tech-industry/sap-signs-software-deal-with-nortel/)
+
+A fear years later, SAP and the Nortel Networks + Clarify deal fell apart. So too did my .com dreams.
+
+[https://www.cnet.com/tech/tech-industry/sap-show-to-focus-on-e-business/](https://www.cnet.com/tech/tech-industry/sap-show-to-focus-on-e-business/)
+
+By 2009, [Nortel no longer existed](https://www.techmeme.com/090114/p31#a090114p31) and I had been steadily heading in the direction of hybrid cloud services. Oddly enough, SAP was headed that way too.
+
+[https://www.techmeme.com/241224/p9#a241224p9](https://www.techmeme.com/241224/p9#a241224p9)
    
 {{ subscribe_form }}
    
 ### ✅ Final Thoughts Friday for 2024-12-27
  
-<p>The tech news story that caught my eye this week was the conflation of Artificial General Intelligence (AGI) with… </p><blockquote><p>[ checks notes… ] </p></blockquote><p>A seemingly arbitrary amount of revenue?</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241226/p12#a241226p12">https://www.techmeme.com/241226/p12#a241226p12</a></p>
+
+The tech news story that caught my eye this week was the conflation of Artificial General Intelligence (AGI) with… <blockquote>
+
+[ checks notes… ] </blockquote>
+
+A seemingly arbitrary amount of revenue?
+
+[https://www.techmeme.com/241226/p12#a241226p12](https://www.techmeme.com/241226/p12#a241226p12)
    
 {{ subscribe_form }}
    
 ### 🔮 Sneak Peak Saturday for 2024-12-28
  
-<p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241227/p15#a241227p15">https://www.techmeme.com/241227/p15#a241227p15</a></p><h4>Insert Ceiling Cat Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241227/p11#a241227p11">https://www.techmeme.com/241227/p11#a241227p11</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241227/p10#a241227p10">https://www.techmeme.com/241227/p10#a241227p10</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241228/p3#a241228p3">https://www.techmeme.com/241228/p3#a241228p3</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241227/p20#a241227p20">https://www.techmeme.com/241227/p20#a241227p20</a></p>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/241227/p15#a241227p15](https://www.techmeme.com/241227/p15#a241227p15)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/241227/p11#a241227p11](https://www.techmeme.com/241227/p11#a241227p11)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/241227/p10#a241227p10](https://www.techmeme.com/241227/p10#a241227p10)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/241228/p3#a241228p3](https://www.techmeme.com/241228/p3#a241228p3)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/241227/p20#a241227p20](https://www.techmeme.com/241227/p20#a241227p20)
    
 {{ subscribe_form }}

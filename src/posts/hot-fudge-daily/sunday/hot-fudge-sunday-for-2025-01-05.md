@@ -5,6 +5,7 @@ description: "This week, I spotlight talented professionals in my network who ar
 date: 2025-01-06 00:55:19.039880+00:00
 ---
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
@@ -195,36 +196,105 @@ Per our reader survey, each week, I’m going to be highlighting those in my net
 ---
 ## 📈 Markets Monday for 2024-12-30
 
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week:</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" target="_blank" rel="noopener noreferrer"><img src="https://assets.buttondown.email/images/4f21093d-8012-43bb-9650-250d80576ed7.png?w=960&amp;fit=max" alt="6 spicy stocks" draggable="false"></a><figcaption>Spicy level 6… and quantum remains in the top 2!</figcaption></figure><p>This week:</p><figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" target="_blank" rel="noopener noreferrer"><img src="https://assets.buttondown.email/images/8a1f7e38-2946-497d-b644-a3eb0c64ba2a.png?w=960&amp;fit=max" alt="1 spicy stock" draggable="false"></a><figcaption>Spicy level 1… and the end of year calm arrives.</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a target="_blank" rel="noopener noreferrer nofollow" href="https://finance.yahoo.com/research-hub/screener/">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics &amp; Computer Distribution and Consumer Electronics and Electronic Components and Scientific &amp; Technical Instruments and Semiconductor Equipment &amp; Materials and Semiconductors</strong></p></li></ul>
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week:<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="6 spicy stocks" draggable="false" src="https://assets.buttondown.email/images/4f21093d-8012-43bb-9650-250d80576ed7.png?w=960&fit=max"/></a><figcaption>Spicy level 6… and quantum remains in the top 2!</figcaption></figure>
+
+This week:<figure><a href="https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a" rel="noopener noreferrer" target="_blank"><img alt="1 spicy stock" draggable="false" src="https://assets.buttondown.email/images/8a1f7e38-2946-497d-b644-a3eb0c64ba2a.png?w=960&fit=max"/></a><figcaption>Spicy level 1… and the end of year calm arrives.</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 {{ subscribe_form }}
    
 ## 🔥 Hot Takes Tuesday for 2024-12-31
  
-<p>Two hot takes on stories that caught my eye on Tuesday.</p><p>⭐ + ⚠️ Success is demonstrated by being spammed. Trust is demonstrated by being exploited.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241231/p12#a241231p12">https://www.techmeme.com/241231/p12#a241231p12</a></p><p>💰 + ☁️ I’ve worked with dozens of folks at WWT and Softchoice in my career and this combination was more about when not if and there is no why beyond making good dollars and sense.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/241231/p14#a241231p14">https://www.techmeme.com/241231/p14#a241231p14</a></p><p></p>
+
+Two hot takes on stories that caught my eye on Tuesday.
+
+⭐ + ⚠️ Success is demonstrated by being spammed. Trust is demonstrated by being exploited.
+
+[https://www.techmeme.com/241231/p12#a241231p12](https://www.techmeme.com/241231/p12#a241231p12)
+
+💰 + ☁️ I’ve worked with dozens of folks at WWT and Softchoice in my career and this combination was more about when not if and there is no why beyond making good dollars and sense.
+
+[https://www.techmeme.com/241231/p14#a241231p14](https://www.techmeme.com/241231/p14#a241231p14)
    
 {{ subscribe_form }}
    
 ## 🤪 Wacky Wednesday for 2025-01-01
 
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://pudding.cool/2024/11/sitters-standers/">https://pudding.cool/2024/11/sitters-standers/</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://arstechnica.com/science/2024/05/cats-playing-with-robots-proves-a-winning-combo-in-novel-art-installation/">https://arstechnica.com/science/2024/05/cats-playing-with-robots-proves-a-winning-combo-in-novel-art-installation/</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.bbc.com/news/articles/cjdn10yk0k1o">https://www.bbc.com/news/articles/cjdn10yk0k1o</a></p>
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+[https://pudding.cool/2024/11/sitters-standers/](https://pudding.cool/2024/11/sitters-standers/)
+
+[https://arstechnica.com/science/2024/05/cats-playing-with-robots-proves-a-winning-combo-in-novel-art-installation/](https://arstechnica.com/science/2024/05/cats-playing-with-robots-proves-a-winning-combo-in-novel-art-installation/)
+
+[https://www.bbc.com/news/articles/cjdn10yk0k1o](https://www.bbc.com/news/articles/cjdn10yk0k1o)
    
 {{ subscribe_form }}
    
 ## 🔙 Throwback Thursday for 2025-01-02
  
-<p>Long ago in the late 1990s, I was deeply involved in telecommunications. Specifically, this was my early career working with Internet Service Providers (ISPs).</p><p>At that time, facilities based broadband providers were just beginning to take hold in the United States. The shift from dialup to ISDN to DSL, Cable, and Fixed Wireless broadband was amazing.</p><p>Of course, open competition in the market is a big part of what made business in the United States successful. By 2005, the term “Net Neutrality” came into the lexicon.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techdirt.com/2005/10/28/network-neutrality-wouldnt-matter-if-there-was-real-competition/">https://www.techdirt.com/2005/10/28/network-neutrality-wouldnt-matter-if-there-was-real-competition/</a></p><p>Of course, the United States is a big place and a really young experiment as nation go. So, getting broadband everywhere was a very big deal and it was often a story of a digital divide — and it still is even in 2025.</p><p>As my career in telecom progressed, I came to appreciate how essential broadband would be and how stark the differences are for those without access to broadband. And now, the early attempts at eliminating aspects of the digital divide will need to modernize as laws of the land in the United States.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250102/p17#a250102p17">https://www.techmeme.com/250102/p17#a250102p17</a></p><p></p>
+
+Long ago in the late 1990s, I was deeply involved in telecommunications. Specifically, this was my early career working with Internet Service Providers (ISPs).
+
+At that time, facilities based broadband providers were just beginning to take hold in the United States. The shift from dialup to ISDN to DSL, Cable, and Fixed Wireless broadband was amazing.
+
+Of course, open competition in the market is a big part of what made business in the United States successful. By 2005, the term “Net Neutrality” came into the lexicon.
+
+[https://www.techdirt.com/2005/10/28/network-neutrality-wouldnt-matter-if-there-was-real-competition/](https://www.techdirt.com/2005/10/28/network-neutrality-wouldnt-matter-if-there-was-real-competition/)
+
+Of course, the United States is a big place and a really young experiment as nation go. So, getting broadband everywhere was a very big deal and it was often a story of a digital divide — and it still is even in 2025.
+
+As my career in telecom progressed, I came to appreciate how essential broadband would be and how stark the differences are for those without access to broadband. And now, the early attempts at eliminating aspects of the digital divide will need to modernize as laws of the land in the United States.
+
+[https://www.techmeme.com/250102/p17#a250102p17](https://www.techmeme.com/250102/p17#a250102p17)
    
 {{ subscribe_form }}
    
 ## ✅ Final Thoughts Friday for 2025-01-03
  
-<p>The tech news stories that caught my eye this week both included a staggering reference to $80B.</p><h3>🤖 + 🤯 First, $80B of new Microsoft AI data centers… in 2025. </h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250103/p16#a250103p16">https://www.techmeme.com/250103/p16#a250103p16</a></p><h3>🍪 + 🤯 Second, $80B+ in car chips… per year!</h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250101/p2#a250101p2">https://www.techmeme.com/250101/p2#a250101p2</a></p><p></p>
+
+The tech news stories that caught my eye this week both included a staggering reference to $80B.<h3>🤖 + 🤯 First, $80B of new Microsoft AI data centers… in 2025. </h3>
+
+[https://www.techmeme.com/250103/p16#a250103p16](https://www.techmeme.com/250103/p16#a250103p16)<h3>🍪 + 🤯 Second, $80B+ in car chips… per year!</h3>
+
+[https://www.techmeme.com/250101/p2#a250101p2](https://www.techmeme.com/250101/p2#a250101p2)
    
 {{ subscribe_form }}
    
 ## 🔮 Sneak Peak Saturday for 2025-01-04
  
-<p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250103/p11#a250103p11">https://www.techmeme.com/250103/p11#a250103p11</a></p><h4>Insert Ceiling Cat Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250102/p22#a250102p22">https://www.techmeme.com/250102/p22#a250102p22</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250102/p12#a250102p12">https://www.techmeme.com/250102/p12#a250102p12</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250103/p14#a250103p14">https://www.techmeme.com/250103/p14#a250103p14</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250103/p20#a250103p20">https://www.techmeme.com/250103/p20#a250103p20</a></p>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/250103/p11#a250103p11](https://www.techmeme.com/250103/p11#a250103p11)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/250102/p22#a250102p22](https://www.techmeme.com/250102/p22#a250102p22)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/250102/p12#a250102p12](https://www.techmeme.com/250102/p12#a250102p12)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/250103/p14#a250103p14](https://www.techmeme.com/250103/p14#a250103p14)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/250103/p20#a250103p20](https://www.techmeme.com/250103/p20#a250103p20)
    
 {{ subscribe_form }}

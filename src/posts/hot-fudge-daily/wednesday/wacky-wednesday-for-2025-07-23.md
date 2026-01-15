@@ -5,12 +5,9 @@ description: "How to fix a cat"
 date: 2025-07-24 02:36:31.745+00:00
 ---
 
-<p>
- The most interesting shared link in Slack communities:
-</p>
-<p>
+
+The most interesting shared link in Slack communities:
+
  (safe for work link)
-</p>
-<p>
+
  https://www.youtube.com/watch?v=3e6motL4QMc
-</p>

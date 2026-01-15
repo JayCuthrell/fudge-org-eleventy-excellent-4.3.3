@@ -5,4 +5,18 @@ description: "The weekend arrives..."
 date: 2024-09-28 21:20:38.458226+00:00
 ---
 
-<p>As of this update, I am still wrapping up publishing my <a target="_blank" rel="noopener" href="https://techfieldday.com/event/aifd5/">AI Field Day 5</a> delegate notes on Keysight, Integrail, Cisco, VMware, Elastic,&nbsp;Arista, and&nbsp;Enfabrica.</p><p>Once again, I am thankful for <a target="_blank" rel="noopener noreferrer nofollow" href="https://cuthrell.consulting/services/">new and ongoing client work</a> and <a target="_blank" rel="noopener noreferrer nofollow" href="https://calendly.com/jaycuthrell/catch-up">catching up</a> with past co-workers. Weather this week meant more indoors time for digging into my non-technology projects.</p><p>The biggest stories this week that caught me eye:</p><ul><li><p>The market for selling <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240927/p23#a240927p23">$1 for $0.74</a> is massive.</p></li><li><p>More companies will be compelled to tell you that <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240926/p24#a240926p24">you own nothing</a>.</p></li><li><p>Open source can take steps forward in <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240923/p13#a240923p13">dramatic and different ways</a>.</p></li></ul><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240927/p23#a240927p23">https://www.techmeme.com/240927/p23#a240927p23</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240926/p24#a240926p24">https://www.techmeme.com/240926/p24#a240926p24</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240923/p13#a240923p13">https://www.techmeme.com/240923/p13#a240923p13</a></p>
+
+As of this update, I am still wrapping up publishing my [AI Field Day 5](https://techfieldday.com/event/aifd5/) delegate notes on Keysight, Integrail, Cisco, VMware, Elastic, Arista, and Enfabrica.
+
+Once again, I am thankful for [new and ongoing client work](https://cuthrell.consulting/services/) and [catching up](https://calendly.com/jaycuthrell/catch-up) with past co-workers. Weather this week meant more indoors time for digging into my non-technology projects.
+
+The biggest stories this week that caught me eye:
+* The market for selling [$1 for $0.74](https://www.techmeme.com/240927/p23#a240927p23) is massive.
+* More companies will be compelled to tell you that [you own nothing](https://www.techmeme.com/240926/p24#a240926p24).
+* Open source can take steps forward in [dramatic and different ways](https://www.techmeme.com/240923/p13#a240923p13).
+
+[https://www.techmeme.com/240927/p23#a240927p23](https://www.techmeme.com/240927/p23#a240927p23)
+
+[https://www.techmeme.com/240926/p24#a240926p24](https://www.techmeme.com/240926/p24#a240926p24)
+
+[https://www.techmeme.com/240923/p13#a240923p13](https://www.techmeme.com/240923/p13#a240923p13)

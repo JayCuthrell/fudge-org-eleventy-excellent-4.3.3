@@ -6,4 +6,19 @@ date: 2024-08-23 02:09:38.657990+00:00
 ---
 
 
-<p>Throwback Thursday is based upon the classic Fudge Sunday Weekly newsletter sections for "<a href="https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday" rel="noopener noreferrer nofollow" target="_blank">Shot and Chaser</a>".</p><p>Basically, Throwback Thursday is a look back at a prior prediction or past news coverage and how that worked out in the present.</p><p>Encryption has been an increasingly thorny topic in the news as technology, privacy, and policy collide. For example, if you were to look back a few years ago, you might have thought the <a href="https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global" rel="noopener noreferrer nofollow" target="_blank">Sky ECC</a> story was over.</p><p><a href="https://www.techmeme.com/210313/p3#a210313p3" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/210313/p3#a210313p3</a></p><p>In fact, the story was only just beginning. This week, Sky ECC made news again.</p><p><a href="https://www.techmeme.com/240821/p18#a240821p18" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240821/p18#a240821p18</a></p><p>What makes this story interesting is the parallels of accessing encrypted messages years later as we face a future <a href="https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later" rel="noopener noreferrer nofollow" target="_blank">Y2Q</a>. Notably, NIST standards for PQC arrived recently as well.</p><p><a href="https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards" rel="noopener noreferrer nofollow" target="_blank">https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards</a></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+
+Throwback Thursday is based upon the classic Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)".
+
+Basically, Throwback Thursday is a look back at a prior prediction or past news coverage and how that worked out in the present.
+
+Encryption has been an increasingly thorny topic in the news as technology, privacy, and policy collide. For example, if you were to look back a few years ago, you might have thought the [Sky ECC](https://en.wikipedia.org/wiki/Shutdown_of_Sky_Global) story was over.
+
+[https://www.techmeme.com/210313/p3#a210313p3](https://www.techmeme.com/210313/p3#a210313p3)
+
+In fact, the story was only just beginning. This week, Sky ECC made news again.
+
+[https://www.techmeme.com/240821/p18#a240821p18](https://www.techmeme.com/240821/p18#a240821p18)
+
+What makes this story interesting is the parallels of accessing encrypted messages years later as we face a future [Y2Q](https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later). Notably, NIST standards for PQC arrived recently as well.
+
+[https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)

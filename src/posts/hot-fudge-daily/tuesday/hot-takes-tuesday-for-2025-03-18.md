@@ -5,4 +5,15 @@ description: "Catch my two hot takes on a story that just jumped from $23B to $3
 date: 2025-03-19 02:12:14.687551+00:00
 ---
 
-<p>Two hot takes on one story that caught my eye on Tuesday.</p><p>🔐 + 💰 Oh did we say $23B… </p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/240714/p5">https://www.techmeme.com/240714/p5</a></p><p>(A few months later…)</p><p>🔐 + 💰 Sorry! We meant $32B!</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250318/p17#a250318p17">https://www.techmeme.com/250318/p17#a250318p17</a></p>
+
+Two hot takes on one story that caught my eye on Tuesday.
+
+🔐 + 💰 Oh did we say $23B… 
+
+[https://www.techmeme.com/240714/p5](https://www.techmeme.com/240714/p5)
+
+(A few months later…)
+
+🔐 + 💰 Sorry! We meant $32B!
+
+[https://www.techmeme.com/250318/p17#a250318p17](https://www.techmeme.com/250318/p17#a250318p17)

@@ -5,4 +5,7 @@ description: "This week&#39;s email features a must-see safe-for-work YouTube li
 date: 2025-06-05 05:05:46.552035+00:00
 ---
 
-<p>Each Wednesday I then select the most interesting shared link from dozens of Slack communities. This will always be a safe for work link. 🙈</p><p>https://www.youtube.com/watch?v=-AKAwjtzd4w</p>
+
+Each Wednesday I then select the most interesting shared link from dozens of Slack communities. This will always be a safe for work link. 🙈
+
+https://www.youtube.com/watch?v=-AKAwjtzd4w

@@ -5,6 +5,7 @@ description: "I&#39;m spotlighting alumni successes in my network and sharing in
 date: 2025-04-21 00:30:00+00:00
 ---
 
+
 ## Reminder
 
 This week I'll be at [AI Infrastructure Field Day 2](https://techfieldday.com/event/aiifd2/)! 🤓
@@ -67,26 +68,87 @@ Those in my network that are [#OpenToWork](https://www.linkedin.com/search/resul
 ---
 ## 📈 Markets Monday for 2025-04-14
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week:</p><figure><img src="https://assets.buttondown.email/images/863e15f8-24e9-4d9e-91d2-afe42fbb6ad8.png?w=960&amp;fit=max)" alt="Spicy Level 19!" draggable="false"><figcaption>Spicy Level 19!</figcaption></figure><p>This week:</p><figure><img src="https://assets.buttondown.email/images/f87dc76c-45c3-4679-9d0b-5f81de15b0f1.png?w=960&amp;fit=max" alt="No spicy" draggable="false"><figcaption>No spicy</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a target="_blank" rel="noopener noreferrer nofollow" href="https://finance.yahoo.com/research-hub/screener/">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics &amp; Computer Distribution and Consumer Electronics and Electronic Components and Scientific &amp; Technical Instruments and Semiconductor Equipment &amp; Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week:<figure><img alt="Spicy Level 19!" draggable="false" src="https://assets.buttondown.email/images/863e15f8-24e9-4d9e-91d2-afe42fbb6ad8.png?w=960&fit=max)"/><figcaption>Spicy Level 19!</figcaption></figure>
+
+This week:<figure><img alt="No spicy" draggable="false" src="https://assets.buttondown.email/images/f87dc76c-45c3-4679-9d0b-5f81de15b0f1.png?w=960&fit=max"/><figcaption>No spicy</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 ## 🔥 Hot Takes Tuesday for 2025-04-15
  
-<p>Two hot takes on funding on Tuesday.</p><p>🦺 + 💰 This proves that there is <em>some</em> money in AI safety and security.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250415/p14#a250415p14">https://www.techmeme.com/250415/p14#a250415p14</a></p><p>🤔 + 💰 Or, this means fewer but bigger AI related cloud bills are coming.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250415/p41#a250415p41">https://www.techmeme.com/250415/p41#a250415p41</a></p>
+
+Two hot takes on funding on Tuesday.
+
+🦺 + 💰 This proves that there is <em>some</em> money in AI safety and security.
+
+[https://www.techmeme.com/250415/p14#a250415p14](https://www.techmeme.com/250415/p14#a250415p14)
+
+🤔 + 💰 Or, this means fewer but bigger AI related cloud bills are coming.
+
+[https://www.techmeme.com/250415/p41#a250415p41](https://www.techmeme.com/250415/p41#a250415p41)
    
 ## 🤪 Wacky Wednesday for 2025-04-16
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p>https://www.youtube.com/watch?v=lzPoG9H8Hlo</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/ellecordova/reel/DFVjBa5v6wz/">https://www.instagram.com/ellecordova/reel/DFVjBa5v6wz/</a></p><p>https://www.youtube.com/watch?v=l6NkgMqN42E</p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+https://www.youtube.com/watch?v=lzPoG9H8Hlo
+
+[https://www.instagram.com/ellecordova/reel/DFVjBa5v6wz/](https://www.instagram.com/ellecordova/reel/DFVjBa5v6wz/)
+
+https://www.youtube.com/watch?v=l6NkgMqN42E
    
 ## 🔙 Throwback Thursday for 2025-04-17
  
-<p>The market for annotation of data has a fascinating history. And annotation might be increasingly niche with each passing year.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250417/p7#a250417p7">https://www.techmeme.com/250417/p7#a250417p7</a></p><p>For perspective, consider the rise of the most visible format for annotation of data that you’ve probably done thousands of times at this point — <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/070524/p107#a070524p107">Google reCAPTCHA</a>.</p><p>It has also been 20 years since the launch of <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/051104/p34#a051104p34">Amazon Mechanical Turk</a>.</p><p></p>
+
+The market for annotation of data has a fascinating history. And annotation might be increasingly niche with each passing year.
+
+[https://www.techmeme.com/250417/p7#a250417p7](https://www.techmeme.com/250417/p7#a250417p7)
+
+For perspective, consider the rise of the most visible format for annotation of data that you’ve probably done thousands of times at this point — [Google reCAPTCHA](https://www.techmeme.com/070524/p107#a070524p107).
+
+It has also been 20 years since the launch of [Amazon Mechanical Turk](https://www.techmeme.com/051104/p34#a051104p34).
    
 ## ✅ Final Thoughts Friday for 2025-04-18
  
-<p>🤖 + 💰 The story that caught my eye this week was <a target="_blank" rel="noopener noreferrer nofollow" href="https://techfieldday.com/companies/hammerspace/">Hammerspace</a> taking $100M.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250416/p21#a250416p21">https://www.techmeme.com/250416/p21#a250416p21</a></p>
+
+🤖 + 💰 The story that caught my eye this week was [Hammerspace](https://techfieldday.com/companies/hammerspace/) taking $100M.
+
+[https://www.techmeme.com/250416/p21#a250416p21](https://www.techmeme.com/250416/p21#a250416p21)
    
 ## 🔮 Sneak Peak Saturday for 2025-04-19
  
-<p>Ah, the Friday news dump. Let’s see the memes!</p><p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h3>Peak 🏔️ vs. Peek 👀</h3><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><h3>Insert Let's See Who This Really Is Meme</h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250418/p5#a250418p5">https://www.techmeme.com/250418/p5#a250418p5</a></p><h3>Insert Ceiling Cat Meme</h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250418/p10#a250418p10">https://www.techmeme.com/250418/p10#a250418p10</a></p><h3>Insert We're All Trying To Find The Guy Who Did This Meme</h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250418/p3#a250418p3">https://www.techmeme.com/250418/p3#a250418p3</a></p><h3>Insert That Wasn't Me, That Was Patricia Meme</h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250418/p14#a250418p14">https://www.techmeme.com/250418/p14#a250418p14</a></p><h3>Insert Anthony Adams Rubbing Hands Meme</h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250418/p6#a250418p6">https://www.techmeme.com/250418/p6#a250418p6</a></p>
-   
 
+Ah, the Friday news dump. Let’s see the memes!
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h3>Peak 🏔️ vs. Peek 👀</h3>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.<h3>Insert Let's See Who This Really Is Meme</h3>
+
+[https://www.techmeme.com/250418/p5#a250418p5](https://www.techmeme.com/250418/p5#a250418p5)<h3>Insert Ceiling Cat Meme</h3>
+
+[https://www.techmeme.com/250418/p10#a250418p10](https://www.techmeme.com/250418/p10#a250418p10)<h3>Insert We're All Trying To Find The Guy Who Did This Meme</h3>
+
+[https://www.techmeme.com/250418/p3#a250418p3](https://www.techmeme.com/250418/p3#a250418p3)<h3>Insert That Wasn't Me, That Was Patricia Meme</h3>
+
+[https://www.techmeme.com/250418/p14#a250418p14](https://www.techmeme.com/250418/p14#a250418p14)<h3>Insert Anthony Adams Rubbing Hands Meme</h3>
+
+[https://www.techmeme.com/250418/p6#a250418p6](https://www.techmeme.com/250418/p6#a250418p6)

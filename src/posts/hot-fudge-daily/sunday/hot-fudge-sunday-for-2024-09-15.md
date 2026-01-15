@@ -6,7 +6,12 @@ date: 2024-09-15 19:40:40.766968+00:00
 ---
 
 
-<blockquote class="pullquote"><p>🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</p></blockquote><p><a href="https://fudge.org">Hot Fudge Sunday</a> 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at <a href="https://fudge.org">fudge.org</a> in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.</p>
+
+<blockquote class="pullquote">
+
+🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---
    
@@ -15,13 +20,53 @@ date: 2024-09-15 19:40:40.766968+00:00
 ---
 ### 📈 Markets Monday for 2024-09-09
 
-<h3>Reading Recommendation</h3><p>The technology market can be hard to keep up with and if you aren’t reading <a href="https://spyglass.org/" rel="noopener noreferrer nofollow" target="_blank">Spyglass</a>, you should be. As for why, the writer behind <a href="https://spyglass.org/" rel="noopener noreferrer nofollow" target="_blank">Spyglass</a> is <a href="https://mgsiegler.com/about" rel="noopener noreferrer nofollow" target="_blank">M.G. Siegler</a>.</p><h3>Quick Recap</h3><p>As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.</p><figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Markets Monday for 2024-09-09" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/49c668e8-a834-4063-ba04-66b4b05f6c5e.png?w=960&fit=max"/></a><figcaption>Lots of green things on 📈 Markets Monday for 2024-09-09</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.</p><p>If you are using <a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer nofollow" target="_blank">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region:<strong> United States</strong></p></li><li><p>Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector:<strong> Technology</strong></p></li><li><p>Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong></p></li></ul><p></p> 
+<h3>Reading Recommendation</h3>
+
+The technology market can be hard to keep up with and if you aren’t reading [Spyglass](https://spyglass.org/), you should be. As for why, the writer behind [Spyglass](https://spyglass.org/) is [M.G. Siegler](https://mgsiegler.com/about).<h3>Quick Recap</h3>
+
+As a Market Monday reminder and recap, what I try to do each week is look at the same key indicator that I take from a simple yahoo finance webpage. It’s not much but it’s how I look at things and this is what I saw today after the bell closed.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="Markets Monday for 2024-09-09" contenteditable="false" draggable="false" src="https://assets.buttondown.email/images/49c668e8-a834-4063-ba04-66b4b05f6c5e.png?w=960&fit=max"/></a><figcaption>Lots of green things on 📈 Markets Monday for 2024-09-09</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region:<strong> United States</strong>
+* Market Cap (Intraday):<strong> Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector:<strong> Technology</strong>
+* Industry:<strong> Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong> 
 
 {{ subscribe_form }}
    
 ### 🔥 Hot Takes Tuesday for 2024-09-10
  
-<p>The numbers this week are big numbers.</p><p>The numbers are also spread across funds, funding, and M&A.</p><p>These five stories caught my eye.</p><p><a href="https://www.techmeme.com/240909/p5#a240909p5" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240909/p5#a240909p5</a></p><p>💰 + 🤖 That is a lot of capital to deploy and I wonder if this means Graphcore adjacent companies within the EU will see new infusions soon.</p><p><a href="https://www.techmeme.com/240904/p27#a240904p27" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240904/p27#a240904p27</a></p><p>💰 + 🤖 The Happy Fun Ball skit from SNL comes to mind but you have to wonder if adding the word “safe” to the name will jinx it.</p><p><a href="https://www.techmeme.com/240909/p10#a240909p10" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240909/p10#a240909p10</a></p><p>💰 + 💳 Stripe continues to defy patterns and I can’t wait to see what happens next even if what happens has nothing to do with IPOs.</p><p><a href="https://www.techmeme.com/240909/p6#a240909p6" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240909/p6#a240909p6</a></p><p>💰 + 🍪 The balkanization and supply chain resilience around silicon is going to alter our understandings of “<a href="https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022/" rel="noopener noreferrer nofollow" target="_blank">cheap as chips</a>” and just how far intelligence will press to the edge of the network. </p><p><a href="https://www.techmeme.com/240910/p12#a240910p12" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240910/p12#a240910p12</a></p><p>💰 + 🤖 Considering that agentic A.I. is already shifting to repackaging as “useful” A.I., these funding levels are probably in line with the expectations and burn rate that will be required to realize even 10% of those expectations.</p><p></p><p></p>
+
+The numbers this week are big numbers.
+
+The numbers are also spread across funds, funding, and M&A.
+
+These five stories caught my eye.
+
+[https://www.techmeme.com/240909/p5#a240909p5](https://www.techmeme.com/240909/p5#a240909p5)
+
+💰 + 🤖 That is a lot of capital to deploy and I wonder if this means Graphcore adjacent companies within the EU will see new infusions soon.
+
+[https://www.techmeme.com/240904/p27#a240904p27](https://www.techmeme.com/240904/p27#a240904p27)
+
+💰 + 🤖 The Happy Fun Ball skit from SNL comes to mind but you have to wonder if adding the word “safe” to the name will jinx it.
+
+[https://www.techmeme.com/240909/p10#a240909p10](https://www.techmeme.com/240909/p10#a240909p10)
+
+💰 + 💳 Stripe continues to defy patterns and I can’t wait to see what happens next even if what happens has nothing to do with IPOs.
+
+[https://www.techmeme.com/240909/p6#a240909p6](https://www.techmeme.com/240909/p6#a240909p6)
+
+💰 + 🍪 The balkanization and supply chain resilience around silicon is going to alter our understandings of “[cheap as chips](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022/)” and just how far intelligence will press to the edge of the network. 
+
+[https://www.techmeme.com/240910/p12#a240910p12](https://www.techmeme.com/240910/p12#a240910p12)
+
+💰 + 🤖 Considering that agentic A.I. is already shifting to repackaging as “useful” A.I., these funding levels are probably in line with the expectations and burn rate that will be required to realize even 10% of those expectations.
    
 {{ subscribe_form }}
    
@@ -82,7 +127,9 @@ https://www.techmeme.com/240912/p8#a240912p8
  
 As of this update, my delegate duties at [AI Field Day 5](https://techfieldday.com/event/aifd5/) for [Tech Field Day](https://techfieldday.com/events/) are done but my notes will be published in the coming days / weeks. Over three days, I and fellow delegates took in updates from Keysight, Integrail, Cisco, VMware, Elastic, Arista, and Enfabrica *as well as* a Delegate Ignite Talk series and Delegate Roundtable!
 
-<blockquote class="pullquote"><p>I would like to give a HUGE shout out to the team that makes Tech Field Day possible and to Futurum Group as well the sponsoring companies for making the event possible. 🙏 🙏 🙏</p></blockquote>
+<blockquote class="pullquote">
+
+I would like to give a HUGE shout out to the team that makes Tech Field Day possible and to Futurum Group as well the sponsoring companies for making the event possible. 🙏 🙏 🙏</blockquote>
 
 What’s next?
 

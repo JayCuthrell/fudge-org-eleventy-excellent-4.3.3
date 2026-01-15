@@ -5,6 +5,7 @@ date: 2024-02-25
 ---
 
 
+
 Behold, one of my probes [^ripe].
 
 [^ripe]: This is the bigger RIPE Atlas Probe — they truly are quite small.
@@ -15,11 +16,11 @@ If you haven't heard of [RIPE Atlas](https://atlas.ripe.net/docs/faq/general.htm
 
 Hosting the probe can be as simple as plugging in a spare Ethernet cable from the back of your home router and supplying USB power to energize the tiny nanopi [^nanopi] box supplied to you at no cost. Of course, you are paying for power and connectivity... but what you earn in return is, perhaps, priceless.
 
-[^nanopi]: Check out the <a href="https://atlas.ripe.net/docs/probe-v4/">RIPE Atlas Probe V4 specifications</a>.
+[^nanopi]: Check out the [RIPE Atlas Probe V4 specifications](https://atlas.ripe.net/docs/probe-v4/).
 
 I have operated RIPE Atlas probes for several years [^probe] and just reached a milestone — 5 years of continuous operation for one probe in particular. One perk of continuous operation is the accrual of ~21k RIPE Atlas credits per day.
 
-[^probe]: I signed up for RIPE Network Coordination Centre (NCC) access in early 2019 and have truly enjoyed the utility, novelty, and wonder it has sparked in my networking imagination. Thank you <a href="https://www.ripe.net/about-us/">RIPE</a> team!
+[^probe]: I signed up for RIPE Network Coordination Centre (NCC) access in early 2019 and have truly enjoyed the utility, novelty, and wonder it has sparked in my networking imagination. Thank you [RIPE](https://www.ripe.net/about-us/) team!
 
 ![RIPE Atlas Credits](/assets/images/screenshots/2024-02-25-15-32-21.png)
 
@@ -56,7 +57,6 @@ If so -- [let's catch up](https://jaycuthrell.com/contact/) in the real world.
 I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14). If you like, we can sit together or catch up after to discuss what we just heard and experienced — please [grab time on my Calendly](https://calendly.com/jaycuthrell/call?month=2024-03).
 
 <!-- Calendly inline widget begin -->
-
 
 > *[Interactive script removed]*
 

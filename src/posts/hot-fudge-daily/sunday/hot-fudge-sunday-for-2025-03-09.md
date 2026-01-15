@@ -6,6 +6,7 @@ date: 2025-03-09 17:30:00+00:00
 ---
 
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
@@ -14,7 +15,7 @@ date: 2025-03-09 17:30:00+00:00
 
 ## Quick Recaps
 
-📺🔁🤖🧠🔮🔜 If you missed our  <a class="EsZtTLoFIUAUIwpVUZrTgOCpNfIJUjpMMI" href="https://www.linkedin.com/company/nexustek/" rel="noopener noreferrer nofollow" target="_self">NexusTek</a> <a class="EsZtTLoFIUAUIwpVUZrTgOCpNfIJUjpMMI" href="https://www.linkedin.com/search/results/all/?keywords=%23agenticai&origin=HASH_TAG_FROM_FEED" rel="noopener noreferrer nofollow" target="_blank">#AgenticAI</a>  webinar, check out the replay of  <a class="ember-view" href="https://www.linkedin.com/in/chris-marks-netfronts/" rel="noopener noreferrer nofollow" target="_blank">Chris Marks</a>  of  <a class="EsZtTLoFIUAUIwpVUZrTgOCpNfIJUjpMMI" href="https://www.linkedin.com/company/pax8/" rel="noopener noreferrer nofollow" target="_self">Pax8</a>  and me being interviewed by  <a class="ember-view" href="https://www.linkedin.com/in/jessica-steinbach-letsconnect123/" rel="noopener noreferrer nofollow" target="_blank">Jessica Steinbach</a>  of  <a class="EsZtTLoFIUAUIwpVUZrTgOCpNfIJUjpMMI" href="https://www.linkedin.com/company/actualtech-media/" rel="noopener noreferrer nofollow" target="_self">ActualTech</a>
+📺🔁🤖🧠🔮🔜 If you missed our  [NexusTek](https://www.linkedin.com/company/nexustek/) [#AgenticAI](https://www.linkedin.com/search/results/all/?keywords=%23agenticai&origin=HASH_TAG_FROM_FEED)  webinar, check out the replay of  [Chris Marks](https://www.linkedin.com/in/chris-marks-netfronts/)  of  [Pax8](https://www.linkedin.com/company/pax8/)  and me being interviewed by  [Jessica Steinbach](https://www.linkedin.com/in/jessica-steinbach-letsconnect123/)  of  [ActualTech](https://www.linkedin.com/company/actualtech-media/)
 
 [https://events.actualtechmedia.com/on-demand/2279/agentic-ai-is-not-the-future-its-now/](https://events.actualtechmedia.com/on-demand/2279/agentic-ai-is-not-the-future-its-now/)
 
@@ -29,7 +30,6 @@ I'm also pleased to add an Alumni 🎉 section this week for those that have tra
 ### Alumni 🎉
 
 > [Update: Congrats Shianna Maxwell 🎉🎉🎉🎉](https://www.linkedin.com/posts/shiannamaxwell_im-happy-to-share-that-im-starting-a-new-activity-7302404919678902272-FHRz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc)
-
 
 > [Congrats Richard Arnesen! 🎉](https://www.linkedin.com/posts/richard-arnesen_im-happy-to-share-that-im-starting-a-new-activity-7290099022084616192-QjYm?utm_source=share&utm_medium=member_desktop)
 
@@ -231,24 +231,101 @@ I'm also pleased to add an Alumni 🎉 section this week for those that have tra
 ---
 ## 📈 Markets Monday for 2025-03-03
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>Last week:</p><figure><img alt="Not so spicy" draggable="false" src="https://assets.buttondown.email/images/dff44ed2-9685-48cc-a61d-7881bd977dc0.png?w=960&fit=max"/><figcaption>Not So Spicy Level 1?</figcaption></figure><p>This week:</p><figure><img alt="Spicy Level 2" draggable="false" src="https://assets.buttondown.email/images/32aed472-be11-4533-84d4-cc0791509c97.png?w=960&fit=max"/><figcaption>Spicy Level 2.</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a href="https://finance.yahoo.com/research-hub/screener/" rel="noopener noreferrer nofollow" target="_blank">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+Last week:<figure><img alt="Not so spicy" draggable="false" src="https://assets.buttondown.email/images/dff44ed2-9685-48cc-a61d-7881bd977dc0.png?w=960&fit=max"/><figcaption>Not So Spicy Level 1?</figcaption></figure>
+
+This week:<figure><img alt="Spicy Level 2" draggable="false" src="https://assets.buttondown.email/images/32aed472-be11-4533-84d4-cc0791509c97.png?w=960&fit=max"/><figcaption>Spicy Level 2.</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 ## 🔥 Hot Takes Tuesday for 2025-03-04
  
-<p>Two hot takes on two stories that caught my eye on Tuesday.</p><p>🤖 + 💰 I expect to see more vertical M&A combinations in 2025 that create defensive moats and offensive bundles as the next mega rounds of investments are weighed against deploying capital for increasingly competitive buys.</p><p><a href="https://www.techmeme.com/250304/p31#a250304p31" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250304/p31#a250304p31</a></p><p>🤖 + 💰 Even a number like $3.5B is starting to sound normal in the ever shifting Overton window of AI related funding routs.</p><p><a href="https://www.techmeme.com/250303/p29#a250303p29" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250303/p29#a250303p29</a></p>
+
+Two hot takes on two stories that caught my eye on Tuesday.
+
+🤖 + 💰 I expect to see more vertical M&A combinations in 2025 that create defensive moats and offensive bundles as the next mega rounds of investments are weighed against deploying capital for increasingly competitive buys.
+
+[https://www.techmeme.com/250304/p31#a250304p31](https://www.techmeme.com/250304/p31#a250304p31)
+
+🤖 + 💰 Even a number like $3.5B is starting to sound normal in the ever shifting Overton window of AI related funding routs.
+
+[https://www.techmeme.com/250303/p29#a250303p29](https://www.techmeme.com/250303/p29#a250303p29)
    
 ## 🤪 Wacky Wednesday for 2025-03-05
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p><a href="https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/" rel="noopener noreferrer nofollow" target="_blank">https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/</a></p><p><a href="https://368chickens.com" rel="noopener noreferrer nofollow" target="_blank">https://368chickens.com</a></p><p>https://www.youtube.com/watch?v=TNwHnHL2Pgs</p><p></p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+[https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/)
+
+[https://368chickens.com](https://368chickens.com)
+
+https://www.youtube.com/watch?v=TNwHnHL2Pgs
    
 ## 🔙 Throwback Thursday for 2025-03-06
  
-<p>One headline for Thursday Throwback caught my eye.</p><p>🥛 + 🤖 Considering the sheer amounts of data generated McDonald’s it is useful to remember it should not be known only for a <a href="https://mcbroken.com/" rel="noopener noreferrer nofollow" target="_blank">shake machine is down meme</a> — and effective use of predictive analytics could make that meme a historical footnote.</p><p><a href="https://www.techmeme.com/250307/p2#a250307p2" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250307/p2#a250307p2</a></p><p>The progression of technology adoption at McDonald’s is real.</p><p>Around <a href="https://www.techmeme.com/170315/p20#a170315p20" rel="noopener noreferrer nofollow" target="_blank">8 years ago</a>, mobile ordering appeared.</p><p>Around <a href="https://www.techmeme.com/141115/p3#a141115p3" rel="noopener noreferrer nofollow" target="_blank">11 years ago</a>, paying by phone appeared.</p><p>Around <a href="https://www.techmeme.com/130911/p33#a130911p33" rel="noopener noreferrer nofollow" target="_blank">12 years ago</a>, an app for that appeared.</p><p>Around <a href="https://www.techmeme.com/091215/p85#a091215p85" rel="noopener noreferrer nofollow" target="_blank">16 years ago</a>, free Wi-Fi prevailed.</p><p>Around <a href="https://www.techmeme.com/051018/p35#a051018p35" rel="noopener noreferrer nofollow" target="_blank">20 years ago</a>, paid Wi-Fi was coming to the menu.</p><p></p><p></p><p></p>
+
+One headline for Thursday Throwback caught my eye.
+
+🥛 + 🤖 Considering the sheer amounts of data generated McDonald’s it is useful to remember it should not be known only for a [shake machine is down meme](https://mcbroken.com/) — and effective use of predictive analytics could make that meme a historical footnote.
+
+[https://www.techmeme.com/250307/p2#a250307p2](https://www.techmeme.com/250307/p2#a250307p2)
+
+The progression of technology adoption at McDonald’s is real.
+
+Around [8 years ago](https://www.techmeme.com/170315/p20#a170315p20), mobile ordering appeared.
+
+Around [11 years ago](https://www.techmeme.com/141115/p3#a141115p3), paying by phone appeared.
+
+Around [12 years ago](https://www.techmeme.com/130911/p33#a130911p33), an app for that appeared.
+
+Around [16 years ago](https://www.techmeme.com/091215/p85#a091215p85), free Wi-Fi prevailed.
+
+Around [20 years ago](https://www.techmeme.com/051018/p35#a051018p35), paid Wi-Fi was coming to the menu.
    
 ## ✅ Final Thoughts Friday for 2025-03-07
  
-<p>The story that caught my eye this week was Apple delaying the delayed thing that had previously seen a delay.</p><p><a href="https://www.techmeme.com/250307/p12#a250307p12" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250307/p12#a250307p12</a></p><p>Said another way, this Apple AI version of Siri was probably going to be “Apple Maps bad” and an adult decision needed to be made.</p><p>https://www.youtube.com/watch?v=tVq1wgIN62E</p><p></p>
+
+The story that caught my eye this week was Apple delaying the delayed thing that had previously seen a delay.
+
+[https://www.techmeme.com/250307/p12#a250307p12](https://www.techmeme.com/250307/p12#a250307p12)
+
+Said another way, this Apple AI version of Siri was probably going to be “Apple Maps bad” and an adult decision needed to be made.
+
+https://www.youtube.com/watch?v=tVq1wgIN62E
    
 ## 🔮 Sneak Peak Saturday for 2025-03-08
  
-<p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a href="https://www.techmeme.com/250307/p27#a250307p27" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250307/p27#a250307p27</a></p><h4>Insert Ceiling Cat Meme</h4><p><a href="https://www.techmeme.com/250307/p24#a250307p24" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250307/p24#a250307p24</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a href="https://www.techmeme.com/250307/p19#a250307p19" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250307/p19#a250307p19</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a href="https://www.techmeme.com/250307/p31#a250307p31" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250307/p31#a250307p31</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a href="https://www.techmeme.com/250307/p18#a250307p18" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250307/p18#a250307p18</a></p>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/250307/p27#a250307p27](https://www.techmeme.com/250307/p27#a250307p27)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/250307/p24#a250307p24](https://www.techmeme.com/250307/p24#a250307p24)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/250307/p19#a250307p19](https://www.techmeme.com/250307/p19#a250307p19)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/250307/p31#a250307p31](https://www.techmeme.com/250307/p31#a250307p31)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/250307/p18#a250307p18](https://www.techmeme.com/250307/p18#a250307p18)

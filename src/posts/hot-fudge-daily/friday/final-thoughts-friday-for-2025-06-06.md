@@ -6,4 +6,11 @@ date: 2025-06-07 20:09:30.288640+00:00
 ---
 
 
-<p>🤖 + 🚁 The story that caught my eye this week was the expansion of drone delivery in Atlanta, Charlotte, Houston, Orlando, and Tampa.</p><p><a href="https://www.techmeme.com/250605/p41#a250605p41" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/250605/p41#a250605p41</a></p><p>To understand the impact of this expansion, consider the speed in which is has arrived in less than 10 years. </p><p><a href="https://www.techmeme.com/161110/p12#a161110p12" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/161110/p12#a161110p12</a></p>
+
+🤖 + 🚁 The story that caught my eye this week was the expansion of drone delivery in Atlanta, Charlotte, Houston, Orlando, and Tampa.
+
+[https://www.techmeme.com/250605/p41#a250605p41](https://www.techmeme.com/250605/p41#a250605p41)
+
+To understand the impact of this expansion, consider the speed in which is has arrived in less than 10 years. 
+
+[https://www.techmeme.com/161110/p12#a161110p12](https://www.techmeme.com/161110/p12#a161110p12)

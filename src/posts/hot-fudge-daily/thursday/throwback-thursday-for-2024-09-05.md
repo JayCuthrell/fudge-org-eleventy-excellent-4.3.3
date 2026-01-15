@@ -6,4 +6,45 @@ date: 2024-09-05 23:57:19.804890+00:00
 ---
 
 
-<p>My early career in the late 1990s was in telecommunications. I worked for a company called <a href="https://www.youtube.com/watch?v=EKjAMxzdrHw" rel="noopener noreferrer nofollow" target="_blank">Nortel Networks</a> before I pivoted to become a <a href="https://fudge.org/archive/and-for-my-next-trick/" rel="noopener noreferrer nofollow" target="_blank">global road warrior / consultant</a> during the .com boom.</p><p>https://www.youtube.com/watch?v=EKjAMxzdrHw</p><p>Back then a “cloud” on a network diagram was often meant to depict the <a href="https://www.upi.com/Archives/1990/09/26/Sprint-to-offer-new-data-transmission-network/5008654321600/" rel="noopener noreferrer nofollow" target="_blank">Sprint frame relay network</a>. Times have changed a bit since then and “<a href="https://www.technologyreview.com/2011/10/31/257406/who-coined-cloud-computing/" rel="noopener noreferrer nofollow" target="_blank">cloud computing</a>” became “the cloud” we know today.</p><p>Over the years, traditional telecom wireline business (copper telephone lines) fell into a less desirable category as mobile, broadband, high speed fiber optics networks, and cloud computing took hold of investor attention.</p><p>If you remember AT&T at SXSW 2009, the mobile carrier was trying but was unable to keep up with all the Internet connected mobile devices. The following year the <a href="https://www.telecompetitor.com/a-year-later-att-shines-at-sxsw/" rel="noopener noreferrer nofollow" target="_blank">lessons learned from many thousands of mobile phones trying to reach the Internet in one small city</a> went into motion for <a href="https://www.youtube.com/watch?v=3fQAEd3fjhY" rel="noopener noreferrer nofollow" target="_blank">SXSW 2010 using many COWs</a>.</p><p>https://www.youtube.com/watch?v=3fQAEd3fjhY</p><p>Of course, AT&T wasn’t the only mobile carrier. There was also Verizon.</p><p>For example, if you were to look at my writing back in 2010, you might have associated <a href="https://1000logos.net/verizon-logo/" rel="noopener noreferrer nofollow" target="_blank">Verizon</a> with <a href="https://readwrite.com/day-1-verizon-developer-commun/" rel="noopener noreferrer nofollow" target="_blank">cutting edge technology</a>. You might have even considered Verizon to be a <a href="https://readwrite.com/day-2-verizon-developer-commun/" rel="noopener noreferrer nofollow" target="_blank">developer oriented</a> company.</p><p>In fact, Verizon got into the cloud business in 2011. Verizon Cloud was born!</p><p><a href="https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition" rel="noopener noreferrer nofollow" target="_blank">https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition</a></p><blockquote class="pullquote"><p>So too did AT&T have cloud ambitions, but that’s for another Throwback Thursday. We’ll get there.</p></blockquote><p>However, cloud computing had been pioneered at Amazon, Google, and Microsoft for over a decade and by 2017, Verizon got out of the cloud computing business it had acquired in 2011.</p><p><a href="https://www.techmeme.com/170503/p12#a170503p12" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/170503/p12#a170503p12</a></p><p>Oh, and remember Sprint and that version of the original “cloud”?</p><p>Well, $26B later in 2020 dollars…</p><p><a href="https://www.t-mobile.com/news/un-carrier/t-mobile-sprint-one-company" rel="noopener noreferrer nofollow" target="_blank">https://www.t-mobile.com/news/un-carrier/t-mobile-sprint-one-company</a></p><p>Also, the cloud within the US market is now firmly associated with companies like Amazon, Microsoft, Google, Oracle, IBM, and a growing number of niche providers from REITs to XaaS players.</p><p>Still, within the US market, the largest names associated with telecom became AT&T, Verizon, and T-Mobile.</p><p>However, there were many other telecom brands that were operating as well but far below the size of AT&T, Verizon, and T-Mobile.</p><p>Fast forward to the present… What old is what’s new again.</p><p><a href="https://www.techmeme.com/240905/p12#a240905p12" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240905/p12#a240905p12</a></p>
+
+My early career in the late 1990s was in telecommunications. I worked for a company called [Nortel Networks](https://www.youtube.com/watch?v=EKjAMxzdrHw) before I pivoted to become a [global road warrior / consultant](https://fudge.org/archive/and-for-my-next-trick/) during the .com boom.
+
+https://www.youtube.com/watch?v=EKjAMxzdrHw
+
+Back then a “cloud” on a network diagram was often meant to depict the [Sprint frame relay network](https://www.upi.com/Archives/1990/09/26/Sprint-to-offer-new-data-transmission-network/5008654321600/). Times have changed a bit since then and “[cloud computing](https://www.technologyreview.com/2011/10/31/257406/who-coined-cloud-computing/)” became “the cloud” we know today.
+
+Over the years, traditional telecom wireline business (copper telephone lines) fell into a less desirable category as mobile, broadband, high speed fiber optics networks, and cloud computing took hold of investor attention.
+
+If you remember AT&T at SXSW 2009, the mobile carrier was trying but was unable to keep up with all the Internet connected mobile devices. The following year the [lessons learned from many thousands of mobile phones trying to reach the Internet in one small city](https://www.telecompetitor.com/a-year-later-att-shines-at-sxsw/) went into motion for [SXSW 2010 using many COWs](https://www.youtube.com/watch?v=3fQAEd3fjhY).
+
+https://www.youtube.com/watch?v=3fQAEd3fjhY
+
+Of course, AT&T wasn’t the only mobile carrier. There was also Verizon.
+
+For example, if you were to look at my writing back in 2010, you might have associated [Verizon](https://1000logos.net/verizon-logo/) with [cutting edge technology](https://readwrite.com/day-1-verizon-developer-commun/). You might have even considered Verizon to be a [developer oriented](https://readwrite.com/day-2-verizon-developer-commun/) company.
+
+In fact, Verizon got into the cloud business in 2011. Verizon Cloud was born!
+
+[https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition](https://www.verizon.com/about/news/press-releases/verizon-completes-terremark-acquisition)<blockquote class="pullquote">
+
+So too did AT&T have cloud ambitions, but that’s for another Throwback Thursday. We’ll get there.</blockquote>
+
+However, cloud computing had been pioneered at Amazon, Google, and Microsoft for over a decade and by 2017, Verizon got out of the cloud computing business it had acquired in 2011.
+
+[https://www.techmeme.com/170503/p12#a170503p12](https://www.techmeme.com/170503/p12#a170503p12)
+
+Oh, and remember Sprint and that version of the original “cloud”?
+
+Well, $26B later in 2020 dollars…
+
+[https://www.t-mobile.com/news/un-carrier/t-mobile-sprint-one-company](https://www.t-mobile.com/news/un-carrier/t-mobile-sprint-one-company)
+
+Also, the cloud within the US market is now firmly associated with companies like Amazon, Microsoft, Google, Oracle, IBM, and a growing number of niche providers from REITs to XaaS players.
+
+Still, within the US market, the largest names associated with telecom became AT&T, Verizon, and T-Mobile.
+
+However, there were many other telecom brands that were operating as well but far below the size of AT&T, Verizon, and T-Mobile.
+
+Fast forward to the present… What old is what’s new again.
+
+[https://www.techmeme.com/240905/p12#a240905p12](https://www.techmeme.com/240905/p12#a240905p12)

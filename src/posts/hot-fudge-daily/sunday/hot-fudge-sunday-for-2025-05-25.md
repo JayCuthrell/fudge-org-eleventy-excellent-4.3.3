@@ -5,6 +5,7 @@ description: "I&#39;m simplifying the newsletter format based on reader feedback
 date: 2025-05-26 15:33:24.702951+00:00
 ---
 
+
 I surveyed readers about offering a shorter version of the newsletter. Results were mixed so I’m shortening the newsletter and moving sections around this week.
 
 https://www.prnewswire.com/news-releases/nexustek-launches-new-private-cloud-offerings-to-power-the-next-era-of-digital-business-302460874.html
@@ -25,29 +26,61 @@ For Market Monday, I continue to look at the same key indicator that I take from
 
 This week:
 
-<figure><img src="https://assets.buttondown.email/images/9f59fd9d-4b10-4185-9bef-4877d6c949d7.png?w=960&amp;fit=max" alt="2 is more than 0" draggable="false"><figcaption>2 is more than 0</figcaption></figure>
+<figure><img alt="2 is more than 0" draggable="false" src="https://assets.buttondown.email/images/9f59fd9d-4b10-4185-9bef-4877d6c949d7.png?w=960&fit=max"/><figcaption>2 is more than 0</figcaption></figure>
 
 ## 🔥 Hot Takes Tuesday for 2025-05-20
  
-<p>Two hot takes on bills and banks.</p><p>⚖️ + 🤖 I guess if you wanted to say <em>anything</em> goes with AI you could just make a law that says <em>anything</em> goes with AI, right?</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250519/p43#a250519p43">https://www.techmeme.com/250519/p43#a250519p43</a></p><p>🤖 + 🏦 If you do, then I guess you could literally take that to the bank, right?</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250520/p25#a250520p25">https://www.techmeme.com/250520/p25#a250520p25</a></p><p></p>
+
+Two hot takes on bills and banks.
+
+⚖️ + 🤖 I guess if you wanted to say <em>anything</em> goes with AI you could just make a law that says <em>anything</em> goes with AI, right?
+
+[https://www.techmeme.com/250519/p43#a250519p43](https://www.techmeme.com/250519/p43#a250519p43)
+
+🤖 + 🏦 If you do, then I guess you could literally take that to the bank, right?
+
+[https://www.techmeme.com/250520/p25#a250520p25](https://www.techmeme.com/250520/p25#a250520p25)
    
 ## 🤪 Wacky Wednesday for 2025-05-21
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared link.</p><p>This will always be a safe for work link. 🙈</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.vice.com/en/article/the-wienie-500-is-the-most-american-motorsport-event-ever-devised/">https://www.vice.com/en/article/the-wienie-500-is-the-most-american-motorsport-event-ever-devised/</a></p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared link.
+
+This will always be a safe for work link. 🙈
+
+[https://www.vice.com/en/article/the-wienie-500-is-the-most-american-motorsport-event-ever-devised/](https://www.vice.com/en/article/the-wienie-500-is-the-most-american-motorsport-event-ever-devised/)
    
 ## 🔙 Throwback Thursday for 2025-05-22
  
-<p>📡 🛰️ One story caught my eye this week — the gap in LEO satellite broadband services deployment.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250522/p11#a250522p11">https://www.techmeme.com/250522/p11#a250522p11</a></p><p>Back in the ancient times of 2018… <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Satellite_Internet_access">the satellite broadband services market</a> was only being served by a few seemingly legacy providers.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/180222/p16#a180222p16">https://www.techmeme.com/180222/p16#a180222p16</a></p>
+
+📡 🛰️ One story caught my eye this week — the gap in LEO satellite broadband services deployment.
+
+[https://www.techmeme.com/250522/p11#a250522p11](https://www.techmeme.com/250522/p11#a250522p11)
+
+Back in the ancient times of 2018… [the satellite broadband services market](https://en.wikipedia.org/wiki/Satellite_Internet_access) was only being served by a few seemingly legacy providers.
+
+[https://www.techmeme.com/180222/p16#a180222p16](https://www.techmeme.com/180222/p16#a180222p16)
    
 ## ✅ Final Thoughts Friday for 2025-05-23
  
-<p>🤖 + 🔮 The story that caught my eye this week was Waymo reaching 10M paid rides. Granted, even 10M total rides is a mere drop in the bucket compared to human operated Lyft and Uber rides <strong><em>every day</em></strong>. </p><p>Waymo will disrupt the gig economy slowly as it ramps. Just as the human switchboard operator role had a peak, that peak gave way increasingly automated digital telecommunications solutions.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250520/p56#a250520p56">https://www.techmeme.com/250520/p56#a250520p56</a></p>
+
+🤖 + 🔮 The story that caught my eye this week was Waymo reaching 10M paid rides. Granted, even 10M total rides is a mere drop in the bucket compared to human operated Lyft and Uber rides <strong><em>every day</em></strong>. 
+
+Waymo will disrupt the gig economy slowly as it ramps. Just as the human switchboard operator role had a peak, that peak gave way increasingly automated digital telecommunications solutions.
+
+[https://www.techmeme.com/250520/p56#a250520p56](https://www.techmeme.com/250520/p56#a250520p56)
    
 ## 🔮 Sneak Peak Saturday for 2025-05-24
  
-<p>Ah, the Friday news dump. Let’s see the memes!</p><p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p>
 
-<h3>Insert Let's See Who This Really Is Meme</h3><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250523/p12#a250523p12">https://www.techmeme.com/250523/p12#a250523p12</a></p>
+Ah, the Friday news dump. Let’s see the memes!
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
+<h3>Insert Let's See Who This Really Is Meme</h3>
+
+[https://www.techmeme.com/250523/p12#a250523p12](https://www.techmeme.com/250523/p12#a250523p12)
 
 ## #OpenToWork Weekly
 

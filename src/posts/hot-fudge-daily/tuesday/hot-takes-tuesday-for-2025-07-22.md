@@ -5,96 +5,53 @@ description: "Funding for Poseidon, Composio, Asylon, Delve, Inforcer, Ashby, Re
 date: 2025-07-23 01:35:38.556+00:00
 ---
 
-<p>
- 💰 + 🤖 Funding for AI-anything companies continues.
-</p>
-<ul>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p26#a250722p26" rel="noopener" target="_blank">
-    Poseidon
-   </a>
+
+💰 + 🤖 Funding for AI-anything companies continues.
+
+* [Poseidon](https://www.techmeme.com/250722/p26#a250722p26)
    (decentralized AI data layer):
    <strong>
     $15M
    </strong>
-  </p>
- </li>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p34#a250722p34" rel="noopener" target="_blank">
-    Composio
-   </a>
+
+* [Composio](https://www.techmeme.com/250722/p34#a250722p34)
    (AI agent development tools):
    <strong>
     $25M
    </strong>
-  </p>
- </li>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p16#a250722p16" rel="noopener" target="_blank">
-    Asylon
-   </a>
+
+* [Asylon](https://www.techmeme.com/250722/p16#a250722p16)
    (AI robot guard dogs):
    <strong>
     $26M
    </strong>
-  </p>
- </li>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p20#a250722p20" rel="noopener" target="_blank">
-    Delve
-   </a>
+
+* [Delve](https://www.techmeme.com/250722/p20#a250722p20)
    (AI compliance startup):
    <strong>
     $32M
    </strong>
-  </p>
- </li>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p13#a250722p13" rel="noopener" target="_blank">
-    Inforcer
-   </a>
+
+* [Inforcer](https://www.techmeme.com/250722/p13#a250722p13)
    (AI for SMB):
    <strong>
     $35M
    </strong>
-  </p>
- </li>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p11#a250722p11" rel="noopener" target="_blank">
-    Ashby
-   </a>
+
+* [Ashby](https://www.techmeme.com/250722/p11#a250722p11)
    (AI-powered HR platform):
    <strong>
     $50M
    </strong>
-  </p>
- </li>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p10#a250722p10" rel="noopener" target="_blank">
-    Reka AI
-   </a>
+
+* [Reka AI](https://www.techmeme.com/250722/p10#a250722p10)
    (AI efficient LLMs):
    <strong>
     $110M
    </strong>
-  </p>
- </li>
- <li>
-  <p>
-   <a class="ng-star-inserted" href="https://www.techmeme.com/250722/p22#a250722p22" rel="noopener" target="_blank">
-    xAI
-   </a>
+
+* [xAI](https://www.techmeme.com/250722/p22#a250722p22)
    (AI research and development):
    <strong>
     $12B
    </strong>
-  </p>
- </li>
-</ul>

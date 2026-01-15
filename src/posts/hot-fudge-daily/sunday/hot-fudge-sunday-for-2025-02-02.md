@@ -5,6 +5,7 @@ description: "I&#39;m showcasing my network&#39;s talented professionals who are
 date: 2025-02-02 19:56:12.222128+00:00
 ---
 
+
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}
@@ -154,7 +155,6 @@ A strategic HR professional with a contagious enthusiasm for empowering employee
 # Congrats Richard Arnesen! 🎉 
 
 https://www.linkedin.com/posts/richard-arnesen_im-happy-to-share-that-im-starting-a-new-activity-7290099022084616192-QjYm?utm_source=share&utm_medium=member_desktop
-
 
 ### [Janel Van Beek](https://www.linkedin.com/in/janellanzadbafrancievanwirkus220/)
 
@@ -314,15 +314,51 @@ https://www.linkedin.com/posts/richard-arnesen_im-happy-to-share-that-im-startin
 ---
 ## 📈 Markets Monday for 2025-01-27
  
-<p>As a reminder, this is an end of day snapshot…</p><h3 data-pm-slice="1 1 []">Quick Recap</h3><p>For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.</p><p>This week:</p><figure><img src="https://assets.buttondown.email/images/6b71d4b5-bbd0-47bb-966b-befcc7287ad0.png?w=960&amp;fit=max" alt="Nothing burger" draggable="false"><figcaption>Well, that’s different.</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.</p><p>If you are using <a target="_blank" rel="noopener noreferrer nofollow" href="https://finance.yahoo.com/research-hub/screener/">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics &amp; Computer Distribution and Consumer Electronics and Electronic Components and Scientific &amp; Technical Instruments and Semiconductor Equipment &amp; Materials and Semiconductors</strong></p></li></ul>
+
+As a reminder, this is an end of day snapshot…<h3 data-pm-slice="1 1 []">Quick Recap</h3>
+
+For Market Monday, I continue to look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things through the lens of the closing bell on Monday.
+
+This week:<figure><img alt="Nothing burger" draggable="false" src="https://assets.buttondown.email/images/6b71d4b5-bbd0-47bb-966b-befcc7287ad0.png?w=960&fit=max"/><figcaption>Well, that’s different.</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies when the market is moving and a smaller handful of companies when the market is not moving as much.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/research-hub/screener/) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
    
 ## 🔥 Hot Takes Tuesday for 2025-01-28
  
-<p>Two hot takes on stories that caught my eye on Tuesday.</p><p>⚛️ + 💰 Tolerance of errors and faults in just 5 years is pretty ambitious but perhaps AI will be thrown into the mix to close the gaps.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250128/p16#a250128p16">https://www.techmeme.com/250128/p16#a250128p16</a></p><p>☢️ + 💰 I cannot wait until the DeLorean with a Mr. Fusion Home Energy Reactor meme appears in the tech blogosphere.</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.techmeme.com/250128/p21#a250128p21">https://www.techmeme.com/250128/p21#a250128p21</a></p>
+
+Two hot takes on stories that caught my eye on Tuesday.
+
+⚛️ + 💰 Tolerance of errors and faults in just 5 years is pretty ambitious but perhaps AI will be thrown into the mix to close the gaps.
+
+[https://www.techmeme.com/250128/p16#a250128p16](https://www.techmeme.com/250128/p16#a250128p16)
+
+☢️ + 💰 I cannot wait until the DeLorean with a Mr. Fusion Home Energy Reactor meme appears in the tech blogosphere.
+
+[https://www.techmeme.com/250128/p21#a250128p21](https://www.techmeme.com/250128/p21#a250128p21)
    
 ## 🤪 Wacky Wednesday for 2025-01-29
  
-<p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p>https://www.youtube.com/watch?v=quuw4HC96bE?si=qk83Ihf5lQPn2U1d</p><p>https://www.youtube.com/watch?v=ieLPn0gdpEU?si=TyMLCq3Ni-5I2DvV</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://digitalnz.org/records/38626374/">https://digitalnz.org/records/38626374/</a></p><p></p><p></p>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+https://www.youtube.com/watch?v=quuw4HC96bE?si=qk83Ihf5lQPn2U1d
+
+https://www.youtube.com/watch?v=ieLPn0gdpEU?si=TyMLCq3Ni-5I2DvV
+
+[https://digitalnz.org/records/38626374/](https://digitalnz.org/records/38626374/)
    
 ## 🔙 Throwback Thursday for 2025-01-30
  
@@ -336,10 +372,6 @@ https://www.techmeme.com/250130/p9#a250130p9
 
 20 years ago, Vodafone enabled precursors to [the first mobile access routers with wifi for teams](https://www.techmeme.com/050913/p3#a050913p3) by collaborating with Linksys on their iconic ubiquitous Linksys WRT54 design that had just turned 2 years old.
 
-
-
-
-
    
 ## ✅ Final Thoughts Friday for 2025-01-31
  
@@ -352,8 +384,6 @@ https://www.techmeme.com/250127/p7#a250127p7
 https://www.techmeme.com/250129/p2#a250129p2
 
 https://www.techmeme.com/250130/p57#a250130p57
-
-
 
    
 ## 🔮 Sneak Peak Saturday for 2025-02-01
@@ -385,4 +415,3 @@ https://www.techmeme.com/250131/p18#a250131p18
 #### Insert Anthony Adams Rubbing Hands Meme
 
 https://www.techmeme.com/250130/p35#a250130p35
-   

@@ -6,6 +6,7 @@ tags: [11ty]
 ---
 
 
+
 Feedback is a gift. I've been collecting a growing amount of reader feedback as I've shifted from various newsletter platforms to my evolving [POSSE](/topics/posse) approach.
 
 ## Getting Informed
@@ -20,7 +21,7 @@ Readability has been one aspect of the newsletter that has suffered at various t
 
 Readers, I've heard you loud and clear. So, I am adding back: FOOTNOTES [^footnotes] 
 
-[^footnotes]: Yes. Footnotes. At the risk of going full academic mode and <a href="https://stanfordmag.org/contents/the-decline-and-fall-of-footnotes">the Eternal September of layout lamentations</a> i.e. I am going to bring back the humble footnote. Thank you to <a href="https://www.citationneeded.news">Molly White</a> and <a href="https://spyglass.org">M.G. Siegler</a> for making judicious use of footnotes look marvelous.
+[^footnotes]: Yes. Footnotes. At the risk of going full academic mode and [the Eternal September of layout lamentations](https://stanfordmag.org/contents/the-decline-and-fall-of-footnotes) i.e. I am going to bring back the humble footnote. Thank you to [Molly White](https://www.citationneeded.news) and [M.G. Siegler](https://spyglass.org) for making judicious use of footnotes look marvelous.
 
 Wait. Does this mean Fudge Sunday is re-platforming again? Not really, but to say I'm rethinking my toolchain is probably a fair summary.
 
@@ -50,11 +51,9 @@ If so -- [let's catch up](https://jaycuthrell.com/contact/) in the real world.
 
 I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14) (so far).
 
-
 > **Note:** Embedded content from [https://cuthrell.com/@jay/111774189599544610/embed](https://cuthrell.com/@jay/111774189599544610/embed) has been removed.
 
 > *[Interactive script removed]*
-
 
 ## Disclosure
 

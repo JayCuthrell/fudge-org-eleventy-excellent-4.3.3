@@ -6,4 +6,107 @@ date: 2024-09-29 16:30:00+00:00
 ---
 
 
-<blockquote class="pullquote"><p>🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</p></blockquote><p><a href="https://fudge.org" rel="noopener noreferrer nofollow" target="_blank">Hot Fudge Sunday</a> 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at <a href="https://fudge.org" rel="noopener noreferrer nofollow" target="_blank">fudge.org</a> in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.</p><hr/><h1>Hot Fudge Daily Digest</h1><hr/><h3>📈 Markets Monday for 2024-09-23</h3><p></p><h3>Reading Recommendation</h3><p>The software development and DevX market can be hard to keep up with and if you aren’t reading <a href="https://newsletter.cote.io/" rel="noopener noreferrer nofollow" target="_blank">Coté's Wunderkammer</a>, you should be. As for why, the writer behind <a href="https://newsletter.cote.io/" rel="noopener noreferrer nofollow" target="_blank">Coté's Wunderkammer</a> is <a href="https://cote.io/" rel="" target="_blank">Michael Coté</a><em> </em>.</p><h3>Quick Recap</h3><p>For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.</p><figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="A few green things on 📈 Markets Monday for 2024-09-23" draggable="false" src="https://assets.buttondown.email/images/0461385a-81f1-484c-85db-2722b877b544.png?w=960&fit=max"/></a><figcaption>A few green things on 📈 Markets Monday for 2024-09-23</figcaption></figure><p>Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.</p><p>If you are using <a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer nofollow" target="_blank">Yahoo Applied Filters for Stocks</a> screener you can bookmark your own heat map view.</p><ul><li><p>% Change in Price (Intraday):<strong>greater than 4</strong></p></li><li><p>Region: <strong>United States</strong></p></li><li><p>Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong></p></li><li><p>Price (Intraday):<strong>greater than or equal 5</strong></p></li><li><p>Volume:<strong>greater than 15000</strong></p></li><li><p>Sector: <strong>Technology</strong></p></li><li><p>Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong></p></li></ul><p>{{ subscribe_form }}</p><h3>🔥 Hot Takes Tuesday for 2024-09-24</h3><p>The numbers and stories caught my eye were global.</p><p><a href="https://www.techmeme.com/240923/p17#a240923p17" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240923/p17#a240923p17</a></p><p>💰 + 🇮🇱 $9B makes sense if you consider deal flow and technology are global and not exclusively about the US market as well as the long running cybersecurity track record of Israel.</p><p><a href="https://www.techmeme.com/240920/p20#a240920p20" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240920/p20#a240920p20</a></p><p>💰 + 🇫🇷 Speaking of outside the US markets, the rendering of actuarial insights technologies are going to be changing with these AI times and few countries offer the uniquely simplified intellectual property protections of France.</p><p><a href="https://www.techmeme.com/240919/p40#a240919p40" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240919/p40#a240919p40</a></p><p>💰 + 🇺🇸 It is fascinating to see a large raise for a <em>nonprofits</em> enablement platform in the United States that isn’t (yet?) owned by Blackbaud.</p><p>{{ subscribe_form }}</p><h3>🤪 Wacky Wednesday for 2024-09-25</h3><p>Each Wednesday I go through dozens of Slack communities.</p><p>I then select the most interesting shared links.</p><p>This will always be a safe for work list. 🙈</p><p><a href="https://worksinprogress.co/issue/lab-grown-diamonds/" rel="noopener noreferrer nofollow" target="_blank">https://worksinprogress.co/issue/lab-grown-diamonds/</a></p><p><a href="https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/" rel="noopener noreferrer nofollow" target="_blank">https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/</a></p><p><a href="https://www.foodandwine.com/nippon-caffeinated-ramen-noodles-8687399" rel="noopener noreferrer nofollow" target="_blank">https://www.foodandwine.com/nippon-caffeinated-ramen-noodles-8687399</a></p><p><a href="https://www.theverge.com/23810061/zenith-space-command-remote-control-button-of-the-month" rel="noopener noreferrer nofollow" target="_blank">https://www.theverge.com/23810061/zenith-space-command-remote-control-button-of-the-month</a></p><p>https://www.youtube.com/watch?v=ISgHpUDeLBw</p><p><a href="https://grist.org/transportation/barcelona-is-turning-subway-trains-into-power-stations/" rel="noopener noreferrer nofollow" target="_blank">https://grist.org/transportation/barcelona-is-turning-subway-trains-into-power-stations/</a></p><p></p><p>{{ subscribe_form }}</p><h3>🔙 Throwback Thursday for 2024-09-26</h3><p>In these modern times of $1000+ smart phones, it is interesting to look back 15 years to when an <a href="https://en.wikipedia.org/wiki/IPhone_3GS" rel="noopener noreferrer nofollow" target="_blank">iPhone 3GS</a> sold 1M units in a weekend.</p><p>It was also just 15 years ago that you could get a <a href="https://en.wikipedia.org/wiki/Palm_Pre" rel="noopener noreferrer nofollow" target="_blank">Palm Pre</a> which sold… only 0.1M units in an entire week.</p><figure><a href="https://web.archive.org/web/20090928063915/http://www.engadget.com/2009/09/26/pre-drops-to-79-99-at-walmart/" rel="noopener noreferrer" target="_blank"><img alt="Palm Pre in 2009" draggable="false" src="https://assets.buttondown.email/images/c0f4654d-1f75-4b68-bd22-7776232d3fa3.jpg?w=960&fit=max"/></a><figcaption>via <a href="http://archive.org" rel="noopener noreferrer nofollow" target="_blank">archive.org</a></figcaption></figure><p>The Palm Pre ran <a href="https://en.wikipedia.org/wiki/WebOS" rel="noopener noreferrer nofollow" target="_blank">webOS</a>. Today, webOS is running on 150M+ devices that are <a href="https://webos.developer.lge.com/webos-hub" rel="noopener noreferrer nofollow" target="_blank">much larger than a phone</a>.</p><p>The iPhone 3GS ran <a href="https://en.wikipedia.org/wiki/IOS" rel="noopener noreferrer nofollow" target="_blank">iOS</a>. By comparison, iOS is now running on 2B+ devices ranging from the size of a phone to the size of a tablet… but <a href="https://en.wikipedia.org/wiki/TvOS" rel="noopener noreferrer nofollow" target="_blank">tvOS</a> is probably running on less than ~100M devices connected to flat panel TV screens.</p><p></p><p></p><p>{{ subscribe_form }}</p><h3>✅ Final Thoughts Friday for 2024-09-27</h3><p>As of this update, I am still wrapping up publishing my <a href="https://techfieldday.com/event/aifd5/" rel="noopener" target="_blank">AI Field Day 5</a> delegate notes on Keysight, Integrail, Cisco, VMware, Elastic, Arista, and Enfabrica.</p><p>Once again, I am thankful for <a href="https://cuthrell.consulting/services/" rel="noopener noreferrer nofollow" target="_blank">new and ongoing client work</a> and <a href="https://calendly.com/jaycuthrell/catch-up" rel="noopener noreferrer nofollow" target="_blank">catching up</a> with past co-workers. Weather this week meant more indoors time for digging into my non-technology projects.</p><p>The biggest stories this week that caught me eye:</p><ul><li><p>The market for selling <a href="https://www.techmeme.com/240927/p23#a240927p23" rel="noopener noreferrer nofollow" target="_blank">$1 for $0.74</a> is massive.</p></li><li><p>More companies will be compelled to tell you that <a href="https://www.techmeme.com/240926/p24#a240926p24" rel="noopener noreferrer nofollow" target="_blank">you own nothing</a>.</p></li><li><p>Open source can take steps forward in <a href="https://www.techmeme.com/240923/p13#a240923p13" rel="noopener noreferrer nofollow" target="_blank">dramatic and different ways</a>.</p></li></ul><p><a href="https://www.techmeme.com/240927/p23#a240927p23" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240927/p23#a240927p23</a></p><p><a href="https://www.techmeme.com/240926/p24#a240926p24" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240926/p24#a240926p24</a></p><p><a href="https://www.techmeme.com/240923/p13#a240923p13" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240923/p13#a240923p13</a></p><p>{{ subscribe_form }}</p><h3>🔮 Sneak Peak Saturday for 2024-09-28</h3><p>By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.</p><h4>Peak 🏔️ vs. Peek 👀</h4><p>Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.</p><p>In that spirit, here are a few stories that you might have missed on the slow news of a Friday.</p><h4>Insert Let's See Who This Really Is Meme</h4><p><a href="https://www.techmeme.com/240927/p6#a240927p6" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240927/p6#a240927p6</a></p><h4>Insert Ceiling Cat Meme</h4><p><a href="https://www.techmeme.com/240927/p24#a240927p24" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240927/p24#a240927p24</a></p><h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4><p><a href="https://www.techmeme.com/240927/p16#a240927p16" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240927/p16#a240927p16</a></p><h4>Insert That Wasn't Me, That Was Patricia Meme</h4><p><a href="https://www.techmeme.com/240927/p27#a240927p27" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240927/p27#a240927p27</a></p><h4>Insert Anthony Adams Rubbing Hands Meme</h4><p><a href="https://www.techmeme.com/240927/p5#a240927p5" rel="noopener noreferrer nofollow" target="_blank">https://www.techmeme.com/240927/p5#a240927p5</a></p><p>{{ subscribe_form }}</p>
+
+<blockquote class="pullquote">
+
+🙏 A big thank you to our sponsors. 🙏<br/>(Scroll to the end…)</blockquote>
+
+[Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.<hr/><h1>Hot Fudge Daily Digest</h1><hr/><h3>📈 Markets Monday for 2024-09-23</h3><h3>Reading Recommendation</h3>
+
+The software development and DevX market can be hard to keep up with and if you aren’t reading [Coté's Wunderkammer](https://newsletter.cote.io/), you should be. As for why, the writer behind [Coté's Wunderkammer](https://newsletter.cote.io/) is [Michael Coté](https://cote.io/)<em> </em>.<h3>Quick Recap</h3>
+
+For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.<figure><a href="https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap" rel="noopener noreferrer" target="_blank"><img alt="A few green things on 📈 Markets Monday for 2024-09-23" draggable="false" src="https://assets.buttondown.email/images/0461385a-81f1-484c-85db-2722b877b544.png?w=960&fit=max"/></a><figcaption>A few green things on 📈 Markets Monday for 2024-09-23</figcaption></figure>
+
+Previously, I decided on a view from Yahoo Finance. For example, this was a view of intraday in Technology which usually gets around a dozen or so interesting companies.
+
+If you are using [Yahoo Applied Filters for Stocks](https://finance.yahoo.com/screener/568c8b06-3f3e-497e-bae7-6dd1defc231c/heatmap) screener you can bookmark your own heat map view.
+* % Change in Price (Intraday):<strong>greater than 4</strong>
+* Region: <strong>United States</strong>
+* Market Cap (Intraday): <strong>Mid Cap and Large Cap and Mega Cap</strong>
+* Price (Intraday):<strong>greater than or equal 5</strong>
+* Volume:<strong>greater than 15000</strong>
+* Sector: <strong>Technology</strong>
+* Industry: <strong>Software—Infrastructure and Information Technology Services and Computer Hardware and Software—Application and Communication Equipment and Electronics & Computer Distribution and Consumer Electronics and Electronic Components and Scientific & Technical Instruments and Semiconductor Equipment & Materials and Semiconductors</strong>
+
+{{ subscribe_form }}<h3>🔥 Hot Takes Tuesday for 2024-09-24</h3>
+
+The numbers and stories caught my eye were global.
+
+[https://www.techmeme.com/240923/p17#a240923p17](https://www.techmeme.com/240923/p17#a240923p17)
+
+💰 + 🇮🇱 $9B makes sense if you consider deal flow and technology are global and not exclusively about the US market as well as the long running cybersecurity track record of Israel.
+
+[https://www.techmeme.com/240920/p20#a240920p20](https://www.techmeme.com/240920/p20#a240920p20)
+
+💰 + 🇫🇷 Speaking of outside the US markets, the rendering of actuarial insights technologies are going to be changing with these AI times and few countries offer the uniquely simplified intellectual property protections of France.
+
+[https://www.techmeme.com/240919/p40#a240919p40](https://www.techmeme.com/240919/p40#a240919p40)
+
+💰 + 🇺🇸 It is fascinating to see a large raise for a <em>nonprofits</em> enablement platform in the United States that isn’t (yet?) owned by Blackbaud.
+
+{{ subscribe_form }}<h3>🤪 Wacky Wednesday for 2024-09-25</h3>
+
+Each Wednesday I go through dozens of Slack communities.
+
+I then select the most interesting shared links.
+
+This will always be a safe for work list. 🙈
+
+[https://worksinprogress.co/issue/lab-grown-diamonds/](https://worksinprogress.co/issue/lab-grown-diamonds/)
+
+[https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
+
+[https://www.foodandwine.com/nippon-caffeinated-ramen-noodles-8687399](https://www.foodandwine.com/nippon-caffeinated-ramen-noodles-8687399)
+
+[https://www.theverge.com/23810061/zenith-space-command-remote-control-button-of-the-month](https://www.theverge.com/23810061/zenith-space-command-remote-control-button-of-the-month)
+
+https://www.youtube.com/watch?v=ISgHpUDeLBw
+
+[https://grist.org/transportation/barcelona-is-turning-subway-trains-into-power-stations/](https://grist.org/transportation/barcelona-is-turning-subway-trains-into-power-stations/)
+
+{{ subscribe_form }}<h3>🔙 Throwback Thursday for 2024-09-26</h3>
+
+In these modern times of $1000+ smart phones, it is interesting to look back 15 years to when an [iPhone 3GS](https://en.wikipedia.org/wiki/IPhone_3GS) sold 1M units in a weekend.
+
+It was also just 15 years ago that you could get a [Palm Pre](https://en.wikipedia.org/wiki/Palm_Pre) which sold… only 0.1M units in an entire week.<figure><a href="https://web.archive.org/web/20090928063915/http://www.engadget.com/2009/09/26/pre-drops-to-79-99-at-walmart/" rel="noopener noreferrer" target="_blank"><img alt="Palm Pre in 2009" draggable="false" src="https://assets.buttondown.email/images/c0f4654d-1f75-4b68-bd22-7776232d3fa3.jpg?w=960&fit=max"/></a><figcaption>via [archive.org](http://archive.org)</figcaption></figure>
+
+The Palm Pre ran [webOS](https://en.wikipedia.org/wiki/WebOS). Today, webOS is running on 150M+ devices that are [much larger than a phone](https://webos.developer.lge.com/webos-hub).
+
+The iPhone 3GS ran [iOS](https://en.wikipedia.org/wiki/IOS). By comparison, iOS is now running on 2B+ devices ranging from the size of a phone to the size of a tablet… but [tvOS](https://en.wikipedia.org/wiki/TvOS) is probably running on less than ~100M devices connected to flat panel TV screens.
+
+{{ subscribe_form }}<h3>✅ Final Thoughts Friday for 2024-09-27</h3>
+
+As of this update, I am still wrapping up publishing my [AI Field Day 5](https://techfieldday.com/event/aifd5/) delegate notes on Keysight, Integrail, Cisco, VMware, Elastic, Arista, and Enfabrica.
+
+Once again, I am thankful for [new and ongoing client work](https://cuthrell.consulting/services/) and [catching up](https://calendly.com/jaycuthrell/catch-up) with past co-workers. Weather this week meant more indoors time for digging into my non-technology projects.
+
+The biggest stories this week that caught me eye:
+* The market for selling [$1 for $0.74](https://www.techmeme.com/240927/p23#a240927p23) is massive.
+* More companies will be compelled to tell you that [you own nothing](https://www.techmeme.com/240926/p24#a240926p24).
+* Open source can take steps forward in [dramatic and different ways](https://www.techmeme.com/240923/p13#a240923p13).
+
+[https://www.techmeme.com/240927/p23#a240927p23](https://www.techmeme.com/240927/p23#a240927p23)
+
+[https://www.techmeme.com/240926/p24#a240926p24](https://www.techmeme.com/240926/p24#a240926p24)
+
+[https://www.techmeme.com/240923/p13#a240923p13](https://www.techmeme.com/240923/p13#a240923p13)
+
+{{ subscribe_form }}<h3>🔮 Sneak Peak Saturday for 2024-09-28</h3>
+
+By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.<h4>Peak 🏔️ vs. Peek 👀</h4>
+
+Then there is a trope, cliché, or bromide about slow news days and the quietly mentioned news updates sent on a Friday — to try and sneak it past wider coverage. Or, in a nutshell, peak patronizing publishing.
+
+In that spirit, here are a few stories that you might have missed on the slow news of a Friday.<h4>Insert Let's See Who This Really Is Meme</h4>
+
+[https://www.techmeme.com/240927/p6#a240927p6](https://www.techmeme.com/240927/p6#a240927p6)<h4>Insert Ceiling Cat Meme</h4>
+
+[https://www.techmeme.com/240927/p24#a240927p24](https://www.techmeme.com/240927/p24#a240927p24)<h4>Insert We're All Trying To Find The Guy Who Did This Meme</h4>
+
+[https://www.techmeme.com/240927/p16#a240927p16](https://www.techmeme.com/240927/p16#a240927p16)<h4>Insert That Wasn't Me, That Was Patricia Meme</h4>
+
+[https://www.techmeme.com/240927/p27#a240927p27](https://www.techmeme.com/240927/p27#a240927p27)<h4>Insert Anthony Adams Rubbing Hands Meme</h4>
+
+[https://www.techmeme.com/240927/p5#a240927p5](https://www.techmeme.com/240927/p5#a240927p5)
+
+{{ subscribe_form }}
