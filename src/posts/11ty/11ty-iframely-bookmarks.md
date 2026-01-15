@@ -6,6 +6,7 @@ tags: [11ty]
 ---
 
 
+
 I'm truly enjoying [11ty](/topics/11ty/). I'm also looking to recapture some of the layout options I still miss from Revue (RIP) for unfurled cards the created flexible previews of embedded URLs within my newsletter.
 
 https://www.techmeme.com/221214/p28#a221214p28
@@ -26,39 +27,35 @@ Third, I gathered all the bookmarks I had been considering for sharing in the ne
 
 These are examples of a website where the creator has made a design choice that can accommodate the smaller card timeline format. The graphic choice is ready to be presented in a square format.
 
-<a data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsemiengineering.com%2Fthe-future-of-memory-4%2F&key=28a0c9e082758c58f784faf791c82572" href="https://semiengineering.com/the-future-of-memory-4/"></a>
+[https://semiengineering.com/the-future-of-memory-4/](https://semiengineering.com/the-future-of-memory-4/)
 > *[Interactive script removed]*
 
-<a data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fmedia.ccc.de%2Fb%2Fcongress%2F2023&key=28a0c9e082758c58f784faf791c82572" href="https://media.ccc.de/b/congress/2023"></a>
+[https://media.ccc.de/b/congress/2023](https://media.ccc.de/b/congress/2023)
 > *[Interactive script removed]*
 
-<a data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fdesmondrivet.com%2F2022%2F04%2F04%2Feleventy-previews&key=28a0c9e082758c58f784faf791c82572" href="https://desmondrivet.com/2022/04/04/eleventy-previews"></a>
+[https://desmondrivet.com/2022/04/04/eleventy-previews](https://desmondrivet.com/2022/04/04/eleventy-previews)
 > *[Interactive script removed]*
-
 
 #### Crunched layout 1: works well even for squared timelines
 
 While not pixel-perfect, there are examples where even a cropped square of a graphic still works well.
 
-<a data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fstefanbohacek.com%2Fblog%2Fexploring-your-fediverse-connections%2F&key=28a0c9e082758c58f784faf791c82572" href="https://stefanbohacek.com/blog/exploring-your-fediverse-connections/"></a>
+[https://stefanbohacek.com/blog/exploring-your-fediverse-connections/](https://stefanbohacek.com/blog/exploring-your-fediverse-connections/)
 > *[Interactive script removed]*
-
 
 #### Crunched layout 2: does not work well for squared timelines
 
 Of course, there is the loss of context from cropping out text (to say nothing of alt text) for the smaller card timeline format.
 
-<a data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsmallstep.com%2Fblog%2Fhome-network-eap-tls-wifi%2F&key=28a0c9e082758c58f784faf791c82572" href="https://smallstep.com/blog/home-network-eap-tls-wifi/"></a>
+[https://smallstep.com/blog/home-network-eap-tls-wifi/](https://smallstep.com/blog/home-network-eap-tls-wifi/)
 > *[Interactive script removed]*
-
 
 #### No graphic: fallback is reasonable
 
 Then again, graphics are not compulsory and a fallback to simple text is reasonable.
   
-<a data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftriagechallenge.darpa.mil&key=28a0c9e082758c58f784faf791c82572" href="https://triagechallenge.darpa.mil"></a>
+[https://triagechallenge.darpa.mil](https://triagechallenge.darpa.mil)
 > *[Interactive script removed]*
-
 
 Next, I'll be working on incorporating the [API](https://iframely.com/docs) as my free time permits. 
 
@@ -74,16 +71,7 @@ If so -- [let's catch up](https://jaycuthrell.com/contact/) in the real world.
 
 I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14) (so far).
 
-
 > **Note:** Embedded content from [https://cuthrell.com/@jay/111774189599544610/embed](https://cuthrell.com/@jay/111774189599544610/embed) has been removed.
 
 > *[Interactive script removed]*
 
-
-## Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
-
-***
-
-p.s. As I've gotten older, I have come to appreciate getting snail mail. If you have time to [drop me a postcard](https://jaycuthrell.com/contact/) that would be amazing. ✉️

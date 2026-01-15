@@ -3,8 +3,6 @@ title: A Spotlight on A.I. on Devices
 description: A look at A.I. running on devices nearest the data
 date: 2023-11-05
 ---
-
-
 # Origins
 
 This week we take a look at A.I. running on devices nearest the data. Fudge Sunday inspiration for this week comes from a recent comment at [M.G. Siegler's 500ish.com](https://500ish.com/apples-literal-scary-fast-event-fc04d39cfec6):
@@ -92,8 +90,3 @@ I received  clever alternative expansions of the L.L.M. acronym in response to l
 - *Large Language Marmite* 🍯🤣 clever!
 - *Large Language Molasses* 🍯🤣 clever!
 - *Large Language Mustard* 🍯🤣 clever!
-
-# Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
-</jay@cuthrell.com>

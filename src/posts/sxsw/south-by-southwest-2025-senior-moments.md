@@ -4,9 +4,10 @@ description: 'A look at my SXSW 2025 PanelPicker submission'
 date: 2024-07-14
 ---
 
+
 #### UPDATE: We'd appreciate your SXSW Vote
 
-First thing — Please be sure to have [registered](https://id.sxsw.com/sign_in) with a SXSW ID (free).&nbsp;</span> [https://id.sxsw.com/sign_in](https://id.sxsw.com/sign_in)
+First thing — Please be sure to have [registered](https://id.sxsw.com/sign_in) with a SXSW ID (free).  [https://id.sxsw.com/sign_in](https://id.sxsw.com/sign_in)
 
 Second thing — For SXSW 2025, I’m organizing [a panel with amazing speakers](https://panelpicker.sxsw.com/vote/148254). PLEASE [VOTE FOR THE PANEL](https://panelpicker.sxsw.com/vote/148254)! 🤓
 
@@ -64,7 +65,6 @@ What do I mean? Below are the high level sections you will need to complete.
 - Agreement: Click all the boxes or do not pass go to completion.
 
 Example: [The SXSW PanelPicker multi-page form screenshot (PDF)](https://panelpicker.sxsw.com//assets/pdf_preview/sxsw-preview-7556af192ada56f4a6a21dcc8d4f04c2e36f782b9de17879f9840f6c1c28e064.pdf)
-
 
 ![SXSW PanelPicker submission form](/assets/images/screenshots/2024-07-14-16-13-50.png)
 
@@ -153,6 +153,3 @@ Until then… Place your bets!
 
 PLEASE [VOTE FOR THE PANEL](https://panelpicker.sxsw.com/vote/148254)! 🤓
 
-# Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
