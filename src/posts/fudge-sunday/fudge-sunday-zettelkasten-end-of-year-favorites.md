@@ -52,6 +52,4 @@ Writing is the process by which you realize what you think and what you understa
  [8:15 AM - 28 Nov 2021](https://twitter.com/ShaneAParrish/status/1464946075911995393)
 
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

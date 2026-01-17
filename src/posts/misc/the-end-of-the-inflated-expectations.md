@@ -86,6 +86,3 @@ https://open.spotify.com/playlist/2ZALK6TiXvBVztITrrybkN?si=6fdbe6d567464b3a
 
 📖 A day after I posted: [A.I. Risks](https://www.schneier.com/blog/archives/2023/10/ai-risks.html) by [Bruce Schneier](https://www.linkedin.com/pulse/my-only-linkedin-post-yes-really-bruce-schneier)
 
-# Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

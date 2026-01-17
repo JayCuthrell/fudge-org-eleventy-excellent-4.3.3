@@ -84,10 +84,7 @@ So, what will the next big breakout Wasm use case[8](#footnote-8) be in 2023?
 
 Until then… Place your bets!
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [https://webassembly.org](https://webassembly.org)
 

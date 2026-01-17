@@ -103,6 +103,4 @@ Dr. Jerry B. Harvey delivers 2 hours of insightful management yarns (1981)
 
 In summary, when thinking about exponential data growth and the growing importance of that data, there is much more to consider. Perhaps one thing we need to consider is combining BMMaaS with an overlay of the Moose Test to move forward — all while acknowledging that there are those around us with boredom, temerity, conformity, and deadlines – including ourselves.
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
+ 

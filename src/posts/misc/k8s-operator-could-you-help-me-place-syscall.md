@@ -71,9 +71,7 @@ So, what will be the next big thing in k8s Operators, security, observability, a
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^Bryan Truong]: Shout out to [Bryan Truong](https://www.linkedin.com/feed/update/urn:li:activity:6930188455708688384/)
 

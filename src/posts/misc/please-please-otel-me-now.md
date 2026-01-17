@@ -78,10 +78,7 @@ Excited to try my hand on the product side of the business.](https://twitter.com
 
 Until next time… Place your bets!
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [https://web.archive.org/web/20160115075431/http://opentracing.io/](https://web.archive.org/web/20160115075431/http://opentracing.io/)
 

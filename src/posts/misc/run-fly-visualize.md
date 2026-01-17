@@ -111,9 +111,7 @@ https://www.youtube.com/watch?v=0Dzk6RSnWfY
 
 That's all for this week. As a reminder, [Hot Fudge Daily](https://fudge.org) is available as a [$9.99 yearly subscription](https://fudge.org) and [Spicy Edition Sunday for 2024-07-07](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/) is the free digest of last week. 🤓
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

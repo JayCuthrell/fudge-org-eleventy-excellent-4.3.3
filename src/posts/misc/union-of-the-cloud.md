@@ -116,10 +116,7 @@ What are the true business outcomes to prioritize when placing your order?
 
 Until next time… Place your bets… (and place your orders…)
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [HashiCorp 2021 State of Cloud Strategy Survey (via archive.org)](https://web.archive.org/web/20210811160340/https://www.hashicorp.com/state-of-the-cloud)
 

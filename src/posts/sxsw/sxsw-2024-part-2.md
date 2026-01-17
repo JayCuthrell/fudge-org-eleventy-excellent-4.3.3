@@ -9,7 +9,7 @@ date: 2024-03-17
 > See also: [SXSW 2024 Days 1-3](/archive/sxsw-2024-days-1-3/)
 > See also: [SXSW 2024 Days 4-9](/archive/sxsw-2024-days-4-9/)
 
-Disclosure, as of this update [I work for IBM](https://jaycuthrell.com/disclosure/). As a reminder, for SXSW 2024, [IBM sponsored the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/) and I posted updates on [my LinkedIn](https://www.linkedin.com/in/jaycuthrell) to capture these amazing moments during discussion about A.I. and quantum computing.
+Disclosure: [I work for IBM](https://jaycuthrell.com/disclosure/). As a reminder, for SXSW 2024, [IBM sponsored the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/) and I posted updates on [my LinkedIn](https://www.linkedin.com/in/jaycuthrell) to capture these amazing moments during discussion about A.I. and quantum computing.
 
 
 > **Note:** Embedded content from [https://www.linkedin.com/embed/feed/update/urn:li:share:7174760218642284544](https://www.linkedin.com/embed/feed/update/urn:li:share:7174760218642284544) has been removed.
@@ -180,9 +180,7 @@ I can't wait to travel again and experience Delta Sync to see what has been buil
 
 This post is already at +2000 words so I'm going to leave out films and bands. If you want to compare notes though or are looking for recommendations, [let's chat](https://calendly.com/jaycuthrell/call).
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

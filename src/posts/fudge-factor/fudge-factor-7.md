@@ -26,9 +26,7 @@ Instead, I will be attending Gartner IT Infrastructure, Operations & Cloud Strat
 
 > At just under 300 words and a few footnotes, that's all for this month. 🤓
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^work]: My work related [announcements](https://www.linkedin.com/posts/jaycuthrell_im-happy-to-share-that-im-starting-a-new-activity-7265170221068345344-rLfq?utm_source=share&utm_medium=member_desktop) on [LinkedIn](https://www.linkedin.com/pulse/hello-nexustek-jay-cuthrell-qp0oe/?trackingId=8WoIc%2BmhYcTEDgvbX%2BPE%2Fg%3D%3D)
 [^activepieces]: [Activepieces](https://github.com/activepieces/activepieces)

@@ -54,8 +54,6 @@ So, what will be the next big thing in A.I. across the Enterprise knowledge work
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

@@ -54,9 +54,7 @@ So, what will be the next major tool to append to toolchain in the growing list 
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^matrix]: \_Have you ever been to the\_ [\_engineering level?\_](https://www.youtube.com/watch?v=cD4nhYR-VRA?t=54)
 [^apple]: iPhone 3G [circa 2009)](https://www.youtube.com/watch?v=szrsfeyLzyg)

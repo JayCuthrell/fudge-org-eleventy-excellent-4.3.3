@@ -66,9 +66,7 @@ So, what will be the next big thing in service catalog frameworks, IDP, IDPaaS, 
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^comment]: TIL that [Substack Notes allows deeplinking](https://open.substack.com/chat/posts/a86307cb-045e-4f06-a066-552f7127fe26)
 🤓

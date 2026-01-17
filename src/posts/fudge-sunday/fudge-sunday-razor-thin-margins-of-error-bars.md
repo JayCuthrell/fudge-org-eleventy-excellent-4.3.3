@@ -74,7 +74,3 @@ This is what happens when Boaty McBoatface decides to enter the realm of statist
 3. Still a lot more to learn.🚀
 
 [fudge.org](https://fudge.org/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
- **Disclosure**
-
-For each issue of my newsletter, I am now linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).

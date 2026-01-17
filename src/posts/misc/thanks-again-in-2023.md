@@ -54,6 +54,4 @@ So, what will be the next big thing in social sharing, deep web, and LLMs traini
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

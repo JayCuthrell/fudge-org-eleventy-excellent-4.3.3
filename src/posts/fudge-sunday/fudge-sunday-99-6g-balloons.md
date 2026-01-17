@@ -85,6 +85,3 @@ Source:
 
 Tune in within 3-5 years to see how this newsletter has aged.🤓🤔🤣
 
- # Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).

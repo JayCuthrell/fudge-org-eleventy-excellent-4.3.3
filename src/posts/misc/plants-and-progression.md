@@ -74,9 +74,7 @@ What's the probability that the next conference you attend offers a [nature-conn
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

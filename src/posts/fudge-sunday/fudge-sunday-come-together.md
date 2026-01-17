@@ -118,6 +118,4 @@ Source:
 
 [eandt.theiet.org](https://eandt.theiet.org/content/articles/2022/04/broadband-cables-to-be-routed-through-water-pipes-in-new-trial/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
+ 

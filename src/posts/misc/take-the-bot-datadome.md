@@ -102,9 +102,7 @@ So, what will be the next big thing in anti-bot solutions and anti-anti-bot tech
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
 🤓
 

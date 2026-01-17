@@ -100,9 +100,7 @@ In that spirit, here are the stories that you might have missed on the slow news
 
 That's all for this week. As a reminder, [Hot Fudge Daily](https://fudge.org) is available as a [$9.99 yearly subscription](https://fudge.org). 🤓
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

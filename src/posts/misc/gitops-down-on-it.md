@@ -57,9 +57,7 @@ So, what will be the next big thing in GitOps and the limits of Generative AI?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^ antimetabole]: TIL on [A Way with Words](https://beta.prx.org/stories/475388)
 [^chiasmus]: TIL on [Alan Cooper's Substack Newsletter](https://mralancooper.medium.com/antimetabole-1d95057c9658)

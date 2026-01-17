@@ -108,6 +108,3 @@ So, if you are interested in the approximately 30 conferences where [cal/val](/t
 
 > At just under 1300 words, that's all this week. 🤓
 
-## Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

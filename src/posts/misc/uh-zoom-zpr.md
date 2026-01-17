@@ -92,8 +92,6 @@ So, what will be the next big thing in Zero-Trust Packet Routing (ZPR) and smart
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

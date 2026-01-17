@@ -11,7 +11,7 @@ date: 2024-03-10
 
 I'm on Day 3 at SXSW 2024. My biggest failure so far is related to my quantified self: I intended to track the number of steps I've taken and map my routes via GPS/beacons but I missed a setting on my mobile device. Bother.
 
-Disclosure, [I work for IBM](https://jaycuthrell.com/disclosure/). At SXSW 2024, [IBM is sponsoring the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/). So far, I've attended two IBMer sessions.
+Disclosure: [I work for IBM](https://jaycuthrell.com/disclosure/). At SXSW 2024, [IBM is sponsoring the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/). So far, I've attended two IBMer sessions.
 
 First, I attended [Quantum Computing: Real, Revolutionary, Right Now!](https://schedule.sxsw.com/2024/events/PP140519) featuring [Jay Boisseau](https://www.linkedin.com/in/jayboisseau?trk=public_post_embed-text) of [The Austin Forum on Technology & Society](https://www.linkedin.com/company/austinforum?trk=public_post_embed-text), [Heather Higgins](https://www.linkedin.com/in/heatherhiggs?trk=public_post_embed-text) of [IBM](https://www.linkedin.com/company/ibm?trk=public_post_embed-text), [Rima Alameddine](https://www.linkedin.com/in/alameddinerima?trk=public_post_embed-text) of [IonQ](https://www.linkedin.com/company/ionq.co?trk=public_post_embed-text) , and [Bob Sorensen](https://www.linkedin.com/in/bob-sorensen-b8aa0487?trk=public_post_embed-text) of [Hyperion Research](https://www.linkedin.com/company/hyperion-research-hpc?trk=public_post_embed-text) on an awesome panel [^panel].
 
@@ -132,9 +132,7 @@ I kept Obsidian open for a few sessions. I'm sharing a few of my notes in a summ
 
 
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

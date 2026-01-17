@@ -73,10 +73,7 @@ Now, imagine the next big use case that will challenge expectations for time sen
 
 Until next time… Place your bets!
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Watch: [https://youtube.com/clip/UgkxlbaWw8R7fJBfxhZFepzTKRqOZqCxzmXq](https://youtube.com/clip/UgkxlbaWw8R7fJBfxhZFepzTKRqOZqCxzmXq)
 

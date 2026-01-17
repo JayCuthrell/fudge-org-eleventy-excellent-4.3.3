@@ -74,9 +74,7 @@ So, what will be the next big security position change in conference agendas?
 
 Until then… Place your bets!
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

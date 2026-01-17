@@ -79,9 +79,7 @@ It turns out that Nova Labs has [checks notes] acquired FreedomFi.[8](#footnote-
 
 (https://web.archive.org/web/20220818160310/https://freedomfi.com/press-release/)Until next time… Place your bets…
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Query: [https://duckduckgo.com/?q=%22ubiquitous+workload+substrate%22](https://duckduckgo.com/?q=%22ubiquitous+workload+substrate%22)
 

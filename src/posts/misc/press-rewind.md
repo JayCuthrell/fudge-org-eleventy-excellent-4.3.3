@@ -54,9 +54,7 @@ So, what will be the next big thing in our ability to press rewind in software s
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
 🤓
 

@@ -92,9 +92,7 @@ So, what will be the next big thing in the pursuit of golden paths?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
 🤓
 

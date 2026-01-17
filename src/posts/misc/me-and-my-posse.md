@@ -90,9 +90,4 @@ I’m still experimenting with this section but readers seem to click on these l
 
 Source: [https://github.com/Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain)
 
-**Disclosure**
-==============
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-
 [1](#footnote-anchor-1)[https://www.google.com/search?q=%22Soon+there+will+be+a+perfect+digital+mirror+of+our+world%22](https://www.google.com/search?q=%22Soon+there+will+be+a+perfect+digital+mirror+of+our+world%22)

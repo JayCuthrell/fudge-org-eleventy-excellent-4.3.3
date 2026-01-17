@@ -47,9 +47,7 @@ So, what will be the next big thing in k8s Operators?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^1]: [Introducing Operators: Putting Operational Knowledge into Software (2016)](https://cloud.redhat.com/blog/introducing-operators-putting-operational-knowledge-into-software)
 [^BradTopol]: Shout out to [Brad Topol](https://www.linkedin.com/in/brad-topol-6273536/)

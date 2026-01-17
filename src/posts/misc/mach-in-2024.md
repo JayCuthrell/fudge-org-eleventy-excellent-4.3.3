@@ -117,9 +117,7 @@ Thanks for all the reader feedback on my [SXSW 2024 coverage](/topics/sxsw). I a
 
 If you'd like to catch up with me to discuss, [let's chat](/feedback/)!
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

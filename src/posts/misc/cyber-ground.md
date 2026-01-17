@@ -87,8 +87,6 @@ So, what will be the next big thing in the cyber insurance and cyber risk market
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

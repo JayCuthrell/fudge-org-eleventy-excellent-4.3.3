@@ -55,9 +55,7 @@ What's the probability that 2024 will be the year A.I. hype has the first eye-ro
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

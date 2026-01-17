@@ -98,9 +98,7 @@ What will my predictions be next week in my first newsletter for 2024?
 
 Until then... Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

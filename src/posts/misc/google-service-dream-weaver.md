@@ -71,9 +71,7 @@ Until then… Place your bets!
 
 \_P.S. Special thanks to [Neeloy Bhattacharyya](https://www.linkedin.com/in/neeloybhattacharyya/) for the feedback [last week](https://fudge.org/archive/bufbuild-your-rest/) as inspiration to create this issue of Fudge Sunday!\_
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^0]: [A Quick Introduction to Service Weaver](https://serviceweaver.dev/blog/quick\_intro.html)
 [^1]: [Understanding actor concurrency, Part 1: Actors in Erlang (2009)](https://www.infoworld.com/article/2077999/understanding-actor-concurrency--part-1--actors-in-erlang.html)

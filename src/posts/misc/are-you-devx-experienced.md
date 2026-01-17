@@ -86,8 +86,6 @@ So, what will be the next big thing in Developer Experience (DevX)?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

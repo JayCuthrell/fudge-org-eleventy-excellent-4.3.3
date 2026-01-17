@@ -128,9 +128,7 @@ What will be the next big thing in A.I. chips, BYOAI, and DEI/VOWEL?
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

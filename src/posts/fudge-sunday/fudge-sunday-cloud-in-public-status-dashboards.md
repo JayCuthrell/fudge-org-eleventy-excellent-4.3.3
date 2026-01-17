@@ -118,6 +118,4 @@ Historically, AWS launched Personal Health Dashboard in 2016 as a *premium* serv
 
 Now, to round out this issue, reflect back to the five (5) areas that [@cloudpundit](https://twitter.com/cloudpundit?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) outlined. It’s worth noting that beyond dashboard variation, there are still clear variations between hyperscale public cloud service providers today but those won’t possibly fit into this issue – hence the remaining issues in a series of issues to come.🤓
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+ 

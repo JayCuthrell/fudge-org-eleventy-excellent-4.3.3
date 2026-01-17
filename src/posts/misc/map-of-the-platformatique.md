@@ -65,9 +65,7 @@ So, what will be the next big thing in mapping of the platform engineering servi
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^1]: [Wardley Mapping on Wikipedia](https://en.wikipedia.org/wiki/Wardley\_map)
 [^2]: [Hacker News](https://news.ycombinator.com/item?id=34849110) 

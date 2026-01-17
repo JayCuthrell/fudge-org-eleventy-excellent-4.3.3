@@ -81,9 +81,7 @@ So, what will be the next big thing in Internal Developer Platform (IDP) and IDP
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
 [^farmerfile]: Yes, a farmer's file by itself is arguably more comfortable than a common file by itself — but farmer's files are not as common and mostly associated with agricultural use cases and you'll want to wear gloves unless you have, well, a farmer's hard callused hands. And even then, you'll probably want to pay for sharpening as a service for the best results. YMMV.
 

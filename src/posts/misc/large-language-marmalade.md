@@ -152,6 +152,4 @@ With that in mind, enjoy these eleven (11) lessons from the field courtesy of th
 [![Lessons learned from two decades of Site Reliability Engineering](https://kstatic.googleusercontent.com/files/4782a313e3cdd6cbe3346d30d1d1cb6778950ceb535f955d91c84f80eacb10a1f8fa164af5471ce0b188c1fcfe27c7e877aad9b350411c6a8a8fddd6b02b4400)](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 Source: [Google](https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/)
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

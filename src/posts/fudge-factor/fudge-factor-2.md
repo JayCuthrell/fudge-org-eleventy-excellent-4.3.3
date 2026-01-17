@@ -71,6 +71,4 @@ Events are an important consideration for readers who might know me from my tele
 
 > At just under 1000 words, that's all this week. 🤓
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

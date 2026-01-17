@@ -38,7 +38,3 @@ This has been just a few of the 50+ subscriptions I enjoy on YouTube Premium. Gr
 
 Until next time… place your bets!
 
-Disclosure
-==========
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).

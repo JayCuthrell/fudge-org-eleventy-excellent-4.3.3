@@ -235,6 +235,4 @@ It is worth noting the CSPs are *growing* their conferences while OEM's *seem to
 
 > At just under 2500 words and just over 3 dozen footnotes, that's all this week. 🤓
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

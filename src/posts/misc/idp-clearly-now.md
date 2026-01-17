@@ -62,9 +62,7 @@ So, what will be the next big thing, project, consultancy, product, or service i
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^1]: The clever folks behind [platformengineering.org](https://platformengineering.org) have opened up the deep web of their Slack as a [searchable community](https://community.platformengineering.org) via [Linen](https://www.linen.dev)
 [^JamilSpain]: Shout out to [Jamil Spain](https://www.linkedin.com/in/jamilspain/)

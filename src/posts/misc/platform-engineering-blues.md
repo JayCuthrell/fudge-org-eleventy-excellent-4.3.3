@@ -65,10 +65,7 @@ So, what tools we be added to the PlatformEngineering.org registry next to reach
 
 Until next time… Place your bets!
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [What Is Platform Engineering?](https://www.gartner.com/en/articles/what-is-platform-engineering)
 

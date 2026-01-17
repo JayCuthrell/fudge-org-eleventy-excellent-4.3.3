@@ -103,6 +103,4 @@ Until then… Place your bets!
 
 🤔 If you were wondering how to spend 30 minutes ⏳ of your day next week on Tue, Oct 24, 2023 at 12:30 PM EDT — good news! 🎉 I will be joining [Randy Arseneau](https://www.linkedin.com/in/randyarseneau/) to discuss ["The X(II) Factor: Modernizing Your Apps and Your Infrastructure"](https://ibm.webcasts.com/starthere.jsp?ei=1633985&tp_key=5415c284e9) — 🤓👉 [Register here!](https://ibm.webcasts.com/starthere.jsp?ei=1633985&tp_key=5415c284e9) 👈🤓
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

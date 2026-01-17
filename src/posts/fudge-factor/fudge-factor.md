@@ -60,6 +60,4 @@ Congratulations to the [Gcore](topics/gcore) team on their $60M funding round.[^
 
 At just over 500 words, that's all this week. 🤓
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

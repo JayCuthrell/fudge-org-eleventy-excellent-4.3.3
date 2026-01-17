@@ -129,6 +129,4 @@ Web 5: first-idealogical unification advantage
 
 So, until next time. Be safe and be well out there as we enter the first of several Web3 years to come.
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

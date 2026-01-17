@@ -60,9 +60,7 @@ So, what will be the next FinOps toolchain in the even expanding list for 2023?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^review]: See also [Review in Haiku](https://reviewinhaiku.com)
 [^toolchain]: See also [Happy When It Toolchains](https://fudge.org/archive/happy-when-it-toolchains/)

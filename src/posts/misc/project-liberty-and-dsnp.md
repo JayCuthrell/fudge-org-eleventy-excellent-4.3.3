@@ -80,9 +80,7 @@ What will be the next big thing in decentralized platforms based on democratized
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

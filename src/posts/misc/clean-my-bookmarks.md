@@ -52,8 +52,6 @@ So, what will be the next big thing in bookmarking services?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

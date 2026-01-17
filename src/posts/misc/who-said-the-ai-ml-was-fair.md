@@ -46,8 +46,6 @@ So, what will be the next big thing in AI/ML fairness and FAIR data?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

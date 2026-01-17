@@ -138,6 +138,4 @@ Eventually, each hyperscale cloud service provider inputs from real-time pricing
 
 Ultimately, partnering with customers in business performance improvement terms is the only way hyperscale public cloud service providers will have an enduring competitive advantage. As such, each hyperscale public cloud service provider will need to make strategic investments that help the customer uncover the highest value opportunities to leverage the proper well-architected framework that is underpinned with the right technology – and at the right time.
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

@@ -98,6 +98,4 @@ So, while one could provide an answer on GitHub… it probably won’t be found.
 
 Example: [https://www.google.com/search?q=%22event+that+tailscale%22](https://www.google.com/search?q=%22event%20that%20tailscale%22&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
+ 

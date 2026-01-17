@@ -53,9 +53,7 @@ So, what will be the next big thing in making protocol buffers, gRPC, and APIs e
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^1]: [History: Protocol Buffers Documentation ](https://protobuf.dev/history/)
 [^2]: [Hacker News: buf.build](https://news.ycombinator.com/from?site=buf.build) 

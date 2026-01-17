@@ -145,6 +145,5 @@ Updated definition:
 
  [2:48 AM - 14 Sep 2020](https://twitter.com/mipsytipsy/status/1305398051842871297)
 
- **Disclosure**
+ 
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).

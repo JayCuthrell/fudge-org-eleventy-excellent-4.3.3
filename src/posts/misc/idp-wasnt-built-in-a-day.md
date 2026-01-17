@@ -54,9 +54,7 @@ So, what will be the next big thing in platform engineering, data operations, an
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
 [^1]: Shout out to [Paul Swail](https://notes.serverlessfirst.com/public/Undifferentiated+heavy+lifting)
 [^2]: Shout out to [Renato Losio](https://www.linkedin.com/in/rlosio)

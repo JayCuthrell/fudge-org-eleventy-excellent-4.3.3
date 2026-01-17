@@ -50,9 +50,7 @@ I do however think that when all of the major cloud service providers push furth
 
 Increasingly, infrastructure as code (IaC) such as [Terraform](https://www.strongdm.com/blog/terraform-your-devops-workflow), [Ansible](https://goteleport.com/docs/machine-id/guides/ansible/), [Pulumi](https://www.twingate.com/docs/pulumi-getting-started/), etc. will enable incremental approaches to a zero trust design as an initialization level snippet. As such, the entire access proxy market will be fascinating over the next few years as players and projects blend VPN simplification, Beyondcorp-esque inspired design choices, and ever more accessible solutions to effortless "zero touch" deployment.
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^0]: Virtual Private Network or Vexing Productivity Neutralizer?
 [^1]: Hey, what can I say... I'm both finicky and fickle when it comes to platform commitment.

@@ -62,9 +62,7 @@ What other predictions will I get wrong? right?
 
 Until then... Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^1]: [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030)
 [^2]: [Plaform Engineering Blues](https://fudge.org/archive/platform-engineering-blues/)

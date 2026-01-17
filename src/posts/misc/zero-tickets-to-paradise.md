@@ -60,8 +60,6 @@ So, what will be the next big thing in ticketless DevX with AIOps?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

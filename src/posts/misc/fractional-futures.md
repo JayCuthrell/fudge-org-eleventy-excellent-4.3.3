@@ -80,9 +80,7 @@ What's the eventual equilibrium going to look like for full-time roles and fract
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

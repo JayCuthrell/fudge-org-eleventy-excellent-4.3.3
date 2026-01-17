@@ -61,8 +61,6 @@ So, what will be the next big thing in Apache Parquet and other speed to value r
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

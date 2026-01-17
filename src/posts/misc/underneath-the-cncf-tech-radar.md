@@ -58,10 +58,6 @@ Steve McCroskey and Austin Millbarge multiverse memeSo what’s the next DevSecO
 
 Until next time… Place your bets!
 
-#Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-
 [1](#footnote-anchor-1)Read: [https://web.archive.org/web/20150907011025/https://cncf.io/about/supporting-companies](https://web.archive.org/web/20150907011025/https://cncf.io/about/supporting-companies)
 
 [2](#footnote-anchor-2)Read: [https://web.archive.org/web/20150907071648/https://cncf.io/about/our-mission](https://web.archive.org/web/20150907071648/https://cncf.io/about/our-mission)

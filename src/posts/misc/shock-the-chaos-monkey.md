@@ -66,9 +66,7 @@ So, what will be the next big thing in chaos engineering within platform teams?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^SNL]: ["We're just covering contingencies, Tom. Look, you're the one that wants to spend all winter in Barbados."](https://www.youtube.com/watch?v=1tX6jdoruH8)
 

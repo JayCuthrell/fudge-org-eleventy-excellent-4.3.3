@@ -73,10 +73,7 @@ To gather just a few examples that many readers might recognize, the VxRail, Nut
 
 Place your bets…
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [Riddle of the Sphinx](https://en.wikipedia.org/wiki/Sphinx#Riddle_of_the_Sphinx)
 

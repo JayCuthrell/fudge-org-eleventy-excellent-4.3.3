@@ -79,6 +79,4 @@ Source:
 
 [www.geekwire.com](https://www.geekwire.com/2022/tech-moves-microsoft-developer-relations-chief-lands-at-google-amazon-hr-leader-joins-applovin/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
+ 

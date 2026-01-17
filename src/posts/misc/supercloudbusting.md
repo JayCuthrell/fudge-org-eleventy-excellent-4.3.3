@@ -63,9 +63,7 @@ So, finally, please enjoy this [quick 60 second video clip from HPE Discover via
 
 Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)[It was the freshest move I’ve ever seen – like he was floating on air – I’ve never seen anything like it in my life](https://en.wikipedia.org/wiki/Something_Good_(Utah_Saints_song)) i.e. [Click here to relive 2008-2009](https://www.youtube.com/watch?v=m97WlpsuU74)
 

@@ -79,6 +79,4 @@ There is also a growing consolidation of integrated B2B media companies and the 
 
 That's all for now. I'll be thinking about naming and branding for next month but I am leaning towards Fudge Factor or Fudge Forward.
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

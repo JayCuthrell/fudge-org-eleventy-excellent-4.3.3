@@ -46,9 +46,7 @@ So, what will be the next big thing in generative AI and platform engineering?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^legal]: [Case 1:22-cv-01461-PKC Document 54 Filed 06/22/23](https://www.courtlistener.com/docket/63107798/54/mata-v-avianca-inc/)
 🤓

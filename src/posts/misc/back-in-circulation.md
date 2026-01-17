@@ -108,9 +108,7 @@ What's the next big technology evolution going to be in work travel?
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

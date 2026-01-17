@@ -111,6 +111,4 @@ Our last issue in the series will look at the increasing importance of dependenc
 
 Stay tuned!
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

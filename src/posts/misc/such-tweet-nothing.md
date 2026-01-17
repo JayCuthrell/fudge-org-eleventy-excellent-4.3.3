@@ -46,9 +46,7 @@ So, what will be the next major social media company or beloved online service t
 
 Until then... Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^0]: 484 is approximately [500ish](https://500ish.com)
 

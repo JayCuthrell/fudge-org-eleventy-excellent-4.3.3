@@ -62,10 +62,7 @@ To summarize, there are four (4) key questions to answer in digital organization
 
 Until next time… Place your bets!
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [https://web.archive.org/web/20220117154511/https://platformengineering.org/](https://web.archive.org/web/20220117154511/https://platformengineering.org/)
 

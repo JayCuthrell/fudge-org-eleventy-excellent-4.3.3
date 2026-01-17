@@ -248,6 +248,4 @@ Based on these swirling telecom, cloud, and A.I. themes, I'm leaning towards a n
 
 Stay tuned...
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

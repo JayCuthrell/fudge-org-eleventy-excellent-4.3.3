@@ -91,6 +91,4 @@ So, what will be the next big thing in digital intelligence, remote sensing, and
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

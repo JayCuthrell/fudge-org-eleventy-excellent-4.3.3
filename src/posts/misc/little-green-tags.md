@@ -52,9 +52,7 @@ So, what will be the next big thing in FinOps strategies for A.I. workloads?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^matt]: You should subscribe to [Matt Baker's Unconventional Wisdom newsletter](https://www.linkedin.com/newsletters/unconventional-wisdom-7041089584260145152/) if you haven't already -- good stuff!
 🤓

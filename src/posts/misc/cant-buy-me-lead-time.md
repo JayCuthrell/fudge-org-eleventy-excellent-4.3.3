@@ -70,8 +70,6 @@ So, what will be the next big thing in "lead time" and related DevSecOps, platfo
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

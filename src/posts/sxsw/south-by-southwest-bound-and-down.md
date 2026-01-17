@@ -80,8 +80,6 @@ So, what will be the next big thing at SxSW 2024 and beyond?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

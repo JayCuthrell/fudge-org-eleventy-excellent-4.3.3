@@ -46,9 +46,7 @@ So, what will be the next big thing in funding, mergers, and acquisitions relate
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^MLOPs]: [Everything Counts in Ops Amounts](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts/), [Once in a Pipeline](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline/), and [Summertime Pastness](https://fudge.org/archive/fudge-sunday-summertime-pastness/)
 🤓

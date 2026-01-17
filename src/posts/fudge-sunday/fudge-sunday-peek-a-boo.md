@@ -56,6 +56,4 @@ Here are my favorite pull quotes from each topic linked to each writer:
 
 *“It’s so good that it makes you question how long actors will really be needed at all.”* Source: [M.G. Siegler](https://500ish.com/you-havent-aged-a-day-7d01b5e0cb46?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
+ 

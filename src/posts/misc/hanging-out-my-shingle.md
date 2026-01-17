@@ -100,9 +100,7 @@ What's the probability that Fudge Sunday will become a GenAI summarized, podcast
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

@@ -51,10 +51,7 @@ That said, in the future, I believe that [syndication](https://indieweb.org/Cate
 
 Until next time… Place your bets…
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [I’m starting a new position as SV P at Taos, an IBM Company! 👁 🐝 Ⓜ️](https://www.linkedin.com/posts/jaycuthrell_digitaltransformation-servicesolutions-finops-activity-6962755116223315969-AjQh)
 

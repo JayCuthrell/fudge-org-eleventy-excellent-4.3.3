@@ -62,9 +62,7 @@ I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favo
 
 <!-- Calendly inline widget end -->
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

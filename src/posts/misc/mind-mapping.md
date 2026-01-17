@@ -97,9 +97,7 @@ What's the next big thing going to be in personal knowledge graphs, vector datab
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

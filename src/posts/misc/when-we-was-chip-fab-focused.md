@@ -106,10 +106,7 @@ CNBC Now @CNBCnowBREAKING: SoftBank agrees to acquire semiconductor giant ARM Ho
 
 248Likes49Retweets](https://twitter.com/JonErlichman/status/1551523821005463552?s=20&t=o_2Z4HpeaDPmGzcnRlKH7g)Until next time… Place your bets…
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [Defy Data Gravity](https://defydatagravity.com)
 

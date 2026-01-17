@@ -105,6 +105,4 @@ Source:
 
 [soundcloud.com](https://soundcloud.com/jaycuthrell/sets/from-my-4-track-days-1988-1994?utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard)
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
+ 

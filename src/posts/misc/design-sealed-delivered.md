@@ -53,8 +53,6 @@ So, what will be the next big thing in homomorphic encryption?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓

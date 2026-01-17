@@ -136,6 +136,4 @@ If you have an interest in gaining greater exposure to commercialized IIoT, the 
 
 > At just under 1500 words, that's all this week. 🤓
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

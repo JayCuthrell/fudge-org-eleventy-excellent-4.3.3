@@ -107,6 +107,4 @@ In the remaining two issues of the series, we will examine the time involved in 
 
 Stay tuned!
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

@@ -388,6 +388,4 @@ Will that DevOps future be realized?
 
 Place your bets.
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

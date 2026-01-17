@@ -51,10 +51,7 @@ CNX Software @cnxsoft52Pi DeskPi Super6C mini-ITX cluster board supports up to 6
 
 ([https://twitter.com/Barnes_Hank/status/1562071919289049090?s=20&t=MtsKYVPbP2q6UdSqZF8u0w)[1:39](https://twitter.com/Barnes_Hank/status/1562071919289049090?s=20&t=MtsKYVPbP2q6UdSqZF8u0w)[1:39) PM ∙ Aug 23, 2022]([https://twitter.com/Barnes_Hank/status/1562071919289049090?s=20&t=MtsKYVPbP2q6UdSqZF8u0w)Will](https://twitter.com/Barnes_Hank/status/1562071919289049090?s=20&t=MtsKYVPbP2q6UdSqZF8u0w)Will) Egocentrism Mitigation as a Service (EMaaS) will be on future hype curves?
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [Fudge SundayWhen We Was Chip Fab FocusedRead more4 months ago · Jay Cuthrell](https://fudge.org/archive/when-we-was-chip-fab-focused/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 

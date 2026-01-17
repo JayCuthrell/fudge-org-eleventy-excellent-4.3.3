@@ -155,9 +155,7 @@ So, what will be the next big technology change I use to make the Fudge Sunday ð
 
 Until thenâ€¦ Place your bets!
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

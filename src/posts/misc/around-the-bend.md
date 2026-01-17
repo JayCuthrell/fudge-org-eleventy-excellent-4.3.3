@@ -99,8 +99,6 @@ I’ve been noodling again in the home studio. Riffs and jingles as always.
 
 Publishing from GarageBand directly to SoundCloud helps keep the earworm at bay.
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)I’m not yet confident with use of footnotes on Substack. I’ll try using them in future issues.

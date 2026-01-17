@@ -42,9 +42,7 @@ So, what company will be the next to reach +1M deployments per week (per day?) i
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^birds]: [Modernize your micro-service deployments with virtual canaries](https://www.youtube.com/watch?v=s\_NkN8eGqQk)
 [^ChristineSamarchi]: Shout out to [Christine Samarchi](https://www.linkedin.com/in/christinesamarchi/)

@@ -66,9 +66,7 @@ So, what will be the next big thing in IaC tooling related VC funding?
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
 🤓
 

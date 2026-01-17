@@ -72,6 +72,4 @@ Here’s how I answered Greg’s questions on my reasons:
 2. *“Copy Exactly” approaches becoming standardized across industry of the 1990s i.e. [https://en.wikichip.org/wiki/intel/copy\_exactly](https://en.wikichip.org/wiki/intel/copy_exactly?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)!*
 3. *“Tick Tock” becoming an ingrained culture of expectation for technology refreshes in the 2000s i.e. [https://www.extremetech.com/computing/127987-deliberate-excellence-why-intel-leads-the-world-in-semiconductor-manufacturing/](https://www.extremetech.com/computing/127987-deliberate-excellence-why-intel-leads-the-world-in-semiconductor-manufacturing/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)*
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

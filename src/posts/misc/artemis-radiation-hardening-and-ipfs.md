@@ -105,10 +105,7 @@ Until next time… Place your bets… (from off-world?)
 
 *Special thanks to [Trevor Pott](https://www.linkedin.com/in/trevorpott/) for reviewing drafts of this issue!🙏🤓*
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Spoiler Alert: [Interstellar books scene](https://www.youtube.com/watch?v=hBaiyzj5wdc)
 

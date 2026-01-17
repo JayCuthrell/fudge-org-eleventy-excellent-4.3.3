@@ -104,6 +104,3 @@ Home on the range is more about having a range of options than making any one sp
 
 Home on the Ranch - Mulicloud Data Repatriation
 
- **Disclosure**
-
-Per my last issue, I am now linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).

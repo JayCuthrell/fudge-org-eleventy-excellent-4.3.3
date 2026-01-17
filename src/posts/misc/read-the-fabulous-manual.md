@@ -109,6 +109,4 @@ So, what will be the next big thing in DocOps, AI-assisted documentation, AI-inf
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

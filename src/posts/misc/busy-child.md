@@ -84,10 +84,7 @@ Finally, just imagine those remixed cultural artifacts eventually going viral on
   
 Enable 3rd party cookies or use another browserPlace your bets…
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [https://fudge.org/archive/esteem-stem-ethics-empathy/](https://fudge.org/archive/esteem-stem-ethics-empathy/)
 

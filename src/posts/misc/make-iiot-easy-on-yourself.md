@@ -82,10 +82,7 @@ Repo: [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 > *🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.*
 
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read [What is Industry 4.0?](https://www.epicor.com/en-us/blog/learn/what-is-industry-4-0/)
 

@@ -91,6 +91,3 @@ My typing abilities are recovering well and I managed to type up most of this is
 
 I need to [keep testing](https://gist.github.com/JayCuthrell/2118975fdd255bd23b73bd39a02ab2ac) but might use a private LLM to get into the weeds a bit more.
 
-# Disclosure
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

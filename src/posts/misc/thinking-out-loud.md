@@ -86,9 +86,7 @@ What's the probability that 2024 will be the year I decide to do something meani
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

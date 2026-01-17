@@ -63,9 +63,7 @@ So, what will be the next big thing for fuzzing in platform platform engineering
 
 Until then… Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^fuzzing]: [The OWASP® Foundation definition of fuzzing](https://owasp.org/www-community/Fuzzing) 
 🤓

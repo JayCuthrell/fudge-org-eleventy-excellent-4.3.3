@@ -90,9 +90,7 @@ Now... What will be my prediction next week for 2023?
 
 Until then... Place your bets!
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^0]: See also [https://buttondown.email/pricing](https://buttondown.email/pricing)
 [^1]: to be fair, these are much much larger communities than the Fudge Sunday newsletter readership

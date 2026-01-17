@@ -102,6 +102,4 @@ Granted, I’ve been using social media since it came into existence and this wi
 
 So, my use of Twitter and LinkedIn will likely be very different in 2022.
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

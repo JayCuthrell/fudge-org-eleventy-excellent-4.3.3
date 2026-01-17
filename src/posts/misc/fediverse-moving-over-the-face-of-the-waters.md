@@ -94,9 +94,7 @@ Until then... Place your bets!
 
 ![birds](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/bd8b355d-a3dd-4a53-b867-75e420dbb438.jpg)
 
-# Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^1]: At the time I wasn't planning to attempt this migration before the next issue of Fudge Sunday but here we are.
 

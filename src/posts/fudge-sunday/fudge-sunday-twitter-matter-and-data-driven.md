@@ -112,6 +112,4 @@ A visual timeline of the world’s most media-inflamed fears aka Mountains Out o
 
 As always, tune in again next week as I continue to attempt sharing some (cultured) pearls of *wisdom*.
 
- **Disclosure**
-
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+ 

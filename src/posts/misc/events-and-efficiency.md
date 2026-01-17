@@ -93,9 +93,7 @@ What's the probability of an industry-altering technology emerging that will fun
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

@@ -100,9 +100,7 @@ What will be the next big thing in GenAI, hot takes, BYOAI, and punditry?
 
 Until then... place your bets.
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 ***
 

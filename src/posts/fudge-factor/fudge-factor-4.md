@@ -100,6 +100,4 @@ Later this year, the International Telemetry Conference (ITC) 2024 [^itc] takes 
 
 > At just under 1200 words, that's all this week. 🤓
 
-## Disclosure
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

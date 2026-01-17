@@ -78,10 +78,7 @@ After all, when my home office studio is completed with all the video accouterme
 
 
 
-Disclosure
-==========
 
-I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)Read: [~$35B in Q1 spending by hyperscale cloud service providers](https://www.wsj.com/articles/amazon-microsoft-google-strengthen-grip-on-cloud-11657018980)
 
