@@ -1,36 +1,52 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Content Manager</title>
+  
+  <script>window.CMS_MANUAL_INIT = true;</script>
+  <script src="https://unpkg.com/decap-cms@^3.10.0/dist/decap-cms.js"></script>
+</head>
 <body>
   <script>
-    window.CMS_MANUAL_INIT = true;
-  </script>
-  
-  <script src="https://unpkg.com/decap-cms@^3.10.0/dist/decap-cms.js"></script>
-  
-  <script>
-    CMS.init({
-      config: {
-        backend: {
-          name: 'github',
-          repo: 'jaycuthrell/fudge-org-eleventy-excellent-4.3.3',
-          branch: 'main',
-          base_url: 'https://fudge.org',    // This forces the domain
-          auth_endpoint: 'auth-gate/auth'   // This forces the path
-        },
-        media_folder: "src/assets/images",
-        public_folder: "/assets/images",
-        collections: [
-          {
-            name: "fudge_factor",
-            label: "Fudge Factor",
-            folder: "src/posts/fudge-factor",
-            create: true,
-            slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
-            fields: [
-              { label: "Title", name: "title", widget: "string" },
-              { label: "Body", name: "body", widget: "markdown" }
-            ]
-          }
-        ]
-      }
+    // FIX 1: Wait for the page to load so 'document.body' exists
+    document.addEventListener('DOMContentLoaded', function() {
+      
+      CMS.init({
+        // FIX 2: Ignore the remote file to prevent "Duplicate Collection" errors
+        load_config_file: false,
+        
+        config: {
+          backend: {
+            name: 'github',
+            repo: 'jaycuthrell/fudge-org-eleventy-excellent-4.3.3',
+            branch: 'main',
+            base_url: 'https://fudge.org',    
+            auth_endpoint: 'auth-gate/auth'   
+          },
+          media_folder: "src/assets/images",
+          public_folder: "/assets/images",
+          collections: [
+            {
+              name: "fudge_factor",
+              label: "Fudge Factor",
+              folder: "src/posts/fudge-factor",
+              create: true,
+              slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+              fields: [
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Publish Date", name: "date", widget: "datetime" },
+                { label: "Description", name: "description", widget: "string" },
+                { label: "Layout", name: "layout", widget: "hidden", default: "post" },
+                { label: "Tags", name: "tags", widget: "list", default: ["Fudge Factor"] },
+                { label: "Body", name: "body", widget: "markdown" }
+              ]
+            }
+          ]
+        }
+      });
     });
   </script>
 </body>
+</html>
