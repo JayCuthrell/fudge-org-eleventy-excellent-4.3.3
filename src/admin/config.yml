@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: jaycuthrell/fudge-org-eleventy-excellent-4.3.3
+  repo: JayCuthrell/fudge-org-eleventy-excellent-4.3.3
   branch: main
   # These two lines tell the CMS to use your new Auth Gate endpoint
   base_url: https://fudge.org
