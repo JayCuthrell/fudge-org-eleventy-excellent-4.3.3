@@ -10,29 +10,28 @@
 </head>
 <body>
   <script>
-    // FIX 1: Wait for the page to load so 'document.body' exists
     document.addEventListener('DOMContentLoaded', function() {
-      
       CMS.init({
-        // FIX 2: Ignore the remote file to prevent "Duplicate Collection" errors
-        load_config_file: false,
+        load_config_file: false, // This tries to stop the file load
         
         config: {
           backend: {
             name: 'github',
             repo: 'jaycuthrell/fudge-org-eleventy-excellent-4.3.3',
             branch: 'main',
-            base_url: 'https://fudge.org',    
-            auth_endpoint: 'auth-gate/auth'   
+            base_url: 'https://fudge.org',
+            auth_endpoint: 'auth-gate/auth'
           },
           media_folder: "src/assets/images",
           public_folder: "/assets/images",
           collections: [
             {
-              name: "fudge_factor",
+              // CHANGE 1: We rename this to bypass the "Duplicate" error
+              name: "fudge_content", 
               label: "Fudge Factor",
               folder: "src/posts/fudge-factor",
               create: true,
+              // CHANGE 2: We restored the correct slug variable
               slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
               fields: [
                 { label: "Title", name: "title", widget: "string" },
