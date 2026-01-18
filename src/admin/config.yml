@@ -1,0 +1,36 @@
+# src/admin/config.yml
+
+backend:
+  name: github
+  repo: JayCuthrell/fudge-org-eleventy-excellent-4.3.3
+  branch: main
+
+media_folder: "src/assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "fudge_factor"
+    label: "Fudge Factor"
+    # Content will be saved in this specific folder
+    folder: "src/posts/fudge-factor" 
+    create: true
+    # This determines the filename in GitHub: e.g., 2025-12-11-fudge-factor-returns.md
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      # This adds the permalink field to your front matter automatically
+      - label: "Permalink"
+        name: "permalink"
+        widget: "string"
+        default: "/archive/{{slug}}/"
+        hint: "Example: /archive/my-post-title/"
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      # We use a hidden field for the layout since it's consistent
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      # We pre-set the 'Fudge Factor' tag as requested
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["Fudge Factor"]
+      - { label: "Body", name: "body", widget: "markdown" }
