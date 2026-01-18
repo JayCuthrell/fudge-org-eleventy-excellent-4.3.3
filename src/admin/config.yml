@@ -2,8 +2,11 @@
 
 backend:
   name: github
-  repo: JayCuthrell/fudge-org-eleventy-excellent-4.3.3
+  repo: jaycuthrell/fudge-org-eleventy-excellent-4.3.3
   branch: main
+  # These two lines tell the CMS to use your new Auth Gate
+  base_url: https://fudge.org
+  auth_endpoint: auth-gate
 
 media_folder: "src/assets/images"
 public_folder: "/assets/images"
