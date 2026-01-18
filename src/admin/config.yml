@@ -5,7 +5,8 @@ backend:
   repo: jaycuthrell/fudge-org-eleventy-excellent-4.3.3
   branch: main
   # These two lines tell the CMS to use your new Auth Gate
-  base_url: https://fudge.org
+  # removing base url to see if this is causing issues
+  # base_url: https://fudge.org
   auth_endpoint: auth-gate/auth
 
 media_folder: "src/assets/images"
