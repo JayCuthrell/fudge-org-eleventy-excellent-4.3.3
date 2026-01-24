@@ -1,8 +1,9 @@
 ---
 date: 2013-09-07 00:00:00+00:00
-description: ''
+description: 'VCE year 3'
 permalink: /archive/my-third-year-at-vce/
 title: My Third Year at VCE
+tags: [VCE and Dell]
 ---
 
 

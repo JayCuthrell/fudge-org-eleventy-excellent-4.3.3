@@ -1,8 +1,9 @@
 ---
 date: 2020-10-08 00:00:00+00:00
-description: ''
-permalink: /archive/my-tenth-year-at-dell-technologies/
+description: 'VCE year 10'
+permalink: /archive/my-tenth-year-at-vce/
 title: My Tenth Year at Dell Technologies
+tags: [VCE and Dell]
 ---
 
 In perhaps the last in a series of such posts, the traditional one year blog post continues. The year since my last work related update would best be described as several doors closing and several doors opening.

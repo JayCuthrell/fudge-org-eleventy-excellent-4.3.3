@@ -1,8 +1,9 @@
 ---
 date: 2012-10-15 00:00:00+00:00
-description: ''
+description: 'VCE year 2'
 permalink: /archive/my-second-year-at-vce/
 title: My Second Year at VCE
+tags: [VCE and Dell]
 ---
 
 > *You are witnessing the transformation of an entire industry.*

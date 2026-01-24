@@ -1,8 +1,9 @@
 ---
 date: 2011-10-18 00:00:00+00:00
-description: ''
+description: 'VCE year 1'
 permalink: /archive/my-first-year-at-vce/
 title: My First Year at VCE
+tags: [VCE and Dell]
 ---
 
 *“We eat change for breakfast, lunch, dinner, and snacks in between” — VCE team ethos*

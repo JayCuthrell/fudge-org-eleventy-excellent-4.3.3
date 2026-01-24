@@ -1,8 +1,9 @@
 ---
 date: 2014-10-18 00:00:00+00:00
-description: ''
+description: 'VCE year 4'
 permalink: /archive/my-fourth-year-at-vce/
 title: My Fourth Year at VCE
+tags: [VCE and Dell]
 ---
 
 Today is my four year mark with VCE.

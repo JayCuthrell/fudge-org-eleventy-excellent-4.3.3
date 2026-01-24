@@ -1,8 +1,9 @@
 ---
 date: 2015-10-17 00:00:00+00:00
-description: Thoughts on my 5th year at VCE
+description: "Thoughts on my 5th year at VCE"
 permalink: /archive/my-fifth-year-at-vce/
-title: My Fifth Year at VCE
+title: "My Fifth Year at VCE"
+tags: [VCE and Dell]
 ---
 
 

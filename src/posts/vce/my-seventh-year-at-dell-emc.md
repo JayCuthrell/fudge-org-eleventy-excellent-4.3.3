@@ -1,7 +1,9 @@
 ---
 title: "My Seventh Year at Dell EMC"
-description: ''
+description: 'VCE year 7'
 date: 2017-10-18 00:00:00+00:00
+permalink: /archive/my-seventh-year-at-vce/
+tags: [VCE and Dell]
 ---
 
 I started this post ten days ago. The year since my last work related update has been packed with integration activity, organizational changes, epiphanies, and a fair amount of travel.

@@ -3,6 +3,7 @@ date: 2010-10-18 00:00:00+00:00
 description: Here comes Acadia
 permalink: /archive/private-clouds-ahead/
 title: Private Clouds Ahead
+tags: [VCE and Dell]
 ---
 
 I have an announcement to make…

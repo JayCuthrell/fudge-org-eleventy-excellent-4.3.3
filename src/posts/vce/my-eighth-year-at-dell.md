@@ -1,7 +1,9 @@
 ---
 title: "My Eighth Year at Dell"
-description: ''
+description: 'VCE year 8'
 date: 2018-10-08 00:00:00+00:00
+permalink: /archive/my-eighth-year-at-vce/
+tags: [VCE and Dell]
 ---
 
 The traditional one year blog post continues. The year since my last work related update would best be described as a time of great changes.
