@@ -32,6 +32,6 @@ The most exciting part? It keeps my face out of a screen. We could all use a "we
 
 ## The Provocative Path
 
-Some might use this as the opposite of a podcast—recording audio to get text. If I wanted to be provocative, I could take the resulting text, use a trained facsimile of my voice, and create an artificial recording of me reading the post I just spoke into existence.
+Some might consider this to be the opposite of a podcast because it is recording *audio* to get *text*. However, if I *wanted* to be provocative, I could take the resulting text, use a trained facsimile of my voice, and create an artificial recording of me reading the post I just spoke into existence.
 
-I don't think I’m quite there yet. Capturing my specific inflections and mannerisms would require significant training against my video and audio archives. It’s on the list of things to try, but let’s be clear: I haven't uploaded my consciousness to the cloud. That trope, and that dog, won't hunt. At least not for now.
+I don't think I’m quite there yet. Capturing my specific inflections and mannerisms would require significant training against my video and audio archives. It’s on the list of things to try, but let’s be clear: I haven't uploaded my consciousness to the cloud. That trope, and that dog, won't hunt. At least *not yet*.
