@@ -16,6 +16,7 @@ src/_includes/scripts/*.js
 # other
 .DS_Store
 .vscode
+.obsidian
 
 # python env
 .venv
