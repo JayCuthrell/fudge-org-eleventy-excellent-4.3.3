@@ -19,9 +19,10 @@
             name: 'github',
             repo: 'JayCuthrell/fudge-org-eleventy-excellent-4.3.3',
             branch: 'main',
-            // REMOVE base_url completely!
-            // Put the FULL absolute URL here instead:
-            auth_endpoint: 'https://fudge.org/auth-gate/auth'
+            // The Bulletproof Auth Routing:
+            base_url: 'https://fudge.org',
+            auth_endpoint: 'auth-gate/auth',
+            api_root: 'https://api.github.com' // THIS prevents the <DOCTYPE> crash
           },
           media_folder: "src/assets/images",
           public_folder: "/assets/images",
