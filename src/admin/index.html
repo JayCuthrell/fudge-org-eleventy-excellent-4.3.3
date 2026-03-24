@@ -22,7 +22,8 @@
             // The Bulletproof Auth Routing:
             base_url: 'https://fudge.org',
             auth_endpoint: 'auth-gate/auth',
-            api_root: 'https://api.github.com' // THIS prevents the <DOCTYPE> crash
+            api_root: 'https://api.github.com', // THIS prevents the <DOCTYPE> crash
+            use_graphql: false // <-- THIS BYPASSES THE ERROR
           },
           media_folder: "src/assets/images",
           public_folder: "/assets/images",
