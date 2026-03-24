@@ -11,16 +11,16 @@
 <body>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      // 2. Sveltia uses the exact same CMS.init object!
       CMS.init({
-        load_config_file: false, 
-        
         config: {
+          // THIS line must be inside the config object!
+          load_config_file: false, 
+          
           backend: {
             name: 'github',
             repo: 'JayCuthrell/fudge-org-eleventy-excellent-4.3.3',
             branch: 'main'
-            // base_url and auth_endpoint have been intentionally deleted!
+            // No base_url or auth_endpoint needed for Sveltia!
           },
           media_folder: "src/assets/images",
           public_folder: "/assets/images",
