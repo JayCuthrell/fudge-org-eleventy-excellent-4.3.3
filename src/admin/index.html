@@ -6,35 +6,30 @@
   <title>fudge.org Content Manager</title>
   
   <script>window.CMS_MANUAL_INIT = true;</script>
-  <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
+  <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
 </head>
 <body>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
+      // 2. Sveltia uses the exact same CMS.init object!
       CMS.init({
-        load_config_file: false, // This tries to stop the file load
+        load_config_file: false, 
         
         config: {
           backend: {
             name: 'github',
             repo: 'JayCuthrell/fudge-org-eleventy-excellent-4.3.3',
-            branch: 'main',
-            // The Bulletproof Auth Routing:
-            base_url: 'https://fudge.org',
-            auth_endpoint: 'auth-gate/auth',
-            api_root: 'https://api.github.com', // THIS prevents the <DOCTYPE> crash
-            use_graphql: false // <-- THIS BYPASSES THE ERROR
+            branch: 'main'
+            // base_url and auth_endpoint have been intentionally deleted!
           },
           media_folder: "src/assets/images",
           public_folder: "/assets/images",
           collections: [
             {
-              // CHANGE 1: We rename this to bypass the "Duplicate" error
               name: "fudge_content", 
               label: "Fudge Factor",
               folder: "src/posts/fudge-factor",
               create: true,
-              // CHANGE 2: We restored the correct slug variable
               slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
               fields: [
                 { label: "Title", name: "title", widget: "string" },
