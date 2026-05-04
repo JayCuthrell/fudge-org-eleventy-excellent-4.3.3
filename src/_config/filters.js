@@ -6,11 +6,13 @@ import {splitlines} from './filters/splitlines.js';
 import {striptags} from './filters/striptags.js';
 import {slugifyString} from './filters/slugify.js';
 import { splitTitle } from './filters/split-title.js';
+import { base64 } from './filters/base64.js';
 
 export default {
   toISOString,
   formatDate,
   markdownFormat,
+  base64,
   splitlines,
   striptags,
   shuffleArray,

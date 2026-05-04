@@ -23,6 +23,20 @@ eleventyExcludeFromCollections: true
   xmlns:xlink="http://www.w3.org/1999/xlink"
 >
   <defs>
+    <style>
+      @font-face {
+        font-family: 'Red Hat Display';
+        font-style: normal;
+        font-weight: 900;
+        src: url(data:font/woff2;charset=utf-8;base64,{{ 'src/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2' | base64 }}) format('woff2');
+      }
+      @font-face {
+        font-family: 'Atkinson Hyperlegible';
+        font-style: normal;
+        font-weight: 600;
+        src: url(data:font/woff2;charset=utf-8;base64,{{ 'src/assets/fonts/atkinson/atkinson-hyperlegible-bold.woff2' | base64 }}) format('woff2');
+      }
+    </style>
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
       <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.25"/>
     </filter>
