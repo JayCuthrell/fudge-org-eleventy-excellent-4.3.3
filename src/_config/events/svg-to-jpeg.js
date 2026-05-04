@@ -28,21 +28,28 @@ export const svgToJpeg = async () => {
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
 
-  for (const filename of svgFiles) {
+ for (const filename of svgFiles) {
     const outputFilename = filename.substring(0, filename.length - 4);
     const jpegPath = path.join(ogImagesOutputDir, `${outputFilename}.jpeg`);
 
     if (!existsSync(jpegPath)) {
       const page = await browser.newPage();
-      await page.setViewport({ width: 1200, height: 630 });
+      
+      // We can also bump the deviceScaleFactor to 2 for crispier text rendering
+      await page.setViewport({ width: 1200, height: 630, deviceScaleFactor: 1 });
       
       const svgPath = path.resolve(ogImagesSourceDir, filename);
-      await page.goto(`file://${svgPath}`);
+      
+      // 1. Tell Puppeteer to wait until the network is completely idle
+      await page.goto(`file://${svgPath}`, { waitUntil: 'networkidle0' });
+
+      // 2. Force a tiny 150ms delay to ensure Chromium has fully painted the fonts and SVG filters
+      await new Promise((resolve) => setTimeout(resolve, 150));
 
       await page.screenshot({
         path: jpegPath,
         type: 'jpeg',
-        quality: 80,
+        quality: 90, // Bumped quality slightly to prevent artifacting around the red text
       });
 
       console.log(`✅ Converted ${filename} to JPEG.`);
