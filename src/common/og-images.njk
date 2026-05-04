@@ -72,7 +72,7 @@ eleventyExcludeFromCollections: true
     font-weight="900"
     fill="#FFFFFF"
     letter-spacing="-1"
-    filter="url(#shadow)"
+    text-rendering="geometricPrecision" filter="url(#shadow)"
   >
     {% for line in titleInLines %}
       <tspan x="150" y="{{ 260 + loop.index0 * 95 }}">{{ line }}</tspan>
