@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-12-10"
 permalink: "/archive/hot-takes-tuesday-for-2024-12-10/"
 description: "Two hot takes on investments in the $40M range!"
 date: 2024-12-11 05:54:08.765056+00:00
+tags: [quantum]
 ---
 
 

@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-09-06"
 permalink: "/archive/sneak-peak-saturday-for-2025-09-06/"
 description: "Dreaming big with $600B"
 date: 2025-09-06
+tags: [quantum]
 ---
 
 Sometimes, $600B just comes out in polite conversation. Twice?

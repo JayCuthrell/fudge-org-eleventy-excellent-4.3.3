@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-09-02"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-02/"
 description: "Funding hauls for AI, electronics, and quantum -- then some tech fun"
 date: 2025-09-02
+tags: [quantum]
 ---
 
 First funding… and then something fun.

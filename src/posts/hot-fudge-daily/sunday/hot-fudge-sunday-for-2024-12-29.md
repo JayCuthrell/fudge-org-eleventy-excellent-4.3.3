@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2024-12-29"
 permalink: "/archive/hot-fudge-sunday-for-2024-12-29/"
 description: "This week, I&#39;m spotlighting talented professionals who are #OpenToWork. Hire Them!"
 date: 2024-12-29 17:05:00+00:00
+tags: [quantum]
 ---
 
 

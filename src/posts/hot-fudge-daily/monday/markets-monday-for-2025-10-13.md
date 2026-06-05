@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-10-13"
 permalink: "/archive/markets-monday-for-2025-10-13/"
 description: "A broad rally in quantum, digital currency, semiconductors, and energy"
 date: 2025-10-13
+tags: [quantum]
 ---
 
 My screener is getting closer to my legacy Yahoo version (51 stocks!). Today saw a significant rally across several key technology sectors. Quantum computing, digital currency miners, semiconductors, and energy technology were the standout themes, with numerous companies posting significant gains.

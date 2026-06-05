@@ -2,6 +2,7 @@
 title: "MACH Alliance March"
 description: 'A look back at the MACH Alliance and the future ahead'
 date: 2024-03-22
+tags: [quantum]
 ---
 
 

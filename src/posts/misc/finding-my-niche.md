@@ -2,6 +2,7 @@
 title: "Finding My Niche"
 description: 'A look at newsletter specialization ideation with JupyterLab'
 date: 2024-07-21
+tags: [quantum]
 ---
 
 This week we take a look at newsletter specialization ideation as a JupyterLab exercise.

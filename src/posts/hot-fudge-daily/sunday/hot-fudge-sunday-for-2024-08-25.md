@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2024-08-25"
 permalink: "/archive/hot-fudge-sunday-for-2024-08-25/"
 description: "Tech market analysis, AI funding, M&amp;A trends, Slack community links, encryption throwbacks, and upcoming tech events."
 date: 2024-08-25 13:30:00+00:00
+tags: [quantum]
 ---
 
 

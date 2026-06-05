@@ -2,6 +2,7 @@
 title: "SXSW 2024 Days 4-9"
 description: 'My end of day notes from SXSW 2024 Days 4-9'
 date: 2024-03-17
+tags: [quantum]
 ---
 
 

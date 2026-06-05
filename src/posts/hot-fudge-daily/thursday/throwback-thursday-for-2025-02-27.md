@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-02-27"
 permalink: "/archive/throwback-thursday-for-2025-02-27/"
 description: "This week highlights AWS Ocelot quantum chip, echoing Microsoft Majorana quantum chip news."
 date: 2025-02-28 02:03:33.193598+00:00
+tags: [quantum]
 ---
 
 One headline for a Thursday Throwback caught my eye.

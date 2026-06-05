@@ -2,6 +2,7 @@
 title: "Sprawl Walk Run"
 description: "Part 1: A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
 date: 2024-06-30
+tags: [quantum]
 ---
 
 This week we take a look at silo spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.

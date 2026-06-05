@@ -1,7 +1,8 @@
 ---
 title: "Quaterly Roundup Edition"
-description: ''
+description: 'DevEx deals a plenty'
 date: 2023-03-26 23:34:56.390000+00:00
+tags: [quantum]
 ---
 
  

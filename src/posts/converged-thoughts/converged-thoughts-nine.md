@@ -3,6 +3,7 @@ date: 2017-01-06 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-nine/
 title: Converged Thoughts Nine
+tags: [quantum]
 ---
 
 Yesterday, I had my first immersive VR experience. It was the total package. Headgear. Trackers. Haptics. Consoles. Rigs. Probiotic Yogurt. Honestly, I’m not sure why I waited so long to try this. Yes, my mind was suitably blown. Let’s start the digesting…

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-12-23"
 permalink: "/archive/markets-monday-for-2024-12-23/"
 description: "This week&#39;s Market Monday highlights my latest stock insights from Yahoo Finance&#39;s new layout."
 date: 2024-12-24 06:01:53.357486+00:00
+tags: [quantum]
 ---
 
 

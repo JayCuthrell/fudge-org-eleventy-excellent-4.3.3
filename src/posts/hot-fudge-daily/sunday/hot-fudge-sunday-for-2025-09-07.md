@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-07"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-07/"
 description: "AI in agriculture, tech, art, science, and more"
 date: 2025-09-07
+tags: [quantum]
 ---
 
 ## Last Week

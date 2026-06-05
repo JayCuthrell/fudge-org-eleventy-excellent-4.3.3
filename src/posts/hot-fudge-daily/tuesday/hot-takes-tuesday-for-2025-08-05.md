@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-08-05"
 permalink: "/archive/hot-takes-tuesday-for-2025-08-05/"
 description: "AI and quantum computing funding continues the trend"
 date: 2025-08-05
+tags: [quantum]
 ---
 
 💰 Funding for AI and quantum computing companies continues to be a trend.

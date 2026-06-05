@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-02-23"
 permalink: "/archive/hot-fudge-sunday-for-2025-02-23/"
 description: "This week&#39;s edition highlights top professionals #OpenToWork and stories worth following"
 date: 2025-02-24 01:30:00+00:00
+tags: [quantum]
 ---
 
 

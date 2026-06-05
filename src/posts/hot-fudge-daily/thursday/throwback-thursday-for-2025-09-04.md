@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-09-04"
 permalink: "/archive/throwback-thursday-for-2025-09-04/"
 description: "Quantum Computing via the Quantinuum lens"
 date: 2025-09-04
+tags: [quantum]
 ---
 
 It's time for a look at quantum computing again through the lens of Quantinuum.

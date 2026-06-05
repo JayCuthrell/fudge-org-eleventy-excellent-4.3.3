@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-12-04"
 permalink: "/archive/throwback-thursday-for-2025-12-04/"
 description: "Quantum supremacy, Let's Encrypt, and long haul in flight WiFi"
 date: 2025-12-04
+tags: [quantum]
 ---
 
 ### 5 Years Ago: [December 4, 2020](https://www.techmeme.com/201204/h2355)

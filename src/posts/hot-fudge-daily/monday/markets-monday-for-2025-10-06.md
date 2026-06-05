@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-10-06"
 permalink: "/archive/markets-monday-for-2025-10-06/"
 description: "AI, chips, quantum, comms, and digital currency"
 date: 2025-10-06
+tags: [quantum]
 ---
 
 🤖 🍪 🛰️ ₿ On Monday, the market moved once again for all things AI, chips, quantum, communications, and digital currency.

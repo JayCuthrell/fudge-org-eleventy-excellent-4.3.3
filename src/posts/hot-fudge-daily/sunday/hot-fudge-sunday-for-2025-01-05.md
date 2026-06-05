@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-01-05"
 permalink: "/archive/hot-fudge-sunday-for-2025-01-05/"
 description: "This week, I spotlight talented professionals in my network who are #OpenToWork, sharing their LinkedIn profiles!"
 date: 2025-01-06 00:55:19.039880+00:00
+tags: [quantum]
 ---
 
 

@@ -3,6 +3,7 @@ date: 2019-03-04 05:25:03+00:00
 description: ''
 permalink: /archive/fudge-sunday-quantum-leap-years/
 title: Fudge Sunday - Quantum Leap Years
+tags: [quantum]
 ---
 
 The topic of [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) has steadily moved towards the realm of popular science. As with many other topics within popular science, wider audiences will have varying degrees of awareness and depth – but recognition is certainly on the rise.
