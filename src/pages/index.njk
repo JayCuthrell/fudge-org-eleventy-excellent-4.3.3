@@ -48,28 +48,33 @@ blog:
   <section class="full | region">
     <div class="wrapper flow prose">
       <div class="feature |  region region-space-l">
+        
+        {% set itemList = collections.allPosts %}
+        
+        <!-- AEO/SEO: ItemList Schema -->
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          "itemListElement": [
+            {% set schemaList = collections.allPosts %}
+            {% for item in schemaList.slice(0, 10) %}
+            {
+              "@type": "ListItem",
+              "position": {{ loop.index }},
+              "url": "{{ item.url | absoluteUrl(meta.url) }}"
+            }{% if not loop.last %},{% endif %}
+            {% endfor %}
+          ]
+        }
+        </script>
+
+        <!-- Visual Grid Layout -->
         <custom-masonry layout="50-50">
-          {% set itemList = collections.allPosts %}
-          <script type="application/ld+json">
-          {
-            "@context": "https://schema.org",
-            "@type": "ItemList",
-            "itemListElement": [
-              {% set schemaList = collections.allPosts %}
-              {% for item in schemaList.slice(0, 2) %}
-              {
-                "@type": "ListItem",
-                "position": {{ loop.index }},
-                "url": "{{ item.url | absoluteUrl(meta.url) }}"
-              }{% if not loop.last %},{% endif %}
-              {% endfor %}
-            ]
-          }
-          </script>
-					{% asyncEach item in itemList.slice(0, 2) %}
+          {% asyncEach item in itemList.slice(0, 10) %}
             {% set headingLevel = "h3" %}
-						{% include "partials/card-blog.njk" %}
-					{% endeach %}
+            {% include "partials/card-blog.njk" %}
+          {% endeach %}
         </custom-masonry>
           <hr>
           <a href="{{ meta.url }}">{{meta.siteName}}</a> has been many things over the years as an archive of writing from <a href="{{ meta.author.website }}">{{ meta.author.name }}</a> since the late 1990s. The latest version of <a href="{{ meta.url }}">{{meta.siteName}}</a> is based on an amazing starter called <a href="https://github.com/madrilene/eleventy-excellent">Eleventy Excellent</a> by <a href="https://www.lenesaile.com/en/">Lene Saile</a>.  
