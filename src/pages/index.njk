@@ -50,7 +50,23 @@ blog:
       <div class="feature |  region region-space-l">
         <custom-masonry layout="50-50">
           {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 2) %}
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": [
+              {% set schemaList = collections.allPosts %}
+              {% for item in schemaList.slice(0, 10) %}
+              {
+                "@type": "ListItem",
+                "position": {{ loop.index }},
+                "url": "{{ item.url | absoluteUrl(meta.url) }}"
+              }{% if not loop.last %},{% endif %}
+              {% endfor %}
+            ]
+          }
+          </script>
+					{% asyncEach item in itemList.slice(0, 10) %}
             {% set headingLevel = "h3" %}
 						{% include "partials/card-blog.njk" %}
 					{% endeach %}

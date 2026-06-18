@@ -12,8 +12,14 @@
 <meta name="theme-color" content="{{ meta.themeDark }}" media="(prefers-color-scheme: dark)" />
 <meta name="theme-color" content="{{ meta.themeLight }}" media="(prefers-color-scheme: light)" />
 <!-- Search Engines -->
-<meta name="robots" content="index,follow" />
-<meta name="googlebot" content="index,follow" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="googlebot" content="index, follow" />
+<!-- RIP Fail Whale -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{%- if discover.title -%}{{- discover.title -}}{%- elif title -%}{{- title -}}{%- else -%}{{- meta.siteName -}}{%- endif -%}" />
+<meta name="twitter:description" content="{{ metaDescription }}" />
+<meta name="twitter:image" content="{%- if layout == 'post' -%}{{- meta.url -}}/assets/og-images/{{ title | slugify }}-preview.jpeg{%- else -%}{{- meta.url -}}{{- meta.opengraph_default -}}{%- endif -%}" />
+<meta name="twitter:image:alt" content="{%- if layout == 'post' -%}{{- title -}}{%- else -%}{{- meta.opengraph_default_alt -}}{%- endif -%}" />
 <!-- Made with Eleventy! -->
 <meta name="generator" content="{{ eleventy.generator }}" />
 <!-- Disable automatic detection and formatting of possible phone numbers -->

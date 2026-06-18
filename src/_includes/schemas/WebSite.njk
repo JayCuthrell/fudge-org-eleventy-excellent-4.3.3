@@ -8,7 +8,16 @@
         "url": "{{ meta.url }}",
         "name": "{{ meta.siteName }}",
         "description": "{{ meta.siteDescription }}",
-        "inLanguage": "{{ meta.locale }}"
+        "inLanguage": "en-US",
+        "publisher": {
+          "@id": "{{ meta.url }}#person"
+        }
+      },
+      {
+        "@type": "Person",
+        "@id": "{{ meta.url }}#person",
+        "name": "{{ meta.author.name }}",
+        "url": "{{ meta.author.website }}"
       }
     ]
   }
