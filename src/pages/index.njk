@@ -56,7 +56,7 @@ blog:
             "@type": "ItemList",
             "itemListElement": [
               {% set schemaList = collections.allPosts %}
-              {% for item in schemaList.slice(0, 10) %}
+              {% for item in schemaList.slice(0, 2) %}
               {
                 "@type": "ListItem",
                 "position": {{ loop.index }},
@@ -66,7 +66,7 @@ blog:
             ]
           }
           </script>
-					{% asyncEach item in itemList.slice(0, 10) %}
+					{% asyncEach item in itemList.slice(0, 2) %}
             {% set headingLevel = "h3" %}
 						{% include "partials/card-blog.njk" %}
 					{% endeach %}
