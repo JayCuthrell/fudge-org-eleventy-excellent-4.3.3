@@ -16,7 +16,9 @@ permalink: 'archive/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNum
 
     {% svg "divider/waves", null, "divider" %}
   </header>
-
+<div class="region">
+    {% include "partials/subscription-card.njk" %}
+</div>
 <div class="region flow">
   <div id="search" class="search-ui"></div>
 </div>

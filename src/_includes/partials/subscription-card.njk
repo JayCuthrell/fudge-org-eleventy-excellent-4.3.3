@@ -1,0 +1,50 @@
+{# 
+  =============================================================================
+  PARTIAL: Subscribe Form with Listmonk & Altcha CAPTCHA Protection
+  =============================================================================
+  Assumptions: 
+  - Listmonk Root URL is https://lists.fudge.org
+  - The styling follows the Eleventy Excellent utility classes (flow, cluster, button)
+  
+  Usage in standard layout:
+    {% include "partials/subscribe.njk" %}
+    
+  Usage if embedding multiple times on the same page (e.g., in a footer):
+    {% set formId = "footer" %}
+    {% include "partials/subscribe.njk" %}
+#}
+
+{# Default to 'main' if no unique formId variable was passed in #}
+{% set uid = formId | default("main") %}
+
+<div class="subscription-card | flow">
+  <div class="subscription-card__inner">
+    
+    <div class="flow">
+      <h2 class="text-step-1">Subscribe to Fudge Factor</h2>
+      <p>Get the latest posts delivered right to your inbox.</p>
+    </div>
+    
+    <form method="post" action="https://lists.fudge.org/subscription/form" class="listmonk-form | form-group flow">
+      
+      <div class="cluster">
+        <label for="email-{{ uid }}" class="visually-hidden">Email (required)</label>
+        <input id="email-{{ uid }}" type="email" name="email" placeholder="E-mail" required class="form-input">
+        <input type="text" name="name" placeholder="Name (optional)" class="form-input">     
+      </div>
+      
+      <div class="flow">
+        <input id="list-{{ uid }}" type="checkbox" name="l" checked value="3f96e54c-4388-41c6-adb0-fb6a412197f1">
+        <label for="list-{{ uid }}">fudgefactor</label>
+        <br>
+        <span>Fudge Factor 🤔💡🤯🤓 newsletter by Jay Cuthrell</span>
+      </div>
+
+      <altcha-widget challengeurl="https://lists.fudge.org/api/public/captcha/altcha"></altcha-widget>
+      <script type="module" src="https://lists.fudge.org/public/static/altcha.umd.js" async defer></script>
+
+      <button type="submit" data-button-variant="primary" class="button">Subscribe</button>
+      
+    </form>
+  </div>
+</div>
