@@ -3,10 +3,15 @@ permalink: /humans.txt
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
+/* TEAM */
+Developer: {{ meta.creator.name }}
+Contact: {{ meta.creator.email }}
+Site: {{ meta.creator.website }}
+Last update: {{ "now" | dateToFormat("yyyy/MM/DD") }}
+{%- if meta.creator.social %}
+Profiles: {{ meta.creator.social }}
+{%- endif %}
 
-/* TEAM */ Developer: {{ meta.creator.name }} Contact: {{ meta.creator.email }} Site:
-{{ meta.creator.website }}
-{% if meta.creator.social %}
-  Find me on: {{ meta.creator.social }}
-{% endif %}
-/* SITE */ Doctype: HTML5
+/* SITE */
+Doctype: HTML5
+Software: Eleventy (11ty)
