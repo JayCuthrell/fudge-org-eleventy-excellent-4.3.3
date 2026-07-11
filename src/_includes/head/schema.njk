@@ -3,3 +3,9 @@
 {% if schema %}
   {%- include "schemas/" + schema + ".njk" -%}
 {% endif %}
+
+{% if faq %}
+<script type="application/ld+json">
+  {% include "schemas/FAQPage.njk" %}
+</script>
+{% endif %}

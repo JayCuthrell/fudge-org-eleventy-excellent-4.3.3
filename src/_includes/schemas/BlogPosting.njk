@@ -1,28 +1,29 @@
 <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "mainEntityOfPage": {
-      "@type": "WebPage"
-    },
-    "isPartOf": {
-      "@id": "{{ meta.url }}#website"
-    },
-    "@id": "{{ url }}",
-    "headline": "{{ title or meta.siteName }}",
-    "description": "{{ discover.description or description or meta.siteDescription }}",
-    "image": "{{ meta.url }}{% if discover.image %}/assets/images/{{ discover.image }}{% else %}{{ meta.opengraph_default }}{% endif %}",
-    "inLanguage": "{{ meta.locale }}",
-    "publisher": {
-      "@type": "{{ meta.siteType }}",
-      "name": "{{ meta.author.name }}",
-      "url": "{{ meta.url }}"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "{{ meta.author.name }}",
-      "url": "{{ meta.author.website }}"
-    },
-    "datePublished": "{{ date | toIsoString }}"
-  }
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ meta.url }}{{ page.url }}"
+  },
+  "headline": "{{ title | safe }}",
+  "description": "{{ description | default(meta.description) | safe }}",
+  "image": "{{ meta.url }}{{ image | default(meta.opengraph_default) }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ meta.creator.name }}",
+    "url": "https://jaycuthrell.com",
+    "jobTitle": "Technology Executive Advisor"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ meta.siteName }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ meta.url }}/assets/images/favicon/icon-192x192.png"
+    }
+  },
+  "datePublished": "{{ page.date | toIsoString }}",
+  "dateModified": "{{ (lastUpdated if lastUpdated else page.date) | toIsoString }}"
+}
 </script>

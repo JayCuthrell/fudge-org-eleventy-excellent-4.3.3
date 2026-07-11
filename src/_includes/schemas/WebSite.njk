@@ -1,24 +1,20 @@
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "WebSite",
-        "@id": "{{ meta.url }}#website",
-        "url": "{{ meta.url }}",
-        "name": "{{ meta.siteName }}",
-        "description": "{{ meta.siteDescription }}",
-        "inLanguage": "en-US",
-        "publisher": {
-          "@id": "{{ meta.url }}#person"
-        }
-      },
-      {
-        "@type": "Person",
-        "@id": "{{ meta.url }}#person",
-        "name": "{{ meta.author.name }}",
-        "url": "{{ meta.author.website }}"
-      }
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ meta.siteName }}",
+  "url": "{{ meta.url }}",
+  "description": "{{ meta.description }}",
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ meta.creator.name }}",
+    "url": "{{ meta.url }}",
+    "sameAs": [
+      "https://cuthrell.consulting",
+      "https://jaycuthrell.com",
+      "https://linkedin.com/in/jaycuthrell",
+      "https://github.com/jaycuthrell"
     ]
   }
+}
 </script>

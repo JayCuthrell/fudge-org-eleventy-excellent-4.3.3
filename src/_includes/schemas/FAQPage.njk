@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {%- for item in faq %}
+    {
+      "@type": "Question",
+      "name": "{{ item.question | safe }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ item.answer | safe }}"
+      }
+    }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ]
+}
+</script>
