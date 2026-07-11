@@ -18,6 +18,6 @@ This section lists chronologically indexed posts and thoughts.
 
 {% for page in collections.all | reverse -%}
   {%- if "/archive/" in page.url and page.url != "/archive/" -%}
-- [{{ page.data.title if page.data.title else page.fileSlug }}](https://fudge.org{{ page.url }}) - Published: {{ page.date | dateToFormat("yyyy-MM-dd") if dateToFormat else page.date.toISOString().split('T')[0] }}
+- [{{ page.data.title if page.data.title else page.fileSlug }}]({{ meta.url }}{{ page.url }}) - Published: {{ page.date | dateToFormat("yyyy-MM-dd") if dateToFormat else page.date.toISOString().split('T')[0] }}
   {% endif -%}
 {%- endfor %}
