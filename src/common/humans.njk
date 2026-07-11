@@ -7,7 +7,6 @@ excludeFromSitemap: true
 Developer: {{ meta.creator.name }}
 Contact: {{ meta.creator.email }}
 Site: {{ meta.creator.website }}
-Last update: {{ "now" | dateToFormat("yyyy/MM/DD") }}
 {%- if meta.creator.social %}
 Profiles: {{ meta.creator.social }}
 {%- endif %}
@@ -15,3 +14,4 @@ Profiles: {{ meta.creator.social }}
 /* SITE */
 Doctype: HTML5
 Software: Eleventy (11ty)
+Last update: {{ page.date.toISOString().slice(0, 10) }}
