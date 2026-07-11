@@ -3,13 +3,13 @@ permalink: /sitemap.json
 eleventyExcludeFromCollections: true
 ---
 {
-  "site": "https://fudge.org",
+  "site": "{{ meta.url }}",
   "payload_type": "AEO_GEO_Discovery_Map",
   "total_entries": {{ collections.all.length }},
   "pages": [
     {%- for page in collections.all %}
     {
-      "url": "{{ page.url | url | absoluteUrl('https://fudge.org') }}",
+      "url": "{{ page.url | url | absoluteUrl('{{ meta.url }}') }}",
       "date_isolated": "{{ page.date.toISOString() }}",
       "data_context": {
         "title": {{ page.data.title | dump | safe if page.data.title else 'null' }},
