@@ -12556,5 +12556,19 @@
       "question": "What does Faction provide for customers?",
       "answer": "Faction offers cloud locations worldwide—ranging from Portland to Sydney—that provide customers with low costs and multi-cloud service without downtime."
     }
+  ],
+  "wtf-018.md": [
+    {
+      "question": "What are the three variants of OpenAI's GPT-5.6 and what do they prioritize?",
+      "answer": "OpenAI's GPT-5.6 is available in three variants named Sol, Terra, and Luna, all of which prioritize reduced computational costs and enhanced cybersecurity."
+    },
+    {
+      "question": "What significant milestone did SK Hynix achieve in the hardware market?",
+      "answer": "SK Hynix raised over $26 billion in what is recognized as the largest-ever US market debut by a foreign company."
+    },
+    {
+      "question": "What is the focus of the growing anti-AI movement in the United States?",
+      "answer": "The growing anti-AI movement is manifesting in several US states through legislative efforts seeking moratoriums on the construction of datacenters and increased activist media coverage."
+    }
   ]
 }
