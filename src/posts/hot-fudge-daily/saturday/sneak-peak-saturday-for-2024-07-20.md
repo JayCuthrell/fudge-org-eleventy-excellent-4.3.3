@@ -3,11 +3,19 @@ title: "🔮 Sneak Peak Saturday for 2024-07-20"
 permalink: "/archive/sneak-peak-saturday-for-2024-07-20/"
 description: "Unveiling overlooked tech news with a sprinkle of satire."
 date: 2024-07-20 15:46:16.777023+00:00
+faq:
+- question: What is the purpose of the 'Sneak Peak Saturday' blog post?
+  answer: The post aims to unveil overlooked tech news from the week with a sprinkle
+    of satire, specifically focusing on stories that may have been overshadowed by
+    Friday news dumps.
+- question: Why does the author use the term 'Sneak Peak'?
+  answer: The author uses it as a play on words to highlight the practice of publishing
+    news late on Fridays in an attempt to avoid wider coverage, which the author describes
+    as 'peak patronizing publishing'.
+- question: Which specific event dominated the news cycle for the week of July 20,
+    2024?
+  answer: The week was dominated by the Crowdstrike story, which occurred on a Friday.
 ---
-
-
-
-
 # 🔮 Sneak Peak Saturday for 2024-07-20
 
 Unveiling overlooked tech news with a sprinkle of satire.

@@ -3,8 +3,18 @@ date: 2021-09-26 23:00:01+00:00
 description: ''
 permalink: /archive/fudge-sunday-razor-thin-margins-of-error-bars/
 title: Fudge Sunday - Razor Thin Margins of Error Bars
+faq:
+- question: What is the author's prediction regarding cloud egress fees?
+  answer: The author predicts that egress fees will be driven to lower prices and
+    will eventually be driven out of existence.
+- question: What security risk is mentioned regarding Docker containers?
+  answer: The author notes that cryptomining spiked Docker containers are being used
+    to ensnare less sophisticated users into becoming unwitting cryptominers.
+- question: Why is the author experimenting with a new format for the newsletter?
+  answer: The author is experimenting with a new format because their follower counts
+    have reached over 2600 on Twitter and over 3200 on LinkedIn, and they are seeking
+    feedback to see which content is more interesting to their audience.
 ---
-
 Fun fact: On this day back in 2011, then EMC CEO Joe Tucci announced he would be [stepping down later that year](https://siliconangle.com/2011/09/26/emc-ceo-joe-tucci-stepping-down/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). A few weeks later, I also published the first of what would become ten yearly blog posts detailing [my time at Acadia, VCE, EMC, Dell EMC, and Dell Technologies](https://fudge.org/archive/my-tenth-year-at-dell-technologies/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) before [joining Faction](https://fudge.org/archive/cloud-data-services-ahead/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
  **Last Week**

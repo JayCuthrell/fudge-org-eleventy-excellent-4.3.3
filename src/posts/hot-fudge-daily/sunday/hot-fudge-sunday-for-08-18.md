@@ -3,12 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2024-08-18"
 permalink: "/archive/hot-fudge-sunday-for-08-18/"
 description: "Hot Fudge Sunday - A weekly digest of markets, funding, wacky finds, and throwbacks in tech."
 date: 2024-08-18 12:55:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single URL, published every Sunday.
+- question: How does the author generate the weekly market heat map?
+  answer: The author uses the Yahoo Finance screener with specific applied filters
+    for the United States, including parameters for price change, market cap, volume,
+    and various technology-related industry sectors.
+- question: What is the purpose of the 'Throwback Thursday' section?
+  answer: Throwback Thursday looks back at prior news coverage or past predictions
+    to analyze how they have fared in the present, often utilizing Techmeme for historical
+    context.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

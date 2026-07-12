@@ -3,11 +3,21 @@ title: "🔙 Throwback Thursday for 2024-11-14"
 permalink: "/archive/throwback-thursday-for-2024-11-14/"
 description: "Exploring the evolution from cable connections to hassle-free file sharing innovations!"
 date: 2024-11-16 16:25:49.653124+00:00
+faq:
+- question: What was the original purpose of the DLNA certification introduced in
+    2008?
+  answer: The DLNA certification was meant to help untangle the growing number of
+    cables required to connect various consumer digital devices.
+- question: What is described as the modern 'cloud hassle' regarding file transfers?
+  answer: The 'cloud hassle' refers to the necessity of uploading a file over a network
+    to a public cloud target simply so that another device can download it from that
+    same target.
+- question: Which tools are mentioned as cloud-hassle-free alternatives for sharing
+    files?
+  answer: ShareIt, which relies on ad hoc Wi-Fi hotspot creation, and LiveDrop, which
+    leverages innovations in computer vision, are both presented as cloud-hassle-free
+    options.
 ---
-
-
-
-
 Back in 2008, the [Digital Living Network Alliance (DLNA) certification](https://www.techmeme.com/080527/p118#a080527p118) was meant to help untangle the growing number of cables required to connect various consumer digital devices. Then, a few years later, Apple had released [AirDrop](https://www.techmeme.com/110224/p27#a110224p27).
 
 By 2014, “[Kiss Connectivity](https://www.techmeme.com/141114/p2#a141114p2)” was envisioned as an end to the need for the various cables needed to connect devices for basic file transfers. Next, less than 4 years ago, Google Android responded with [Nearby Share](https://www.techmeme.com/200804/p22#a200804p22).

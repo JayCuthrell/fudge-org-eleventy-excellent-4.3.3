@@ -3,8 +3,18 @@ date: 2021-11-14 23:37:06+00:00
 description: ''
 permalink: /archive/fudge-sunday-three-recommendations-walk-into-a-bar/
 title: Fudge Sunday - Three recommendations walk into a bar...
+faq:
+- question: What is Lunchclub and how does it help with professional networking?
+  answer: Lunchclub is a service that makes introductions for 1:1 video meetings based
+    on a user's interests, subject matter topics, and professional goals.
+- question: Why does the author recommend the PreSales Collective Podcast?
+  answer: The author recommends it because it offers insights into the Sales Engineering
+    (SE) role and helps listeners understand recent SE trends.
+- question: What is the purpose of the recommended children’s book 'Story Time, Understanding
+    User Stories'?
+  answer: The book is intended to help professionals practice and improve their ability
+    to tell clear, crisp, and concise user stories for Product Management.
 ---
-
 Last week I received more newsletter reader feedback (thank you). For the next few issues I will experiment with format and length. This week aims to be short, sweet, and informative.
 
  **Getting Informed**

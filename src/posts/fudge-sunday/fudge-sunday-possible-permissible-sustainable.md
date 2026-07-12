@@ -2,8 +2,24 @@
 title: "Fudge Sunday - Possible, Permissible, Sustainable, Repeatable, Advisable"
 description: ''
 date: 2021-08-30 00:53:31+00:00
+faq:
+- question: What are the five elements of product excellence described in the newsletter?
+  answer: The five elements are Possible (can it be done), Permissible (can it be
+    done with less risk), Repeatable (can it be done again and again), Sustainable
+    (can it be done efficiently), and Advisable (can it be done with earned trust).
+- question: According to the post, what is important when considering the 'Permissible'
+    element of a product?
+  answer: When considering the 'Permissible' element, it is important to anticipate
+    and call out obsolescence, as products requiring customers to change must be viewed
+    as permissible rather than just possible. A product roadmap should provide assurance
+    of a future vision, protecting the customer investment and managing the change
+    process.
+- question: What is meant by the 'Repeatable' element in the context of product growth?
+  answer: The 'Repeatable' element refers to the ongoing ability of a product organization
+    to increase the number of new customers over time while simultaneously delivering
+    a consistent customer experience, ensuring that expectations set by early customers
+    are met throughout the growth phase.
 ---
-
 This week is about “the ibles and the ables”. It’s a look at the elements of a great product from ideation to market adoption.
 
  **Last week...**

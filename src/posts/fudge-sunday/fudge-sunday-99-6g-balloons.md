@@ -3,9 +3,19 @@ date: 2022-02-07 02:23:44+00:00
 description: Here comes 6G
 permalink: /archive/fudge-sunday-99-6g-balloons/
 title: Fudge Sunday - 99 6G Balloons
+faq:
+- question: What are some of the key vendor themes for the Mobile World Congress 2022?
+  answer: The vendor themes for the 2022 event include 5G Connect, Advancing AI, CloudNet,
+    FinTech, Internet of Everything, and Tech Horizon.
+- question: What significant update to FaceTime occurred in late 2021?
+  answer: As of late 2021 with the release of iOS 15 and macOS Monterey, users can
+    now join FaceTime calls from Android or Windows devices via web browser links.
+- question: What technologies are mentioned as building blocks for the democratization
+    of 5G networks?
+  answer: The FreedomFi Gateway, which allows individuals to run a private LTE 5G
+    network, and Helium, a blockchain project that aims to decentralize 5G infrastructure,
+    are highlighted as building blocks.
 ---
-
-
 This week we take a look at Mobile World Congress 2022, marketing, memes, and the growing democratization of mobile technology.
 
  **Getting Informed**

@@ -3,11 +3,17 @@ title: "🌶️ Hot Fudge Sunday for 2025-07-27"
 permalink: "/archive/hot-fudge-sunday-for-2025-07-27/"
 description: "My favorite new podcast, market updates, AI funding, a wacky clip, Starlink's outage, and more"
 date: 2025-07-27
+faq:
+- question: What is the new podcast from NexusTek mentioned in the post?
+  answer: The new podcast from NexusTek mentioned in the post is called Winners Circle.
+- question: Which tech company increased its capital expenditure forecast from $75B
+    to $85B?
+  answer: Google's capital expenditure forecast jumped from $75B to $85B.
+- question: How does the author characterize the recent Starlink outage?
+  answer: The author notes that the Starlink outage was considered newsworthy because
+    such events lasting longer than a few hours are not very common, with similar
+    coverage only seen about three years ago.
 ---
-
-
-
-
 {{ subscribe_form }}
 
 ## Last week

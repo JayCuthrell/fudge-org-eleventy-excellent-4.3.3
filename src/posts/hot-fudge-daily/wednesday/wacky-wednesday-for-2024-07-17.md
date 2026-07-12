@@ -3,11 +3,15 @@ title: "🤪 Wacky Wednesday for 2024-07-17"
 permalink: "/archive/wacky-wednesday-for-2024-07-17/"
 description: "Dive into the wacky world of shared links from online Slack communities in this week&#39;s edition."
 date: 2024-07-18 00:23:32.121158+00:00
+faq:
+- question: What is the source of the links shared in the Wacky Wednesday posts?
+  answer: 'The links are sourced from various online Slack communities, specifically
+    from their #random channels.'
+- question: Are the shared links in the collection appropriate for all audiences?
+  answer: Yes, the collection is curated to be a safe for work list.
+- question: How often is the Wacky Wednesday collection published?
+  answer: The collection is published every Wednesday.
 ---
-
-
-
-
 # 🤪 Wacky Wednesday for 2024-07-17
 
 Explore the wild and wacky world of shared links from online Slack communities.

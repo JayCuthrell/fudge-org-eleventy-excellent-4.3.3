@@ -3,11 +3,18 @@ title: "🌶️ Hot Fudge Sunday for 2025-05-25"
 permalink: "/archive/hot-fudge-sunday-for-2025-05-25/"
 description: "I&#39;m simplifying the newsletter format based on reader feedback while covering key market insights and career updates."
 date: 2025-05-26 15:33:24.702951+00:00
+faq:
+- question: Why has the newsletter format changed?
+  answer: The author surveyed readers about offering a shorter version, and because
+    the results were mixed, they decided to shorten the newsletter and move sections
+    around.
+- question: What is the purpose of the 'Alumni' section in the newsletter?
+  answer: The Alumni section is for individuals in the author's network who have successfully
+    transitioned to their next career adventure.
+- question: How does the author determine the content for 'Wacky Wednesday'?
+  answer: Each Wednesday, the author reviews dozens of Slack communities and selects
+    the most interesting shared link to feature.
 ---
-
-
-
-
 I surveyed readers about offering a shorter version of the newsletter. Results were mixed so I’m shortening the newsletter and moving sections around this week.
 
 https://www.prnewswire.com/news-releases/nexustek-launches-new-private-cloud-offerings-to-power-the-next-era-of-digital-business-302460874.html

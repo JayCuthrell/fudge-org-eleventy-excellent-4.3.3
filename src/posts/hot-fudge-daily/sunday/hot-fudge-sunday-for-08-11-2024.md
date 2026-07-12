@@ -3,13 +3,18 @@ title: "🌶️ Hot Fudge Sunday for 08-11-2024"
 permalink: "/archive/hot-fudge-sunday-for-08-11-2024/"
 description: "Hot tech news, market insights, and wacky finds in one Sunday scoop!"
 date: 2024-08-11 13:09:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter at fudge.org in a single, accessible URL.
+- question: What tools are currently used for the author's series syndication?
+  answer: The author uses Buttondown and Zapier to power the syndication of content
+    to platforms like LinkedIn and Flipboard.
+- question: Which events has the author committed to attending for the remainder of
+    2024?
+  answer: The author has committed to attending AI Field Day 5 in September, Monktoberfest
+    in October, Cloud Field Day 21 in October, and All Things Open in late October.
 ---
-
-
-
-
-
-
 ---
 
 > 🙏 A big thank you to our sponsors. 🙏

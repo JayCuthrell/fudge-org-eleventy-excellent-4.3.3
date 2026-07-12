@@ -3,11 +3,15 @@ title: "🔙 Throwback Thursday for 2024-11-28"
 permalink: "/archive/throwback-thursday-for-2024-11-28/"
 description: "I&#39;m reflecting on my gratitude for web browsers, from NCSA Mosaic to today&#39;s favorites like Chrome."
 date: 2024-11-29 02:02:54.998029+00:00
+faq:
+- question: When was Google Chrome first launched?
+  answer: Google Chrome was launched in 2008 as a Windows browser alternative, initially
+    released as a Beta.
+- question: When did Google Chrome become available on Android?
+  answer: Google Chrome became available on Android in 2012, again as a Beta release.
+- question: Which browser held a commanding lead in the mobile market by 2013?
+  answer: By 2013, Safari on the iPhone had taken a commanding lead as a mobile browser.
 ---
-
-
-
-
 In this Thankful Throwback Thursday I am thankful for the web browser technology that has arguably made my career since the 1990s possible starting with [NCSA Mosaic](https://en.wikipedia.org/wiki/NCSA_Mosaic) to my modern day daily drivers — Safari and Chrome.
 
 > Click.

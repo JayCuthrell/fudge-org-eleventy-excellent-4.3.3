@@ -3,10 +3,16 @@ title: "🔙 Throwback Thursday for 2025-05-29"
 permalink: "/archive/throwback-thursday-for-2025-05-29/"
 description: "Chalk AI scored a Series A just 18 months post-seed, aiming to innovate beyond Snowflake and Databricks!"
 date: 2025-05-29 23:08:58.795173+00:00
+faq:
+- question: What is the recent financial development regarding Chalk AI?
+  answer: Chalk AI recently raised a Series A funding round.
+- question: How long has it been since Chalk AI received its Seed funding?
+  answer: It has been just 18 months since Chalk AI received its Seed funding.
+- question: What is unique about Chalk AI's positioning in the market?
+  answer: Unlike companies that build on top of platforms like Snowflake or Databricks,
+    Chalk AI is positioning itself as a company that aims to follow after those existing
+    platforms.
 ---
-
-
-
 🤖 + 💰 One story caught my eye this week was the recent Series A raised by Chalk AI. Who? These folks:
 
 [https://www.techmeme.com/250529/p12#a250529p12](https://www.techmeme.com/250529/p12#a250529p12)

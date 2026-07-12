@@ -3,10 +3,15 @@ title: "🔙 Throwback Thursday for 2024-10-03"
 permalink: "/archive/throwback-thursday-for-2024-10-03/"
 description: "Celebrating 21 years of WordPress and its dramatic evolution in the web landscape!"
 date: 2024-10-04 05:07:08.908548+00:00
+faq:
+- question: How long ago was WordPress first released?
+  answer: WordPress was released 21 years ago.
+- question: Which company is behind WordPress.com?
+  answer: Automattic is the company behind WordPress.com and other related services.
+- question: Has the author always used WordPress for their personal websites?
+  answer: The author used WordPress for their blog and personal websites for many
+    years before eventually migrating to headless CMS alternatives.
 ---
-
-
-
 21 years ago, WordPress was released and would go on to power hundreds of millions of websites. In fact, WordPress powered my own blog(s) and personal websites for many years before I migrated to headless CMS alternatives.
 
 [https://en.wikipedia.org/wiki/WordPress](https://en.wikipedia.org/wiki/WordPress)

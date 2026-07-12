@@ -3,10 +3,19 @@ title: "🔮 Sneak Peak Saturday for 2024-08-24"
 permalink: "/archive/sneak-peak-saturday-for-2024-08-24/"
 description: "Exploring the difference between peak and peek in news coverage with a roundup of Friday&#39;s &#39;quietly mentioned&#39; stories."
 date: 2024-08-24 17:26:38.225887+00:00
+faq:
+- question: What does the author suggest about news released on Fridays?
+  answer: The author suggests that news updates are sometimes released on Fridays
+    to try and sneak them past wider coverage, which is described as peak patronizing
+    publishing.
+- question: How does the author describe the pace of news coverage throughout the
+    week?
+  answer: The author notes that by Friday, everything seems to reach a peak of getting
+    news turned in before a deadline, often reaching a fever pitch during the week.
+- question: What is the primary purpose of the blog post?
+  answer: The purpose of the blog post is to share a curated list of stories from
+    the week that readers might have missed during the slow news cycle of a Friday.
 ---
-
-
-
 ## Peak 🏔️ vs. Peek 👀
 
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.

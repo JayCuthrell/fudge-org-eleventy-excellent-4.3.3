@@ -4,8 +4,16 @@ permalink: "/archive/hot-fudge-sunday-for-2025-12-07/"
 description: "Hot Fudge Daily digest for the week of 12-01-2025 to 12-06-2025."
 date: 2025-12-07
 tags: ['Hot Fudge Sunday', quantum]
+faq:
+- question: What is changing regarding the Hot Fudge Daily newsletter?
+  answer: The newsletter is marking 76 weeks of its current format and will be starting
+    a brand new format next week.
+- question: Why is the author planning to delete their Limitless account and data?
+  answer: The company behind Limitless was acquired by Meta, an ecosystem the author
+    prefers to avoid.
+- question: Which event is taking place during the week of December 1, 2025?
+  answer: The Gartner IT IOCS event is being held in Las Vegas.
 ---
-
 ## Last Week
 
 * [NexusTek](https://www.nexustek.com/insights/vmware-migration-aws-modernization-strategy) published [Clearing the Path: A Roadmap to Clarity in a Shifting VMware Landscape](https://www.nexustek.com/insights/vmware-migration-aws-modernization-strategy)

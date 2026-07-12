@@ -4,10 +4,22 @@ permalink: "/archive/hot-fudge-sunday-for-2025-10-26/"
 description: "Hot Fudge Daily digest for the week of 10-20-2025 to 10-25-2025."
 date: 2025-10-26
 tags: ['Hot Fudge Sunday']
+faq:
+- question: What cybersecurity-related topics were covered by NexusTek and its contributors
+    last week?
+  answer: Last week, content was published regarding cybersecurity awareness training
+    (The Cyber Gym), the implications of AWS outages, and the importance of cybersecurity
+    in the hospitality industry.
+- question: What is the primary focus of the recent news regarding HP and the Kingdom
+    of Saudi Arabia?
+  answer: HP is expanding its operations by building millions of PCs in the Kingdom
+    of Saudi Arabia to serve markets in the Middle East and North Africa, a move noted
+    as daring given the current political focus on bringing high-tech manufacturing
+    back to the United States.
+- question: What is the 'Alumni' section in the newsletter?
+  answer: The Alumni section lists individuals from the author's professional network
+    who have successfully transitioned to their next career adventure.
 ---
-
-
-
 ## Last Week
 
 * [NexusTek](https://www.nexustek.com/insights/cyber-gym-cybersecurity-awareness-training) published [The Cyber Gym: Training for Everyday Defense](https://www.nexustek.com/insights/cyber-gym-cybersecurity-awareness-training)

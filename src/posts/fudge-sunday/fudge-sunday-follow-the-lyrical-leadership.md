@@ -2,8 +2,18 @@
 title: "Fudge Sunday - Follow the Lyrical Leadership Listicles"
 description: ''
 date: 2022-05-23 00:50:44+00:00
+faq:
+- question: How many leadership principles did Amazon have in 1998?
+  answer: According to 'The Everything Store' by Brad Stone, Amazon had approximately
+    5 or 6 leadership principles in 1998.
+- question: What new leadership principles were added to the Amazon list by 2021?
+  answer: By 2021, the new principles added were 'Strive to be Earth’s Best Employer'
+    and 'Success and Scale Bring Broad Responsibility'.
+- question: What example does the article provide for memorizing leadership traits
+    outside of the tech industry?
+  answer: The article mentions that US Marines going into OCS use memorable acronyms
+    like 'JJ DID TIE BUCKLE' to remember their leadership traits and principles.
 ---
-
 This week we take a look at lengthening lyrical leadership listicles.
 
 Crystal Fighters - Follow (2012)

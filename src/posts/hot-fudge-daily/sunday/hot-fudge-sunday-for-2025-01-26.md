@@ -3,11 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2025-01-26"
 permalink: "/archive/hot-fudge-sunday-for-2025-01-26/"
 description: "I’m spotlighting talented professionals open to new opportunities—connect and collaborate!"
 date: 2025-01-26 17:00:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter, conveniently gathered in a single URL and published
+    every Sunday.
+- question: 'What is the purpose of the #OpenToWork section in the newsletter?'
+  answer: 'The #OpenToWork section highlights professionals in the author''s network
+    who are looking for new opportunities by linking to their LinkedIn profiles and
+    quoting their ''About'' sections to encourage readers to connect with them.'
+- question: Where does the content for 'Wacky Wednesday' come from?
+  answer: The content for 'Wacky Wednesday' is curated by the author, who selects
+    the most interesting links shared across dozens of Slack communities.
 ---
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---

@@ -3,8 +3,19 @@ title: "🔙 Throwback Thursday for 2025-11-20"
 permalink: "/archive/throwback-thursday-for-2025-11-20/"
 description: "US Govt, Google, Pepsi Phone, and failed bills"
 date: 2025-11-20
+faq:
+- question: What technology was used to facilitate the transfer of power for the US
+    Government five years ago?
+  answer: The orderly transfer of power was performed using a Google Workspace and
+    Titan Security Keys.
+- question: What specific product was available to consumers ten years ago on November
+    20, 2015?
+  answer: On that day, consumers had the option to purchase the Pepsi Phone.
+- question: What happened to the COICA bill mentioned in the tech history from 15
+    years ago?
+  answer: The COICA bill failed, but it was eventually rewritten as the PROTECT IP
+    Act, which also failed to advance.
 ---
-
 Here is what was making waves in tech history on this day.
 
 #### 5 Years Ago: [November 20, 2020](https://www.techmeme.com/201120/h2355)

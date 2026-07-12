@@ -3,8 +3,21 @@ date: 2021-06-27 17:53:34+00:00
 description: ''
 permalink: /archive/fudge-sunday-reflecting-and-projecting/
 title: Fudge Sunday - Reflecting and Projecting
+faq:
+- question: How did collaboration change between the year 2000 and 2020?
+  answer: In 2000, teams had to physically travel to a single location to collaborate
+    because high-bandwidth and cloud technologies were not yet prevalent. By 2020,
+    the idea of traveling specifically to collaborate had become an odd concept.
+- question: What is the author's view on the shift towards public cloud computing?
+  answer: The author notes that despite 15 years of pundits predicting everything
+    would move to the public cloud, it has not happened. Instead, the author suggests
+    a 'different horses for different courses' approach, where cloud is a consumption
+    pattern rather than just a place.
+- question: How did the author define the 'digital divide' by 2020?
+  answer: By 2020, the author associated the absence of internet access with a 'digital
+    detox' for the privileged and a 'digital divide' for those who are economically
+    disadvantaged.
 ---
-
 This post is a quick stroll through the past 20 years and looking ahead to the future. What happens when an emerging pattern becomes ubiquitous?
 
  **Reflecting on 2000 to 2020**

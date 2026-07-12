@@ -3,11 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2025-02-09"
 permalink: "/archive/hot-fudge-sunday-for-2025-02-09/"
 description: "This week, I&#39;m spotlighting job seekers in my network and celebrating alumni who found new roles!"
 date: 2025-02-10 00:39:38.490755+00:00
+faq:
+- question: What is Hot Fudge Sunday and when is it published?
+  answer: Hot Fudge Sunday is a free weekly newsletter that contains a digest of the
+    Hot Fudge Daily paid newsletter in a single, easy-to-reach URL. It is posted every
+    Sunday.
+- question: 'Who is highlighted in the Alumni section of the #OpenToWork Weekly segment
+    this week?'
+  answer: Richard Arnesen is highlighted in the Alumni section this week, celebrating
+    his transition from being open to work to starting a new career adventure.
+- question: What does the author do to find content for the 'Wacky Wednesday' section?
+  answer: Every Wednesday, the author goes through dozens of Slack communities and
+    selects the most interesting shared, safe-for-work links.
 ---
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}

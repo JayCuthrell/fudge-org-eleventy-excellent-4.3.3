@@ -3,11 +3,18 @@ title: "🌶️ Hot Fudge Sunday for 2025-04-20"
 permalink: "/archive/hot-fudge-sunday-for-2025-04-20/"
 description: "I&#39;m spotlighting alumni successes in my network and sharing insights from AI Infrastructure Field Day!"
 date: 2025-04-21 00:30:00+00:00
+faq:
+- question: 'What is the #OpenToWork Alumni section?'
+  answer: 'The Alumni section was added to the weekly list to highlight individuals
+    who have transitioned from being #OpenToWork to starting their next career adventure.'
+- question: How does the author determine the market trends for 'Markets Monday'?
+  answer: The author uses a consistent key indicator from a Yahoo Finance webpage,
+    specifically looking at the closing bell on Monday and filtering for technology
+    stocks using defined criteria such as market cap, volume, and sector.
+- question: What is the focus of the 'Wacky Wednesday' section?
+  answer: Each Wednesday, the author reviews dozens of Slack communities and selects
+    the most interesting, safe-for-work links to share.
 ---
-
-
-
-
 ## Reminder
 
 This week I'll be at [AI Infrastructure Field Day 2](https://techfieldday.com/event/aiifd2/)! 🤓

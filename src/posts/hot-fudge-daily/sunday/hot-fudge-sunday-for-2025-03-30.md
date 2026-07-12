@@ -3,11 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2025-03-30"
 permalink: "/archive/hot-fudge-sunday-for-2025-03-30/"
 description: "Pondering a new workflow and the familiar format for the balance of 2025"
 date: 2025-03-30 23:00:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    Hot Fudge Daily paid newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: 'How does the newsletter support professionals who are #OpenToWork?'
+  answer: 'The newsletter highlights professionals in the author''s network who are
+    #OpenToWork by linking to their LinkedIn profiles and quoting their LinkedIn ''About''
+    sections to encourage readers to connect with them.'
+- question: Where can I find on-demand playback for the AI POC Spin Cycle webinar?
+  answer: 'The on-demand playback for the AI POC Spin Cycle webinar is available via
+    the link provided in the newsletter: https://events.futureb2b.com/on-demand/2516/are-you-stuck-in-the-ai-poc-spin-cycle/'
 ---
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}

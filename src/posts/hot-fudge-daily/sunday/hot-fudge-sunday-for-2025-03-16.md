@@ -3,11 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-03-16"
 permalink: "/archive/hot-fudge-sunday-for-2025-03-16/"
 description: "This week&#39;s edition covers my workflow updates and highlights #OpenToWork professionals in my network."
 date: 2025-03-17 00:00:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: How does the newsletter support professionals who are job hunting?
+  answer: 'The newsletter highlights professionals in the author''s network who are
+    #OpenToWork by linking to their LinkedIn profiles and quoting their LinkedIn About
+    sections, while also featuring an Alumni section for those who have secured new
+    career opportunities.'
+- question: What new tools is the author experimenting with for their 2025 workflow?
+  answer: For 2025, the author is experimenting with devices and AI services from
+    Limitless.ai and Plaud.ai to test how transcription and pre-trained models for
+    generating highlights can benefit their workflow.
 ---
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}

@@ -3,12 +3,18 @@ title: "🌶️ Hot Fudge Sunday for 2024-11-03"
 permalink: "/archive/hot-fudge-sunday-for-2024-11-03/"
 description: "This week, I automated my newsletter and explored market trends, hot takes, and wacky stories!"
 date: 2024-11-03 17:30:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL.
+- question: How often is the Hot Fudge Sunday edition published?
+  answer: The free weekly edition is posted every Sunday.
+- question: What criteria are used for the Yahoo Finance screener mentioned in the
+    newsletter?
+  answer: The screener uses filters including a percentage change in price greater
+    than 4, United States region, Mid/Large/Mega Market Cap, price greater than or
+    equal to 5, volume greater than 15,000, and various Technology sector industries.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

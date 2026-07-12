@@ -3,8 +3,19 @@ title: "🤪 Wacky Wednesday for 2025-11-12"
 permalink: "/archive/wacky-wednesday-for-2025-11-12/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-11-12
+faq:
+- question: What is the content of the video titled 'How to Start an F-16 (Bully in
+    the Alley Remix)'?
+  answer: The video is a Top Gun-themed sea shanty that demonstrates how to enter
+    the danger zone in the style of Motor Sergeant Frank Tree.
+- question: Which significant computer science concept originated in Alan Turing's
+    1936 paper?
+  answer: The paper titled 'On Computable Numbers, with an Application to the Entscheidungsproblem'
+    marks the birth of the 'Turing machine'.
+- question: What is the focus of the 'Whoa' section regarding Michael Caine?
+  answer: The section highlights Michael Caine's famous catchphrase in relation to
+    early answering machines and modern AI-powered machines.
 ---
-
 First, a wacky wonderful video. Second, a wayback nostalgia tome. Third, a whoa we're getting older moment.
 
 #### Wacky Wonderful

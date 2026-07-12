@@ -3,10 +3,15 @@ title: "Wacky Wednesday for 2024-07-03"
 permalink: "/archive/wacky-wednesday-for-2024-07-03/"
 description: "Discover the wild and wacky shared links from online Slack communities in this edition."
 date: 2024-07-03 16:55:08.426670+00:00
+faq:
+- question: What is the focus of Wacky Wednesday?
+  answer: Wacky Wednesday focuses on collecting and sharing interesting, wild, and
+    wacky links found in online Slack communities.
+- question: Are the links shared in Wacky Wednesday safe for work?
+  answer: Yes, the list of links shared is compiled to be safe for work.
+- question: How often are the Wacky Wednesday lists published?
+  answer: The lists of shared links are published every Wednesday.
 ---
-
-
-
 # Wacky Wednesday for 2024-07-03
 
 Explore the wild and wacky world of shared links from online Slack communities.

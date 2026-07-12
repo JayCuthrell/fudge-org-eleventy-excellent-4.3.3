@@ -3,9 +3,21 @@ date: 2021-07-18 14:30:04+00:00
 description: ''
 permalink: /archive/fudge-sunday-all-along-the-watchtower/
 title: Fudge Sunday - All Along the Watchtower
+faq:
+- question: What are some of the advantages of Starlink compared to legacy satellite
+    internet providers?
+  answer: Compared to legacy providers, Starlink offers faster, cheaper, and more
+    competitive service with hardware that is simplified, consumer-friendly, and elegant.
+- question: How does Starlink coverage expand according to the article?
+  answer: Starlink's coverage is directly related to the placement of ground stations,
+    meaning more coverage is achieved by increasing the number and density of ground
+    stations globally.
+- question: What comparison does the author make between physical gravity and data
+    gravity?
+  answer: The author notes that satellites break free of gravity to achieve orbital
+    shell goals, while companies break free of data gravity to achieve multicloud
+    goals.
 ---
-
-
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 3 of a 5 part series

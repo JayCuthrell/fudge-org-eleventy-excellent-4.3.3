@@ -3,10 +3,15 @@ title: "Wacky Wednesday for 2024-06-12"
 permalink: "/archive/wacky-wednesday-for-2024-06-12/"
 description: "Wacky Wednesday for 2024-06-12 Explore the wild and wacky world of shared links from online Slack communities. One unique thing about online Slack..."
 date: 2024-06-12 19:31:18.241226+00:00
+faq:
+- question: What is the purpose of the Wacky Wednesday blog post?
+  answer: 'The blog post serves to share a collection of interesting, wild, and wacky
+    links discovered in various online Slack community #random channels.'
+- question: Are the links shared in the blog post safe for work?
+  answer: Yes, the author ensures that the list of shared links is safe for work.
+- question: How often is the Wacky Wednesday collection updated?
+  answer: The collection is updated each Wednesday.
 ---
-
-
-
 # Wacky Wednesday for 2024-06-12
 
 Explore the wild and wacky world of shared links from online Slack communities.

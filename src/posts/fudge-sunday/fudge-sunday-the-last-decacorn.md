@@ -3,8 +3,18 @@ date: 2022-02-20 23:58:55+00:00
 description: ''
 permalink: /archive/fudge-sunday-the-last-decacorn/
 title: Fudge Sunday - The Last Decacorn
+faq:
+- question: What is the definition of a decacorn in the context of startup valuations?
+  answer: A decacorn is a startup company that has achieved a valuation of $10 billion
+    or more.
+- question: How many unicorn companies are currently tracked by CBInsights?
+  answer: CBInsights tracks a total of 1,021 private companies and startups that have
+    reached a $1 billion valuation.
+- question: How did the author use the domain name unicornjockey.com for marketing
+    purposes?
+  answer: The author used the domain name as a guerrilla marketing redirect to an
+    applicant tracking tool at VCE while the company was in blitzscaling mode.
 ---
-
 This week we look at 1980s animation nostalgia, our first unicorn sighting, guerrilla marketing, and anhedonic investment themes.
 
 The Last Decacorn Pitchbook: Amalthea is a startup and King Haggard is a hedge fund.

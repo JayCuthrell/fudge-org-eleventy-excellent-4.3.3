@@ -3,13 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2024-09-29"
 permalink: "/archive/hot-fudge-sunday-for-2024-09-29/"
 description: "This week, I highlight market trends, tech insights, and a nostalgic look back at smartphones."
 date: 2024-09-29 16:30:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-access URL.
+- question: How does the author curate the content for 'Wacky Wednesday'?
+  answer: Each Wednesday, the author reviews dozens of Slack communities and selects
+    the most interesting shared links, ensuring they are always safe for work.
+- question: What platforms are currently used for the operating systems mentioned
+    in the Throwback Thursday section?
+  answer: WebOS, which powered the Palm Pre, is now running on over 150 million devices
+    larger than a phone, while iOS runs on over 2 billion devices ranging from phones
+    to tablets.
 ---
-
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

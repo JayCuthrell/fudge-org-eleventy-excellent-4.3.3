@@ -3,8 +3,15 @@ title: "🔙 Throwback Thursday for 2025-11-27"
 permalink: "/archive/throwback-thursday-for-2025-11-27/"
 description: "SignalFrame, PMC-Sierra, and Sega"
 date: 2025-11-27
+faq:
+- question: What company currently owns the entity that was previously known as SignalFrame?
+  answer: SignalFrame (Wireless Registry) is now part of PWC.
+- question: Which company acquired Microsemi following its acquisition of PMC-Sierra?
+  answer: Microsemi is now part of Microchip Technology.
+- question: How many downloads has Angry Birds reached since it had 7 million downloads
+    in 2010?
+  answer: Angry Birds now has over 5 billion downloads.
 ---
-
 Looking back on this day in tech history... Let's take a look at what was making headlines on this day many years ago.
 
 #### 5 Years Ago: [November 27, 2020](https://www.techmeme.com/201127/h2355)

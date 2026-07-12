@@ -3,9 +3,15 @@ title: "🔙 Throwback Thursday for 2025-03-06"
 permalink: "/archive/throwback-thursday-for-2025-03-06/"
 description: "This edition highlights McDonald’s tech evolution, from mobile ordering to predictive analytics."
 date: 2025-03-08 04:57:39.672696+00:00
+faq:
+- question: How could McDonald's address the meme regarding its broken milkshake machines?
+  answer: The post suggests that the effective use of predictive analytics could help
+    resolve the issue and make the broken shake machine meme a historical footnote.
+- question: When was mobile ordering introduced at McDonald's?
+  answer: Mobile ordering appeared at McDonald's approximately 8 years ago.
+- question: What technological milestone did McDonald's reach 16 years ago?
+  answer: Approximately 16 years ago, free Wi-Fi became prevalent at McDonald's.
 ---
-
-
 One headline for Thursday Throwback caught my eye.
 
 🥛 + 🤖 Considering the sheer amounts of data generated McDonald’s it is useful to remember it should not be known only for a [shake machine is down meme](https://mcbroken.com/) — and effective use of predictive analytics could make that meme a historical footnote.

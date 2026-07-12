@@ -3,12 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2024-09-22"
 permalink: "/archive/hot-fudge-sunday-for-2024-09-22/"
 description: "This week&#39;s edition dives into market insights, AI funding, and Google&#39;s new passkey management!"
 date: 2024-09-22 19:04:05+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single URL, published every Sunday.
+- question: Which resource does the author recommend for keeping up with the data
+    operations and RevOps market?
+  answer: The author recommends reading 'Finding Data Operations', which is written
+    by Greg Meyer.
+- question: What tool does the author use to generate notes and observations from
+    dictation?
+  answer: The author uses a dictation and note summarization stack called Limitless
+    AI to turn spoken thoughts into notes and observations.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

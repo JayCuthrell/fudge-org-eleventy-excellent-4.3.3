@@ -4,8 +4,17 @@ description: A look at at meta newsletter reading on TypeScript, Prototyping, Co
   Enterprise, Edge Computing, and the Uncanny Valley
 permalink: /archive/fudge-sunday-peek-a-boo/
 title: Fudge Sunday - Peek A Boo
+faq:
+- question: What tools does the author use in their pursuit of a zettelkasten?
+  answer: The author uses Matter and Obsidian in their pursuit of a zettelkasten.
+- question: What is the purpose of the Matter Obsidian plugin?
+  answer: The Matter Obsidian plugin provides all the elements needed to extend and
+    customize workflows for Obsidian users.
+- question: Who does the author recommend watching to see how the Matter Obsidian
+    plugin can be used?
+  answer: The author recommends watching Matt Birchler from 'A Better Computer' to
+    see how he leverages the plugin to simplify his workflow.
 ---
-
 This week we peek at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley.
 
 Devo - Peek A Boo (Official Music Video)

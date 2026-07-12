@@ -3,13 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-29"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-29/"
 description: "Vacation edition update - I&#39;m moving all fudge.org content to fudge.org using Buttondown and python"
 date: 2025-06-29 13:00:00+00:00
+faq:
+- question: What is happening to the archives on fudge.org?
+  answer: The author is mirroring all prior fudge.org content (over 370 posts) on
+    the site and intends to collapse the archives there soon with a redirect.
+- question: What tools did the author release to assist with the migration process?
+  answer: The author released two Python scripts on GitHub designed to handle manual
+    migration between Buttondown and Mastodon, as well as to fix an automation error
+    encountered during testing.
+- question: 'How does the author characterize the ''Alumni'' section of the #OpenToWork
+    list?'
+  answer: The Alumni section is for individuals in the author's network who have successfully
+    transitioned to their next career adventure.
 ---
-
-
-
-
-
-
 This week is a shorter vacation edition of 🌶️ Hot Fudge Sunday. During vacation, I worked out how to mirror all prior [fudge.org](http://fudge.org) [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) hosted content (~370+ posts) on [fudge.org](http://fudge.org) and will be collapsing the archives there soon with a redirect.
 
 Once web archives are migrated, [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) will continue to be my [trusted newsletter delivery service](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email). In case you are interested, I ended up adding two simple [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) and Mastodon related [python scripts](https://github.com/JayCuthrell/buttondown-python-scripts) to handle manual migration and a mistake I made with automation while testing.

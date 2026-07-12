@@ -4,8 +4,23 @@ permalink: "/archive/hot-fudge-sunday-for-2025-11-09/"
 description: "Hot Fudge Daily digest for the week of 11-03-2025 to 11-08-2025."
 date: 2025-11-09
 tags: ['Hot Fudge Sunday']
+faq:
+- question: What were the primary themes of the AI funding announcements listed for
+    November 4, 2025?
+  answer: The AI funding announcements highlighted various applications for AI, including
+    robotic hands, neuro-symbolic AI, security, health care agents, and software acquisition,
+    with funding amounts ranging from $16 million to $250 million.
+- question: Which tech companies were involved in the largest AI deals mentioned for
+    the week of November 7, 2025?
+  answer: The largest AI deals of the week involved OpenAI and AWS (~$38B), Microsoft
+    and IREN (~$10B), and Apple and Google (~$1B).
+- question: What trend is observed regarding corporate diversity reports according
+    to the newsletter?
+  answer: The newsletter suggests that several of the world's largest tech companies
+    are disregarding their previous commitment to publishing workforce diversity reports,
+    potentially because their attention and resources have been shifted to the AI
+    arms race.
 ---
-
 ## Last Week
 
 * [NexusTek](https://www.nexustek.com/insights/cybersecurity-life-sciences-nexustek-secure-by-design) published [Trusted Science, Trusted Systems](https://www.nexustek.com/insights/cybersecurity-life-sciences-nexustek-secure-by-design)

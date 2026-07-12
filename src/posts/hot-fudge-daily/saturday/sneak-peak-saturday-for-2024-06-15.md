@@ -3,11 +3,19 @@ title: "Sneak Peak Saturday for 2024-06-15"
 permalink: "/archive/sneak-peak-saturday-for-2024-06-15/"
 description: "Unveiling overlooked tech news with a sprinkle of satire in our latest edition of Sneak Peak Saturday."
 date: 2024-06-15 16:20:10.858386+00:00
+faq:
+- question: What is the purpose of the 'Sneak Peak Saturday' blog post?
+  answer: The post aims to unveil overlooked tech news from the week with a sprinkle
+    of satire.
+- question: Why is the segment called 'Sneak Peak'?
+  answer: It refers to the common practice of publishing news on Fridays in an attempt
+    to sneak information past wider coverage, which the author describes as 'peak
+    patronizing publishing'.
+- question: What is the meaning behind the title 'Peak vs. Peek'?
+  answer: It is a play on words where 'peak' relates to the deadline-driven nature
+    of news throughout the week, while 'peek' refers to the act of looking at the
+    news.
 ---
-
-
-
-
 You could be reading this. It's just a click away. You could be reading this. It's just a click away.
 
 You could be reading this. It's just a click away. You could be reading this. It's just a click away.

@@ -3,8 +3,21 @@ date: 2022-04-03 23:47:50+00:00
 description: A short summer reading list from 1978-2020 to consider our future
 permalink: /archive/fudge-sunday-summertime-pastness/
 title: Fudge Sunday - Summertime Pastness
+faq:
+- question: How does the author manage their physical book collection while traveling
+    frequently?
+  answer: The author keeps their collection size constant by borrowing books or buying
+    them in a ring buffer style and donating them after reading.
+- question: Why has the author's appreciation for physical books increased recently?
+  answer: The author developed a renewed appreciation for actual books over the past
+    26 months because reading PDFs or websites from a chair in the sky has become
+    less common.
+- question: What is the author's plan for reading the book 'Empowered' by Cagan &
+    Jones?
+  answer: The author plans to read 'Empowered' last on their summer list, and they
+    may choose to read other books in the series, such as 'INSPIRED' and 'LOVED',
+    out of sequence.
 ---
-
 Enjoy a short summer reading list from 1978-2020 to consider our future.
 
 Lana Del Rey - Summertime Sadness (2012)

@@ -3,8 +3,16 @@ title: "🤪 Wacky Wednesday for 2025-11-19"
 permalink: "/archive/wacky-wednesday-for-2025-11-19/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-11-19
+faq:
+- question: What items are available in the Homestar Anniversary merch collection?
+  answer: The Homestar Anniversary merch includes a Trogdor the Burninator Polo and
+    whimsical Harlequin playing cards.
+- question: How long did it take for the original Amazon Kindle to sell out when it
+    launched in 2007?
+  answer: The Amazon Kindle sold out in 5.5 hours upon its launch in 2007.
+- question: What is one of the key features highlighted for Gemini 3?
+  answer: A key feature of Gemini 3 is its "Deep Think" reasoning mode.
 ---
-
 First, a wacky wonderful video. Second, a wayback nostalgia tome. Third, a whoa we're getting older moment.
 
 #### Wacky Wonderful

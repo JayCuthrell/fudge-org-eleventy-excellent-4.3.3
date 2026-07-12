@@ -3,9 +3,21 @@ date: 2022-05-08 20:10:22+00:00
 description: ''
 permalink: /archive/fudge-sunday-twitter-travel-algorithmic-oddities/
 title: 'Fudge Sunday - Twitter Travel Algorithmic Oddities '
+faq:
+- question: What scenario did the author test regarding web browsing and spatial location?
+  answer: The author tested whether websites like Twitter would provide different
+    account recommendations based on their spatial location in a fixed temporal window
+    by browsing in incognito mode with a cleared cache from both metropolitan and
+    rural IP addresses.
+- question: How did the author test Twitter recommendations from different locations?
+  answer: The author used a cache-cleared browser, no authentication, and private/incognito
+    mode to navigate to Twitter's explore page from both an IP address near a metropolitan
+    area and an IP address more than 100 miles away from a city center.
+- question: What is the author's recommended approach for consuming content on Twitter?
+  answer: The author recommends using Twitter Lists as the only reasonable way to
+    consume content on the platform to avoid issues like gaming the feed for outrage-based
+    engagement.
 ---
-
-
 This week we look at IP targeting and geofencing while traveling.
 
 A Tribe Called Quest - Scenario (1992)

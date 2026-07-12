@@ -3,11 +3,22 @@ title: "🌶️ Hot Fudge Sunday for 2025-05-04"
 permalink: "/archive/hot-fudge-sunday-for-2025-05-04/"
 description: "Celebrating alumni success and spotlighting those #OpenToWork in my network this week! 🎉"
 date: 2025-05-04 21:49:36.141354+00:00
+faq:
+- question: 'What is the #OpenToWork list and why was an Alumni section added?'
+  answer: 'The #OpenToWork list highlights individuals in the author''s network who
+    are seeking new career opportunities. An Alumni section was added this week for
+    those who have successfully transitioned from the #OpenToWork list into their
+    next career adventure.'
+- question: What criteria does the author use to track market trends for 'Markets
+    Monday'?
+  answer: The author uses Yahoo Finance to analyze technology companies based on specific
+    filters, including a price change greater than 4%, United States region, Mid/Large/Mega
+    market capitalization, a price greater than or equal to 5, a volume greater than
+    15,000, and a focus on specific technology-related sectors and industries.
+- question: What is the purpose of the 'Wacky Wednesday' segment?
+  answer: Each Wednesday, the author reviews dozens of Slack communities and selects
+    the most interesting, safe-for-work links to share with the audience.
 ---
-
-
-
-
 ## Recap
 
 This week was a big week! 🎉 

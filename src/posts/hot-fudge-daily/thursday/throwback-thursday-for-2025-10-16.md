@@ -3,8 +3,18 @@ title: "🔙 Throwback Thursday for 2025-10-16"
 permalink: "/archive/throwback-thursday-for-2025-10-16/"
 description: "Lidar, unicorns, and apps"
 date: 2025-10-16
+faq:
+- question: What technological advancements did the iPhone introduce five years ago
+    on October 16, 2020?
+  answer: Five years ago, the iPhone democratized lidar and 5G connectivity.
+- question: What requirement was introduced for drone enthusiasts ten years ago in
+    2015?
+  answer: Enthusiasts of drone technology learned they would be required to register
+    their drones with the U.S. Department of Transportation.
+- question: What was the original name of the photo-sharing app that eventually became
+    Instagram?
+  answer: The app was originally launched as 'Burbn Beta'.
 ---
-
 ### 5 Years Ago: [October 16, 2020](https://www.techmeme.com/201016/h2355)
 
 On this day five years ago, iPhone democratized lidar and 5G connectivity. Social media platforms scrutiny intensified leading up to the U.S. presidential election. The pandemic's influence had shifted remote knowledge work and boosted the fortunes of streaming and collaboration software while some knowledge work companies experimented with return to office.

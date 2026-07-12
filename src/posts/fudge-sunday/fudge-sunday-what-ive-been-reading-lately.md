@@ -2,11 +2,21 @@
 title: "Fudge Sunday - What I've been reading lately"
 description: ''
 date: 2021-06-20 17:00:06+00:00
+faq:
+- question: What does the author suggest doing if you find yourself constantly hitting
+    refresh on social media sites?
+  answer: The author suggests that if you find yourself constantly hitting refresh
+    on sites like Twitter, Reddit, or Facebook, it might be time to subscribe to a
+    few mailing lists and newsletters instead.
+- question: Why does the author recommend reading M.G. Siegler?
+  answer: The author recommends M.G. Siegler because of his command of coherent, compelling
+    narrative and his ability to publish across a wide variety of formats.
+- question: What is the author's take on why a16z has developed a large content farm?
+  answer: The author suggests that a16z built a content farm, including blogs and
+    podcasts, as a way to get their message to the world and potentially generate
+    more deal flow without needing to rely on tech finance journalists to question
+    their investment strategies.
 ---
-
-
-
-
 If you find yourself hitting refresh on Twitter, Reddit, Facebook, Hacker News or *\*shiver\** BuzzFeed then it might be time to subscribe to a few mailing lists and newsletters. This week, I am sharing articles linked in the mailing lists and newsletters I’ve been reading lately.
 
  **Recommendation: Oh... M. G.**

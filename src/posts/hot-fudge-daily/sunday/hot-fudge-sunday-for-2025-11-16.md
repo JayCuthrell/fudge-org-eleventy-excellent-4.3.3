@@ -4,8 +4,22 @@ permalink: "/archive/hot-fudge-sunday-for-2025-11-16/"
 description: "Hot Fudge Daily digest for the week of 11-10-2025 to 11-15-2025."
 date: 2025-11-16
 tags: ['Hot Fudge Sunday']
+faq:
+- question: What events did the author attend last week?
+  answer: The author traveled to New York City to attend Commvault SHIFT and the Subsurface
+    World Tour presented by Dremio.
+- question: What was the biggest story in the tech industry for the week of November
+    14, 2025?
+  answer: The biggest story was Google's $40 billion investment in new data centers
+    in Texas, alongside Berkshire Hathaway's disclosure of a $4.3 billion stake in
+    Alphabet.
+- question: What is the primary purpose of 'Sneak Peak Saturday' according to the
+    post?
+  answer: The goal is to sift through Friday news cycles to identify stories that
+    were intentionally timed to be published when they are likely to be forgotten
+    or neutralized by the following Monday, such as the reporting regarding Apple's
+    CEO succession planning.
 ---
-
 ## Last Week
 
 * I traveled to NYC for [Commvault SHIFT](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc%22%5D&keywords=%23commvaultshift&origin=FACETED_SEARCH&sid=UKN&sortBy=%22date_posted%22) and [Subsurface World Tour presented by Dremio](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAACk1T7oBu6QkP2p3bHgknv3R55ktER0dzqc%22%5D&keywords=dremio&origin=FACETED_SEARCH&sid=UKN&sortBy=%22date_posted%22).

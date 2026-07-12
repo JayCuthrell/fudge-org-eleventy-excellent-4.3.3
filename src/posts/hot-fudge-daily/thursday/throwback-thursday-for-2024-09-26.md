@@ -3,10 +3,18 @@ title: "🔙 Throwback Thursday for 2024-09-26"
 permalink: "/archive/throwback-thursday-for-2024-09-26/"
 description: "Reflecting on how iOS and webOS evolved from the iPhone 3GS and Palm Pre&#39;s launch 15 years ago."
 date: 2024-09-27 03:58:32.418092+00:00
+faq:
+- question: How many units of the iPhone 3GS were sold during its launch weekend 15
+    years ago?
+  answer: The iPhone 3GS sold 1 million units in a single weekend.
+- question: What operating system did the Palm Pre use, and what kind of devices does
+    that system run on today?
+  answer: The Palm Pre ran webOS, which today runs on over 150 million devices that
+    are much larger than a phone.
+- question: Approximately how many devices currently run on iOS and tvOS respectively?
+  answer: iOS currently runs on over 2 billion devices, while tvOS is estimated to
+    be running on less than 100 million devices connected to flat panel TV screens.
 ---
-
-
-
 In these modern times of $1000+ smart phones, it is interesting to look back 15 years to when an [iPhone 3GS](https://en.wikipedia.org/wiki/IPhone_3GS) sold 1M units in a weekend.
 
 It was also just 15 years ago that you could get a [Palm Pre](https://en.wikipedia.org/wiki/Palm_Pre) which sold… only 0.1M units in an entire week.

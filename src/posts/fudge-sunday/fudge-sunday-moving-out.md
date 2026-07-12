@@ -3,8 +3,19 @@ date: 2022-06-05 20:55:38+00:00
 description: A look at moving to new platforms
 permalink: /archive/fudge-sunday-moving-out/
 title: Fudge Sunday - Moving Out
+faq:
+- question: Is there an export function for newsletter content hosted on Revue?
+  answer: No, there is unfortunately no export function available for the content
+    stored in Revue.
+- question: What is the author's plan for migrating their newsletter content?
+  answer: The author plans to migrate to a new provider in the coming weeks and months.
+    In the event of a 'change in control' affecting Revue, they are prepared to scrape
+    their Revue RSS feed and import it into fudge.org as blog posts with 301 redirects.
+- question: Why does the author recommend self-hosting content?
+  answer: The author suggests that if you do not own your control plane, you are subject
+    to an editorial control plane, leaving your content vulnerable to changes in terms
+    and conditions or service shifts.
 ---
-
 This week we take a look at take out capabilities of this newsletter.
 
 *Note: (2nd repeat) After a solid year using Revue for this newsletter, new formats will arrive in the coming weeks (and months) from a new provider after we migrate everything over.*

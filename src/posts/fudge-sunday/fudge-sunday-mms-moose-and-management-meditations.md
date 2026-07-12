@@ -2,10 +2,18 @@
 title: "Fudge Sunday - M&M's, Moose, and Management Meditations"
 description: ''
 date: 2022-02-27 23:49:55+00:00
+faq:
+- question: What are the six dimensions of data quality introduced by DAMA UK?
+  answer: The six data quality dimensions are accuracy, completeness, consistency,
+    timeliness, uniqueness, and validity.
+- question: What is the Abilene paradox?
+  answer: The Abilene paradox occurs when a group of people collectively decide on
+    a course of action that is counter to the preferences of many or all of the individuals
+    in that group.
+- question: What is the Moose Test mentioned in the article?
+  answer: The Moose Test, formally known as ISO 3888-2:2011, is a test used to evaluate
+    how a vehicle handles sudden obstacles or evasive maneuvers.
 ---
-
-
-
 This week we take a look at data quality, testing, and management lore.
 
 I don't have many moose photos so this will just have to do.

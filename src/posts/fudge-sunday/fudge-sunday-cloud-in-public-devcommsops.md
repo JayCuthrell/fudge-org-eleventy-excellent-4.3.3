@@ -3,9 +3,22 @@ date: 2021-10-18 00:01:32+00:00
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-devcommsops/
 title: 'Fudge Sunday - Cloud in Public: DevCommsOps'
+faq:
+- question: What is DevCommsOps?
+  answer: DevCommsOps is defined as the purposeful insertion and conspicuous expression
+    of change management communications within a DevOps culture, covering changes
+    that are planned, achieved, deferred, failed, or resulting in a specific outcome.
+- question: How does DevCommsOps relate to Error Budgets?
+  answer: DevCommsOps provides a consistent and conspicuous account of changes that
+    are planned, taking place, and completed, which all draw against Error Budgets
+    and operational objectives.
+- question: Are hyperscale cloud providers consistent in how they present DevCommsOps?
+  answer: No, there are variations in how hyperscale cloud providers express DevCommsOps.
+    While they all use channels like release notes, changelogs, and incident reports,
+    they differ in their approaches, such as Oracle Cloud Infrastructure using a single-page
+    approach for release notes and changelogs, while others have more granular or
+    different methods for publishing incident reports.
 ---
-
-
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑

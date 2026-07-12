@@ -3,11 +3,21 @@ title: "🔙 Throwback Thursday for 2024-09-19"
 permalink: "/archive/throwback-thursday-for-2024-09-19/"
 description: "I&#39;m diving into Google&#39;s new passkey management while pondering its reliability and future."
 date: 2024-09-19 20:18:46.564479+00:00
+faq:
+- question: What is the primary concern regarding Google's entry into the passkey
+    management sector?
+  answer: The primary concern is Google's history of discontinuing products, as documented
+    on the 'Killed by Google' website, which raises questions about the long-term
+    viability and trustworthiness of their new password and passkey management solutions.
+- question: How do passkeys aim to improve digital security?
+  answer: Passkeys are designed to combat phishing and simplify user account management
+    by moving beyond traditional usernames and passwords, ultimately aiming to enhance
+    security through open authentication standards.
+- question: How does Google's approach to passkeys potentially differ from Apple's?
+  answer: Google's approach hints at broader compatibility across various device manufacturers
+    and operating systems, whereas Apple's system is typically viewed as more vertically
+    integrated and restricted to their own devices.
 ---
-
-
-
-
 Have you visited [the “Killed by Google” website](https://killedbygoogle.com/) before?
 
 [https://killedbygoogle.com/](https://killedbygoogle.com/)

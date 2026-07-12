@@ -3,8 +3,19 @@ date: 2022-04-24 18:48:29+00:00
 description: A look at FinOps and Swedish rock band lyrics
 permalink: /archive/fudge-sunday-finops-erase-and-rewind/
 title: Fudge Sunday - FinOps Erase and Rewind
+faq:
+- question: What is the purpose of the infracost/actions repository mentioned in the
+    text?
+  answer: The infracost/actions repository provides a set of GitHub actions for Infracost
+    that allow users to see cloud cost estimates for Terraform in pull requests.
+- question: What is 'A Field Guide to Hype' about?
+  answer: It is a daily companion to hype that explores its uses and misuses, helping
+    readers become skilled surveyors of the modern hype landscape and identify the
+    rhetoric, dangers, and drivers behind it.
+- question: What update was shared regarding Ashley Willis in the post?
+  answer: The post reported that Ashley Willis, the head of developer relations, left
+    Microsoft to join Google.
 ---
-
 This week we look at FinOps and Swedish rock band lyrics
 
 The Cardigans - Erase & Rewind (1999)

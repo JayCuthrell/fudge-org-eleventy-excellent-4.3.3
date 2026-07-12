@@ -3,8 +3,18 @@ date: 2019-04-15 03:42:29+00:00
 description: ''
 permalink: /archive/fudge-sunday-reflections-on-a-dot-com-legacy/
 title: Fudge Sunday - Reflections on a Dot-Com Legacy
+faq:
+- question: What was the author's first merger experience?
+  answer: The author's first merger occurred when Bay Networks was acquired by Nortel
+    in 1998.
+- question: Which company acquired iXL in 2001?
+  answer: Scient acquired iXL in 2001 during the dot-com bubble burst.
+- question: What is the significance of the evolution of the companies mentioned in
+    the post over 20 years?
+  answer: The author notes that various companies, including iXL and Scient, went
+    through a long and winding path of nested mergers and acquisitions to eventually
+    become part of the third largest communications company in the world, Publicis.
 ---
-
 Just over 20 years ago I met with investment groups that later turned into a new direction in my career. While the .com days were a mixed bag, some of the companies rolled up into other companies which continued to roll up into other companies. If anything, I’ve learned a lot about the long and sometimes winding path of nested mergers.
 
  **The Right Angle Turn**

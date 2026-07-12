@@ -3,9 +3,20 @@ date: 2021-07-11 14:56:41+00:00
 description: part 2 of a 5 part series
 permalink: /archive/fudge-sunday-and-all-points-in-between/
 title: Fudge Sunday - And All Points In Between
+faq:
+- question: What is the future outlook for distributed edge data centers?
+  answer: The post suggests that distributed edge data centers are going to happen
+    slowly and then seem to appear all at once, as the edges of a network are increasingly
+    considered more interesting than hyperscale data centers.
+- question: What are some of the current trends in data center construction and investment?
+  answer: While consolidation continues, there is significant investment in fabrication,
+    as shown by companies like Intel, TSMC, and GlobalFoundries investing billions
+    into chip manufacturing facilities in states like New Mexico, Arizona, New York,
+    and Vermont.
+- question: What does Faction provide for customers?
+  answer: Faction offers cloud locations worldwide—ranging from Portland to Sydney—that
+    provide customers with low costs and multi-cloud service without downtime.
 ---
-
-
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 2 of a 5 part series

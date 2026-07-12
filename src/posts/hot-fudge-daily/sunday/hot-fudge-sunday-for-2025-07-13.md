@@ -3,11 +3,22 @@ title: "🌶️ Hot Fudge Sunday for 2025-07-13"
 permalink: "/archive/hot-fudge-sunday-for-2025-07-13/"
 description: "Automation goals, market spice, AI funding, power in tech, Langchain community & Intel's future"
 date: 2025-07-13 13:00:00.000+00:00
+faq:
+- question: What is the primary theme discussed in the 'Throwback Thursday' section?
+  answer: The primary theme discussed is power, specifically focusing on its importance
+    in data centers and the considerations surrounding small modular reactors (SMR)
+    and nuclear power options.
+- question: Which tech company was identified as a major story in the 'Final Thoughts
+    Friday' segment?
+  answer: LangChain was identified as the big tech story of the week, with the author
+    highlighting the rapid growth of its community.
+- question: What is the author's assessment of Intel's market performance based on
+    the blog post?
+  answer: The author notes that Intel is currently experiencing significant challenges,
+    including layoffs and a poor stock price performance compared to NVIDIA. Based
+    on market capitalization, Intel is outside the top 10 list of semiconductor companies
+    and risks falling out of the top 20.
 ---
-
-
-
-
 Thanks again for sticking with new formats and redirects. 🤓
 
 {{ subscribe_form }}

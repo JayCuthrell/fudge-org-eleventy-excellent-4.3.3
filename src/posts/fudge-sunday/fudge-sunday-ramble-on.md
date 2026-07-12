@@ -3,9 +3,20 @@ date: 2022-05-29 20:44:40+00:00
 description: ''
 permalink: /archive/fudge-sunday-ramble-on/
 title: Fudge Sunday - Ramble On
+faq:
+- question: What is the author's theory regarding the 'great resignation' in the context
+    of hyperscale cloud service providers?
+  answer: The author suggests that hiring by hyperscale cloud service providers represents
+    a talent sequestration model, drawing talent away from incumbent Enterprise products,
+    sales, and operations companies.
+- question: Which companies were identified as the most common sources of talent for
+    the hyperscale cloud service providers mentioned in the post?
+  answer: The top companies identified were Dell Technologies, Cisco, VMware, and
+    Red Hat.
+- question: What update does the author provide regarding the newsletter's format?
+  answer: The author notes that after a year of using Revue, the newsletter will migrate
+    to a new provider and introduce new formats in the coming weeks and months.
 ---
-
-
 This week is a quick look a back at the “great resignation”.
 
 *Note: After a solid year using Revue for this newsletter, new formats will arrive in the coming weeks (and months) from a new provider after we migrate everything over.*

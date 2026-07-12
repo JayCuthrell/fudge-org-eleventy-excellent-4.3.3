@@ -3,12 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2024-12-08"
 permalink: "/archive/hot-fudge-sunday-for-2024-12-08/"
 description: "This week I&#39;m sharing my journey through the Gartner conference while keeping up with market insights and hot takes!"
 date: 2024-12-08 16:30:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL.
+- question: How does the author track stock market performance for the 'Markets Monday'
+    section?
+  answer: The author uses a Yahoo Finance stock screener with specific filters—including
+    region, market cap, price, volume, sector, and industry—to create a heat map snapshot
+    of the market based on Monday's closing bell.
+- question: What is the source of the links featured in the 'Wacky Wednesday' section?
+  answer: The links featured in the Wacky Wednesday section are selected from interesting
+    content shared across dozens of Slack communities.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

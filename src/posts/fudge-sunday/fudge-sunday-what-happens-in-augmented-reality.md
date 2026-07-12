@@ -2,10 +2,22 @@
 title: "Fudge Sunday - What Happens in Augmented Reality Stays in Augmented Reality"
 description: ''
 date: 2019-02-25 06:20:52+00:00
+faq:
+- question: What common theme regarding self-driving cars did the author encounter
+    during conversations with Lyft drivers?
+  answer: A common theme was predicting when self-driving cars would become viable
+    in markets beyond those that are densely populated and constantly mapped.
+- question: What concern does the author raise regarding the use of machine learning
+    (ML) models in critical applications?
+  answer: The author is concerned that if companies use flawed data sets to train
+    ML models, the resulting applications could be unethical, unrealistic, or unsatisfactory,
+    potentially leading to dangerous real-world consequences.
+- question: How does the author suggest AR and VR could be used in relation to machine
+    learning?
+  answer: The author suggests that AR and VR could provide a safer space or 'construct'
+    to test and apply findings from machine learning data sets before implementing
+    them in the real world.
 ---
-
-
-
 This past week seemed to follow an augmented reality theme in the regular places I read. Techmeme, A16Z podcast, and even Hacker News provided multiple references to augmented reality, virtual reality, 5G ubiquity, and the widening adoption of gaming technologies.
 
 During recent trips on Lyft, the driver and passenger (me) conversations trended to technology discussions. I like to ask drivers if they are full time or part time with Lyft, Uber, or any other TNCs. One common theme was the prediction of when self-driving cars would be viable in any markets beyond denser and constantly mapped markets.

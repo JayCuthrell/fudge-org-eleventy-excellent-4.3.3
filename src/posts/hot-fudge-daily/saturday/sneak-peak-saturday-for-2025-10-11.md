@@ -3,8 +3,18 @@ title: "🔮 Sneak Peak Saturday for 2025-10-11"
 permalink: "/archive/sneak-peak-saturday-for-2025-10-11/"
 description: "Cyber criminal whack-a-mole"
 date: 2025-10-11
+faq:
+- question: What action did the FBI take regarding BreachForums?
+  answer: The FBI seized the domains for the data leak and extortion site known as
+    BreachForums.
+- question: How did the operators of BreachForums respond to the FBI's seizure?
+  answer: The operators of the site claimed that their operations remained unaffected
+    by the law enforcement action.
+- question: What does the author suggest this event illustrates about the fight against
+    cybercrime?
+  answer: The author suggests this event highlights the frustrating, asymmetric, and
+    cyclical nature of the ongoing battle against cyber criminals.
 ---
-
 Friday provided a classic trope from the world of cybersecurity that plays out with dependable regularity: The triumphant law enforcement takedown, immediately followed by the defiant criminal taunt.
 
 Early Friday morning, a story broke that had all the hallmarks of a major victory for the good guys. The FBI announced it had [seized the domains for BreachForums](https://www.techmeme.com/251010/p7#a251010p7), a data leak and extortion site.

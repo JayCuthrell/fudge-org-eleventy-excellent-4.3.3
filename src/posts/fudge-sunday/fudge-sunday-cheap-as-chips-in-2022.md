@@ -3,9 +3,22 @@ date: 2021-12-27 02:29:29+00:00
 description: ''
 permalink: /archive/fudge-sunday-cheap-as-chips-in-2022/
 title: Fudge Sunday - Cheap as Chips in 2022
+faq:
+- question: What does the author suggest about the future of semiconductor availability
+    in 2022?
+  answer: The author suggests that based on high spending on fabrication facilities
+    and patterns observed from the past, we may be on a path to a 'cheap as chips'
+    future in 2022.
+- question: What historical event in 2011 did the author contrast with the current
+    semiconductor supply chain situation?
+  answer: The author recalled the 2011 Thailand monsoon and flooding, which disrupted
+    global manufacturing supply chains and led to a year of hard disk drive shortages.
+- question: What are three modern demand patterns for chips identified by the author?
+  answer: The author identified that chips are going into everything with a physical
+    void to fill, smarter devices are impacting a wider range of supply chains, and
+    chips with radios capable of accessing multiple networking standards are becoming
+    more common.
 ---
-
-
 This week we are looking ahead to Cheap as Chips in 2022!
 
  **Getting Informed**

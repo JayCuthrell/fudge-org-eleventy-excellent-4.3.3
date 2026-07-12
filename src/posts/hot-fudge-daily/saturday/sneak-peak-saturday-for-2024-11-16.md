@@ -3,10 +3,19 @@ title: "🔮 Sneak Peak Saturday for 2024-11-16"
 permalink: "/archive/sneak-peak-saturday-for-2024-11-16/"
 description: "I’m highlighting Friday&#39;s overlooked stories amid the week&#39;s news frenzy and memes."
 date: 2024-11-16 17:24:09.374566+00:00
+faq:
+- question: What is the common trope associated with news updates released on a Friday?
+  answer: The trope suggests that news updates are released on Fridays to try and
+    sneak information past wider coverage, which the author describes as peak patronizing
+    publishing.
+- question: How does the author characterize the pace of news coverage throughout
+    the week?
+  answer: The author notes that news coverage often reaches a fever pitch by Friday
+    as deadlines approach.
+- question: What is the purpose of this blog post?
+  answer: The purpose is to share stories that readers might have missed during the
+    slow news cycle of a Friday.
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀

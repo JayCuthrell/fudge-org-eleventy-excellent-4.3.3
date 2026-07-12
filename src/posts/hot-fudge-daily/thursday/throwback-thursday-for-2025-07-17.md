@@ -3,8 +3,15 @@ title: "🔙 Throwback Thursday for 2025-07-17"
 permalink: "/archive/throwback-thursday-for-2025-07-17/"
 description: "The 20-year journey to convergence of Android with ChromeOS"
 date: 2025-07-17 22:31:45.947+00:00
+faq:
+- question: What is the major convergence story recently reported regarding Google's
+    operating systems?
+  answer: Android will soon combine with ChromeOS.
+- question: When did Google acquire Android?
+  answer: Google acquired Android 20 years ago.
+- question: How long after the Android acquisition did Google launch ChromeOS?
+  answer: Google launched ChromeOS less than 5 years after acquiring Android.
 ---
-
 One convergence story that caught my eye this week: Android will soon combine with ChromeOS
 
 https://www.techmeme.com/250714/p6#a250714p6

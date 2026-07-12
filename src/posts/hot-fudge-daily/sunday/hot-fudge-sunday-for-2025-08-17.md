@@ -3,8 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-17"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-17/"
 description: "Updates to workflows, tech throwbacks and more"
 date: 2025-08-17 13:05:49.720+00:00
+faq:
+- question: What updates were made to the Hot Fudge Daily workflow last week?
+  answer: Hot Fudge Daily is now free and available at fudge.org, the look and feel
+    was improved through URL unfurling, and Buttondown APIs were integrated to power
+    the writing workflow and Sunday email deliveries.
+- question: Which companies received funding for AI-related initiatives as noted in
+    the 'Hot Takes Tuesday' section?
+  answer: The companies mentioned include Tahoe Therapeutics ($30M), Profound ($35M),
+    Squint ($40M), and Merge Labs ($250M).
+- question: What is the purpose of the Alumni section in the newsletter?
+  answer: The Alumni section is a list of individuals from the author's LinkedIn network
+    who have successfully transitioned to their next career adventure.
 ---
-
 {{ subscribe_form }}
 
 ## Last Week

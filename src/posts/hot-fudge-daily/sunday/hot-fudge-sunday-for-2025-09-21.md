@@ -3,8 +3,20 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-21"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-21/"
 description: "IT issues in golf, markets, funding, IPOs, and H1-B visa fees"
 date: 2025-09-21
+faq:
+- question: What fee is being imposed on H1-B visas according to the Executive Order
+    discussed in the post?
+  answer: The Executive Order imposes a $100,000 fee on H1-B visas.
+- question: Which company received the largest funding amount listed under the 'Hot
+    Takes Tuesday' section?
+  answer: Figure, an AI-powered humanoid robotics company, received the largest funding
+    amount of over $1 billion ($1B+).
+- question: What was the biggest story highlighted for 'Final Thoughts Friday' on
+    September 19, 2025?
+  answer: The biggest story highlighted was the return of tech IPO activity, referencing
+    several IPOs that have occurred throughout the year such as Pattern Group, Netskope,
+    and Gemini Space Station, Inc.
 ---
-
 ## Last Week
 
 ⛳️ [Jason Pullo](https://www.linkedin.com/in/jason-pullo-61927b9/) at [ESP, a NexusTek company](https://www.nexustek.com/esp) shared deep golf industry insights in [Part 1 of a multi-part series of posts on the Top 10 IT Issues in Golf](https://www.nexustek.com/insights/golf-it-challenges-part-1).

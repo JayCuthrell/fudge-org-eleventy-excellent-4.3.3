@@ -2,11 +2,18 @@
 title: "Fudge Sunday - When a Clubhouse asks if Enterprise selling can be remote"
 description: ''
 date: 2021-06-11 00:45:20+00:00
+faq:
+- question: What was the main topic of the Clubhouse session discussed in the post?
+  answer: 'The session was titled ''Enterprise GTM: Can Enterprise Selling Be Remote?''
+    and focused on the future of enterprise selling in a remote world.'
+- question: How did the participants view the use of Zoom in a professional context?
+  answer: Participants described Zoom as performative, a matter of digital competency,
+    and not a substitute for deep substantive engagement, noting that it can sometimes
+    place individuals at a disadvantage.
+- question: What alternative tool did the post highlight for async proposals and discussions?
+  answer: The post mentioned that many innovative companies are using Loom to provide
+    'doses of value' as a basis for asynchronous proposals and discussions.
 ---
-
-
-
-
 Clubhouse is a recent app installation for me. I am more bullish on Twitter Spaces combining Revue for more fully vertical stack.
 
 That said, I saw an interesting Clubhouse popup regarding Enterprise selling and decided to live Quote Tweet it. The results are below the line.

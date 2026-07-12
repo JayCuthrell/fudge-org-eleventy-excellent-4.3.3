@@ -3,13 +3,17 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-15"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-15/"
 description: "This week, I’m streamlining with feedback, sharing event highlights, and a new meeting make-over!"
 date: 2025-06-15 13:55:44+00:00
+faq:
+- question: What events did NexusTek participate in last week?
+  answer: Last week, NexusTek attended Triangle Biotech Tuesday, presented at a business
+    leader event in NYC on Wednesday, and hosted an exclusive event in NYC on Thursday.
+- question: How can readers request a meeting with Jay Cuthrell?
+  answer: Readers can request a meeting with Jay Cuthrell by visiting his new meeting
+    maker landing page at https://info.nexustek.com/request-a-meeting-with-jay-cuthrell.
+- question: What is the purpose of the Alumni section in the newsletter?
+  answer: The Alumni section is for individuals in the author's network who have successfully
+    transitioned to their next career adventure.
 ---
-
-
-
-
-
-
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 {{ subscribe_form }}

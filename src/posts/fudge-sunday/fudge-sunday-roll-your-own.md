@@ -3,8 +3,22 @@ date: 2019-04-08 02:11:45+00:00
 description: A possible result of importing and exporting
 permalink: /archive/fudge-sunday-roll-your-own/
 title: Fudge Sunday - Roll Your Own
+faq:
+- question: What significant shift in user interest is highlighted regarding social
+    media platforms?
+  answer: There is a growing, renewed interest in moving away from centralized social
+    media platforms toward self-hosted, decentralized, and federated options.
+- question: What risks are associated with storing content on centralized social media
+    platforms?
+  answer: Users risk having their digital information sold, being involved in geopolitical
+    issues, having embarrassing items permanently preserved in the public domain,
+    or losing their cherished digital items entirely if a platform shuts down.
+- question: How does the author analogize social media to cigarettes?
+  answer: The author compares social media to cigarettes, noting that while both have
+    seen massive adoption, the negative side effects are just beginning to be fully
+    considered, and switching to decentralized alternatives might be like slowing
+    down one's habit rather than quitting entirely.
 ---
-
 When I started collecting links this week I had no idea how I would conclude. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
 
  **Go Your Own Way**

@@ -3,9 +3,15 @@ title: "🤪 Wacky Wednesday for 2024-09-18"
 permalink: "/archive/wacky-wednesday-for-2024-09-18/"
 description: "Discover this week&#39;s curated links from Slack communities, all safe for work! 🌐✨"
 date: 2024-09-19 05:58:45.187114+00:00
+faq:
+- question: How often does the author curate this list of links?
+  answer: The author curates the list of links every Wednesday.
+- question: What is the criteria for the links selected for the list?
+  answer: The author selects the most interesting links shared across dozens of Slack
+    communities.
+- question: Are the shared links appropriate for all environments?
+  answer: Yes, the author ensures that the provided list is always safe for work.
 ---
-
-
 Each Wednesday I go through dozens of Slack communities.
 
 I then select the most interesting shared links.

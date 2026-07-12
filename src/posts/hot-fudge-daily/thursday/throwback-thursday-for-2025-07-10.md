@@ -3,9 +3,18 @@ title: "🔙 Throwback Thursday for 2025-07-10"
 permalink: "/archive/throwback-thursday-for-2025-07-10/"
 description: "Diving into the power-hungry world of data centers and their sustainability!"
 date: 2025-07-10 23:36:54.131+00:00
+faq:
+- question: What is a central theme discussed in the blog post?
+  answer: The blog post focuses on the theme of power, specifically regarding its
+    critical importance to data centers.
+- question: Has the author previously explored the use of nuclear power in data centers?
+  answer: Yes, the author has been tracking the use of SMR (Small Modular Reactor)
+    power for data centers for some time and has also covered larger nuclear power
+    options.
+- question: Is the high power consumption of data centers a recent development?
+  answer: No, the author notes that the power-hungry nature of data centers is not
+    a new phenomenon.
 ---
-
-
 One theme that caught my eye this week: Power
 
 [https://www.techmeme.com/250710/p6#a250710p6](https://www.techmeme.com/250710/p6#a250710p6)

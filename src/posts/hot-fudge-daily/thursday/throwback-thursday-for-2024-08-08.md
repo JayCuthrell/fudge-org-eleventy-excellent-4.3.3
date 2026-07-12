@@ -3,10 +3,20 @@ title: "🔙 Throwback Thursday for 2024-08-08"
 permalink: "/archive/throwback-thursday-for-2024-08-08/"
 description: "Throwback Thursday revisits past tech predictions, looking at how they played out today."
 date: 2024-08-09 02:33:04.249013+00:00
+faq:
+- question: What is Throwback Thursday?
+  answer: Throwback Thursday is a newsletter section based on the 'Shot and Chaser'
+    feature, which examines prior predictions or past news coverage to see how they
+    have played out in the present.
+- question: Why has the author moved away from embedding tweets in their 'Shot and
+    Chaser' posts?
+  answer: The author finds embedding tweets difficult or impossible due to changes
+    in Twitter ownership, link rot (removed URLs), and transitions between different
+    newsletter platforms.
+- question: What tool does the author recommend for viewing historical news headlines?
+  answer: The author recommends Techmeme, noting that it is very effective for viewing
+    historical tech news.
 ---
-
-
-
 Throwback Thursday is based upon the classic Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.
 
 Past examples of "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)" included embedding tweets. However, as I come across tweets in my newsletter archive, I find the change in Twitter ownership, removed URLs (link rot), and transitions between newsletter platforms rendered this content difficult or, sadly, impossible to follow.

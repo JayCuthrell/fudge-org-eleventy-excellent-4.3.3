@@ -5,9 +5,21 @@ description: A look at portmanteaus of Development and Operations (DevOps) makin
   and more
 permalink: /archive/fudge-sunday-everything-counts-in-ops-amounts/
 title: Fudge Sunday - Everything Counts in Ops Amounts
+faq:
+- question: What are some examples of 'SomethingOps' mentioned in the text?
+  answer: The text mentions FinOps, DataOps, MLOps, and DevCommsOps as examples of
+    variations on DevOps that are emerging as functions within organizations.
+- question: What factors does Sarah Drasner highlight as hidden costs that the industry
+    should be more considerate of?
+  answer: Sarah Drasner highlights interviewing, developer experience gaps, performance,
+    ramp up/down, internal training, and process with little outcome or value as hidden
+    costs.
+- question: Why does the text emphasize the importance of hiring and retaining great
+    technical writers?
+  answer: The text states that great technical writers are important because well-indexed
+    documentation is discovered, well-written documentation is consulted, and well-executed
+    documentation is enduring.
 ---
-
-
 This week we take a look at portmanteaus of Development and Operations (DevOps) making inroads toward operationalizing Finance, Data Management, Machine Learning, Communications, and more
 
 Depeche Mode - Everything Counts (Official Video)

@@ -3,10 +3,18 @@ title: "🔮 Sneak Peak Saturday for 2024-12-14"
 permalink: "/archive/sneak-peak-saturday-for-2024-12-14/"
 description: "As the news frenzy winds down, here’s a roundup of the week’s overlooked stories and memes."
 date: 2024-12-14 23:17:14.663930+00:00
+faq:
+- question: What is the phenomenon mentioned regarding news updates on Fridays?
+  answer: It is a common practice where news updates are released on a Friday in an
+    attempt to sneak them past wider coverage.
+- question: How does the author describe the trend of news coverage throughout the
+    week?
+  answer: The author notes that news coverage often reaches a fever pitch by Friday
+    as deadlines approach.
+- question: What term does the author use to describe the practice of releasing news
+    on a Friday?
+  answer: The author describes this practice as peak patronizing publishing.
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀

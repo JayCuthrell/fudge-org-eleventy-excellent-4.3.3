@@ -3,10 +3,19 @@ title: "Sneak Peak Saturday"
 permalink: "/archive/sneak-peak-saturday/"
 description: "Unveiling overlooked tech news with a sprinkle of satire."
 date: 2024-06-08 19:08:53.217023+00:00
+faq:
+- question: What is the meaning behind the title 'Sneak Peak'?
+  answer: It is a play on words referring to news updates often released on Fridays
+    to avoid wider coverage, which the author describes as a form of peak patronizing
+    publishing.
+- question: What changes are being made to the Buttondown platform?
+  answer: The author is updating the images in anticipation of subscriptions and is
+    opening the archives to public viewing for the first day of each theme.
+- question: What kind of content does the Sneak Peak Saturday blog post feature?
+  answer: It features overlooked tech news presented with a sprinkle of satire, specifically
+    highlighting stories that may have been missed during the slower news cycle of
+    a Friday.
 ---
-
-
-
 # Sneak Peak Saturday
 
 Unveiling overlooked tech news with a sprinkle of satire.

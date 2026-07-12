@@ -3,10 +3,14 @@ title: "🤪 Wacky Wednesday for 2024-09-04"
 permalink: "/archive/wacky-wednesday-for-2024-09-04/"
 description: "I curate the top Slack links for you every week in this safe-for-work email."
 date: 2024-09-05 00:16:01.371854+00:00
+faq:
+- question: How often are the link lists published?
+  answer: The lists are published each Wednesday.
+- question: Where does the author find the links for the posts?
+  answer: The author selects them from dozens of Slack communities.
+- question: Are the links shared in the blog post safe for work?
+  answer: Yes, the author ensures the list is always safe for work.
 ---
-
-
-
 Each Wednesday I go through dozens of Slack communities and select the most interesting shared links. This will always be a safe for work list. 🙈
 
 [https://www.youtube.com/watch?v=I2kbdl1P2PI](https://www.history.com/news/mailing-children-post-office)

@@ -3,12 +3,20 @@ title: "Throwback Thursday for 2024-07-11"
 permalink: "/archive/throwback-thursday-for-2024-07-11/"
 description: "Throwback Thursday revisits past predictions and news coverage, highlighting the evolution of tech trends like Cloudflare."
 date: 2024-07-11 20:18:46.376960+00:00
+faq:
+- question: What is the format of the new Throwback Thursday series?
+  answer: Throwback Thursday is a format based on the 'Shot and Chaser' section of
+    the Fudge Sunday Weekly newsletter, which examines past predictions or news coverage
+    to see how they have held up in the present.
+- question: Why has it become difficult to access past 'Shot and Chaser' content?
+  answer: Much of the older content is difficult to follow due to changes in Twitter
+    ownership, the degradation of URLs known as link rot, and transitions between
+    different newsletter platforms.
+- question: How has Cloudflare's role evolved in the industry according to the post?
+  answer: Cloudflare has evolved from providing protection against DDoS attacks from
+    residential botnets to offering similar protections against bots running on hyperscale
+    cloud platforms that scrape website data to feed into A.I. models.
 ---
-
-
-
-
-
 # Throwback Thursday for 2024-07-11
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.

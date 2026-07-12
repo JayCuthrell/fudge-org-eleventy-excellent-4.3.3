@@ -3,8 +3,19 @@ date: 2021-09-06 00:34:16+00:00
 description: ''
 permalink: /archive/fudge-sunday-data-portability/
 title: Fudge Sunday - Data Portability
+faq:
+- question: What is the definition of data portability?
+  answer: Data portability is the means of ensuring that data within a service is
+    not prevented from extraction and reuse independently or with another service.
+- question: What is an example of complex data portability?
+  answer: A complex example of data portability is accessing structured and unstructured
+    data from a social photo-sharing service, such as raw timelines, social updates,
+    comments, and metadata, in open formats like JSON or zip files that are accessible
+    independently or can be imported into another service.
+- question: What was the purpose of The Data Transfer Project launched in 2018?
+  answer: The Data Transfer Project represented an open platform created to enable
+    the movement of user data between different services.
 ---
-
 This week we look at the world of data portability from 2005 to present. Along the way, we’ll examine how long it can take for the impact of data gravity to be felt in the consumer, commercial, and Enterprise markets.
 
  **Last week: "the ibles and the ables"**

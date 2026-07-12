@@ -2,10 +2,21 @@
 title: "Fudge Sunday - Life at 34,000 Feet"
 description: ''
 date: 2019-04-01 04:23:18+00:00
+faq:
+- question: What was AirFone?
+  answer: AirFone was an early in-flight communication technology that featured corded
+    or cordless telephone handsets in airplane seats, which eventually saw a decline
+    in use due to market realities.
+- question: When did airlines begin adding the first generation of in-flight air-to-ground
+    broadband?
+  answer: Airlines began adding the first generation of in-flight air-to-ground broadband
+    accessible via Wi-Fi around 2011.
+- question: How does the author describe the quality of current in-flight broadband
+    compared to older services?
+  answer: The author notes that recent in-flight broadband services are significantly
+    improved, sometimes providing faster speeds than the free Wi-Fi found in coffee
+    shops or hotels.
 ---
-
-
-
 My travel has [picked up](https://fudge.org/archive/my-eighth-year-at-dell/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) in 2019. On a recent flight I discovered the captive portal experiences for the latest generation of in-flight broadband has come a long way. Below are links to help frame the peaks and valleys of connected experiences going back to the 1980s.
 
  **The year was 1982...**

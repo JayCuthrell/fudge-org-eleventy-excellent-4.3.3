@@ -3,10 +3,18 @@ title: "🔮 Sneak Peak Saturday for 2025-07-12"
 permalink: "/archive/sneak-peak-saturday-for-2025-07-12/"
 description: "Dissecting Intel's shaky ranking, CEO's motive, and the firm's struggles amid layoffs / divestitures"
 date: 2025-07-12 16:10:58.568+00:00
+faq:
+- question: Is Intel currently in the Top 10 semiconductor companies by revenue?
+  answer: Yes, Intel's revenue of approximately $50 billion is sufficient to keep
+    it in a Top 10 list.
+- question: Why does the author suggest Intel is outside of the Top 10 list?
+  answer: The author indicates that Intel falls outside the Top 10 list when measured
+    specifically by market capitalization performance.
+- question: What other significant news regarding Intel's business operations was
+    mentioned in the post?
+  answer: The post highlights that Intel is continuing to conduct layoffs and is expected
+    to sell off business segments that are not considered core to its operations.
 ---
-
-
-
 I’ve selected a Friday news dump item that reached a peak level of trope, cliché, or bromide on the slowest news day that may be attempting to avoid wider coverage.
 
 [https://www.techmeme.com/250711/p11#a250711p11](https://www.techmeme.com/250711/p11#a250711p11)

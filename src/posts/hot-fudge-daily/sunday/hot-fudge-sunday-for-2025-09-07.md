@@ -4,8 +4,23 @@ permalink: "/archive/hot-fudge-sunday-for-2025-09-07/"
 description: "AI in agriculture, tech, art, science, and more"
 date: 2025-09-07
 tags: [quantum]
+faq:
+- question: What were some of the key AI-related companies that received funding recently?
+  answer: Funding was recently announced for several companies including Kite ($18M),
+    Aurasell ($30M), OpenLight ($34M), Phasecraft ($34M), Paragraf ($55M), LayerX
+    ($100M), and Anthropic ($13B).
+- question: What is the primary focus of the 'Final Thoughts Friday' section for September
+    5, 2025?
+  answer: The post highlights the advances in the crossover of art and science and
+    how these tools are becoming increasingly democratized, specifically noting the
+    potential for deepfake technology to become imperceptible over time.
+- question: What does the author suggest could be part of a massive $600B investment
+    in AI infrastructure?
+  answer: The author suggests a potential $600B investment could include selecting
+    strategic global locations, building AI-optimized data centers, constructing solar
+    and power-storage facilities, integrating SMR power infrastructure, and transitioning
+    to custom silicon and quantum computing.
 ---
-
 ## Last Week
 
 It was a short but busy week of [NexusTek professional services](https://www.nexustek.com/it-consulting/professional-services) updates, [a digital transformation in horticulture discussion with Griffin Greenhouse Supplies](https://www.brighttalk.com/webcast/20887/652183), and a [Tech Field Day Podcast on Agentic AI](https://www.youtube.com/watch?v=oCrrotz6Wms

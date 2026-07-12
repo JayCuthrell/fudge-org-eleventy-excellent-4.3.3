@@ -3,13 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2024-12-22"
 permalink: "/archive/hot-fudge-sunday-for-2024-12-22/"
 description: "This edition celebrates our new sponsor, NexusTek, sharing who is #opentowork, and exploring hot market trends!"
 date: 2024-12-22 23:30:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    Hot Fudge Daily paid newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: What criteria are used for the Yahoo Finance screener heat map view mentioned
+    in the post?
+  answer: 'The screener uses several filters including: percent change in price (intraday)
+    greater than 4, United States region, Mid/Large/Mega Market Cap, price greater
+    than or equal to 5, volume greater than 15,000, and a specific selection of technology-related
+    sectors and industries.'
+- question: 'What is the purpose of the LinkedIn #OpenToWork highlight in the newsletter?'
+  answer: 'The newsletter highlights a community reader who is currently #OpenToWork
+    each week as part of an initiative established per the results of a reader survey.'
 ---
-
-
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---

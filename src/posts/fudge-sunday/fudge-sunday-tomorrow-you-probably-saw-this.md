@@ -2,10 +2,21 @@
 title: "Fudge Sunday - Tomorrow You Probably Saw This Already"
 description: ''
 date: 2019-04-21 20:45:05+00:00
+faq:
+- question: What point does the blog post make about the history of electric vehicles?
+  answer: The post highlights that while electric vehicles are often presented as
+    the future, they have a significant past, with examples like a 1912 electric truck
+    and the 1947 Tama Electric Car demonstrating that the future often arrives when
+    there is a necessity for it.
+- question: Are elevator operators still relevant in modern times?
+  answer: Yes, there are still use cases where human elevator operators are employed
+    to perform tasks primarily associated with self-service buttons, demonstrating
+    that human-driven examples persist even in modern service design.
+- question: What is the primary copyright concern regarding AI-produced music?
+  answer: The primary concern involves determining who should be paid for AI-generated
+    music, specifically whether copyright should belong to humans, the creators of
+    the AI machines, or other entities.
 ---
-
-
-
 In this issue, we take a look at the future, past, and the creative combinations of both marked by technology and popular media. We’ll look at the relics that persist and the promises yet to be realized. Along the way, the potential for unintended parachronism grows larger with each passing year.
 
 p.s. Thanks to the folks behind [Vecteezy Editor](https://www.vecteezy.com/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) for the new logo!

@@ -3,10 +3,16 @@ title: "🔙 Throwback Thursday for 2024-12-19"
 permalink: "/archive/throwback-thursday-for-2024-12-19/"
 description: "Exploring the implications of link rot and what it means when the web forgets."
 date: 2024-12-20 05:44:29.016888+00:00
+faq:
+- question: What is the subject matter of the blog post?
+  answer: The blog post discusses the concept of link rot, which refers to the phenomenon
+    of web links becoming broken or disappearing over time.
+- question: How long has the author been covering the topic of link rot?
+  answer: The author has written about link rot enough to create a specific topic
+    or tag for it on their website.
+- question: What technical issue does the author mention needing to fix?
+  answer: The author notes that they still need to fix their og-image script.
 ---
-
-
-
 What happens when the web forgets?
 
 [https://www.techmeme.com/241219/p15#a241219p15](https://www.techmeme.com/241219/p15#a241219p15)

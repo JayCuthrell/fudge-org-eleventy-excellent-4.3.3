@@ -4,10 +4,20 @@ permalink: "/archive/hot-fudge-sunday-for-2025-10-12/"
 description: "Hot Fudge Daily digest for the week of 10-06-2025 to 10-11-2025."
 date: 2025-10-12
 tags: ['Hot Fudge Sunday', quantum]
+faq:
+- question: What major deal did AstraZeneca finalize regarding AI development in life
+    sciences?
+  answer: AstraZeneca signed a $555 million deal to develop new drugs, signaling a
+    strategic shift toward using processing cores as a catalyst for R&D rather than
+    relying solely on traditional methods like petri dishes.
+- question: What happened to the BreachForums website according to reports from October
+    10th?
+  answer: The FBI announced they had seized the domains for the data leak and extortion
+    site known as BreachForums, though operators of the site later claimed their operations
+    remained unaffected.
+- question: Which event does the author plan to attend in 2025?
+  answer: The author is planning to catch a few sessions at All Things Open 2025.
 ---
-
-
-
 ## Last Week
 
 * [NexusTek](https://www.nexustek.com/insights/cybersecurity-awareness-month-training) published [The Cybersecurity Awareness Month Challenge: Can Your Team Pass This Real-World Test?](https://www.nexustek.com/insights/cybersecurity-awareness-month-training)

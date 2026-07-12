@@ -3,9 +3,19 @@ date: 2022-01-03 01:13:12+00:00
 description: ''
 permalink: /archive/fudge-sunday-turn-up-the-software-defined-radio/
 title: Fudge Sunday - Turn Up the (Software Defined) Radio
+faq:
+- question: What is the HackRF One?
+  answer: The HackRF One from Great Scott Gadgets is a Software Defined Radio (SDR)
+    peripheral that has the capability to transmit or receive radio signals ranging
+    from 1 MHz to 6 GHz.
+- question: What is an RTL-SDR?
+  answer: An RTL-SDR is an inexpensive, approximately $25 USB dongle that functions
+    as a computer-based radio scanner, allowing users to receive live radio signals
+    in their area without requiring an internet connection.
+- question: Why is the designation of the 6 GHz band to unlicensed users significant?
+  answer: This designation is significant because it allows unlicensed users, meaning
+    anyone, to participate in using this large swath of the radio spectrum.
 ---
-
-
 Happy New Year! This week we take a look at the widening world of Software Defined Radios (SDRs) and edge computing solutions.
 
  **Getting Informed**

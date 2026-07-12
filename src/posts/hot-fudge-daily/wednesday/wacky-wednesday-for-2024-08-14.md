@@ -3,10 +3,16 @@ title: "🤪 Wacky Wednesday for 2024-08-14"
 permalink: "/archive/wacky-wednesday-for-2024-08-14/"
 description: "Dive into the wild world of shared links from online Slack communities every Wednesday."
 date: 2024-08-15 02:14:47.799631+00:00
+faq:
+- question: What is the purpose of the weekly blog post?
+  answer: 'The blog post shares a collection of interesting, wild, and wacky links
+    discovered in various online Slack communities'' #random channels.'
+- question: Are the links shared in the blog post appropriate for the workplace?
+  answer: Yes, the author ensures that the curated list of shared links is safe for
+    work.
+- question: When is the new collection of links typically published?
+  answer: The collection of links is published every Wednesday.
 ---
-
-
-
 Explore the wild and wacky world of shared links from online Slack communities.
 
 One unique thing about online Slack Communities is the use of #random channel. Sometimes you come across some real gems.

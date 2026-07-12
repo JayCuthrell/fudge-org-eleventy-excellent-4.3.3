@@ -3,9 +3,21 @@ date: 2022-03-27 20:29:31+00:00
 description: ''
 permalink: /archive/fudge-sunday-needle-in-a-fullstack/
 title: Fudge Sunday - Needle in a Fullstack
+faq:
+- question: What is Software Composition Analysis (SCA)?
+  answer: SCA is a method used to examine all code inherited from external sources
+    that represents a dependency, rather than code written directly by you or your
+    team.
+- question: How does Application Security Testing (xAST) differ from Run-time Application
+    Security Protection (RASP)?
+  answer: xAST is a generalized approach for scanning methods like SAST, DAST, or
+    IAST to test for vulnerabilities. RASP is a specific wrapper approach that assumes
+    a known context for the internal design of software.
+- question: What is the primary function of Sourcegraph as described in the post?
+  answer: Sourcegraph is used as a universal code search tool that helps developers
+    interact with and navigate existing or new codebases across their lifecycle, effectively
+    acting like a search engine for code.
 ---
-
-
 This week we take a closer look at DevSec, SCA, xAST, RASP, DevSecOps, FinOps, and code search.
 
 The Velvelettes "Needle in a Haystack" (1965)

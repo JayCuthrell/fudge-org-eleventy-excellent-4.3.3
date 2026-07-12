@@ -3,11 +3,19 @@ title: "Throwback Thursday for 2024-06-27"
 permalink: "/archive/throwback-thursday-for-2024-06-27/"
 description: "Throwback Thursday Edition: Reflecting on past predictions and news coverage to see how they panned out."
 date: 2024-06-27 18:56:47.684164+00:00
+faq:
+- question: What is the format of the new Throwback Thursday posts?
+  answer: Throwback Thursday posts will be based on the 'Shot and Chaser' section
+    of the Fudge Sunday Weekly newsletter, which examines past predictions or news
+    coverage and how they compare to the present.
+- question: Why is it becoming difficult to access past 'Shot and Chaser' content?
+  answer: Much of the older content is difficult to follow due to the change in Twitter
+    ownership, the degradation of URLs, and transitions between different newsletter
+    platforms.
+- question: How has the stock performance for IBM and Apple changed since 2019?
+  answer: Since 2019, IBM stock has risen approximately 30%, while Apple stock has
+    seen an increase of over 330%.
 ---
-
-
-
-
 # Throwback Thursday for 2024-06-27
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.

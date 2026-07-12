@@ -2,8 +2,20 @@
 title: "Fudge Sunday - Just Can't Get Enough"
 description: 'Getting enough'
 date: 2022-05-01
+faq:
+- question: How many links did the author find in their Safari Reading List?
+  answer: The author found 173 links in their Safari Reading List that dated back
+    to 2019.
+- question: Why does the author consider the Safari Reading List functionality to
+    be less than ideal?
+  answer: The author feels it is less than ideal because it lacks sufficient context
+    for why a URL was added, making it less useful than organized, topically named
+    bookmark folders.
+- question: What tool has the author adopted that they found more effective for knowledge
+    management?
+  answer: The author found that their shift to Obsidian has been a much more effective
+    choice for a knowledge store compared to their previous record-keeping methods.
 ---
-
 This week we examine reading lists from 2019-2022.
 
 Depeche Mode - Just Can't Get Enough (1982)

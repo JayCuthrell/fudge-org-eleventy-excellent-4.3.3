@@ -3,8 +3,17 @@ date: 2022-04-17 22:13:40+00:00
 description: ''
 permalink: /archive/fudge-sunday-come-together/
 title: Fudge Sunday - Come Together
+faq:
+- question: Which company is mentioned in the post as having acquired over 200 companies,
+    with their latest acquisition being FinOps-related?
+  answer: Cisco has made over 200 acquisitions, and their latest acquisition is Opsani,
+    which is related to FinOps.
+- question: What is the FinOps Landscape infographic, and why might it evolve?
+  answer: The FinOps Landscape infographic is a tool that will continue to evolve
+    as M&A activity continues.
+- question: How many acquisitions are attributed to VMware according to the post?
+  answer: VMware has made over 50 acquisitions.
 ---
-
 This week we take a look at mergers and acquisitions with FinOps in mind.
 
 The Beatles - Come Together (1969)

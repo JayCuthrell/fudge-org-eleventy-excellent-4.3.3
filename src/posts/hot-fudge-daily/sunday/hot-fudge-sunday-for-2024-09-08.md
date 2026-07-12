@@ -3,13 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2024-09-08"
 permalink: "/archive/hot-fudge-sunday-for-2024-09-08/"
 description: "This edition dives into tech market insights and fascinating throwbacks!"
 date: 2024-09-08 15:50:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: What criteria are used for the Yahoo Finance heatmap featured in the digest?
+  answer: 'The heatmap uses specific filters including: Price/Market Cap intraday
+    changes, United States region, Mid/Large/Mega Cap market caps, prices greater
+    than or equal to 5, volume greater than 15,000, and various Technology-related
+    sectors and industries.'
+- question: What events is the author committed to attending for the remainder of
+    the year?
+  answer: The author is attending AI Field Day 5 in September, Monktoberfest in October,
+    Cloud Field Day 21 in October, and All Things Open in late October.
 ---
-
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

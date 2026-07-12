@@ -3,8 +3,24 @@ date: 2021-10-03 21:12:39+00:00
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-status-dashboards/
 title: 'Fudge Sunday - Cloud in Public: Status Dashboards'
+faq:
+- question: What are the five key areas of service provider transparency discussed
+    in the blog post?
+  answer: The five key areas are Engineering Service Level Objectives (Engineering
+    SLO), Service Architecture and Dependency Mapping (Impact Mapping), Status Dashboards,
+    Change Plans and Logs (DevCommsOps), and Outage Root Cause Analysis (Mean Time
+    To RCA).
+- question: How has the AWS Service Health Dashboard changed since its introduction
+    in 2008?
+  answer: In 2008, the AWS Service Health Dashboard was simple and brief, covering
+    only nine services on a single page scroll. Today, it represents over 2,000 services
+    by region, requiring multiple pages and tabs of scrolling to navigate.
+- question: Which two hyperscale public cloud providers are noted for offering a personalized
+    status page?
+  answer: The two providers noted are AWS, which launched the Personal Health Dashboard
+    in 2016 as a premium service, and Azure, which launched Service Health in 2017
+    (generally available in 2018) at no additional cost.
 ---
-
 This week we take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑

@@ -3,10 +3,19 @@ title: "🔮 Sneak Peak Saturday for 2025-02-08"
 permalink: "/archive/sneak-peak-saturday-for-2025-02-08/"
 description: "Catch up on the week&#39;s overlooked stories and memes before the weekend rush!"
 date: 2025-02-08 23:39:37.914144+00:00
+faq:
+- question: What does the author suggest about news coverage on Fridays?
+  answer: The author suggests that news updates are sometimes released on Fridays
+    in an attempt to sneak them past wider coverage, which is described as peak patronizing
+    publishing.
+- question: What is the term used to describe the rush to submit news by the end of
+    the week?
+  answer: The author refers to the rush of getting news turned in before the Friday
+    deadline as a dread-line.
+- question: What is the purpose of the list provided in the blog post?
+  answer: The list is provided to share stories that readers might have missed during
+    the slow news cycle of a Friday.
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀

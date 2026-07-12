@@ -3,8 +3,16 @@ title: "🤪 Wacky Wednesday for 2024-11-20"
 permalink: "/archive/wacky-wednesday-for-2024-11-20/"
 description: "This week&#39;s email highlights intriguing Slack finds, from emus on the loose to endless shrimp news!"
 date: 2024-11-21 05:33:52.914841+00:00
+faq:
+- question: How often are the links shared?
+  answer: The links are shared every Wednesday.
+- question: What type of content is included in the list?
+  answer: The list contains interesting links that are selected from dozens of Slack
+    communities and are guaranteed to be safe for work.
+- question: How are the links for the list selected?
+  answer: The author selects the most interesting shared links after reviewing dozens
+    of Slack communities each week.
 ---
-
 Each Wednesday I go through dozens of Slack communities.
 
 I then select the most interesting shared links.

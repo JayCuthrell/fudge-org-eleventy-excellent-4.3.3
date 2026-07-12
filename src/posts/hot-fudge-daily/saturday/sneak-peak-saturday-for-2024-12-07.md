@@ -3,10 +3,17 @@ title: "🔮 Sneak Peak Saturday for 2024-12-07"
 permalink: "/archive/sneak-peak-saturday-for-2024-12-07/"
 description: "In this edition, I highlight stories that sneak past Friday&#39;s slow news facade."
 date: 2024-12-07 16:38:02.013528+00:00
+faq:
+- question: What is the author's perspective on news releases sent on a Friday?
+  answer: The author characterizes them as an attempt to sneak information past wider
+    coverage, referring to it as peak patronizing publishing.
+- question: How does the author describe the news coverage rhythm throughout the week?
+  answer: The author notes that news coverage often reaches a fever pitch by the end
+    of the week as deadlines approach.
+- question: What is the purpose of the blog post?
+  answer: The post aims to share stories that readers might have missed during the
+    slow news cycle typical of a Friday.
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀

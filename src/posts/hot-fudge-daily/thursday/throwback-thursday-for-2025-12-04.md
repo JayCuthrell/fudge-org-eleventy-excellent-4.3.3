@@ -4,8 +4,16 @@ permalink: "/archive/throwback-thursday-for-2025-12-04/"
 description: "Quantum supremacy, Let's Encrypt, and long haul in flight WiFi"
 date: 2025-12-04
 tags: [quantum]
+faq:
+- question: What is Google Workspace Studio?
+  answer: Google Workspace Studio is a no-code tool designed for creating AI agents.
+- question: How did the beta release of Let's Encrypt impact the internet?
+  answer: The beta release drove HTTPS certification to far more websites faster than
+    ever before.
+- question: Which company is Marvell planning to acquire?
+  answer: Marvell is acquiring Celestial AI for $2.35 billion to advance optical computing
+    in next-gen data centers.
 ---
-
 ### 5 Years Ago: [December 4, 2020](https://www.techmeme.com/201204/h2355)
 
 Claims of [quantum supremacy](https://www.techmeme.com/201204/p1#a201204p1) are part of the news hype cycle.

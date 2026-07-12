@@ -3,11 +3,21 @@ title: "Throwback Thursday for 2024-06-20"
 permalink: "/archive/throwback-thursday-for-2024-06-20/"
 description: "Throwback Thursday: Revisiting past predictions and tech news from 10 years ago, including Arista Networks and HubSpot."
 date: 2024-06-20 21:04:16.198072+00:00
+faq:
+- question: What is the format of the new Throwback Thursday feature?
+  answer: Throwback Thursday is based on the 'Shot and Chaser' section from the Fudge
+    Sunday Weekly newsletter, which examines past predictions or news coverage and
+    reflects on how they have turned out in the present.
+- question: Why is it difficult to access some past examples of 'Shot and Chaser'
+    content?
+  answer: Past examples are becoming difficult or impossible to follow due to changes
+    in Twitter ownership, the degradation of URLs (link rot), and the transition between
+    different newsletter platforms.
+- question: What are some examples of 2014 IPOs mentioned in the post?
+  answer: The post identifies Arista Networks, a networking company known for its
+    early drama with Cisco, and HubSpot, which has grown into a major marketing software
+    company.
 ---
-
-
-
-
 # Throwback Thursday for 2024-06-20
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.

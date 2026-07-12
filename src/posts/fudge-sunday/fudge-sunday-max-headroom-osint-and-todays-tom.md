@@ -2,11 +2,23 @@
 title: "Fudge Sunday - Max Headroom, OSINT, and Today's Tom Sawyer"
 description: ''
 date: 2022-03-07 02:40:03+00:00
+faq:
+- question: What is the importance of Operations security (OPSEC) in the context of
+    OSINT?
+  answer: According to the post, OPSEC in OSINT can be the difference between life
+    and death, as demonstrated by the potential for communication systems to reveal
+    a user's position.
+- question: How are different types of intelligence being used to track assets like
+    Russian oligarchs' jets and yachts?
+  answer: The post explains that Imagery Intelligence (IMINT), Financial intelligence
+    (FININT), and Human intelligence (HUMINT) are being combined with Signals Intelligence
+    (SIGINT) to create innovative OSINT for tracking these assets.
+- question: What does the author suggest about the state of OSINT in 2022?
+  answer: The author concludes that in 2022, there is an ever-increasing democratized
+    access to network connectivity, enriched data sources, innovative data analysis
+    tools, and ubiquitous on-demand computing capabilities, making the modern 'Max
+    Headroom' moment surpass science fiction.
 ---
-
-
-
-
 This week we take a look at Max Headroom, Open-Source INTelligence (OSINT), and today’s Tom Sawyer.
 
 Sting - Russians (1985)

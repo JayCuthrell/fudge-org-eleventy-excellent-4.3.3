@@ -4,9 +4,18 @@ description: A look at Multicloud Data Services and everything evolving to be a 
   with an increasing emphasis on observability
 permalink: /archive/fudge-sunday-multicloud-xaas-and-service-mesh/
 title: Fudge Sunday - Multicloud, XaaS, and Service Mesh
+faq:
+- question: What role does observability play in the future of multicloud?
+  answer: Increased observability is considered a key element for achieving successful
+    outcomes in a multicloud future.
+- question: What approach does eBPF take to improve service mesh performance?
+  answer: An eBPF-based service mesh aims to solve complexity and performance issues
+    by eliminating the need for sidecar proxies and moving that complexity to the
+    kernel.
+- question: What is the primary function of Isovalent as a company?
+  answer: Isovalent is a company that provides commercially supported implementations
+    of eBPF and Cilium.
 ---
-
-
 This week we take a look at Multicloud Data Services and everything evolving to be a service with an increasing emphasis on observability.
 
  **Getting Informed**

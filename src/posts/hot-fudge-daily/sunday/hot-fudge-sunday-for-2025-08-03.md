@@ -3,8 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-03"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-03/"
 description: "Unveiling the latest NexusTek podcast and data modernization services, plus more AI funding, devices, transport, and more"
 date: 2025-08-03 14:47:16.455+00:00
+faq:
+- question: What is the purpose of the new Data Modernization services launched by
+    NexusTek?
+  answer: The services are designed to create a single source of truth required for
+    successful AI and advanced analytics solutions.
+- question: What change is the author making to the 'Markets Monday' section of the
+    newsletter?
+  answer: The author is stopping the use of screenshots and will instead begin using
+    a screener to look back at the week over week.
+- question: According to the final thoughts in the newsletter, what is the major trend
+    in AI investment for the current year?
+  answer: The major trend is the staggering scale of AI value chain infrastructure
+    investment, with Meta, Microsoft, Amazon, and Alphabet collectively spending the
+    equivalent of the Chilean economy's GDP on this infrastructure.
 ---
-
 {{ subscribe_form }}
 
 ## Last week

@@ -2,10 +2,20 @@
 title: "Fudge Sunday - I Don't Know Where I'll Be Tomorrow"
 description: ''
 date: 2021-08-01 18:39:44+00:00
+faq:
+- question: What is Microsoft's Project Natick?
+  answer: Project Natick is an experimental undersea datacenter that provided a stable,
+    server-friendly dry nitrogen environment, housing 864 servers with 27.6 PB of
+    storage over two years of experimental learning.
+- question: How is the value of a network described in the article?
+  answer: The value of a network increases by connecting to as many things as possible,
+    as value is derived from ubiquity, which in turn leads to the emergence of various
+    use cases.
+- question: What is the primary challenge when utilizing large amounts of data for
+    machine learning models?
+  answer: The primary challenge is rationalizing the data based on location and time,
+    which is referred to as the spatial and temporal view.
 ---
-
-
-
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 5 of a 5 part series

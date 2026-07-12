@@ -3,8 +3,18 @@ date: 2019-05-27 05:08:23+00:00
 description: ''
 permalink: /archive/fudge-sunday-private-podcasting-and-max-headroom/
 title: Fudge Sunday - Private Podcasting and Max Headroom
+faq:
+- question: What does the blog identify as a possible telephonic inspiration for podcasting?
+  answer: The blog suggests that They Might Be Giants' 'Dial-A-Song' from 1983 may
+    be considered an original inspiration for periodic or episodic audio syndication
+    to wider audiences.
+- question: When did Apple first introduce native podcast support to iTunes?
+  answer: Apple added support for podcasts to iTunes in 2005.
+- question: Why has there been an interest in secure podcasting solutions for enterprises?
+  answer: Enterprises have sought secure podcasting solutions to enable audio message
+    syndication while avoiding the pitfalls of wide-open internet listening and ensuring
+    a more secure experience.
 ---
-
 This week we take a look at the circuitous routes that podcasts have taken over the past 20 years. Along the way, we weave in references to tropes trove of Max Headroom. From origins to fits and starts to the claiming of legitimately enduring formats, podcasts are here to stay and probably just getting started even if the new world will be millions of Blank Reg devotees.
 
  **Origin and Inspiration**

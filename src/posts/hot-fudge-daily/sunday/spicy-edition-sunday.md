@@ -3,10 +3,20 @@ title: "Spicy Edition Sunday"
 permalink: "/archive/spicy-edition-sunday/"
 description: "Uncover the spicy inspiration behind this week&#39;s Fudge Sunday edition, packed with deep links and fresh insights. 🔥"
 date: 2024-06-09 19:52:29.721231+00:00
+faq:
+- question: What is the typical writing process for Fudge Sunday?
+  answer: The author usually wakes up on Sunday morning without a set topic, spends
+    the afternoon or early evening writing between 500-1,000 words, and often finds
+    inspiration from emails received during the week or topics discovered throughout
+    the week.
+- question: How does the author find inspiration for the newsletter content?
+  answer: Inspiration often comes from emails that catch the author's eye, topics
+    encountered during the week, or sometimes from deeper research into specific subjects
+    like technology or internet history.
+- question: Does the author offer advice to others regarding their writing process?
+  answer: Yes, the author is transparent about their process and is currently working
+    with a few readers to assist them with their own newsletters and writing processes.
 ---
-
-
-
 Welcome to 🌶️ Spicy Edition Sunday!
 
 Uncover the spicy inspiration behind this week's Fudge Sunday edition, packed with deep links and fresh insights. 🔥

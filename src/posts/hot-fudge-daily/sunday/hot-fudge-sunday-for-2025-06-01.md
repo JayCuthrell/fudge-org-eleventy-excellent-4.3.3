@@ -3,13 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-01"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-01/"
 description: "This week&#39;s digest covers market movements post-Memorial Day and exciting new tech acquisitions."
 date: 2025-06-01 20:27:45+00:00
+faq:
+- question: Which company was recently named to the CRN Solution Provider 500 list
+    for 2025?
+  answer: NexusTek was named to the CRN Solution Provider 500 list for the 7th year
+    in a row.
+- question: What events are taking place in NYC on June 11-12?
+  answer: A business leader event is happening on June 11, and an exclusive invitation-only
+    event for owner/operators in the Hospitality, Leisure, and Travel industries is
+    scheduled for June 12.
+- question: Why is the Series A funding raised by Chalk AI considered significant
+    in the post?
+  answer: Chalk AI is notable for its origin story and because it is positioning itself
+    to be a company that comes after established platforms like Snowflake and Databricks,
+    rather than just building on top of them.
 ---
-
-
-
-
-
-
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 ## Last week

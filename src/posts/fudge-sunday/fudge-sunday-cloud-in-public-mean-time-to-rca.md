@@ -3,8 +3,21 @@ date: 2021-10-25 01:27:33+00:00
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-mean-time-to-rca/
 title: 'Fudge Sunday - Cloud in Public: Mean Time To RCA'
+faq:
+- question: What does 'Mean Time To RCA' refer to in the context of this blog post
+    series?
+  answer: It refers to the time it takes to produce actionable insights from a root
+    cause analysis, which in turn informs, refines, or results in creating KPIs or
+    OKRs for an organization.
+- question: Are there consistent standards for expressing 'Mean Time To RCA' among
+    hyperscale public cloud providers?
+  answer: No, the blog post notes that there are stark variations amongst the hyperscalers
+    in expressing Mean Time To RCA.
+- question: What is the primary focus of the final issue in this 5-part series?
+  answer: The final issue will look at the increasing importance of dependency mapping
+    across hyperscale public cloud service providers and consider business value engineering
+    and customer journeys.
 ---
-
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑

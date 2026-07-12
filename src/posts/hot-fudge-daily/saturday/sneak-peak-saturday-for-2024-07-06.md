@@ -3,10 +3,19 @@ title: "Sneak Peak Saturday for 2024-07-06"
 permalink: "/archive/sneak-peak-saturday-for-2024-07-06/"
 description: "Delve into overlooked tech news with a hint of satire in the latest edition."
 date: 2024-07-06 15:16:59.474973+00:00
+faq:
+- question: What is the purpose of the 'Sneak Peak Saturday' blog post?
+  answer: The post aims to unveil overlooked tech news from the week with a sprinkle
+    of satire, specifically focusing on stories that may have been released on a Friday
+    to avoid wider media coverage.
+- question: Why does the author use the term 'Sneak Peak'?
+  answer: The term is a play on words that refers to the practice of companies releasing
+    news updates on Fridays to try and slip them past public attention, which the
+    author describes as 'peak patronizing publishing'.
+- question: What kind of content is included in this edition of 'Sneak Peak Saturday'?
+  answer: This edition features a collection of links to tech news stories from the
+    week, categorized under various popular internet meme headers.
 ---
-
-
-
 # Sneak Peak Saturday for 2024-07-06
 
 Unveiling overlooked tech news with a sprinkle of satire.

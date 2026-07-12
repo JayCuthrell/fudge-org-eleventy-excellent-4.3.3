@@ -3,8 +3,19 @@ date: 2019-05-06 05:04:27+00:00
 description: ''
 permalink: /archive/fudge-sunday-las-vegas-edition/
 title: Fudge Sunday - Las Vegas Edition
+faq:
+- question: How are traditional taxi services currently performing in Las Vegas?
+  answer: Traditional taxi services in Las Vegas are trending downward, with ride-sharing
+    transportation network companies (TNCs) causing a significant disruption and decline
+    in taxi usage.
+- question: What was the initial process for summoning an Uber at the Las Vegas airport
+    during the early years of ride-sharing?
+  answer: Initially, riders had to take a rental car bus to the rental car center,
+    walk a block, cross an intersection to a gas station, and summon an Uber while
+    waiting there.
+- question: How many registered taxicab companies serve Las Vegas?
+  answer: There are sixteen registered taxicab companies serving Las Vegas.
 ---
-
 This week I made the pilgrimage to Las Vegas for Dell Technologies World and had the chance to take a lot of car services but none were via the sixteen (16) registered taxicab companies serving Las Vegas. Let’s take a look at ride-sharing in the city of sin and what is likely to be the future of getting around in just a few years.
 
 The trend is lots and lots of red...

@@ -4,8 +4,17 @@ permalink: "/archive/hot-fudge-sunday-for-2025-11-23/"
 description: "Hot Fudge Daily digest for the week of 11-17-2025 to 11-22-2025."
 date: 2025-11-23
 tags: ['Hot Fudge Sunday']
+faq:
+- question: 'Which company published the article ''Built for Breakthroughs: How Data
+    and AI Are Powering the Next Era of Life Sciences''?'
+  answer: NexusTek published this article.
+- question: What is the primary focus of the recent news regarding Figure AI?
+  answer: Figure AI is being sued by its former head of product safety, with allegations
+    that the company's 'safety first' mission statement may have been ignored.
+- question: Which major tech company's earnings were identified as the biggest story
+    for the week of November 21, 2025?
+  answer: NVIDIA's Q3 earnings were the biggest story of the week.
 ---
-
 ## Last Week
 
 * [NexusTek](https://www.nexustek.com/insights/ai-powering-life-sciences-breakthroughs) published [Built for Breakthroughs: How Data and AI Are Powering the Next Era of Life Sciences](https://www.nexustek.com/insights/ai-powering-life-sciences-breakthroughs)

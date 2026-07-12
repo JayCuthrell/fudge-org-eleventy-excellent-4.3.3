@@ -2,11 +2,18 @@
 title: "Fudge Sunday - Our Low Code No Code Past, Present, and Future"
 description: ''
 date: 2021-12-06 03:28:33+00:00
+faq:
+- question: What is the primary goal of the Low Code Application Platform (LCAP) market?
+  answer: The LCAP market is a fast-growing industry designed to help companies empower
+    people who are not software developers to build applications.
+- question: How are Developer Relations and Developer Advocacy defined in the post?
+  answer: Developer Relations focuses on enabling the adoption of a platform, while
+    Developer Advocacy refers to individuals organized to support the success of the
+    developers using that platform.
+- question: How does the post describe the future of DevOps culture?
+  answer: The future of DevOps culture is expressed as empowering and enabling users
+    to build applications for everything through the use of Low Code.
 ---
-
-
-
-
 This week we take a quick look at the past, present, and future of Low Code No Code + Developer Evangelism Relations Advocacy. Buckle up for a ride!
 
  **Getting Informed**

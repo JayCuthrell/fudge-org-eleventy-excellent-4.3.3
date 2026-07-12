@@ -4,8 +4,22 @@ permalink: "/archive/hot-fudge-sunday-for-2025-10-05/"
 description: "Hospitality IT challenges, build time optimization, AI funding, interesting acquisition strategies, and more"
 date: 2025-10-05
 tags: ['Hot Fudge Sunday']
+faq:
+- question: What is the author planning to investigate regarding their blog performance?
+  answer: The author is looking into profiling time spent in @11ty/eleventy-fetch
+    and @11ty/eleventy-img to optimize build times, which have been creeping up to
+    the 15-minute mark.
+- question: What happened to the legal framework for information sharing regarding
+    cyber attacks mentioned in the post?
+  answer: The author notes that the legal framework for information sharing regarding
+    cyber attacks (the Cybersecurity Information Sharing Act) was allowed to evaporate
+    due to political infighting.
+- question: What was the result of the acquisition of Electronic Arts (EA) mentioned
+    in the newsletter?
+  answer: A consortium led by Saudi Arabia's Public Investment Fund (PIF) and the
+    private equity firm Silver Lake acquired Electronic Arts (EA), taking the company
+    private for approximately $55 billion.
 ---
-
 ## Last Week
 
 Last week, [Jason Pullo](https://www.linkedin.com/in/jason-pullo-61927b9/) at [ESP, a NexusTek company](https://www.nexustek.com/esp) shared deep hospitality industry insights in [Now Showing: Front Row for Hospitality IT’s Greatest Challenges](https://www.nexustek.com/insights/hospitality-it-challenges-now-showing) and [From Farm to Table to Tech: The Secret Sauce for Today’s Restaurant Success](https.nexustek.com/insights/restaurant-technology-success-esp-nexustek).

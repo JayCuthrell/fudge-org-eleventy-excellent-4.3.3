@@ -3,11 +3,20 @@ title: "Throwback Thursday for 2024-06-13"
 permalink: "/archive/throwback-thursday-for-2024-06-13/"
 description: "Throwback Thursday for 2024-06-13 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for &#39;Shot and Chaser&#39;...."
 date: 2024-06-13 17:22:22.329555+00:00
+faq:
+- question: What is the format of the Throwback Thursday blog posts?
+  answer: Throwback Thursday is based on the 'Shot and Chaser' section from the Fudge
+    Sunday Weekly newsletter, which examines past predictions or news coverage and
+    how they compare to the present.
+- question: What challenges have affected the older content in the newsletter archives?
+  answer: The content has become difficult or impossible to follow due to the change
+    in Twitter ownership, the degradation of URLs (link rot), and transitions between
+    different newsletter platforms.
+- question: What does the post suggest regarding the return to office (RTO) trend?
+  answer: The post notes that RTO will likely reach an equilibrium, as the democratization
+    of technology, remote work, and the growth of data centers in the REIT category
+    continue to evolve.
 ---
-
-
-
-
 # Throwback Thursday for 2024-06-13
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.

@@ -3,10 +3,15 @@ title: "🤪 Wacky Wednesday for 2024-08-28"
 permalink: "/archive/wacky-wednesday-for-2024-08-28/"
 description: "Discover the most interesting Slack community shared links for safe for work enjoyment."
 date: 2024-08-29 01:50:10.463982+00:00
+faq:
+- question: How often does the author curate these links?
+  answer: The author goes through Slack communities and selects interesting links
+    every Wednesday.
+- question: Are the links shared in this list appropriate for all viewers?
+  answer: Yes, the author ensures that this will always be a safe-for-work list.
+- question: What is the source of the shared links?
+  answer: The links are selected from dozens of Slack communities.
 ---
-
-
-
 Each Wednesday I go through dozens of Slack communities and select the most interesting shared links. This will always be a safe for work list. 🙈
 
 [https://www.history.com/news/mailing-children-post-office](https://www.history.com/news/mailing-children-post-office)

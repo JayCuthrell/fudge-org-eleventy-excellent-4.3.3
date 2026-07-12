@@ -3,10 +3,15 @@ title: "🔙 Throwback Thursday for 2025-07-24"
 permalink: "/archive/throwback-thursday-for-2025-07-24/"
 description: "Diving into the rare occurrence of a Starlink outage today, and it's a show!"
 date: 2025-07-25 03:04:51.616+00:00
+faq:
+- question: How common are newsworthy Starlink outages?
+  answer: Newsworthy Starlink outages lasting longer than a few hours are not very
+    common, with a similar event last occurring approximately three years ago.
+- question: What evidence was used to capture the recent Starlink outage?
+  answer: The outage was captured using a RIPE probe, which demonstrated packet loss.
+- question: How long has it been since the last comparable Starlink outage?
+  answer: The last similar newsworthy outage occurred about three years ago.
 ---
-
-
-
 One outage story that caught my eye today: Starlink
 
 [https://www.techmeme.com/250724/p50#a250724p50](https://www.techmeme.com/250724/p50#a250724p50)

@@ -4,11 +4,19 @@ permalink: "/archive/hot-fudge-sunday-for-2025-01-05/"
 description: "This week, I spotlight talented professionals in my network who are #OpenToWork, sharing their LinkedIn profiles!"
 date: 2025-01-06 00:55:19.039880+00:00
 tags: [quantum]
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    Hot Fudge Daily paid newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: 'What is the purpose of the #OpenToWork section in the newsletter?'
+  answer: 'The #OpenToWork section highlights professionals in the author''s network
+    by linking to their LinkedIn profiles and quoting their LinkedIn ''About'' sections
+    to encourage readers to view their profiles, connect, and reach out to them.'
+- question: Where does the data for the 'Markets Monday' quick recap come from?
+  answer: The 'Markets Monday' quick recap uses a key indicator derived from a Yahoo
+    Finance screener using specific applied filters for stocks.
 ---
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---

@@ -3,9 +3,21 @@ date: 2021-08-23 00:21:05+00:00
 description: A look at data analytics tooling trends
 permalink: /archive/fudge-sunday-dig-your-own-sql/
 title: Fudge Sunday - Dig Your Own SQL
+faq:
+- question: Why does the author suggest looking at specific a16z podcast episodes
+    rather than the entire catalog?
+  answer: The author notes that catching up on the entire a16z catalog would take
+    a significant time investment, as the podcast has hundreds of episodes spanning
+    several years.
+- question: What topics are covered in 'The Great Data Debate' podcast episode?
+  answer: This episode covers a relational versus retrieval perspective, including
+    discussions on use cases, tooling, APIs, SQL, and other access patterns, featuring
+    executive perspectives from companies like Snowflake, Noteable, and dbt Labs.
+- question: What is the focus of the white paper mentioned in the post?
+  answer: The white paper describes a unified data analytics platform solution designed
+    for accelerated, data-driven innovations, powered by Databricks, Faction, and
+    Dell Technologies.
 ---
-
-
 This week we take a look back a year of podcasts episodes from a16z relating to data science and references to artificial intelligence and machine learning. Specifically, we’ll focus on the episodes worth downloading to your podcasting app that are evergreen and worth more than a single listen alone.
 
  **Since the last issue: 20 minutes of me talking**

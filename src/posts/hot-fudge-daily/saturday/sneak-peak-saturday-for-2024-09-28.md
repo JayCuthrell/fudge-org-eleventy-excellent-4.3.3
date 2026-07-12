@@ -3,10 +3,19 @@ title: "🔮 Sneak Peak Saturday for 2024-09-28"
 permalink: "/archive/sneak-peak-saturday-for-2024-09-28/"
 description: "As the week winds down, I highlight the sneaky stories you might&#39;ve missed on a slow news Friday."
 date: 2024-09-28 21:56:51.533533+00:00
+faq:
+- question: What is the phenomenon of news updates being released on a Friday often
+    called?
+  answer: It is referred to as 'peak patronizing publishing,' a trope where news is
+    released on Fridays to try and sneak it past wider coverage.
+- question: Why does news coverage often feel like it reaches a fever pitch during
+    the week?
+  answer: By Friday, everything seems to reach a peak as people work to turn in news
+    before the deadline or 'dread-line'.
+- question: What is the purpose of the provided blog post?
+  answer: The purpose is to share a few stories that might have been missed during
+    the slow news cycle of a Friday.
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀

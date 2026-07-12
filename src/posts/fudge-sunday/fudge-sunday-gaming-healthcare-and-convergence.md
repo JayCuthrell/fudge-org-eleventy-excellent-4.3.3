@@ -3,8 +3,18 @@ date: 2021-08-08 22:57:02+00:00
 description: A look at the state of convergence in ICT
 permalink: /archive/fudge-sunday-gaming-healthcare-and-convergence/
 title: Fudge Sunday - Gaming, Healthcare, and Convergence
+faq:
+- question: What will the author be speaking about on August 18th?
+  answer: The author will be speaking about multi-cloud data services patterns within
+    gaming and healthcare, convergence, and the world of AR / VR in our future.
+- question: How are gaming platforms being utilized in the healthcare industry?
+  answer: Gaming platforms are being used for surgical simulation, collaborative surgical
+    training, and VR/AR gaming in classrooms for health professionals, as well as
+    for therapeutic gaming applications.
+- question: What is SeGAH?
+  answer: SeGAH stands for the IEEE Serious Games and Applications for Health, a group
+    that embraces the trend of using games within healthcare.
 ---
-
 This week is going to be about gaming, healthcare, and convergence.
 
 Let’s examine topics from edge to core to cloud and all points in between.

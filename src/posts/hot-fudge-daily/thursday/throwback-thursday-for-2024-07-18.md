@@ -3,11 +3,21 @@ title: "🔙 Throwback Thursday for 2024-07-18"
 permalink: "/archive/throwback-thursday-for-2024-07-18/"
 description: "Throwback Thursday covers past predictions and news coverage, highlighting the evolution of a cybersecurity success story."
 date: 2024-07-18 21:06:13.677225+00:00
+faq:
+- question: What is the format of the new Throwback Thursday posts?
+  answer: Throwback Thursday is based on the 'Shot and Chaser' section from the Fudge
+    Sunday Weekly newsletter, which examines past predictions or news coverage to
+    see how they have unfolded in the present.
+- question: Why is some older content in the newsletter archive difficult to access?
+  answer: Changes in Twitter ownership, the degradation of URLs (link rot), and transitions
+    between different newsletter platforms have made much of the older embedded content
+    difficult or impossible to follow.
+- question: What specific company is mentioned as a potential subject of a 'Shot and
+    Chaser' update regarding 2024 acquisitions?
+  answer: The cybersecurity company Wiz is mentioned, noting that the CEO predicted
+    2024 would be the year of acquisitions and that the company has since attracted
+    the attention of Google.
 ---
-
-
-
-
 # 🔙 Throwback Thursday for 2024-07-18
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.

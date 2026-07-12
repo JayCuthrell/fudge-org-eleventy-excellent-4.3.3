@@ -3,8 +3,18 @@ date: 2019-05-13 03:40:45+00:00
 description: ''
 permalink: /archive/fudge-sunday-internet-of-things-have-changed/
 title: Fudge Sunday - Internet of Things (Have Changed)
+faq:
+- question: Was Nest the first company to release a WiFi-enabled smart thermostat?
+  answer: No, Nest was not the first; the Ecobee WiFi-enabled smart thermostat was
+    released in 2009, prior to Nest's arrival in 2011.
+- question: When did Google acquire Nest?
+  answer: Google acquired Nest in 2014 for $3.2 billion.
+- question: What advice does the author give to home automation enthusiasts regarding
+    long-term investments?
+  answer: The author advises that if you plan for a long-term home automation setup,
+    you should ensure the operating manual is easy to find and apply for those who
+    may follow behind you.
 ---
-
 The past few days have been confusing and frustrating for home automation enthusiasts that made investments in Nest products. How did we get here?This week we take a look at Nest.
 
  **Turn off the lights when you leave...**

@@ -3,8 +3,17 @@ date: 2022-01-17 00:57:36+00:00
 description: ''
 permalink: /archive/fudge-sunday-fiber-to-the-homologous/
 title: Fudge Sunday - Fiber To The Homologous
+faq:
+- question: What action did AT&T take in 2010 to address mobile data capacity issues?
+  answer: AT&T committed approximately $20 billion to triple the capacity of fiber-optic
+    cables to existing cell sites and added 2,000 more cell sites compared to the
+    prior year.
+- question: What is the correlation between broadband gaps and fiber-optic capacity?
+  answer: Broadband gaps result from a lack of fiber-optic capacity, which in turn
+    stifles economic activity.
+- question: What was captured in the 2021 TeleGeography Submarine Cable Map?
+  answer: The map captured 464 cables and 1,245 landing stations.
 ---
-
 This week we look at the impact and growth of fiber-optic connectivity.
 
 🎶 i want all of what i did't have 🎶 Low - More (Official Video)

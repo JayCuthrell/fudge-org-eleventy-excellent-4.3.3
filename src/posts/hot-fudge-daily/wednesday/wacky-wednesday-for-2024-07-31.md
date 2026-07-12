@@ -3,12 +3,15 @@ title: "🤪 Wacky Wednesday for 2024-07-31"
 permalink: "/archive/wacky-wednesday-for-2024-07-31/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-31 22:08:50.729833+00:00
+faq:
+- question: What is the focus of the Wacky Wednesday blog post series?
+  answer: 'The blog post series focuses on sharing interesting, wild, and wacky links
+    discovered in various online Slack community #random channels.'
+- question: Are the links shared in the blog post safe for work?
+  answer: Yes, each weekly list is curated to be safe for work.
+- question: Is there a new list of links available for the week of 2024-07-31?
+  answer: No, the blog post indicates that there is a break this week for the summer.
 ---
-
-
-
-
-
 # 🤪 Wacky Wednesday for 2024-07-31
 
 Explore the wild and wacky world of shared links from online Slack communities.

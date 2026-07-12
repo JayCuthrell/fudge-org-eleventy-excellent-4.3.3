@@ -3,8 +3,16 @@ title: "🤪 Wacky Wednesday for 2025-11-26"
 permalink: "/archive/wacky-wednesday-for-2025-11-26/"
 description: "Shatner. Software. Seismometer."
 date: 2025-11-26
+faq:
+- question: What is the subject of the Shatner remix featured in the post?
+  answer: The remix focuses on safety, specifically addressing the fear of turkey
+    fryer fires and promising a moister and tastier result.
+- question: How much did AOL pay to acquire Netscape?
+  answer: AOL acquired Netscape for $4.2 billion during the browser wars era.
+- question: What is the primary scientific goal of the InSight mission?
+  answer: The InSight mission focuses on mapping the interior of Mars and has a legacy
+    centered on seismic science.
 ---
-
 Wacky. Wayback. Whoa.
 
 First, a Shatner remix for safety. Second, an acquisition for the ages. Third, a red planet anniversary.

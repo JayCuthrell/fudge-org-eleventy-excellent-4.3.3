@@ -3,12 +3,17 @@ title: "🌶️ Hot Fudge Sunday for 2024-10-13"
 permalink: "/archive/hot-fudge-sunday-for-2024-10-13/"
 description: "Just back from NYC, celebrating my consultancy growth and sharing great moments from the trip!"
 date: 2024-10-13 16:25:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    Hot Fudge Daily paid newsletter in a single, easy-to-reach URL.
+- question: How long has the author been operating their own consultancy since leaving
+    IBM?
+  answer: The author has been non-IBM for six months as of the update, marking a return
+    to running their own consultancy after a 15-year break.
+- question: What device does the author use to capture their photographs?
+  answer: The author uses an iPhone 13 mini to capture their photographs.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

@@ -3,10 +3,18 @@ title: "🔮 Sneak Peak Saturday for 2025-03-08"
 permalink: "/archive/sneak-peak-saturday-for-2025-03-08/"
 description: "This edition highlights the frenzy of Friday news and shares missed stories with a sprinkle of memes."
 date: 2025-03-09 04:46:18.144593+00:00
+faq:
+- question: What happens to news coverage by the end of the week?
+  answer: By Friday, news coverage often reaches a fever pitch as journalists work
+    to meet deadlines before the weekend.
+- question: Why do some news updates get released on a Friday?
+  answer: Some news is quietly released on a Friday in an attempt to sneak it past
+    wider coverage during what is perceived as a slower news day.
+- question: How does the author describe the practice of releasing news on a Friday
+    to avoid attention?
+  answer: The author characterizes this practice as a trope, cliché, or 'peak patronizing
+    publishing.'
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀

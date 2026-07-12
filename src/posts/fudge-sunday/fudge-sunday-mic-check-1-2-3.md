@@ -3,8 +3,20 @@ date: 2019-03-11 03:33:18+00:00
 description: ''
 permalink: /archive/fudge-sunday-mic-check-1-2-3/
 title: Fudge Sunday - Mic Check 1, 2, 3
+faq:
+- question: How have audio engineers simplified the traditional, thick stage snake?
+  answer: Engineers used analog-digital conversion to replace the heavy bundle of
+    cables with a low-cost Ethernet cable.
+- question: What is the benefit of using a Wi-Fi-connected tablet to control a sound
+    console?
+  answer: Using Wi-Fi replaces the physical Ethernet cable, allowing the sound person
+    to operate the console from anywhere in the room that the Wi-Fi signal can reach,
+    rather than being tethered to a specific spot.
+- question: What equipment is recommended for a sound person to communicate with the
+    band while using a mobile tablet?
+  answer: A rugged wireless headset microphone is recommended so the sound person
+    can communicate with the band while moving around freely.
 ---
-
 Just over 30 years ago I was enamored with the playing and recording of live music. Life back then involved analog recording rigs, tapes, heavy sound mixers, clunky snakes, speakers, monitors, amps, mics, and the investment of time to get it all right.
 
 This week I learned a little more about what has changed in the past 20 years.

@@ -3,12 +3,19 @@ title: "Throwback Thursday for 2024-07-04"
 permalink: "/archive/throwback-thursday-for-2024-07-04/"
 description: "Throwback Thursday review of past predictions &amp; news coverage, Micron&#39;s enduring tech legacy highlighted."
 date: 2024-07-04 23:17:24.099581+00:00
+faq:
+- question: What is the format of the new Throwback Thursday posts?
+  answer: Throwback Thursday is based on the 'Shot and Chaser' sections of the Fudge
+    Sunday Weekly newsletter, which involves looking back at past predictions or news
+    coverage to see how they have played out in the present.
+- question: Why is it difficult to access some older 'Shot and Chaser' examples?
+  answer: Content is now difficult or impossible to follow due to changes in Twitter
+    ownership, the degradation of URLs (link rot), and transitions between different
+    newsletter platforms.
+- question: Which company is cited as a long-term fixture in technology in the post?
+  answer: Micron is highlighted as a company that has been a fixture in technology
+    for decades, with recent commentary on HBM being the latest chapter in its history.
 ---
-
-
-
-
-
 # Throwback Thursday for 2024-07-04
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/?utm_source=hot-fudge-daily&utm_medium=email&utm_campaign=throwback-thursday)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.

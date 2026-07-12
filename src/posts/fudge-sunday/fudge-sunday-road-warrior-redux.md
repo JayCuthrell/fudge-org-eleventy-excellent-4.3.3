@@ -3,8 +3,23 @@ date: 2019-03-18 05:34:24+00:00
 description: ''
 permalink: /archive/fudge-sunday-road-warrior-redux/
 title: Fudge Sunday - Road Warrior Redux
+faq:
+- question: What items are in Jay's current 2019 carry-on bag?
+  answer: In 2019, Jay carries two laptops, a high-wattage power adapter, two mobile
+    phones on different carriers with hotspot plans, a full-size charging brick with
+    cables, three lounge memberships (Delta, American Airlines, and AMEX Centurion),
+    and a slim or padded backpack.
+- question: What is one recommendation Jay makes for traveling well in 2019 regarding
+    luggage?
+  answer: Jay recommends checking your big bag, noting that while you risk baggage
+    issues, it provides the freedom of walking through the terminal with only a backpack.
+- question: What are some of the components of Jay's 'ideal road warrior' approach
+    from 2007?
+  answer: In 2007, his approach included having access to a quiet lounge with AC power
+    and free refreshments, quality internet access, a laptop and mobile phone, a backup
+    phone, a landline with a DID, a 12V charger, and drinking lots of coffee during
+    layovers.
 ---
-
 If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/archive/my-eighth-year-at-dell/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
 
 My office at the peak of my North American travel... the AMEX Lounge in LAS

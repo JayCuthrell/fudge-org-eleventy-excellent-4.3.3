@@ -3,12 +3,20 @@ title: "🌶️ Hot Fudge Sunday for 2024-10-27"
 permalink: "/archive/hot-fudge-sunday-for-2024-10-27/"
 description: "This week&#39;s Hot Fudge covers market insights, AI in farming, and quirky stories from the web."
 date: 2024-10-27 20:20:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL.
+- question: How does the author curate the Wacky Wednesday section?
+  answer: The author reviews dozens of Slack communities to select the most interesting
+    shared links, ensuring the list is always safe for work.
+- question: What specific criteria does the author use for the Yahoo Finance screener
+    on Markets Monday?
+  answer: The author uses filters including a percentage price change greater than
+    4, region set to United States, Mid/Large/Mega Market Cap, price greater than
+    or equal to 5, volume greater than 15,000, and specific categories under the Technology
+    sector.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

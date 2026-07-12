@@ -3,8 +3,18 @@ date: 2022-04-10 20:26:19+00:00
 description: ''
 permalink: /archive/fudge-sunday-the-turning/
 title: Fudge Sunday - The Turning
+faq:
+- question: Is there any change to the Sunday Fudge newsletter schedule?
+  answer: Yes, the newsletter is taking Spring Break this month and will return to
+    its longer format in May, featuring a shorter format until then.
+- question: What is Cloud Carbon Footprint?
+  answer: Cloud Carbon Footprint is a GreenOps tool designed to estimate energy use
+    and carbon emissions from public cloud usage.
+- question: Can the newsletter's web version be corrected after the email has been
+    sent?
+  answer: Yes, the web version of the newsletter can be edited and corrected after
+    the email campaign has already been completed.
 ---
-
 This week lists a few times my guesses were accurate (or got close).
 
 Oasis - The Turning (Alternative Version #4) - Noel's cut

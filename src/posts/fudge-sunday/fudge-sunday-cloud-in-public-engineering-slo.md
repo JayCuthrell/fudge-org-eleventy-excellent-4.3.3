@@ -3,9 +3,22 @@ date: 2021-10-11 02:54:39+00:00
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-engineering-slo/
 title: 'Fudge Sunday - Cloud in Public: Engineering SLO'
+faq:
+- question: What is the difference between SLI, SLO, and SLA?
+  answer: An SLI (Service Level Indicator) is a quantitative measurement of a service's
+    status. An SLO (Service Level Objective) is a target or objective for the service
+    based on those indicators, often used by engineers to balance innovation and availability.
+    An SLA (Service Level Agreement) is a written agreement that incorporates the
+    SLO and SLI, often linked to contractual or financial obligations.
+- question: What is an Error Budget in the context of cloud services?
+  answer: An Error Budget represents the amount of time, typically the remaining percentage
+    not covered by uptime, during which a service is permitted to be degraded or down
+    without violating established reliability objectives.
+- question: What do the different color indicators on a status dashboard represent?
+  answer: On a status dashboard, green (✅) represents a service that is up or 'OK',
+    yellow (⚠️) means the service is degraded, and red (🛑) indicates that the service
+    is down.
 ---
-
-
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑

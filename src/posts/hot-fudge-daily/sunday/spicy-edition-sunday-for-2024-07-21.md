@@ -3,13 +3,22 @@ title: "🌶️ Spicy Edition Sunday for 2024-07-21"
 permalink: "/archive/spicy-edition-sunday-for-2024-07-21/"
 description: "Discover spicy insights on technology, news, and market trends in this edition of Fudge Sunday 🔥."
 date: 2024-07-21 13:37:10.225034+00:00
+faq:
+- question: What changes are planned for fudge.org starting next month?
+  answer: Starting next month, fudge.org will function as a funnel to drive traffic
+    to the newsletter and begin automating sponsorship via Buttondown. By the end
+    of August, the site will be reclaimed for blogging purposes that are not easily
+    carried over to email.
+- question: What is the focus of the 'Throwback Thursday' newsletter segment?
+  answer: Throwback Thursday, based on the 'Shot and Chaser' section of the Fudge
+    Sunday newsletter, looks back at prior predictions or past news coverage to analyze
+    how those events played out in the present.
+- question: What criteria are used for the Yahoo Finance screener heat map featured
+    in the newsletter?
+  answer: The screener filters for United States companies in the Technology sector
+    with a Market Cap of Mid, Large, and Mega Cap, a price of 5 or greater, a volume
+    greater than 15,000, and an intraday price change greater than 4%.
 ---
-
-
-
-
-
-
 # 🌶️  Spicy Edition Sunday for 2024-07-21
 
 Welcome to 🌶️ Spicy Edition Sunday!

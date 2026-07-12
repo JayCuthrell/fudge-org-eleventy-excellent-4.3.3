@@ -4,8 +4,19 @@ permalink: "/archive/sneak-peak-saturday-for-2025-09-06/"
 description: "Dreaming big with $600B"
 date: 2025-09-06
 tags: [quantum]
+faq:
+- question: What is the projected timeline for the potential $600B investment in AI
+    infrastructure?
+  answer: The investment is projected for the period leading up to 2028.
+- question: What are some of the key infrastructure components included in the proposed
+    AI datacenter designs?
+  answer: Key components include strategic land purchases, construction of solar power
+    generation and storage facilities, commissioning SMR power infrastructure, and
+    procurement of best-in-class AI infrastructure such as custom silicon chips.
+- question: What is the goal regarding power usage for these data centers by 2030?
+  answer: The goal is to transition to 100% solar and SMR energy, fully move to custom
+    silicon and quantum computing, and provide excess power back to the grid.
 ---
-
 Sometimes, $600B just comes out in polite conversation. Twice?
 
 https://www.techmeme.com/250905/p14#a250905p14

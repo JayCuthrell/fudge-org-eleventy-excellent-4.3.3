@@ -3,11 +3,18 @@ title: "🌶️ Hot Fudge Sunday for 2025-05-11"
 permalink: "/archive/hot-fudge-sunday-for-2025-05-11/"
 description: "I&#39;m gearing up for Qlik Connect and offering readers a meaty 🥩 webinar on  🔐 💸 cybersecurity insurance trends!"
 date: 2025-05-11 17:45:10+00:00
+faq:
+- question: What event will NexusTek participate in from May 13 to May 15, 2025?
+  answer: NexusTek will be at Qlik Connect in Orlando for Tech Field Day.
+- question: How can one earn a $100 Crowd Cow gift card through the NexusTek and Arctic
+    Wolf webinar?
+  answer: You can earn the gift card by registering for the May 15th webinar and completing
+    a quick intro meeting by June 30th.
+- question: What is the focus of the webinar hosted by NexusTek and Arctic Wolf on
+    May 15?
+  answer: The webinar will cover the latest cyber insurance trends, how security operations
+    impact coverage, and what insurers are specifically looking for.
 ---
-
-
-
-
 ## Last week
 
 It was another a big week! 🎉

@@ -3,8 +3,16 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-14"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-14/"
 description: "GoToSocial, cybersecurity in hospitality, and more"
 date: 2025-09-14
+faq:
+- question: What platform did the author migrate to recently?
+  answer: The author migrated from Mastodon to GoToSocial.
+- question: What was identified as the biggest news story of the week in the blog
+    post?
+  answer: The author identified Oracle's $300B win as the biggest story of the week.
+- question: Which companies received significant funding according to the 'Hot Takes
+    Tuesday' section?
+  answer: Motion, DataCrunch, Cognition, Reflection AI, and Mistral all received funding.
 ---
-
 ## Last Week
 
 I migrated from Mastodon and decided on [GoToSocial](https://codeberg.org/superseriousbusiness/gotosocial). It was pretty smooth but it is still [early days for the Fediverse](https://cuthrell.com/@jay/statuses/01K510H6R4NR22EVJA4TFDTEWR). Also, [Jason Pullo](https://www.linkedin.com/in/jason-pullo-61927b9/) at [ESP, a NexusTek company](https://www.nexustek.com/esp) shared insights on the [top cybersecurity challenges in Hospitality](https://www.nexustek.com/insights/cybersecurity-challenges-in-hospitality).

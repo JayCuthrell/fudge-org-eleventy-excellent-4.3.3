@@ -2,11 +2,19 @@
 title: "Fudge Sunday - And the way that gravity pulls on everyone"
 description: ''
 date: 2021-07-04 16:39:01+00:00
+faq:
+- question: What was edge computing originally referred to as?
+  answer: Edge computing was once referred to as fog computing.
+- question: What is the challenge associated with data gravity in the cloud?
+  answer: Data gravity poses challenges to the ease of portability of large, growing
+    data being processed, which is contrary to the agility usually associated with
+    cloud consumption patterns.
+- question: How are edge, core, and cloud defined in the text?
+  answer: Edge is described as things at the edge of the network related to 5G or
+    the Internet of Things, core refers to the traditional datacenter world, and cloud
+    represents hyperscale cloud service providers like AWS, GCP, Azure, OCI, IBM,
+    and AliCloud.
 ---
-
-
-
-
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 1 of a 5 part series

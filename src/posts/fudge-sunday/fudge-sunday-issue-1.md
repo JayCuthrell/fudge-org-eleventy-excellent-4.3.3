@@ -3,8 +3,21 @@ date: 2019-02-17 23:42:23+00:00
 description: ''
 permalink: /archive/fudge-sunday-issue-1/
 title: 'Fudge Sunday - Issue #1'
+faq:
+- question: What is the author's plan for the newsletter in 2019?
+  answer: The author is rebooting their newsletter and plans to release one installment
+    every Sunday.
+- question: Which podcasts does the author mention as being part of their regular
+    listening or reading?
+  answer: The author mentions listening to the a16z podcast and notes that while everyone
+    recommends Stratechery, they cannot get into it.
+- question: What is the author's perspective on the recent legal issues regarding
+    dance choreography?
+  answer: The author discusses the collision between dance and technology in the legal
+    realm, specifically noting the lawsuit involving the 'Backpack Kid' and Fortnite,
+    as well as the US Copyright Office's refusal of a copyright claim for the 'Carlton
+    Dance'.
 ---
-
 I’m rebooting this newsletter for 2019. If you forgot you were on this list, there is probably a GDPR way to get off the list. Enjoy the first (13?) installment of Fudge Sunday.
 
 via fudge.org (circa 1996?)

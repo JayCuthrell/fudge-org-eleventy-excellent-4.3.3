@@ -3,11 +3,21 @@ title: "🔙 Throwback Thursday for 2025-07-03"
 permalink: "/archive/throwback-thursday-for-2025-07-03/"
 description: "AI job replacement claims in 2025 from CEOs with SXSW 2024 insights from the field"
 date: 2025-07-04 04:08:40.810+00:00
+faq:
+- question: What is the author's stance on CEOs claiming that AI will replace current
+    jobs?
+  answer: The author considers such claims to be clickbait or sensationalism designed
+    to generate rage clicks, noting that there is a lack of actual results to support
+    these predictions.
+- question: What are some of the trends mentioned as contributing to the current state
+    of the labor market?
+  answer: Trends include over-hiring, bloated and overstuffed organizations, and the
+    role of AI and automation in rendering some labor reductions necessary.
+- question: How does AI impact freelancers according to the notes from the SXSW 2024
+    session?
+  answer: Freelancers who utilize AI in their toolchain have seen a 16% increase in
+    their rates and a 12% growth in revenue by performing top-tier work.
 ---
-
-
-
-
 One story that caught my eye this week:
 
 [https://www.techmeme.com/250703/p13#a250703p13](https://www.techmeme.com/250703/p13#a250703p13)

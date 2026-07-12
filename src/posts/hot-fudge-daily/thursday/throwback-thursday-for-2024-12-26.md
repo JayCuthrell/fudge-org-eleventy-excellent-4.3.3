@@ -3,9 +3,14 @@ title: "🔙 Throwback Thursday for 2024-12-26"
 permalink: "/archive/throwback-thursday-for-2024-12-26/"
 description: "Reflecting on my journey from Nortel in the &#39;90s to the hybrid cloud with SAP’s evolution."
 date: 2024-12-27 02:47:08.794235+00:00
+faq:
+- question: When was the author born?
+  answer: The author was born in 1972.
+- question: What company did the author work for at the start of their career?
+  answer: The author started their early career at Nortel Networks.
+- question: What happened to Nortel Networks by 2009?
+  answer: By 2009, Nortel Networks no longer existed.
 ---
-
-
 I was born in 1972. So was SAP.
 
 20-ish years later, my early career started at Nortel Networks. By 1998, CRM and computer telephony interface (CTI) had become a big thing while the word Internet occurred ~35 times in the Nortel Networks Annual Report that year.

@@ -2,10 +2,25 @@
 title: "Fudge Sunday - Betting Odds and Ends Justify the Means of Production"
 description: ''
 date: 2021-09-13 01:10:51+00:00
+faq:
+- question: What are the privacy implications of the emerging 'smart toilets' market?
+  answer: The privacy implications involve how opt-in and opt-out defaults will distinguish
+    between an individual's personal data privacy concerns and the community's interest
+    in using that data for population-level early warning systems regarding communicable
+    diseases or environmental toxins.
+- question: Why is the practice of 'self-hosting' or 'rolling your own' seeing renewed
+    interest?
+  answer: The pattern is shifting back to self-hosting due to an emerging market that
+    desires greater efficacy and control, supported by new varieties of symmetric
+    broadband, the significant cost reduction of servers, and the use of fronting
+    proxies.
+- question: How are chip suppliers responding to the current microchip supply chain
+    shortages?
+  answer: Chip suppliers are responding to underlying dependencies in their supply
+    chain primarily through significant investment. Examples include Intel's investment
+    in New Mexico, TSMC's investment in Arizona, and GlobalFoundries' investment in
+    New York and Vermont.
 ---
-
-
-
 This week is a bit of a potpourri of links and concepts. The title is a play on words to cover four topics in one newsletter issue. Let’s get to it.
 
  **Last Week**

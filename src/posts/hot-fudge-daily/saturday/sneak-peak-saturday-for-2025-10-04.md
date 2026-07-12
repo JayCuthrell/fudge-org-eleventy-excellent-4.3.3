@@ -3,8 +3,24 @@ title: "🔮 Sneak Peak Saturday for 2025-10-04"
 permalink: "/archive/sneak-peak-saturday-for-2025-10-04/"
 description: "Cybersecurity Information Sharing Act (CISA) has expired"
 date: 2025-10-04
+faq:
+- question: What is the author's primary concern regarding the Friday news cycle described
+    in the post?
+  answer: The author is concerned that important stories, specifically the failure
+    of the Cybersecurity Information Sharing Act, are being intentionally buried or
+    obscured by the news cycle to avoid public scrutiny during political distractions
+    like the government shutdown.
+- question: Why does the author argue that the timing of the CISA news was strategic?
+  answer: The author suggests that by releasing the news on a Friday rather than a
+    Wednesday, the government avoided adding a national security crisis to the ongoing
+    shutdown debate, allowing the story to get lost in the week's overall political
+    theater.
+- question: How does the author explain the confusion regarding the acronym 'CISA'?
+  answer: The author notes that 'CISA' is used for both the Cybersecurity Information
+    Sharing Act and the Cybersecurity and Infrastructure Security Agency, which creates
+    bureaucratic confusion that helps obfuscate the fact that the legal framework
+    for cyber attack information sharing was allowed to expire.
 ---
-
 I try to avoid political discourse in my newsletter and writing. This week, I cannot. As I sifted through the Friday news cycle for stories meant to be forgotten by Monday, it became clear that in the world of peak patronizing publishing, Washington, D.C., has served up a best-in-class burying of the news.
 
 While the loud, headline-grabbing drama of our U.S. government shutdown dominated the week, the truly messy consequences were saved for a quiet Friday morning reveal. Indeed, truth is stranger and increasingly more disappointing than fiction.

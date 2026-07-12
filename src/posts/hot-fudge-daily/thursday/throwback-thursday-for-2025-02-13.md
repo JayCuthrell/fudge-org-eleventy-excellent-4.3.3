@@ -3,9 +3,14 @@ title: "🔙 Throwback Thursday for 2025-02-13"
 permalink: "/archive/throwback-thursday-for-2025-02-13/"
 description: "CyberArk continues its acquisition spree, this time buying Zilla Security."
 date: 2025-02-14 05:41:32.273755+00:00
+faq:
+- question: Which company did CyberArk recently acquire?
+  answer: CyberArk recently acquired Zilla Security.
+- question: When did CyberArk acquire Venafi?
+  answer: CyberArk acquired Venafi in May 2024.
+- question: How long ago did CyberArk acquire Viewfinity?
+  answer: CyberArk acquired Viewfinity almost 10 years ago, in 2015.
 ---
-
-
 One headline for a Thursday Throwback caught my eye.
 
 🔐 + 💰 CyberArk went shopping again — this time for Zilla Security.

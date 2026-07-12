@@ -3,9 +3,15 @@ title: "🤪 Wacky Wednesday for 2024-10-02"
 permalink: "/archive/wacky-wednesday-for-2024-10-02/"
 description: "This week&#39;s email highlights intriguing links from Slack, including ancient cheese and dog archaeology!"
 date: 2024-10-02 21:20:11.944519+00:00
+faq:
+- question: When does the author curate the shared links?
+  answer: The author curates the shared links every Wednesday.
+- question: What kind of content can readers expect in these lists?
+  answer: The lists consist of interesting links selected from various Slack communities,
+    and they are always safe for work.
+- question: How does the author find the links included in the post?
+  answer: The author finds the links by going through dozens of Slack communities.
 ---
-
-
 Each Wednesday I go through dozens of Slack communities.
 
 I then select the most interesting shared links.

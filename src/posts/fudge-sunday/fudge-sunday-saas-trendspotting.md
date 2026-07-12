@@ -3,8 +3,19 @@ date: 2021-11-22 00:54:48+00:00
 description: ''
 permalink: /archive/fudge-sunday-saas-trendspotting/
 title: Fudge Sunday - SaaS Trendspotting
+faq:
+- question: Why are Slack communities considered part of the 'deep web'?
+  answer: Slack communities are considered part of the deep web because they are not
+    crawled or indexed by major search engine companies like Google or Bing.
+- question: What makes a newsletter qualify as 'deep web' content?
+  answer: A newsletter is considered part of the deep web if it does not permit open
+    indexing or searching, often due to the implementation of paywalls or requirements
+    for user authentication to view the content.
+- question: Where can one find recommendations for staying updated on SaaS trends?
+  answer: The blog post provides a list of resources for tracking SaaS trends, including
+    Matt Rickard, Techmeme Ride Home, Data Operations, The Mad Ned Memo, the weekly
+    bloom, The Cloudcast, Bottom Up, A16Z Future, and Techmeme Search.
 ---
-
 Last week I started the experiment with format and length. This week we will peek into the “deep web” where a regular search engine cannot go.
 
  **Getting Informed**

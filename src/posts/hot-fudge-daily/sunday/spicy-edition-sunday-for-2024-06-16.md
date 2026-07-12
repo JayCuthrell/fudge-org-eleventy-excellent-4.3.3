@@ -3,10 +3,17 @@ title: "Spicy Edition Sunday for 2024-06-16"
 permalink: "/archive/spicy-edition-sunday-for-2024-06-16/"
 description: "Uncover spicy inspiration and tech updates in this week&#39;s Fudge Sunday edition! 🔥"
 date: 2024-06-16 18:33:50.273802+00:00
+faq:
+- question: What is the author's current goal for their 11ty stack?
+  answer: The author is working on migrating their starter framework from version
+    1.x to 3.1.1 within the next few months.
+- question: Why does the author need to fix their Google Tag configuration?
+  answer: The author realized their Google Tag was removed from Netlify code injection,
+    meaning they currently have no data regarding website traffic or user paths.
+- question: What format is the author using for Fudge Sunday?
+  answer: The author is maintaining a Digest format for Fudge Sunday that captures
+    the Hot Fudge Daily content from the week prior.
 ---
-
-
-
 Welcome to 🌶️ Spicy Edition Sunday!
 
 Uncover the spicy inspiration behind this week's Fudge Sunday edition, packed with deep links and fresh insights. 🔥

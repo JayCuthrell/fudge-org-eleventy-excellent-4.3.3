@@ -4,8 +4,19 @@ permalink: "/archive/hot-fudge-sunday-for-2025-10-19/"
 description: "Hot Fudge Daily digest for the week of 10-13-2025 to 10-18-2025."
 date: 2025-10-19
 tags: ['Hot Fudge Sunday']
+faq:
+- question: What award did NexusTek recently earn?
+  answer: NexusTek earned CRN's 2025 Triple Crown, which honors the company for growth,
+    innovation, and technical excellence.
+- question: What is the primary reason behind the $40B acquisition of data centers
+    by a consortium of companies like NVIDIA and Microsoft?
+  answer: The acquisition is driven by the need to secure a vast and strategic portfolio
+    of power capacity, which is essential to energize hardware that supports AI workloads.
+- question: What are some examples of AI-focused startups that received funding according
+    to the 'Hot Takes Tuesday' section?
+  answer: Some startups that received funding include ClaimSorted ($13.3M), Glue ($20M),
+    Flow Engineering ($23M), Dezerv (~$40M), Dexory ($165M), and Oura ($900M).
 ---
-
 ## Last Week
 
 [NexusTek](https://www.nexustek.com/insights/cybersecurity-awareness-month-training) published [The Cybersecurity Awareness Month Challenge: Can Your Team Pass This Real-World Test?](https://www.nexustek.com/insights/cybersecurity-awareness-month-training)

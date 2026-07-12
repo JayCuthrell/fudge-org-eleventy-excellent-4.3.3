@@ -3,10 +3,16 @@ title: "🔮 Sneak Peak Saturday for 2025-03-29"
 permalink: "/archive/sneak-peak-saturday-for-2025-03-29/"
 description: "Fridays are for sneaky news updates and some memes you might&#39;ve missed!"
 date: 2025-03-29 22:35:49.787188+00:00
+faq:
+- question: Why do some news stories get released on a Friday?
+  answer: Some news is released on Fridays to try and sneak it past wider coverage
+    during a perceived slow news day.
+- question: What does the author call the practice of sneaking news out on Fridays?
+  answer: The author refers to this practice as peak patronizing publishing.
+- question: How is the pace of news coverage described throughout the week?
+  answer: The author describes news coverage as reaching a fever pitch throughout
+    the week, often culminating in a peak of activity before Friday deadlines.
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀

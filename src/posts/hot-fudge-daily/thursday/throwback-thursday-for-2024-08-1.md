@@ -3,12 +3,15 @@ title: "🔙 Throwback Thursday for 2024-08-01"
 permalink: "/archive/throwback-thursday-for-2024-08-1/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-08-02 01:48:46.473483+00:00
+faq:
+- question: What is the date associated with this blog post?
+  answer: The blog post is dated 2024-08-1.
+- question: Is there a new Throwback Thursday update for this week?
+  answer: No, the blog post states that they are taking a break this week for the
+    summer.
+- question: Who took the photo featured in the post?
+  answer: The photo was taken by Vicko Mozara.
 ---
-
-
-
-
-
 # 🔙 Throwback Thursday for 2024-08-1
 
 🏖️ We’re taking a break this week for the summer 🏖️

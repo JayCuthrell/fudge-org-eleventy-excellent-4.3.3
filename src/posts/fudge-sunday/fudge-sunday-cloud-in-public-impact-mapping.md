@@ -3,9 +3,18 @@ date: 2021-11-01 00:00:00+00:00
 description: A look at public things for a public cloud
 permalink: /archive/fudge-sunday-cloud-in-public-impact-mapping/
 title: 'Fudge Sunday - Cloud in Public: Impact Mapping'
+faq:
+- question: What is the primary purpose of impact mapping?
+  answer: In a nutshell, impact mapping helps ensure the alignment of business and
+    delivery.
+- question: What question does impact mapping primarily answer?
+  answer: Impact mapping answers the question, 'Why,' specifically because that is
+    what the business needs.
+- question: What is a necessary consideration for impact mapping in the public cloud
+    besides the technology stack?
+  answer: Impact mapping should consider both the technology stack and the operating
+    geography, as laws or the regulatory landscape may evolve.
 ---
-
-
 This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑

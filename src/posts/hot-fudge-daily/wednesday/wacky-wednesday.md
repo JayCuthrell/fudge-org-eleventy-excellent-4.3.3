@@ -3,10 +3,16 @@ title: "Wacky Wednesday "
 permalink: "/archive/wacky-wednesday/"
 description: "Explore the wild and wacky world of shared links from online Slack communities."
 date: 2024-06-06 05:04:02.100411+00:00
+faq:
+- question: What is the focus of the Wacky Wednesday blog post?
+  answer: 'The blog post focuses on sharing interesting, wild, and wacky links that
+    are found in the #random channels of various online Slack communities.'
+- question: How often are these links compiled and shared?
+  answer: The collection of links is compiled and shared each Wednesday.
+- question: Are the links included in the Wacky Wednesday posts suitable for a professional
+    environment?
+  answer: Yes, the list of links provided is curated to be safe for work.
 ---
-
-
-
 # Wacky Wednesday
 
 Explore the wild and wacky world of shared links from online Slack communities.

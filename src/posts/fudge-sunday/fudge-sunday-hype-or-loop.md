@@ -3,8 +3,19 @@ date: 2022-01-24 01:28:48+00:00
 description: ''
 permalink: /archive/fudge-sunday-hype-or-loop/
 title: Fudge Sunday - Hype Or Loop?
+faq:
+- question: How did technology journalism in 2012 generally present content?
+  answer: In 2012, technology journalism was described as an endless loop of hyperbole
+    and horse race metaphors that often narrowed sources and avoided linking to original
+    sources to capture more eyeballs.
+- question: How have reader expectations for technology journalism changed since 2012?
+  answer: Readers today have a greater appreciation for original sources, data-driven
+    journalism, and native advertising compared to the trends observed in 2012.
+- question: What two major changes have occurred regarding the Gartner Hype Cycle
+    for Emerging Technologies?
+  answer: The two major changes are that the Hype Cycle has become more conservative
+    and that newsletters have become a prominent influence in the landscape.
 ---
-
 This week we take a look at hype and the loop of technology journalism.
 
  **Getting Informed**

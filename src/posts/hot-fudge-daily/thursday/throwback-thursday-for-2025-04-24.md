@@ -3,8 +3,17 @@ title: "🔙 Throwback Thursday for 2025-04-24"
 permalink: "/archive/throwback-thursday-for-2025-04-24/"
 description: "Reflecting on LinkedIn&#39;s rapid evolution in identity verification over the past three years."
 date: 2025-04-25 04:45:37.010388+00:00
+faq:
+- question: When did LinkedIn first enter the identity verification space?
+  answer: LinkedIn entered the identity verification space three years ago.
+- question: When did LinkedIn launch identity verification via company emails on a
+    global basis?
+  answer: LinkedIn opened identity verification by company emails on a global basis
+    two years ago.
+- question: What is the primary topic discussed regarding LinkedIn?
+  answer: The post discusses the timeline and development of LinkedIn's identity verification
+    features.
 ---
-
 Three years goes by fast and one story caught my eye this week.
 
 Are you verified? 

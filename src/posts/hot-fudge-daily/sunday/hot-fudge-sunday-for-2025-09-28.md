@@ -3,8 +3,17 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-28"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-28/"
 description: "Industry insights, data trends, and market movements"
 date: 2025-09-28
+faq:
+- question: What specific industry topics did NexusTek provide insights on last week?
+  answer: NexusTek shared industry insights on Managed Detection & Response, Private
+    Equity Technology, and Restaurant Technology.
+- question: How are Sundays treated in the author's analysis of GoToSocial feed posts?
+  answer: Sundays are excluded from the percentage calculations because they are reserved
+    for digests, with 209 posts found on Sundays.
+- question: What is the purpose of the Alumni section in the newsletter?
+  answer: The Alumni section is for individuals in the author's network who have successfully
+    transitioned to their next career adventure.
 ---
-
 ## Last Week
 
 Last week [NexusTek](https://www.nexustek.com), shared deep industry insights on [Managed Detection & Response](https://www.nexustek.com/insights/winners-circle-episode-6-mdr-beyond-alerts), [Private Equity Technology](https://www.nexustek.com/insights/private-equity-technology-value-creation), and [Restaurant Technology](https://www.nexustek.com/insights/restaurant-technology-success-esp-nexustek).

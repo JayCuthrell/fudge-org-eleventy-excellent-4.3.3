@@ -4,8 +4,22 @@ description: ''
 permalink: /archive/fudge-sunday-quantum-leap-years/
 title: Fudge Sunday - Quantum Leap Years
 tags: [quantum]
+faq:
+- question: How has interest in quantum computing changed over time according to the
+    post?
+  answer: While Google Trends indicates that interest in quantum computing has risen
+    and fallen over the years, there has been a steady uptick in searches, and interest
+    has grown significantly enough to generate demand for summaries targeting CIOs.
+- question: What is the primary difference mentioned between U.S. and European approaches
+    to quantum computing?
+  answer: The U.S. has focused on leadership through initiatives like the National
+    Quantum Initiative Act, while Europe has initiatives focused on creating an unhackable
+    quantum internet to address privacy and surveillance concerns.
+- question: What was the theme for quantum computing in 2019 mentioned in the post?
+  answer: The theme for 2019 was differentiation by adopting maturity-oriented marketing
+    terms, including references to integrated systems, architectural enhancements,
+    and developer-oriented communities.
 ---
-
 The topic of [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) has steadily moved towards the realm of popular science. As with many other topics within popular science, wider audiences will have varying degrees of awareness and depth – but recognition is certainly on the rise.
 
  **Let's get the TV reference out of the way...**

@@ -2,8 +2,19 @@
 title: "Fudge Sunday - Twitter, Matter, and Data-Driven Journalism "
 description: 'The road ahead'
 date: 2021-11-08 01:27:35+00:00
+faq:
+- question: How has the author changed their approach to using Twitter to avoid algorithmic
+    curation and advertising?
+  answer: The author stopped following other users on Twitter entirely and instead
+    uses private Lists to curate their own feed.
+- question: What is the main benefit of using the Matter app for reading newsletters?
+  answer: Matter provides a better way to handle many newsletters by allowing users
+    to read them in a clean interface and listen to articles using a natural voice.
+- question: Why is the author exploring resources like the Associated Press and NYT
+    Newsroom Developers on GitHub?
+  answer: The author is seeking more Data-Driven Journalism and exploring how data
+    can be synthesized into information and knowledge.
 ---
-
 This week is a departure from diving into cloud topics. I’ll spend a few paragraphs describing how I’m using Twitter, Matter, and seeking more Data-Driven Journalism.
 
  **What's happening?**

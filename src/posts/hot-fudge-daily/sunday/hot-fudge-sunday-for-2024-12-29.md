@@ -4,11 +4,20 @@ permalink: "/archive/hot-fudge-sunday-for-2024-12-29/"
 description: "This week, I&#39;m spotlighting talented professionals who are #OpenToWork. Hire Them!"
 date: 2024-12-29 17:05:00+00:00
 tags: [quantum]
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, accessible URL. It is published every
+    Sunday.
+- question: 'What is the #OpenToWork Weekly section about?'
+  answer: 'The #OpenToWork Weekly section is a feature where the newsletter highlights
+    professionals in the author''s network who are currently looking for work. Readers
+    are encouraged to view these professionals'' LinkedIn profiles, connect with them,
+    and reach out.'
+- question: Where does the newsletter source its market data for 'Markets Monday'?
+  answer: The market data for 'Markets Monday' is sourced from a simple Yahoo Finance
+    webpage, specifically using the Yahoo Finance screener (Research Hub).
 ---
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---

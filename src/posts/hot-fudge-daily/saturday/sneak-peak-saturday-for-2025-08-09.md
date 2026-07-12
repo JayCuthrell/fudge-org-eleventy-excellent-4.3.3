@@ -3,8 +3,18 @@ title: "🔮 Sneak Peak Saturday for 2025-08-09"
 permalink: "/archive/sneak-peak-saturday-for-2025-08-09/"
 description: "Exploring the drama of tech backdoors and a sudden win for NVIDIA"
 date: 2025-08-09
+faq:
+- question: What is the author's perspective on the recent resolution regarding NVIDIA
+    interests?
+  answer: The author suggests that the resolution feels theatrical and suspiciously
+    well-timed, describing it as a bit on the nose.
+- question: What specific entities does the author mention in relation to the theatrical
+    notions of backdoors and kill switches?
+  answer: The author references value chain companies such as TSMC.
+- question: How far back does the post suggest looking to understand the context of
+    the recent news?
+  answer: The post suggests backing up the news truck by a whole week.
 ---
-
 Friday arrives and the bury begins, or was it stage craft with storytelling savvy?
 
 ### August 8

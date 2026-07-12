@@ -3,9 +3,20 @@ date: 2021-09-20 00:32:35+00:00
 description: ''
 permalink: /archive/fudge-sunday-multicloudwashing-detergent/
 title: Fudge Sunday - MultiCloudWashing Detergent
+faq:
+- question: What is the definition of MultiCloudWashing according to the post?
+  answer: MultiCloudWashing is a marketing technique that positions a product previously
+    associated with one public hyperscale cloud service provider as being multi-cloud
+    as soon as a second or third cloud consumption model is launched into general
+    availability.
+- question: Who is credited with first using the term 'multi cloudwashing'?
+  answer: The post suggests that David Linthicum was likely the first to concatenate
+    the term into 'multi cloudwashing'.
+- question: What is a positive trend mentioned regarding multicloud strategies?
+  answer: The post notes that more companies are adopting data-first strategies to
+    defy data gravity and maximize access to centers of innovation across all public
+    hyperscale cloud service providers.
 ---
-
-
 Fun fact: A year ago was my last day with Dell Technologies. For this installment, we examine cloudwashing through a multicloud lens as multicloudwashing.
 
  **Last week**

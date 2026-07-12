@@ -3,8 +3,17 @@ title: "🤪 Wacky Wednesday for 2025-10-15"
 permalink: "/archive/wacky-wednesday-for-2025-10-15/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-10-15
+faq:
+- question: What is the Gboard Dial Version video about?
+  answer: The Gboard Dial Version is a wacky and delightful engineering project featured
+    in a video.
+- question: When was Thinking Machines Corporation founded?
+  answer: Thinking Machines Corporation was founded in 1983 and is recognized as a
+    pioneer in supercomputing.
+- question: What is the main topic of the Spyglass article regarding Spotify and Netflix?
+  answer: The article discusses how Spotify and Netflix are targeting YouTube's audience
+    through user-generated content, streaming, and partnerships.
 ---
-
 First, a wacky wonderful video. Second, a wayback nostalgia moment. Third, a whoa things are changing fast.
 
 #### Wacky 

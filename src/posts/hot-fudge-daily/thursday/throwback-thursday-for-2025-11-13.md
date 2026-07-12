@@ -3,8 +3,14 @@ title: "🔙 Throwback Thursday for 2025-11-13"
 permalink: "/archive/throwback-thursday-for-2025-11-13/"
 description: "OCSP imbroglio, Chrome for iOS, Netflix for Windows Phone7 and Android"
 date: 2025-11-13
+faq:
+- question: What major software launch occurred on November 13, 2020?
+  answer: Apple OCSP (Online Certificate Status Protocol) came to light.
+- question: When did Google Chrome become available on iOS?
+  answer: Google Chrome came to iOS on November 13, 2015.
+- question: Which mobile platforms gained support for Netflix on November 13, 2010?
+  answer: Netflix came to Windows Phone 7 and Android on that date.
 ---
-
 Let's see what the tech world was buzzing about on this day in years past.
 
 ### 5 Years Ago: [November 13, 2020](https://www.techmeme.com/201113/h2355)

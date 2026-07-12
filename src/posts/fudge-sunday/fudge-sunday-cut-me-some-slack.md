@@ -3,8 +3,19 @@ date: 2022-01-31 00:19:16+00:00
 description: Slack and search engines
 permalink: /archive/fudge-sunday-cut-me-some-slack/
 title: Fudge Sunday - Cut Me Some Slack
+faq:
+- question: Can public web search engines index all information on the internet?
+  answer: No, as of 2022, public web search engines still do not index all of the
+    internet, including certain places like Slack communities.
+- question: How can you search for information within a Slack community?
+  answer: You must join each specific Slack community first, and then you are able
+    to search within it.
+- question: Does information posted on GitHub get indexed by search engines as easily
+    as Discourse?
+  answer: No, while information posted on Discourse might be picked up by search engines
+    such as Google, information provided on GitHub often remains difficult to find
+    via search.
 ---
-
 This week we take a look at Slack communities that are worth exploring and other “deep web” places that public web search engine can’t index (yet).
 
  **Getting Informed**

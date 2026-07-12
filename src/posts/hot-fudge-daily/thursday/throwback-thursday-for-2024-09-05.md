@@ -3,11 +3,17 @@ title: "🔙 Throwback Thursday for 2024-09-05"
 permalink: "/archive/throwback-thursday-for-2024-09-05/"
 description: "From Nortel Networks to Verizon Cloud: A journey through telecom evolution, cloud computing, and industry giants."
 date: 2024-09-05 23:57:19.804890+00:00
+faq:
+- question: Which company did the author work for during their early career in the
+    late 1990s?
+  answer: The author worked for Nortel Networks during their early career in the late
+    1990s.
+- question: When did Verizon enter and exit the cloud computing business?
+  answer: Verizon entered the cloud business in 2011 following the acquisition of
+    Terremark and exited the business in 2017.
+- question: What happened to Sprint in 2020?
+  answer: In 2020, Sprint merged with T-Mobile to become one company.
 ---
-
-
-
-
 My early career in the late 1990s was in telecommunications. I worked for a company called [Nortel Networks](https://www.youtube.com/watch?v=EKjAMxzdrHw) before I pivoted to become a [global road warrior / consultant](https://fudge.org/archive/and-for-my-next-trick/) during the .com boom.
 
 https://www.youtube.com/watch?v=EKjAMxzdrHw

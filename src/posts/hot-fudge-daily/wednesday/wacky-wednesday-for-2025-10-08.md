@@ -3,8 +3,17 @@ title: "🤪 Wacky Wednesday for 2025-10-08"
 permalink: "/archive/wacky-wednesday-for-2025-10-08/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-10-08
+faq:
+- question: What are the three main sections featured in the blog post?
+  answer: The three main sections are titled Wacky Wonderful, Wayback, and Whoa.
+- question: What is the content related to the Wayback section?
+  answer: The Wayback section features an article on internet history circa 2000,
+    covering topics like Flash, the Slashdot Effect, and P2P downloading.
+- question: What are the key points highlighted for the Heat 2 movie under the Whoa
+    section?
+  answer: The key points include it being compared to Amazon Basics for movie franchises,
+    an 'anything might happen' production style, and age-gap casting for GenX.
 ---
-
 Trying a new format. Wacky. Wayback. Whoa.
 
 First, a wacky wonderful video. Second, a wayback nostalgia tome. Third, a whoa we're getting older moment.

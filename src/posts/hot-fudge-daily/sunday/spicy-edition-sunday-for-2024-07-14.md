@@ -3,13 +3,21 @@ title: "Spicy Edition Sunday for 2024-07-14"
 permalink: "/archive/spicy-edition-sunday-for-2024-07-14/"
 description: "Unpack the spicy insights behind this week&#39;s edition, filled with deep links and fresh perspectives. 🔥"
 date: 2024-07-14 18:43:45.662696+00:00
+faq:
+- question: What changes are planned for the fudge.org website starting next month?
+  answer: Starting next month, fudge.org will become a funnel to drive traffic to
+    the newsletter, featuring automated sponsorship management via Buttondown. Afterward,
+    the author plans to reclaim the site for blogging purposes that do not translate
+    well to email.
+- question: What is the primary focus of the 'Markets Monday' newsletter section?
+  answer: Markets Monday focuses on analyzing the past and future of the tech market,
+    often by reviewing industry stock performance, heat maps, and trends from the
+    previous week.
+- question: How does the author curate the content for 'Wacky Wednesday'?
+  answer: 'The author curates Wacky Wednesday content by reviewing dozens of online
+    Slack communities each week to select the most interesting, safe-for-work links
+    shared in #random channels.'
 ---
-
-
-
-
-
-
 # Spicy Edition Sunday for 2024-07-14
 
 Welcome to 🌶️ Spicy Edition Sunday!

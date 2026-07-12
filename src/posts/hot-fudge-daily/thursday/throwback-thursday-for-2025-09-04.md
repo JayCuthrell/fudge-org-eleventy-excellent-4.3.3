@@ -4,8 +4,16 @@ permalink: "/archive/throwback-thursday-for-2025-09-04/"
 description: "Quantum Computing via the Quantinuum lens"
 date: 2025-09-04
 tags: [quantum]
+faq:
+- question: What is the primary subject of the provided blog post?
+  answer: The blog post focuses on examining quantum computing through the lens of
+    Quantinuum.
+- question: Does the blog post mention Honeywell?
+  answer: 'Yes, it includes a link to a 2020 New Scientist article titled ''Surprise
+    contender: Honeywell enters the quantum computing race''.'
+- question: What specific years are covered by the links in the blog post?
+  answer: The links cover the years 2019, 2020, 2021, and 2025.
 ---
-
 It's time for a look at quantum computing again through the lens of Quantinuum.
 
 ### 2025

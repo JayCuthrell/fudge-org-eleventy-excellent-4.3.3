@@ -3,11 +3,19 @@ title: "🔙 Throwback Thursday for 2024-09-12"
 permalink: "/archive/throwback-thursday-for-2024-09-12/"
 description: "Reflecting on my early career, Intel, and the rise / fall of the web hosting boom."
 date: 2024-09-13 06:25:28.735377+00:00
+faq:
+- question: What was Intel Online Services (IOS)?
+  answer: Intel Online Services (IOS) was a subsidiary launched by Intel in late 1999
+    that provided second-generation hosting, which included not just the physical
+    infrastructure, but also the servers, operating system software, and basic applications
+    managed by Intel.
+- question: When did Intel Online Services cease operations?
+  answer: Intel Online Services was shut down by late 2002.
+- question: Which notable companies were customers of Intel Online Services?
+  answer: Customers of Intel Online Services included Sony, eBay, BP, the Tour de
+    France, EMI, MSN, the American Stock Exchange, Discovery Channel, TLC, Animal
+    Planet, and the BBC.
 ---
-
-
-
-
 Telecom and the .com boom (and bust) days were part of [my early career](https://fudge.org/archive/and-for-my-next-trick/). 25 years ago, I was able to participate in an early approximation of a “cloud” by Intel that was called an Application Service Provider (ASP).
 
 Yes. Intel.

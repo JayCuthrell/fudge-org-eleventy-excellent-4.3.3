@@ -3,12 +3,14 @@ title: "🔙 Throwback Thursday for 2024-07-25"
 permalink: "/archive/throwback-thursday-for-2024-07-25/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-25 10:06:35+00:00
+faq:
+- question: What is the date of this Throwback Thursday blog post?
+  answer: The blog post is dated 2024-07-25.
+- question: Is there a new post scheduled for this week?
+  answer: No, the blog is taking a break this week for the summer.
+- question: Who is the photographer of the image featured in the post?
+  answer: The photo was taken by Vicko Mozara.
 ---
-
-
-
-
-
 # 🔙 Throwback Thursday for 2024-07-25
 
 🏖️ We’re taking a break this week for the summer 🏖️

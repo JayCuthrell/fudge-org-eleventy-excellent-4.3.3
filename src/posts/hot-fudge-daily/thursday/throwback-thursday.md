@@ -3,11 +3,18 @@ title: "Throwback Thursday"
 permalink: "/archive/throwback-thursday/"
 description: "Throwback Thursday: Reflecting on NVIDIA&#39;s market cap and motley fools from 20 years ago."
 date: 2024-06-06 14:36:31.012793+00:00
+faq:
+- question: What is the format of Throwback Thursday based on?
+  answer: Throwback Thursday is based on the Fudge Sunday Weekly newsletter sections
+    titled Shot and Chaser.
+- question: What does the Shot and Chaser segment examine?
+  answer: It serves as a look back at prior predictions or past news coverage to see
+    how they have played out in the present.
+- question: What challenges has the author faced when revisiting old Shot and Chaser
+    content?
+  answer: The author has encountered issues with link rot, the degradation of URLs,
+    changes in Twitter ownership, and transitions between different newsletter platforms.
 ---
-
-
-
-
 # Throwback Thursday
 
 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for "[Shot and Chaser](https://fudge.org/topics/shot-and-chaser/)". Basically, this is a look back at a prior prediction or past news coverage and how that worked out in the present.

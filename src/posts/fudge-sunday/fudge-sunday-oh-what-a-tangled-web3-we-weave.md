@@ -3,9 +3,19 @@ date: 2021-11-29 02:00:03+00:00
 description: ''
 permalink: /archive/fudge-sunday-oh-what-a-tangled-web3-we-weave/
 title: Fudge Sunday - Oh What A Tangled Web3 We Weave
+faq:
+- question: How did the author distinguish between Web1, Web2, and Web3 in their Twitter
+    commentary?
+  answer: The author defined Web1 as having no banner ads, Web2 as selling banner
+    ads, and Web3 as selling yourself as banner ads.
+- question: Why does the author prefer using the term Web3 over crypto?
+  answer: The author believes that 'crypto' has become associated with hype and prefers
+    'Web3' as a reframed or repackaged way of describing future developments, suggesting
+    that participatory phrases are more memorable and conducive to wider adoption.
+- question: Is the content provided in this post considered investment advice?
+  answer: No, the author explicitly states that the newsletter is not investment advice
+    and that they are not taking a side regarding Web3.
 ---
-
-
 This week is about Web3. The goal is to avoid taking a particular side or in any way represent investment advice about Web3.
 
 I once [opined on Twitter](https://www.techmeme.com/211102/p20?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a211102p20) regarding web1, web2, and web3 as follows in response to [Zoom considering advertising](https://www.techmeme.com/211102/p20?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a211102p20) back on November 2, 2021:

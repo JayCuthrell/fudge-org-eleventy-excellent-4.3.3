@@ -3,11 +3,18 @@ title: "🌶️ Hot Fudge Sunday for 2025-07-20"
 permalink: "/archive/hot-fudge-sunday-for-2025-07-20/"
 description: "Exciting new podcast, AI company funding news, future ChromeOS & Android merge, and the crypto market's big moment"
 date: 2025-07-20 16:00:00.000+00:00
+faq:
+- question: What is the Winners Circle podcast?
+  answer: Winners Circle is a new podcast from NexusTek that was recently highlighted
+    in the blog post.
+- question: What is the purpose of the Alumni section in the newsletter?
+  answer: The Alumni section is for individuals in the network who have successfully
+    transitioned into their next career adventure.
+- question: Which tech convergence story was mentioned for Throwback Thursday?
+  answer: The newsletter noted that Android is expected to combine with ChromeOS,
+    providing context about how Android was acquired by Google 20 years ago and ChromeOS
+    was launched shortly thereafter.
 ---
-
-
-
-
 {{ subscribe_form }}
 
 ## Last week

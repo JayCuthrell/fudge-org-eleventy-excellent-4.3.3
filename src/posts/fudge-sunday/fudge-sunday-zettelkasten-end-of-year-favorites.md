@@ -3,8 +3,17 @@ date: 2021-12-20 00:50:53+00:00
 description: ''
 permalink: /archive/fudge-sunday-zettelkasten-end-of-year-favorites/
 title: Fudge Sunday - Zettelkasten End of Year Favorites
+faq:
+- question: What tools is the author using to refine their Zettelkasten?
+  answer: The author is currently using Google Keep, Zapier, Slack, Matter, GitHub,
+    and Obsidian to refine their Zettelkasten.
+- question: What inspired the author to put effort into taking smarter notes?
+  answer: Martin Adams' approach to the Zettelkasten method using Obsidian inspired
+    the author to put more effort into taking smarter notes.
+- question: What change did the author make after reading Tyler Jewel's findings?
+  answer: After reading Tyler Jewel's findings, the author began using Matter to read
+    Substack-hosted newsletters.
 ---
-
 This week we take a look at my Zettelkasten end of year favorites. Enjoy!
 
  **Getting Informed**

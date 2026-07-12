@@ -3,10 +3,15 @@ title: "🤪 Wacky Wednesday for 2024-08-21"
 permalink: "/archive/wacky-wednesday-for-2024-08-21/"
 description: "A curated list of interesting links from various Slack communities, including history of male witches, European cooking, and acid generator."
 date: 2024-08-22 05:04:05.964191+00:00
+faq:
+- question: When does the author curate the list of interesting links?
+  answer: The author curates and selects the most interesting shared links every Wednesday.
+- question: What is the criteria for the links included in the post?
+  answer: The links included in the list are selected from Slack communities and are
+    guaranteed to be safe for work.
+- question: Where does the author source the links from?
+  answer: The author sources the links by going through dozens of Slack communities.
 ---
-
-
-
 Each Wednesday I go through dozens of Slack communities and select the most interesting shared links found. This will always be a safe for work list. 🙈
 
 [https://inews.co.uk/opinion/comment/the-long-and-underappreciated-history-of-male-witches-and-the-countries-where-more-people-accused-of-witchcraft-were-men-354563](https://inews.co.uk/opinion/comment/the-long-and-underappreciated-history-of-male-witches-and-the-countries-where-more-people-accused-of-witchcraft-were-men-354563)

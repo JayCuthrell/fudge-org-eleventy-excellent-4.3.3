@@ -2,10 +2,21 @@
 title: "Fudge Sunday - What's a Server?"
 description: 'Thinking about servers'
 date: 2021-08-15 17:35:23+00:00
+faq:
+- question: How does the author define a server?
+  answer: A server is described as a contained collection of computing hardware or
+    software that provides services to other computing hardware or software, including
+    other servers or clients.
+- question: What are the three categories of servers as identified by IDC?
+  answer: 'IDC categorizes servers into three buckets: Volume (generic, vanity-free
+    servers used by hyperscale cloud providers), Midrange (traditional datacenter
+    servers with human-friendly designs and branding), and High-End (servers designed
+    for intense workloads and high-performance computing).'
+- question: What is the core mission of Oxide Computer?
+  answer: The cofounders of Oxide Computer, Jessie Frazelle, Bryan Cantrill, and Steve
+    Tuck, share a core mission to bring back integration themes within a server industry
+    that is more commonly associated with commodification.
 ---
-
-
-
 This week we’ll be looking at recent and coming innovations compute, network, storage, and everything else that goes into what we call servers.
 
  **Reminder: Mark your calendars...**

@@ -4,10 +4,19 @@ permalink: "/archive/hot-fudge-sunday-for-2025-11-02/"
 description: "Hot Fudge Daily digest for the week of 10-27-2025 to 11-01-2025."
 date: 2025-11-02
 tags: ['Hot Fudge Sunday']
+faq:
+- question: Which NexusTek team member was recognized as a CRN 2025 Next-Gen Solution
+    Provider Leader?
+  answer: Pavle Majerle from NexusTek was recognized as a CRN 2025 Next-Gen Solution
+    Provider Leader.
+- question: What major shift occurred at OpenAI during the week of October 31, 2025?
+  answer: OpenAI pivoted to become a for-profit entity, providing Microsoft with approximately
+    a 27% stake in exchange for a $250B+ Microsoft Azure Consumption Commitment.
+- question: What proposed policy regarding encrypted messages lost support in the
+    EU according to the 'Sneak Peak Saturday' update?
+  answer: The proposed policy known as 'Chat Control,' which would have forced tech
+    companies to scan private, encrypted messages, lost support.
 ---
-
-
-
 ## Last Week
 
 * NexusTek’s [Pavle Majerle](https://www.linkedin.com/in/pavle-majerle-32379011a/) was recognized as a [CRN 2025 Next-Gen Solution Provider Leader](https://www.globenewswire.com/news-release/2025/10/31/3178598/0/en/NexusTek-s-Pavle-Majerle-Recognized-as-a-CRN-2025-Next-Gen-Solution-Provider-Leader.html)! 🎉

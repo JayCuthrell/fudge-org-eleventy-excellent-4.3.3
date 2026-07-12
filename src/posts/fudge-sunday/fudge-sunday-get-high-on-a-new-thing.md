@@ -3,9 +3,21 @@ date: 2021-07-25 21:57:41+00:00
 description: ''
 permalink: /archive/fudge-sunday-get-high-on-a-new-thing/
 title: Fudge Sunday - Get High On a New Thing
+faq:
+- question: What role could cell towers play in the future regarding satellite connectivity?
+  answer: Cell towers could evolve to function as hubs that facilitate network traffic
+    and machine-to-machine localized information transmission to and from satellite
+    networks, potentially hosting micro data centers in a halo ring around them.
+- question: Why is the topic of 'roof rights' becoming increasingly important for
+    businesses?
+  answer: Roof rights are becoming more significant as buildings with a clear view
+    of the sky become prime locations for satellite base stations, similar to how
+    cell towers are currently placed on buildings to bypass legacy telecommunications
+    access challenges.
+- question: What does the author suggest about the future of cloud egress fees?
+  answer: The author predicts that as memory costs drop, the current model of egregious
+    cloud egress fees will shift from being awkward to completely unjustifiable.
 ---
-
-
 A song, lyric, and tweets to connect it back to the edge, core, and cloud.
 
 This issue is part 4 of a 5 part series

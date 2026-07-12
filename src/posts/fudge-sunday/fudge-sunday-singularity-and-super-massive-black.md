@@ -2,8 +2,22 @@
 title: "Fudge Sunday - Singularity and Super Massive Black Holes"
 description: ''
 date: 2022-05-16 02:48:14+00:00
+faq:
+- question: What is the primary association of the word 'singularity' discussed in
+    the text regarding recent astrophysics?
+  answer: The text highlights that the term 'singularity' is now being more freely
+    associated with supermassive black holes, moving away from its common association
+    with dystopian AI and futurist sci-fi concepts.
+- question: What caused the Google Trends spike for 'singularity' in 2008 that the
+    author initially misattributed?
+  answer: The author initially wondered if the spike was related to the formation
+    of Singularity University, but found it was actually due to the energizing of
+    the Large Hadron Collider.
+- question: What is Singularity University?
+  answer: Singularity University is a Silicon Valley institute founded on September
+    20, 2008, that offers education on futurism and has historically included a research
+    exchange and an investment club.
 ---
-
 This week we take a look at the word singularity which may finally be coming back home to super massive black holes.
 
 Jon Hopkins - Singularity (2018)

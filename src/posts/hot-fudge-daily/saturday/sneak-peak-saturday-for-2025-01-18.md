@@ -3,10 +3,18 @@ title: "🔮 Sneak Peak Saturday for 2025-01-18"
 permalink: "/archive/sneak-peak-saturday-for-2025-01-18/"
 description: "Catch up on the overlooked stories of the week before the Friday news frenzy hits!"
 date: 2025-01-18 20:59:03.460724+00:00
+faq:
+- question: What is often referred to as a 'dread-line' in the context of news coverage?
+  answer: A 'dread-line' refers to the Friday deadline by which news must be turned
+    in, as the pace of coverage reaches a fever pitch throughout the week.
+- question: Why do some news updates get released on a Friday?
+  answer: News updates are sometimes released on a Friday as a way to try and sneak
+    information past wider coverage, which the author describes as 'peak patronizing
+    publishing'.
+- question: What is the purpose of the provided links in the post?
+  answer: The links are provided as examples of stories that may have been missed
+    during the slower news cycle of a Friday.
 ---
-
-
-
 By Friday, everything seems to be reaching the peak of getting news turned in before a deadline or dread-line. It sometimes seems like we reach a fever pitch in news coverage throughout the week.
 
 #### Peak 🏔️ vs. Peek 👀
