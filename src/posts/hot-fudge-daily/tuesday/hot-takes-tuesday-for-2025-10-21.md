@@ -3,8 +3,14 @@ title: "🔥 Hot Takes Tuesday for 2025-10-21"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-21/"
 description: "AI funding in chip design, IT automation, and more"
 date: 2025-10-21
+faq:
+- question: How much funding did ChipAgents raise and what is their focus?
+  answer: ChipAgents raised $21 million and focuses on agentic AI for chip design.
+- question: Which company listed in the post received the highest amount of funding?
+  answer: Anrok received the highest amount of funding listed, totaling $55 million.
+- question: What is the primary function of Findem?
+  answer: Findem specializes in AI-powered talent acquisition.
 ---
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [ChipAgents](https://www.techmeme.com/251021/p22#a251021p22) (agentic AI for chip design): **$21M**

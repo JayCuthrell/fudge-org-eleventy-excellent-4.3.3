@@ -3,10 +3,21 @@ title: "Hot Takes Tuesday for 2024-07-02"
 permalink: "/archive/hot-takes-tuesday-for-2024-07-02/"
 description: "Tech funding and M&amp;A moves focus on A.I., CGI improvements, and GenAI, with potential for game-changing innovations in various industries."
 date: 2024-07-02 23:03:04.679962+00:00
+faq:
+- question: What primary technology trends are currently influencing big funding and
+    M&A moves in tech?
+  answer: The current trends focus on A.I., CGI improvements, and GenAI, which offer
+    the potential for game-changing innovations across various industries.
+- question: What is the author's hypothesis regarding the improvement of CGI in movies?
+  answer: The author suggests that if CGI becomes better through new tools, it could
+    lead to a democratization of production and a massive increase in output, similar
+    to how self-publishing transformed the fan fiction market.
+- question: How does the author characterize the potential impact of GenAI on search
+    technology?
+  answer: The author believes the best RAG and GenAI demos are those that fundamentally
+    change how we perceive good search results, specifically by identifying the location
+    of specific information relative to the entire document.
 ---
-
-
-
 # Hot Takes Tuesday for 2024-07-02
 
 Off the cuff analysis in a rapid fire format.

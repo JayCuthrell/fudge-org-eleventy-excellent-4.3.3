@@ -3,8 +3,20 @@ date: 2018-12-12 00:00:00+00:00
 description: A look back at 20 years of blogging from 1998 to 2018
 permalink: /archive/20-years-of-blogging/
 title: 20 Years of Blogging
+faq:
+- question: Why did the author decide to include the year in blog post titles?
+  answer: The author added the year to post titles to provide context for readers,
+    as previous visitors often commented on older posts without realizing they were
+    written in a different time period.
+- question: How does the author view the loss of old blog posts?
+  answer: The author views the loss of blog posts as being similar to a writer's collection
+    of wadded-up paper, choosing to consider those losses as opportunities to write
+    better posts in the future.
+- question: Why does the author currently avoid writing about their company on their
+    personal blog?
+  answer: The author believes that a personal blog is the worst place to discuss a
+    company because there is no upside and it presents mostly downsides.
 ---
-
 [20 years](https://fudge.org/archive/the-fudge-faq). Well, it’s probably more than 20 years if I include personal websites that changed. Good times.
 
 # Selective Saving

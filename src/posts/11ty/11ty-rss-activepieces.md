@@ -3,9 +3,21 @@ title: "11ty RSS Activepieces"
 description: "A look at enhancing 11ty POSSE with RSS 2.0, Open Graph, and Activepieces"
 date: 2024-02-11
 tags: [11ty]
+faq:
+- question: What tools are being used to automate social media posts in this blog
+    post?
+  answer: The author uses 11ty with an RSS 2.0 feed and Activepieces to automate cross-posting
+    to Mastodon and LinkedIn.
+- question: How does the author ensure images are included in the RSS feed for social
+    media posts?
+  answer: The author extends the RSS 2.0 template (feed.njk) by adding an <enclosure>
+    tag that points to the generated Open Graph image for each post.
+- question: Does the author suggest an alternative to using an RSS feed trigger for
+    Activepieces?
+  answer: Yes, the author notes that they may use a Webhook trigger instead of an
+    RSS feed trigger to provide more control and avoid potential issues with LinkedIn's
+    platform requirements.
 ---
-
-
 This week is a look at enhancing 11ty by extending the RSS feed of my newsletter archive and blog to include an enclosure that borrows from Open Graph image functionality with the intent of populating the input for Activepieces as a [POSSE](/topics/posse) tool for posting to Mastodon and LinkedIn. That was a mouthful.
 
 My inspiration? [spyglass.org](https://spyglass.org)

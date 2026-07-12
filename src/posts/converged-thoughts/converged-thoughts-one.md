@@ -3,8 +3,18 @@ date: 2016-12-29 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-one/
 title: Converged Thoughts One
+faq:
+- question: What is the primary goal of this newsletter digest?
+  answer: The goal is to revisit items shared throughout the day or week and provide
+    additional context regarding why those items are of interest.
+- question: Why did the author decide to start a newsletter?
+  answer: The author wanted a way to share content because their personal blog is
+    updated infrequently and lacks a subscription service to deliver updates directly
+    to readers' inboxes.
+- question: What is the intended format for the newsletter issues?
+  answer: Each issue will feature the author's original pithy tweet and link to the
+    content, followed by a few notes explaining why the content is of interest.
 ---
-
 Welcome to the first issue of my digest.
 
 I know… an email newsletter on the eve of the year 2017. Bold! :wink:

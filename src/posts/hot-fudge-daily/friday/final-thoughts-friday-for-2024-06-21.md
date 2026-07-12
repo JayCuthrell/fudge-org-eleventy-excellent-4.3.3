@@ -3,9 +3,16 @@ title: "Final Thoughts Friday for 2024-06-21"
 permalink: "/archive/final-thoughts-friday-for-2024-06-21/"
 description: "Busy week with hosting events, planning future gatherings, and transitioning to a new subscription fee structure."
 date: 2024-06-21 16:35:16.334897+00:00
+faq:
+- question: Where does the author normally work?
+  answer: The author normally works out of The Vault in Beaufort, NC USA.
+- question: What change was made to the Hot Fudge Daily subscription model?
+  answer: The author changed to a $9.99 yearly subscription because the previous monthly
+    fee structure resulted in Stripe taking one-third of the $0.99 revenue.
+- question: Does the author plan to continue hosting their morning event?
+  answer: Yes, the author is considering making the event a weekly occurrence and
+    has already created the event for next week.
 ---
-
-
 # Final Thoughts Friday for 2024-06-21
 
 Looking back at the week with an eye to the future.

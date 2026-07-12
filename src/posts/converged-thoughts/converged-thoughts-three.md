@@ -3,8 +3,20 @@ date: 2016-12-31 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-three/
 title: Converged Thoughts Three
+faq:
+- question: What is the significance of the Galileo project mentioned in the post?
+  answer: Galileo, also known as the European Global Navigation Satellite System (GNSS),
+    is considered a big deal because it offers greater precision in location for objects
+    of all sizes.
+- question: What technologies are expected to transform how we think about mobility?
+  answer: The author suggests that mobility will be transformed by very low Earth
+    orbit mini satellites, low and high motion drones, terrestrial millimeter wave
+    radios, and shifts in wireless spectrum auction winners.
+- question: Besides smartphones, what other devices are mentioned as having radio
+    capabilities?
+  answer: The post notes that some smartphones currently on the market include the
+    capability to listen to FM radio.
 ---
-
 4… 3… 2… 1
 
 [Peter Schilling - Major Tom - YouTube](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=N1Hs2AQwDgA)

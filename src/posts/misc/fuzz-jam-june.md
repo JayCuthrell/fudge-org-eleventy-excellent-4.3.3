@@ -2,10 +2,20 @@
 title: "Fuzz Jam June"
 description: ''
 date: 2023-07-02 23:33:07.473396+00:00
+faq:
+- question: What is the growing importance of fuzzing in platform engineering?
+  answer: Fuzzing is becoming increasingly important for security and reliability,
+    as evidenced by numerous CNCF projects—including Dapr, Kubernetes Cluster API,
+    and Helm—integrating continuous fuzzing and completing fuzzing security audits.
+- question: Is it important for fuzzing to be part of the shipped code's toolchain?
+  answer: Yes, fuzzing should be part of the code being shipped, and there is also
+    a specific need for fuzzing the toolchain itself.
+- question: Where can someone learn more about the history and modern practices of
+    fuzzing?
+  answer: Jochen Hilgers provides an in-depth look at the history, present, and future
+    of fuzzing in his video presentation regarding modern fuzzing, which includes
+    live fuzzer use kata.
 ---
-
- 
-
 Music: [The Lazy Eyes - Fuzz Jam (2022)](https://www.youtube.com/watch?v=GFyNk8w1opw)
 
 https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc?si=f64a44fe4c9a472f

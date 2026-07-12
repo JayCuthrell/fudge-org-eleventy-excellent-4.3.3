@@ -3,11 +3,18 @@ title: "📈 Markets Monday for 2025-03-03"
 permalink: "/archive/markets-monday-for-2025-03-03/"
 description: "This week, I&#39;m analyzing tech market trends using Yahoo Finance’s indicators for insights."
 date: 2025-03-04 04:33:23.569342+00:00
+faq:
+- question: What tool does the author recommend for creating a custom market heat
+    map view?
+  answer: The author recommends using the Yahoo Applied Filters for Stocks screener.
+- question: How does the author determine the 'spiciness' of the market each week?
+  answer: The author looks at a key indicator from a simple Yahoo Finance webpage
+    through the lens of the closing bell every Monday.
+- question: What are the specific filter criteria for market cap and sector when using
+    the Yahoo screener?
+  answer: The market cap is set to Mid Cap, Large Cap, and Mega Cap, and the sector
+    is set to Technology.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

@@ -3,6 +3,27 @@ title: "Fudge Factor: Edge to Core to Cloud"
 description: 'Edition 6 of my new newsletter on our increasingly connected world'
 date: 2024-09-08
 tags: [Fudge Factor]
+faq:
+- question: What does the phrase 'edge to core to cloud' generally refer to?
+  answer: Depending on the context, the phrase refers to the various locations where
+    data solutions can be implemented, addressing the entire spectrum of data needs
+    from small to large-scale operations. 'Edge' refers to distributed computing at
+    the source of data, 'core' refers to on-premises datacenters or private clouds,
+    and 'cloud' refers to public cloud providers, such as hyperscale cloud service
+    providers or managed service providers.
+- question: How do the cost models typically differ between the Edge, Core, and Cloud
+    computing paradigms?
+  answer: Costs for Edge computing are typically based on incremental upfront CAPEX
+    with low unit pricing and ongoing OPEX. Core computing costs are based on large
+    centralized upfront CAPEX with relatively high unit pricing and ongoing OPEX.
+    Cloud computing costs are based on a subscription-based utility pricing model
+    that is purely OPEX.
+- question: Why is edge computing considered more suitable than cloud or core for
+    scenarios requiring real-time decision-making?
+  answer: Edge computing excels in real-time decision-making because it is located
+    physically closer to where data is generated, resulting in ultra-low latency.
+    In contrast, cloud and core paradigms are often located farther from the data
+    source, which introduces higher latency based on network architecture and distance.
 ---
 This is Edition 6 of my [newest](/topics/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

@@ -3,8 +3,21 @@ date: 2022-07-31 23:02:17.463000+00:00
 description: ''
 permalink: /archive/when-we-was-chip-fab-focused/
 title: When We Was Chip Fab Focused
+faq:
+- question: What technologies are included in the poll assessing reader perspectives
+    on future impact?
+  answer: The poll assesses artificial intelligence (AI), machine learning (ML), augmented
+    reality (AR), virtual reality (VR), CRISPR, pentatricopeptide repeats (PPR), fifth
+    generation cellular networking (5G), and industrial Internet of Things (IIoT).
+- question: What factors influence where semiconductor fabrication facility investments
+    are likely to land?
+  answer: Investments are likely to benefit localities that offer the right mix of
+    tax incentives, seismic stability, energy, and water rights.
+- question: What is the primary vision of the future discussed regarding computing?
+  answer: The vision is to create a 'whim based infrastructure' where computation
+    is ubiquitous and manual interactions are replaced with informed actions that
+    have imperceptible latencies, effectively connecting to human intuition and whims.
 ---
-
 *[George Harrison - When We Was Fab (1987)](https://www.youtube.com/watch?v=AVu6nPTVbBQ)*
 
 

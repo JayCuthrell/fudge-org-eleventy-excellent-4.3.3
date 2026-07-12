@@ -3,9 +3,25 @@ date: 2011-07-23 03:51:55+00:00
 description: ''
 permalink: /archive/on-metrics/
 title: On Metrics
+faq:
+- question: What is the author's primary concern regarding "marketing intelligence"
+    services?
+  answer: The author questions the general notion of tracking service utilization
+    in the fast-paced world of iterative development with anything but the very broadest
+    and most fluffy of metrics, especially when dealing with a constantly changing
+    landscape.
+- question: Why does the author describe tracked online properties as "moving targets"?
+  answer: The author considers properties like Google+ as "moving targets" because
+    they evolve through new signatures, A/B testing, deep personalization, mobile
+    or closed loop networks, leverage of partners, or shifts in delivery infrastructure
+    to favor SSL-enabled experiences.
+- question: According to the post, how does user privacy and data ownership impact
+    third-party tracking services?
+  answer: The quality of time spent and sharing gestures (text updates vs. photos
+    vs. movies) become harder to glean as this data is considered part of the privacy
+    contract and the salable asset of the property, with the user often being "what
+    is for sale" if the product is free.
 ---
-
-
 Ah, metrics. Everyone loves a horse race. Of course, in a horse race it is not as if the horses are allowed to take a hyperspace jump to various points in the track outside of the assumed finite length of a race track. Enter the dilemma of any so-called “marketing intelligence” service selling you a stopwatch to determine who wins the race.
 
 Wait? What? See the article linked below my own footnotes. This mini-ramble is about Hitwise making a graph or something showing something growing or not growing or winning or not winning. I’m not picking on the article or Hitwise per se but the general notion of tracking service utilization in the fast paced world of iterative development with anything but the very broadest and most fluffy of metrics.

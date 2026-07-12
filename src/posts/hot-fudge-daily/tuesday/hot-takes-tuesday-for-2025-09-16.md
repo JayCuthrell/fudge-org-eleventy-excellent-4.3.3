@@ -3,8 +3,17 @@ title: "🔥 Hot Takes Tuesday for 2025-09-16"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-16/"
 description: "AI-focused companies keeping cash coming"
 date: 2025-09-16
+faq:
+- question: Which company received the highest amount of funding mentioned in the
+    post?
+  answer: Figure, an AI-powered humanoid robot company, received over $1 billion in
+    funding.
+- question: What is the primary function of the company Nory?
+  answer: Nory is an AI-powered restaurant management system.
+- question: How much funding did Dyna Robotics secure for its AI foundation model
+    for robotics?
+  answer: Dyna Robotics secured $120 million in funding.
 ---
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [Nory](https://www.techmeme.com/250916/p34#a250916p34) (AI-powered restaurant management system): **$37M**

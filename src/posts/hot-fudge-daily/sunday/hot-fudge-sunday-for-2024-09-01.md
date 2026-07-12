@@ -3,13 +3,22 @@ title: "🌶️ Hot Fudge Sunday for 2024-09-01"
 permalink: "/archive/hot-fudge-sunday-for-2024-09-01/"
 description: "Weekly hot takes on market trends, funding news, wacky links, historical insights, and upcoming tech events."
 date: 2024-09-01 13:30:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: What events is the author scheduled to attend for the remainder of the
+    year?
+  answer: The author is scheduled to attend AI Field Day 5 (September 11-13, 2024),
+    Monktoberfest (October 2-4, 2024), Cloud Field Day 21 (October 23-25, 2024), and
+    All Things Open (October 27-29, 2024).
+- question: What does the author suggest about datacenter energy consumption?
+  answer: The author notes that while datacenter energy concerns have always existed,
+    modern demands from hyperscale cloud service providers have intensified the issue,
+    with established players focusing on power purchase agreements to secure more
+    energy.
 ---
-
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

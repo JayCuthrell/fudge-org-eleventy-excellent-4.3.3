@@ -3,11 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-08"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-08/"
 description: "NexusTek&#39;s launch on Azure Marketplace and exclusive NYC events highlight this week&#39;s updates!"
 date: 2025-06-08 20:21:59+00:00
+faq:
+- question: What major update regarding NexusTek was shared in the blog post?
+  answer: NexusTek is now available on the Azure Marketplace for managed and professional
+    services.
+- question: Which specific event is being hosted for owners and operators in the Hospitality,
+    Leisure, and Travel sectors?
+  answer: There is an exclusive event for owners and operators in those industries
+    taking place in NYC on June 12.
+- question: What is the primary topic of the 'Throwback Thursday' section?
+  answer: The section discusses the announcement of biological computers by Cortical
+    Labs, along with historical context regarding organoid computing and references
+    to biological computing in media.
 ---
-
-
-
-
 This week continues our new shortened format. Thanks again to readers for all the helpful replies and survey feedback.
 
 ## Last week

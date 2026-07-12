@@ -3,8 +3,21 @@ date: 2022-07-10 23:56:50.035000+00:00
 description: ''
 permalink: /archive/ready-to-grow/
 title: Ready To Grow
+faq:
+- question: What is the expected growth trend for the predictive analytics market
+    according to the post?
+  answer: Predictive analytics is a fast-growing market that the author suggests could
+    easily approach approximately $1 trillion USD within a decade.
+- question: How does the author characterize the use of predictive analytics in online
+    shopping?
+  answer: The author identifies the most conspicuous use of predictive analytics in
+    e-commerce as sophisticated shopping experiences that provide real-time advertising
+    based on items other similar customers have purchased.
+- question: Why is the author ending their audio podcast testing on Substack?
+  answer: The author is ending the podcast tests because they determined that the
+    Substack iOS app already provides the functionality to read the text of a post
+    aloud, making the separate audio recordings superfluous.
 ---
-
 [Republica - Ready to Go (1997)](https://www.youtube.com/watch?v=JgffRW1fKDk)
 
 

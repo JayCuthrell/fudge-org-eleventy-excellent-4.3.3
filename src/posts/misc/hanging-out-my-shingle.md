@@ -2,8 +2,20 @@
 title: "Hanging Out My Shingle"
 description: "One door closes, JSC, Startup Week, my shingle, and what's next"
 date: 2024-04-14
+faq:
+- question: How did the author use Generative AI for their farewell email from IBM?
+  answer: The author used a watsonx Assistant with the Granite model to draft the
+    layout of their farewell email, which they then customized with their own personalized
+    flourishes.
+- question: What is the purpose of the Job Search Council (JSC) the author joined?
+  answer: The Job Search Council is a mutual support group that utilizes 'Never Search
+    Alone' techniques to help members find jobs they will love.
+- question: What kind of services is the author offering through cuthrell.consulting?
+  answer: The author is offering fractional strategic roles and advisory services,
+    specifically focusing on growth and pragmatic GenAI and data platforms for startups,
+    emerging technology companies, Telco, Media, Entertainment companies, and Venture
+    Capital/investment firms.
 ---
-
 This week we take a look at how one door closes, Job Search Council, Raleigh-Durham Startup Week 2024, and what's next for me.
 
 ## Getting Informed

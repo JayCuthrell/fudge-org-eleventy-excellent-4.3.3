@@ -2,8 +2,24 @@
 title: "GenAI June"
 description: "A look at GenAI, hot takes, and a punditry index"
 date: 2024-06-02
+faq:
+- question: What are the common suggestions from readers regarding free and paid newsletters?
+  answer: For free newsletters, common suggestions include sponsorships offsetting
+    operating costs, and weekly digests driving paid subscriptions, with daily formats
+    reserved for paid subscriptions. For paid newsletters, they must have clear value
+    and daily delivery, include comments and author replies, and offer paid options
+    like Stripe, Paypal, and checks by mail.
+- question: What is the author's view on GenAI based on the post?
+  answer: The author notes that GenAI has been treated like a 'punching bag' in the
+    popular press and observes a recent ramp-up in GenAI references. While the author
+    has experienced real benefits from GenAI, they also state that GenAI isn't magic
+    and all-knowing yet, and that the hype around it is not a new phenomenon.
+- question: What new newsletter initiatives are mentioned in the blog post?
+  answer: The blog post announces that the Fudge Sunday Weekly newsletter is now sponsored,
+    and its archive is also open for sponsorship by topics. Furthermore, the author
+    is preparing to launch a new daily paid newsletter subscription model called Hot
+    Fudge Daily.
 ---
-
 This week we take a look at GenAI, hot takes, and a punditry index
 
 ## Housekeeping

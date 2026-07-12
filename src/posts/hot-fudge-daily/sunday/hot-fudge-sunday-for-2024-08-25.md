@@ -4,13 +4,21 @@ permalink: "/archive/hot-fudge-sunday-for-2024-08-25/"
 description: "Tech market analysis, AI funding, M&amp;A trends, Slack community links, encryption throwbacks, and upcoming tech events."
 date: 2024-08-25 13:30:00+00:00
 tags: [quantum]
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: What specific criteria does the newsletter use for its Yahoo Finance technology
+    stock filter?
+  answer: The filter includes stocks in the United States with a mid, large, or mega
+    market cap, a price greater than or equal to 5, a volume greater than 15,000,
+    a price change greater than 4%, and a focus on the technology sector and its various
+    sub-industries.
+- question: What is the focus of the 'Throwback Thursday' section?
+  answer: Throwback Thursday reviews prior news coverage or past predictions to see
+    how they have played out in the present.
 ---
-
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

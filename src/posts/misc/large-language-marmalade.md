@@ -2,10 +2,20 @@
 title: Large Language Marmalade
 description: A look at LLM, LLMOps, HARO, and SRE 
 date: 2023-10-29
+faq:
+- question: What is the author's humorous take on the abbreviation 'LLM'?
+  answer: The author jokingly suggests that 'LLM' stands for 'Large Language Marmalade,'
+    because many businesses try to smear the technology on everything.
+- question: What is the author's stated goal when participating in Help A Reporter
+    Out (HARO)?
+  answer: The author's goal in participating in HARO is to help the reporter, not
+    to provide investment advice or act as an investor.
+- question: What does the author believe regarding the implementation of Site Reliability
+    Engineering (SRE) teams?
+  answer: The author believes that while many teams are being renamed to SRE, it is
+    arguable that the only true SRE work is still being conducted at companies like
+    Google.
 ---
-
-
-
 This week we take a look at Large Language Model (LLM) hype, LLM Operations (LLMOps), Help A Reporter Out (HARO), and Site Reliabiity Engineer (SRE) learnings over the past twenty (20!) years.
 
 [![Large Language Marmalade](https://live.staticflickr.com/65535/53294760162_b1228d1298_c.jpg)](https://www.flickr.com/photos/jcuthrell/53294760162/in/datetaken-family/)

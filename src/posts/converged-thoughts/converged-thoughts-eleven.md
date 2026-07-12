@@ -3,8 +3,18 @@ date: 2017-01-08 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-eleven/
 title: Converged Thoughts Eleven
+faq:
+- question: What is the primary function of Mosh in a technical workflow?
+  answer: Mosh is a tool used for interactive remote shell access that helps maintain
+    connections over flaky Internet networks.
+- question: Why does the author prefer using GitHub Pages over a service like Medium?
+  answer: The author prefers GitHub Pages because maintaining one's own code repository
+    is considered more survivable than relying on external blogging platforms.
+- question: What is the author's theory regarding the future of online communication?
+  answer: The author suggests that online communication may eventually shift toward
+    glyph-based methods, such as increased use of emoji, as a form of communication
+    shorthand.
 ---
-
 Terminal Multiplex & Emoji in Space
 ===================================
 

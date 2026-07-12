@@ -4,9 +4,20 @@ description: 'VCE year 3'
 permalink: /archive/my-third-year-at-vce/
 title: My Third Year at VCE
 tags: [VCE and Dell]
+faq:
+- question: When is VCE launching their next generation of converged infrastructure
+    solutions?
+  answer: VCE is launching the next generation of their market leading true converged
+    infrastructure solutions on September 17, 2013.
+- question: What is the benefit of using Vblock Systems for datacenter infrastructure?
+  answer: Vblock Systems help accelerate the transformation of the datacenter, allowing
+    customers to spend more time on custom applications and business drivers rather
+    than infrastructure maintenance. They offer pre-configured, integrated, and tested
+    components that simplify, automate, and modernize management.
+- question: What is the reported reorder rate for VCE products according to ESG?
+  answer: According to ESG, VCE is currently enjoying a 70%+ reorder rate from their
+    customer base.
 ---
-
-
 Next month I’ll reach my 3 year mark with VCE.
 
 The VCE rocketship has only continued to [accelerate](http://www.vce.com/accelerate) since I jumped on board. I’m consistently amazed at what VCE has been able to accomplish in this short amount of time. There is still much work to do but I am happy and fortunate to be part of the team.

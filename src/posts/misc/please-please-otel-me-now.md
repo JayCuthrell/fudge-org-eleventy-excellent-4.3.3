@@ -3,9 +3,20 @@ date: 2022-10-17 01:06:39.320000+00:00
 description: ''
 permalink: /archive/please-please-otel-me-now/
 title: Please Please OTel Me Now
+faq:
+- question: What is OpenTelemetry (Otel)?
+  answer: OpenTelemetry, or Otel, is an open standard designed for generating, collecting,
+    and exporting telemetry in a vendor-agnostic way.
+- question: How was OpenTelemetry formed?
+  answer: 'OpenTelemetry was created in early 2019 through the merger of two projects:
+    OpenTracing and OpenCensus.'
+- question: What is the difference in how Platform Engineers and Site Reliability
+    Engineers use telemetry?
+  answer: Platform Engineers focus on building for internal developer teams and care
+    significantly about instrumentation, observability, tracing, and OpenTelemetry.
+    Site Reliability Engineers focus on building for customers and primarily use metrics,
+    logs, dashboards, monitoring, alerting, and various forms of telemetry agents.
 ---
-
-
 *[Duran Duran - Is There Something I Should Know? (1982)](https://www.youtube.com/watch?v=3M0hogZyRyU)*
 
 Getting Informed

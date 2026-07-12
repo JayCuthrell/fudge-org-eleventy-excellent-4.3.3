@@ -2,8 +2,20 @@
 title: "Increasingly Connected"
 description: 'A look at my next newsletter on our increasingly connected world'
 date: 2024-07-28
+faq:
+- question: What is the primary niche the author is considering for their next newsletter?
+  answer: The author is considering focusing on the domain where telecom, cloud, and
+    A.I. are meeting, colliding, and converging, specifically taking a conceptual
+    approach to ICT generations.
+- question: Has the author considered becoming an industry analyst?
+  answer: Yes, the author has discussed this with industry peers and noted that while
+    it is flattering to be viewed as an analyst, they are currently focused on their
+    fractional executive journey and exploring the conceptual aspects of ICT.
+- question: What are the potential names the author is considering for their next
+    project?
+  answer: The author is currently leaning towards naming the project either 'Fudge
+    Factor' or 'Fudge Forward'.
 ---
-
 This week is a look at my next newsletter on our increasingly connected world.
 
 ## Getting Informed

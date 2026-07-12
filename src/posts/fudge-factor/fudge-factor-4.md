@@ -3,6 +3,19 @@ title: "Fudge Factor: Telemetry Challenges"
 description: 'Edition 4 of my new newsletter on our increasingly connected world'
 date: 2024-08-25
 tags: [Fudge Factor]
+faq:
+- question: What are 'fudge factors' in the context of industrial IoT (IIoT)?
+  answer: Fudge factors are adjustments and techniques applied to IIoT systems to
+    ensure reliable data collection and communication when operating in harsh or extreme
+    environments that would otherwise negatively impact data transmission and accuracy.
+- question: How are AI and machine learning being used to improve telemetry systems?
+  answer: AI and machine learning are being integrated with hyperscale cloud provider
+    resources to analyze environmental data patterns, which helps in predicting and
+    mitigating potential telemetry failures.
+- question: Why is edge computing beneficial for telemetry in remote locations?
+  answer: Edge computing allows for the processing of data closer to the source, which
+    reduces latency and increases the reliability of telemetry data in vast numbers
+    of remote locations.
 ---
 This is Edition 4 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

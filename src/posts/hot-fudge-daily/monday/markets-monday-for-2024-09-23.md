@@ -3,12 +3,21 @@ title: "📈 Markets Monday for 2024-09-23"
 permalink: "/archive/markets-monday-for-2024-09-23/"
 description: "This edition highlights key market insights and urges readers to check out Coté&#39;s Wunderkammer!"
 date: 2024-09-24 01:05:39.116233+00:00
+faq:
+- question: Who is the author of Coté's Wunderkammer?
+  answer: The newsletter is written by Michael Coté.
+- question: What resource does the author use to track key market indicators for Market
+    Monday?
+  answer: The author uses a simple Yahoo Finance webpage and the Yahoo Applied Filters
+    for Stocks screener.
+- question: What are the specific sector and industry criteria for the author's Yahoo
+    Finance heat map view?
+  answer: The sector is Technology, and the industry includes a variety of fields
+    such as Software—Infrastructure, Information Technology Services, Computer Hardware,
+    Software—Application, Communication Equipment, Electronics & Computer Distribution,
+    Consumer Electronics, Electronic Components, Scientific & Technical Instruments,
+    Semiconductor Equipment & Materials, and Semiconductors.
 ---
-
-
-
-
-
 ### Reading Recommendation
 
 The software development and DevX market can be hard to keep up with and if you aren’t reading [Coté's Wunderkammer](https://newsletter.cote.io/), you should be. As for why, the writer behind [Coté's Wunderkammer](https://newsletter.cote.io/) is [Michael Coté](https://cote.io/)* *.

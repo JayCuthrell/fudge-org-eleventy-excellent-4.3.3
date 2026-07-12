@@ -3,11 +3,16 @@ title: "📈 Markets Monday for 2025-06-09"
 permalink: "/archive/markets-monday-for-2025-06-09/"
 description: "This week, I&#39;m diving into a spicier mix of love and rockets!"
 date: 2025-06-10 02:06:53.327172+00:00
+faq:
+- question: How did the spice level change from last week to this week?
+  answer: Last week was described as less spicy, while this week is described as a
+    bit more spicy.
+- question: What is the theme for this week?
+  answer: This week is all about love and rockets.
+- question: Were there images included in the blog post?
+  answer: Yes, the post included images comparing last week's 'less spicy' content
+    to this week's 'more spicy' content.
 ---
-
-
-
-
 ### Last week
 
 ![Not as spicy](https://assets.buttondown.email/images/dd8121a7-767e-4cbf-ba3d-600ce9468730.png?w=960&fit=max)

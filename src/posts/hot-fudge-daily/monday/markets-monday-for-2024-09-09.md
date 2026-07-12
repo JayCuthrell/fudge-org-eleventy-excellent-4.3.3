@@ -3,12 +3,18 @@ title: "📈 Markets Monday for 2024-09-09"
 permalink: "/archive/markets-monday-for-2024-09-09/"
 description: "This edition highlights the importance of reading Spyglass for tech market insights and a Monday recap."
 date: 2024-09-09 22:10:40.294642+00:00
+faq:
+- question: Who is the author of Spyglass?
+  answer: The writer behind Spyglass is M.G. Siegler.
+- question: What resource does the author use for their weekly market recaps?
+  answer: The author uses a simple Yahoo Finance webpage and its stock screener to
+    look at key market indicators.
+- question: What specific criteria are used in the Yahoo Finance stock screener for
+    the Technology sector?
+  answer: 'The filters include: % Change in Price (Intraday) greater than 4, United
+    States region, Mid/Large/Mega Market Cap, Price greater than or equal to 5, Volume
+    greater than 15,000, and a specific selection of technology-related industries.'
 ---
-
-
-
-
-
 ### Reading Recommendation
 
 The technology market can be hard to keep up with and if you aren’t reading [Spyglass](https://spyglass.org/), you should be. As for why, the writer behind [Spyglass](https://spyglass.org/) is [M.G. Siegler](https://mgsiegler.com/about).

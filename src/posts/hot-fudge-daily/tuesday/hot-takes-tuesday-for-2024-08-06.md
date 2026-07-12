@@ -3,10 +3,21 @@ title: "🔥 Hot Takes Tuesday for 2024-08-06"
 permalink: "/archive/hot-takes-tuesday-for-2024-08-06/"
 description: "Rapid fire analysis on funds, funding, M&amp;A, IIoT impact, content licensing, and cybersecurity trends."
 date: 2024-08-07 10:49:17.618305+00:00
+faq:
+- question: What is the significance of companies considering alternatives to NVIDIA,
+    such as AMD?
+  answer: The post notes that $30 million goes a very long way for companies that
+    are able to explore and utilize hardware alternatives to NVIDIA, such as AMD.
+- question: What is the author's view on content licensing versus data scraping for
+    AI training?
+  answer: The author suggests that legitimate licensing of content could provide significant
+    financial rewards to creators, in contrast to the current practice of scraping
+    creator works to train models without any compensation or consideration.
+- question: How is the current trend in cybersecurity described in the post?
+  answer: Cybersecurity is described as a constant 'spy vs. spy' competition between
+    parties attempting to protect their data and those seeking to intercept and leverage
+    that same information.
 ---
-
-
-
 Off the cuff analysis in a rapid fire format.
 
 Let’s dig in…

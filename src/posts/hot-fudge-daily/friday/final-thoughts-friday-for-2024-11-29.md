@@ -3,9 +3,18 @@ title: "✅ Final Thoughts Friday for 2024-11-29"
 permalink: "/archive/final-thoughts-friday-for-2024-11-29/"
 description: "Reflecting on community feedback and a $10B subsea fiber project by Meta."
 date: 2024-11-30 02:48:09.742467+00:00
+faq:
+- question: What tech news story caught the author's attention this week?
+  answer: The author noted a reported subsea fiber deployment plan involving a $10
+    billion investment by Meta (Facebook).
+- question: How long has Google been reported to be involved in subsea fiber deployments?
+  answer: Google has been reported to be involved in regular subsea fiber deployments
+    for over 15 years.
+- question: Did the author respond to every comment on their LinkedIn Warrior post?
+  answer: The author attempted to reply to everyone but noted that due to UI/UX limitations,
+    they may have missed some people and offered a belated thank you to those who
+    did not receive a reply.
 ---
-
-
 [https://www.linkedin.com/pulse/hello-nexustek-jay-cuthrell-qp0oe/?trackingId=6qU%2FPp2nT4WLjcqoK5jZhA%3D%3D](https://www.linkedin.com/pulse/hello-nexustek-jay-cuthrell-qp0oe/?trackingId=6qU%2FPp2nT4WLjcqoK5jZhA%3D%3D)
 
 For anyone that left comments on my LinkedIn Warrior post, thank you -- I tried to reply to everyone but the UI/UX isn't perfect. If for some reason, I didn't get a reply back to you --- belated THANK YOU!

@@ -3,8 +3,19 @@ date: 2015-10-23 00:00:00+00:00
 description: ''
 permalink: /archive/the-perfect-team/
 title: The Perfect Team
+faq:
+- question: What is the definition of The Perfect Team?
+  answer: The Perfect Team is defined as one person to do it, one person to write
+    it down, and one person to think ahead.
+- question: What is the design concept behind The Perfect Team?
+  answer: The Perfect Team is designed as a minimum viable concept applied to innovation
+    centers or ad hoc teaming.
+- question: Why is emphasizing only the 'person to do it' considered a folly?
+  answer: Emphasizing only the 'person to do it' limits visibility and awareness for
+    the person to write it down and forgoes cycles of thought for the person to think
+    ahead. This 'do it only' approach is a common folly of so-called heroic culture
+    companies that are often regarded as inconsistent in execution capability.
 ---
-
 I’d like to expend a few words about The Perfect Team.
 
 My career in technology has taught me many things. Even now the lessons continue. Truly, refinement is achieved through continuous iterations to unlock innovations. So, perhaps the most important thing I’ve learned over the years is the concept of The Perfect Team.

@@ -3,11 +3,21 @@ title: "🔥 Hot Takes Tuesday for 2024-08-13"
 permalink: "/archive/hot-takes-tuesday-for-2024-08-13/"
 description: "Quick take on SXSW PanelPicker and startup funding trends."
 date: 2024-08-13 14:28:50.320562+00:00
+faq:
+- question: What event is the author referencing regarding the start of PanelPicker
+    voting?
+  answer: The author is referencing the start of SXSW 2025 PanelPicker voting.
+- question: What does the author suggest about the funding of 'Lord of the Rings'
+    named companies?
+  answer: The author notes that these founders are effective at convincing the US
+    Government to provide funding while simultaneously claiming that the government
+    wastes taxpayer dollars.
+- question: What trend does the author observe regarding DevX companies?
+  answer: The author observes that DevX (developer experience) companies are receiving
+    funding, signaling that software development will become more interesting and
+    that technology-oriented practices are expanding beyond traditional technology
+    companies.
 ---
-
-
-
-
 Off the cuff analysis in a rapid fire format.
 
 First… a quick aside.

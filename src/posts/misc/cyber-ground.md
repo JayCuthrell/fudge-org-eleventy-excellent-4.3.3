@@ -2,8 +2,20 @@
 title: "Cyber Ground"
 description: ''
 date: 2023-08-13 22:51:31.879000+00:00
+faq:
+- question: What is cyber insurance?
+  answer: Cyber insurance is a tool used to protect against the growing risks associated
+    with our increasingly data-intensive, online IT infrastructure.
+- question: How does the author believe cyber insurance will evolve in the future?
+  answer: The author believes that machine learning and artificial intelligence will
+    eventually provide real-time risk ratings, allowing for a more mature, 'a la carte'
+    approach to cyber insurance policies, similar to modern vehicle telematics.
+- question: What is the recommended process for voting for the author's SxSW 2024
+    proposal?
+  answer: To vote, you must sign up for a free SxSW account, confirm your account
+    via email, and then click the up arrow icon on the proposal page until it turns
+    into a checkbox.
 ---
-
 This week we take a look at the past, present, and future of cyber insurance and cyber risk marketplaces.
 
 This week's musical inspiration in title and lyrics:

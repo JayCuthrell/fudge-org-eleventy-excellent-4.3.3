@@ -3,8 +3,26 @@ date: 2013-11-08 00:00:00+00:00
 description: ''
 permalink: /archive/be-my-advisor/
 title: Be My Advisor
+faq:
+- question: What is the author's general approach to advisor invitations?
+  answer: The author finds advisor invitations flattering, exciting, and tempting,
+    but also considers them a huge commitment. They state that they say 'no' more
+    often than 'yes' and take the time to explain their reasons for declining.
+- question: What are the typical terms when the author agrees to be a startup advisor?
+  answer: When agreeing to be an advisor, the author purposely limits their grant
+    size to 0.1% to 0.75% over a 24 to 36-month period of monthly vesting without
+    a cliff. The goal is to be useful and timely while preserving equity for the team,
+    and they often require an expense clause consistent with their own consulting
+    rate card.
+- question: What factors influence the author's decision to decline an advisor role?
+  answer: The author declines advisor roles when the commitment or proposed terms
+    don't align with their value proposition. They consider their hypothetical value
+    (e.g., $100 to $250 an hour) and question if a startup's offer of a large grant
+    (e.g., 1%) for limited hours (e.g., 24-30 hours per month) represents an efficient
+    use of resources, suggesting that the equivalent 'spent' amount (~$200k over 24
+    months) might be better directed towards an angel investment or a full-time team
+    member. They also note their risk increases as grant size increases.
 ---
-
 Recently, I was invited to become an advisor to [Racemi](http://www.racemi.com/). I said yes.
 
 Background

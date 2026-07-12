@@ -4,9 +4,18 @@ permalink: "/archive/hot-takes-tuesday-for-2024-12-10/"
 description: "Two hot takes on investments in the $40M range!"
 date: 2024-12-11 05:54:08.765056+00:00
 tags: [quantum]
+faq:
+- question: Why does the author suggest investing in France?
+  answer: The author suggests investing in France because of its unique intellectual
+    property protections and a recent $48 million investment in quantum computing.
+- question: How much funding did the startup focused on detecting sassy responses
+    receive?
+  answer: The startup received a $40 million seed round.
+- question: What is the author's opinion on the $40 million seed round for detecting
+    sassy responses?
+  answer: The author compares the funding of technology designed to detect sassy responses
+    to a dystopian trope.
 ---
-
-
 Two hot takes on two stories that caught my eye on Tuesday.
 
 💰 + 🇫🇷 Again, if you aren’t investing in France then you aren’t taking advantage of unique IP protections — and this time, $48M worth of reasons to consider quantum computing has entered the chat. 

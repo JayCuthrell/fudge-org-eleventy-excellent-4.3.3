@@ -3,11 +3,20 @@ title: "Markets Monday for 2024-07-08"
 permalink: "/archive/markets-monday-for-2024-07-08/"
 description: "Markets Monday for 2024-07-08 Analyzing the past and future of the tech market in Markets Monday. Last week Looking at the week behind for the tech market. I..."
 date: 2024-07-08 22:08:05.619383+00:00
+faq:
+- question: What tools does the author use to track the tech market?
+  answer: The author uses Siri to check the NASDAQ, as well as Google Finance for
+    historical views and the Yahoo Finance screener to analyze heat maps of technology
+    companies.
+- question: What mistake did the author acknowledge making in their market analysis?
+  answer: 'The author noted two errors: initially showing only a 1D view instead of
+    a 5D view, and attempting to view the market heat map before the opening bell.'
+- question: What specific criteria are used in the Yahoo Finance heat map filter mentioned
+    in the post?
+  answer: The filter includes a price change greater than 4%, US region, mid/large/mega
+    market cap, price greater than or equal to 5, volume over 15,000, and a specific
+    list of industries within the Technology sector.
 ---
-
-
-
-
 # Markets Monday for 2024-07-08
 
 Analyzing the past and future of the tech market in Markets Monday.

@@ -3,9 +3,18 @@ title: "✅ Final Thoughts Friday for 2025-04-04"
 permalink: "/archive/final-thoughts-friday-for-2025-04-04/"
 description: "This week, I dive into how silicon photonics will revolutionize AI workloads."
 date: 2025-04-05 03:46:03.039473+00:00
+faq:
+- question: What is silicon photonics expected to change in the future?
+  answer: Silicon photonics will fundamentally alter existing AI workload architectural
+    designs.
+- question: Why is silicon photonics considered necessary for the future of AI?
+  answer: It is needed to satisfy the exponential growth in AI workloads that current
+    architectural designs will not be able to handle in the coming years.
+- question: What are cloud service providers currently doing to buy time for future
+    innovations?
+  answer: They are simultaneously buying every GPU they can while accelerating their
+    own custom silicon production.
 ---
-
-
 The story that caught my eye this week was not the stock market and tariffs… it was silicon photonics.
 
 [https://www.techmeme.com/250401/p16#a250401p16](https://www.techmeme.com/250401/p16#a250401p16)

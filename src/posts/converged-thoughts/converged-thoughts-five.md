@@ -3,8 +3,20 @@ date: 2017-01-02 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-five/
 title: Converged Thoughts Five
+faq:
+- question: What was the Chumby, and what was its primary function?
+  answer: The Chumby was an alarm-clock-sized, always-connected appliance that gained
+    attention around 2007 for its ability to stream Internet music stations.
+- question: What are 'hotspots' as defined in the text?
+  answer: Hotspots, also known as mobile access routers or mobile broadband modems,
+    are devices that combine mobile access to IP networks with localized WiFi service,
+    allowing laptops, computers, or routers to connect to the internet via a mobile
+    broadband connection.
+- question: How has the way we listen to music in cars changed by 2017?
+  answer: Beyond traditional options like radio, CDs, satellite radio, or connected
+    devices, cars now offer connected music streaming over the Internet, with some
+    vehicles even integrating 4G LTE in-car Wi-Fi.
 ---
-
 2007: Life in the “Foist” Lane (continued)
 ==========================================
 

@@ -2,8 +2,17 @@
 title: "Find your ROD and REEL"
 description: ''
 date: 2021-12-15 00:00:00+00:00
+faq:
+- question: What is the primary function of a pre-sales engineer in an enterprise
+    sales context?
+  answer: The pre-sales engineer provides the necessary subject matter expertise to
+    support technology pre-sales when a company is working to acquire a new customer,
+    typically acting as a tandem partner to an account executive.
+- question: What does the backronym ROD stand for in the context of AE and SE pairings?
+  answer: ROD stands for Relevant, Organized, and Direct.
+- question: What does the backronym REEL stand for in the context of AE and SE pairings?
+  answer: REEL stands for Responsive, Effective, Efficient, and Likable.
 ---
-
 I’ve been away from VCE for many years (and Dell Technologies for just over a year) but I look back fondly on the experiences. Specifically, I look back on the team members I was so fortunate to learn from while building a multi $B business.
 
 While trying out yet-another-Gatsby-theme, I was thinking back on my time at VCE that I’ve cataloged in my blog. Each memory I uncovered led me to realize the most Account Executive (AE) and Sales Engineer (SE) pairings were typically those that complimented each other.

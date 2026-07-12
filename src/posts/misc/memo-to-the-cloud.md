@@ -3,8 +3,26 @@ date: 2010-07-01 23:12:47+00:00
 description: ''
 permalink: /archive/memo-to-the-cloud/
 title: Memo to the Cloud
+faq:
+- question: What is the primary criticism the author has about SaaS and cloud customer
+    support?
+  answer: The author's primary criticism is directed at 'boilerplate responses' in
+    customer support, which they describe as inexcusable, indicating a lack of care,
+    and screaming 'NOT MY PROBLEM.'
+- question: How do customers communicate their experiences with SaaS and cloud providers,
+    particularly regarding poor support?
+  answer: Customers discuss their experiences, especially concerning boilerplate responses,
+    at user groups, conferences, and local watering holes where they talk shop. The
+    author notes that customers have become an audience that passes notes, whispers,
+    and has conversations about providers.
+- question: What specific poor practices should SaaS and cloud providers avoid in
+    their support processes?
+  answer: Providers should avoid boilerplate responses, ignoring customer contributions,
+    obfuscating support resolution paths (such as hiding phone numbers, using no-reply
+    emails, or relying on heavy automation for edge cases), and failing to provide
+    regular communication regarding changes for contact and support information (like
+    altering support site navigation or not testing IVR from simulated time zones).
 ---
-
 *Disclaimer: I made the jump to cloud and SaaS a long time ago.  I have the scars. With luck, after adding a few more they’ll just look like skin.*
 
 In the multi-billion dollar market of all things SaaS and cloud, I am a minor account in my consumption. My clients, however, are not so minor.

@@ -3,8 +3,16 @@ date: 2022-08-15 02:33:09.568000+00:00
 description: ''
 permalink: /archive/feeling-so-really-simple-syndication/
 title: Feeling So Really Simple Syndication
+faq:
+- question: What is the primary purpose of RSS and Atom?
+  answer: RSS (RDF Site Summary or Really Simple Syndication) and Atom serve as a
+    way for users to subscribe to articles they want to read, providing an alternative
+    to keeping dozens of browser tabs open.
+- question: When was Google Reader retired?
+  answer: Google Reader was retired in 2013.
+- question: What are RSS/Atom feeds commonly associated with in 2022?
+  answer: As of 2022, RSS/Atom feeds are primarily associated with podcasts and newsletters.
 ---
-
 *[Moby - 'Feeling So Real' (1995)](https://www.youtube.com/watch?v=Ju2L6NhSebQ)*
 
 Before we get into the origin, status, and future of RDF Site Summary *or* Really Simple Syndication (RSS) or Atom it’s time for a quick work update. Oddly enough, [there is a connection](https://www.techmeme.com/220811/p27#a220811p27).

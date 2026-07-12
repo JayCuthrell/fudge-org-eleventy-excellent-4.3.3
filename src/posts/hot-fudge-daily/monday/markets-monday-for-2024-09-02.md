@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2024-09-02"
 permalink: "/archive/markets-monday-for-2024-09-02/"
 description: "Labor Day edition: markets closed, tech reading recommendations, IPv4 costs, Yahoo finance recap."
 date: 2024-09-02 19:56:35.073613+00:00
+faq:
+- question: Are markets open today in the United States?
+  answer: No, markets are closed today because it is Labor Day in the United States.
+- question: What is the approximate annual value of two Class B IPv4 networks based
+    on current AWS pricing?
+  answer: Based on February 1, 2024 AWS IPv4 pricing, two Class B networks would be
+    worth up to approximately $6 million per year.
+- question: What criteria does the author recommend for filtering the Yahoo Finance
+    stock screener?
+  answer: The author recommends filtering by a price change greater than 4%, United
+    States region, Mid/Large/Mega Market Cap, price greater than or equal to 5, volume
+    over 15,000, and specific Technology sectors and industries.
 ---
-
-
-
-
 *Today is Labor Day in the United States and markets are closed. Enjoy this free Labor Day edition of Markets Monday.*
 
 Happy Labor Day! Labor Day is an important national holiday and important part of the relatively short history of the United States. 🇺🇸

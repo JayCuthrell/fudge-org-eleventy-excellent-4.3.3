@@ -3,11 +3,23 @@ title: "Markets Monday for 2024-06-24"
 permalink: "/archive/markets-monday-for-2024-06-24/"
 description: "Tech market analysis with Siri, Yahoo Finance heat maps, and filtering tips for better stock screener results."
 date: 2024-06-24 21:55:30.363799+00:00
+faq:
+- question: What criteria does the author recommend using for the Yahoo Finance stock
+    screener?
+  answer: The author suggests filtering for Technology stocks in the United States
+    with mid, large, or mega market caps, a price greater than or equal to 5, a volume
+    greater than 15,000, and a % change in price (intraday) greater than 4, while
+    including specific industries like Software—Infrastructure, Semiconductors, and
+    Computer Hardware.
+- question: What is the author's observation regarding the number of winners in the
+    tech market heat map this week compared to last week?
+  answer: The author noted that the number of companies on the winners list narrowed
+    significantly from about a dozen last week to five this week.
+- question: How does the author typically track the NASDAQ performance on a daily
+    basis?
+  answer: The author typically asks Siri about the performance of the NASDAQ to check
+    if there is a significant change in the market.
 ---
-
-
-
-
 # Markets Monday for 2024-06-24
 
 Analyzing the past and future of the tech market in Markets Monday.

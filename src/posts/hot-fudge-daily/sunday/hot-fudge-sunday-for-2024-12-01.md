@@ -3,12 +3,20 @@ title: "🌶️ Hot Fudge Sunday for 2024-12-01"
 permalink: "/archive/hot-fudge-sunday-for-2024-12-01/"
 description: "This edition highlights market trends, startup funding news, and nostalgic tech reflections."
 date: 2024-12-01 17:55:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: How can readers create their own market heatmap view using Yahoo Finance?
+  answer: Readers can use the Yahoo Applied Filters for Stocks screener to bookmark
+    a custom view by setting specific parameters for percent change, region, market
+    cap, price, volume, sector, and industry.
+- question: What is the primary source of the links featured in the 'Wacky Wednesday'
+    section?
+  answer: The links featured in the Wacky Wednesday section are selected from dozens
+    of different Slack communities.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

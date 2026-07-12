@@ -4,8 +4,19 @@ description: 'VCE year 4'
 permalink: /archive/my-fourth-year-at-vce/
 title: My Fourth Year at VCE
 tags: [VCE and Dell]
+faq:
+- question: Why did the author switch their blog to GitHub Pages?
+  answer: The author finds GitHub Pages to be an easier, fully hosted approach compared
+    to their previous methods of using Octopress or WordPress on virtual or dedicated
+    servers.
+- question: What public financial milestones has VCE disclosed recently?
+  answer: VCE publicly disclosed that they achieved in excess of 1 billion dollars
+    in revenue and over 1.8 billion dollars in run rate.
+- question: How does the author describe their role at VCE?
+  answer: The author describes their role as involving a variety of tasks, including
+    researching development topics, analyzing the competitive landscape, building
+    alliances and partnerships, and meeting with numerous customers and prospects.
 ---
-
 Today is my four year mark with VCE.
 
 4 years.

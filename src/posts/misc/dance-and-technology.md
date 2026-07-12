@@ -3,8 +3,21 @@ date: 2019-02-17 00:00:00+00:00
 description: ''
 permalink: /archive/dance-and-technology/
 title: Dance and Technology
+faq:
+- question: What is the author's plan for the newsletter moving forward?
+  answer: The author is rebooting the newsletter for 2019 and plans to release a new
+    installment every Sunday.
+- question: Which podcasts and newsletters does the author mention reading or listening
+    to?
+  answer: The author listens to the a16z podcast and reads the newsletter by M.G.
+    Siegler. They also mentioned attempting to read Stratechery and the Exponent podcast,
+    though they noted they could not get into them.
+- question: What is the primary topic of the 'Dance and Technology' section of the
+    post?
+  answer: The section discusses the legal complexities and copyright issues surrounding
+    dance choreography, specifically referencing lawsuits involving dance emotes in
+    video games like Fortnite.
 ---
-
 I’m rebooting this newsletter for 2019. If you forgot you were on this list, there is probably a GDPR way to get off the list. Enjoy the first (13?) installment of Fudge Sunday.
 
 

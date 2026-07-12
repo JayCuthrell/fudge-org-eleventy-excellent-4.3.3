@@ -2,8 +2,17 @@
 title: "Hot Fudge Daily Digest"
 description: "A weekly digest of Hot Fudge Daily"
 date: 2024-06-16
+faq:
+- question: What topics are covered in the 'Hot Takes Tuesday' section?
+  answer: The 'Hot Takes Tuesday' section covers big funding and M&A moves in the
+    tech industry, specifically highlighting developments in cutting-edge language
+    models and cybersecurity startups.
+- question: Which recent tech event did the author attend?
+  answer: 'The author attended the ''Triangle Tech Night: Women Who Innovate'' event
+    held at Raleigh Founded.'
+- question: How can readers support Hot Fudge Daily?
+  answer: Readers can support Hot Fudge Daily by purchasing a $9.99 yearly subscription.
 ---
-
 This week is a weekly digest of [Hot Fudge Daily](https://fudge.org).
 
 ## Housekeeping

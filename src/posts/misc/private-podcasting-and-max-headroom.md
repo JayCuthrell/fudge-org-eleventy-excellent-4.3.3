@@ -3,8 +3,19 @@ date: 2019-05-27 00:00:00+00:00
 description: A look at podcasts, tropes, and visions of the future
 permalink: /archive/private-podcasting-and-max-headroom/
 title: Private Podcasting and Max Headroom
+faq:
+- question: When did Apple add native support for podcasts to iTunes?
+  answer: Apple added native podcast support to iTunes in 2005.
+- question: What technological advancements allowed for the growth of podcasting?
+  answer: The growth of podcasting was enabled by the increased availability of broadband
+    and the development of publishing syndication, which made it possible to traffic
+    larger files.
+- question: What is the significance of the uStudio Enterprise Podcasting solution
+    mentioned in the post?
+  answer: Introduced in 2018, uStudio provided a secure, private-label podcasting
+    option for enterprises that wanted the ease of audio message syndication while
+    avoiding the pitfalls of wide-open Internet platforms.
 ---
-
 This week we take a look at the circuitous routes that podcasts have taken over the past 20 years. Along the way, we weave in references to tropes trove of Max Headroom. From origins to fits and starts to the claiming of legitimately enduring formats, podcasts are here to stay and probably just getting started even if the new world will be millions of Blank Reg devotees.
 
 Origin and Inspiration

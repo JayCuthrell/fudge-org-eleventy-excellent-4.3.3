@@ -3,8 +3,24 @@ date: 2021-06-15 00:00:00+00:00
 description: A look at multicloud
 permalink: /archive/multicloud-summer-reading/
 title: Multicloud Summer Reading
+faq:
+- question: What is the primary drawback of a 'cloud-first' strategy limited to a
+    single provider?
+  answer: A single-provider cloud-first strategy often leads to vendor lock-in due
+    to data gravity, which makes it difficult to use innovative services from competing
+    cloud providers and subjects the organization to significant egress fees when
+    moving data.
+- question: How does a 'data-first' approach differ from a 'cloud-first' approach?
+  answer: A data-first approach prioritizes making data accessible to multiple clouds,
+    which avoids vendor lock-in and enables innovation by allowing organizations to
+    utilize services from various providers like GCP, Azure, or AWS as needed.
+- question: What is the benefit of using a single, central copy of data in a multi-cloud
+    architecture?
+  answer: A central copy of data allows it to be simultaneously adjacent to all public
+    cloud providers. This enables companies to take immediate advantage of innovation
+    cycles from any provider, reduces costs by avoiding duplicate data copies, and
+    streamlines workflows by using a shared file system.
 ---
-
 This month was busy. The blog below is a shorter version of piece that ran on [Technative](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/) entitled [The Path to Multi-Cloud: How Converging Technologies and Innovations Require Multi-Cloud Strategy](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/)
 
 So, if 800 words or less is more your style… read on… and if you like longer form check out [The Path to Multi-Cloud: How Converging Technologies and Innovations Require Multi-Cloud Strategy](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/) on [Technative](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/).

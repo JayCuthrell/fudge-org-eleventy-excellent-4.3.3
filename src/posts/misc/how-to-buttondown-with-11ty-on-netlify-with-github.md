@@ -2,8 +2,19 @@
 title: "Buttondown with 11ty on Netlify with GitHub"
 description: 'A look at how Fudge Sunday 🤔💡🤯🤓 newsletter gets made each week'
 date: 2024-01-21
+faq:
+- question: What tools are used to create the Fudge Sunday newsletter?
+  answer: The newsletter is written locally using 11ty (Eleventy) with the Eleventy
+    Excellent starter, managed via Visual Studio Code, and hosted using Netlify.
+- question: How does Buttondown automatically create a draft of the newsletter?
+  answer: Buttondown uses the 'RSS to Email' feature; once a post is committed to
+    GitHub and Netlify builds the RSS feed, Buttondown automatically generates a draft
+    newsletter based on that new RSS entry.
+- question: What manual steps remain in the newsletter distribution process?
+  answer: The manual steps include inspecting the generated email draft in Buttondown
+    before sending, copying the content into a LinkedIn newsletter, and crafting two
+    shareable LinkedIn posts.
 ---
-
 This installment is a look at how Fudge Sunday 🤔💡🤯🤓 newsletter gets made each week.
 
 Every newsletter will have a set of steps to achieve the outcome of readers getting email and accessing an online archive of each new installment. My recipe, or set of steps, is meant to illustrate just one possible approach with minimal effort and the use of automation.

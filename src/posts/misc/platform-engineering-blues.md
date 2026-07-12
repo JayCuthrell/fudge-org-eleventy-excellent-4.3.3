@@ -3,9 +3,23 @@ date: 2022-10-09 22:16:06.454000+00:00
 description: ''
 permalink: /archive/platform-engineering-blues/
 title: Platform Engineering Blues
+faq:
+- question: How do Paul Delory and Lori Perry define platform engineering?
+  answer: Paul Delory defines platform engineering as a response to a perceived need
+    for greater developer productivity through enhanced developer experiences. Lori
+    Perry describes it as the implementation of reusable tools and self-service capabilities
+    with automated infrastructure operations.
+- question: What is business value engineering in the context of technology?
+  answer: Business value engineering considers the perceived value provided to a customer
+    or entity through technology, evaluating whether that value is commensurate with
+    the investment and can be proven over the technology's lifecycle, including return
+    on invested capital and total cost of ownership.
+- question: How has the number of tools on PlatformEngineering.org changed between
+    early 2022 and October 2022?
+  answer: When PlatformEngineering.org launched on January 30, 2022, the tools list
+    contained four entries. By October 9, 2022, the registry had grown to include
+    twenty-one tools.
 ---
-
-
 *[Pavement - Platform Blues (1999)](https://www.youtube.com/watch?v=Lyu7yiLaaH0)*
 
 Getting Informed

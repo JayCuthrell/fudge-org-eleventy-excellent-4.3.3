@@ -3,8 +3,16 @@ title: "📈 Markets Monday for 2025-09-22"
 permalink: "/archive/markets-monday-for-2025-09-22/"
 description: "Top movers in semiconductors, data infrastructure, AI, and solar"
 date: 2025-09-22
+faq:
+- question: Which industries are represented in the provided market mover data?
+  answer: The data covers the semiconductor and semiconductor equipment industry,
+    data infrastructure, AI automation, and solar energy technology.
+- question: Which company experienced the highest percentage change in the list?
+  answer: Teradyne, Inc. (TER) experienced the highest percentage change at +11.34%.
+- question: What is the percentage change for Oracle Corporation as listed in the
+    screener?
+  answer: Oracle Corporation (ORCL) saw a percentage change of +5.94%.
 ---
-
 My screener captured most of the movers in the semiconductor and semiconductor equipment industry as well as data infrastructure, AI automation, and solar energy technology.
 
 | Symbol | Company Name | % Change |

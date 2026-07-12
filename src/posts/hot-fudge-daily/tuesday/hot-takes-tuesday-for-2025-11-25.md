@@ -3,8 +3,17 @@ title: "🔥 Hot Takes Tuesday for 2025-11-25"
 permalink: "/archive/hot-takes-tuesday-for-2025-11-25/"
 description: "Funding for AI-powered everything continues"
 date: 2025-11-25
+faq:
+- question: How much funding did Harmonic, a company specializing in mathematical
+    reasoning AI models, receive?
+  answer: Harmonic received $120 million in funding.
+- question: What is the primary focus of the company X-energy, which secured $700
+    million in funding?
+  answer: X-energy focuses on developing nuclear reactors specifically for AI.
+- question: Which of the listed companies provides an AI-powered platform for identity
+    security?
+  answer: Opti is the company that provides an AI identity security platform.
 ---
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [Cerrion](https://www.techmeme.com/251125/p18#a251125p18) (AI factory video monitoring): **$18M**

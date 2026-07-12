@@ -4,9 +4,19 @@ description: A look at Zero Trust, Zero Trust Model, Zero Trust Security Model, 
   Trust Reference Architecture
 permalink: /archive/a-matter-of-zero-trust/
 title: A Matter of Zero Trust
+faq:
+- question: What does the author suggest the term 'Zero Trust' means in simpler language?
+  answer: For the author, 'Zero Trust' is simply a shorter way of saying 'Trust No
+    One'.
+- question: Why does the author refer to VPNs as a 'vexing productivity neutralizer'?
+  answer: The author uses this term because of the challenges associated with VPN
+    deployments and the frustration users experience when having to regularly use
+    them for work.
+- question: According to the post, what company set the early expectation for a user
+    experience that functions without extra software layers like a VPN client?
+  answer: Google set the expectation bar with their early work on BeyondCorp, which
+    emerged around 2009.
 ---
-
-
 *[Billy Joel - “A Matter of Trust” (1986)](https://www.youtube.com/watch?v=6yYchgX1fMw)*
 
 # Getting Informed

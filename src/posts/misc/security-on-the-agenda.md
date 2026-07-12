@@ -2,9 +2,23 @@
 title: "Security on the Agenda"
 description: 'A look at the past, present, and future of security on conference agendas'
 date: 2024-01-28
+faq:
+- question: What common issue did the author observe regarding the placement of security
+    topics on conference agendas?
+  answer: The author noted that security topics are often placed at the very end of
+    conference agendas, sometimes leading to them being cut short or skipped if previous
+    sessions run over their allotted time.
+- question: How does the author describe the perception of security within many professional
+    environments?
+  answer: The author highlights a contradiction where, despite the common mantra that
+    'security is everyone's job,' it is frequently viewed as a barrier to innovation
+    or secondary to developer productivity.
+- question: What is the author's observation regarding the inclusion of security topics
+    at the 2024 South by Southwest (SxSW) conference?
+  answer: The author was pleasantly surprised to find a significant number of programming
+    events at SxSW 2024 that explicitly include the word 'security' in their titles
+    and abstracts, covering diverse areas such as design, democracy, and technology.
 ---
-
-
 This week is a look at the placement of security topics on conference agendas. Does security *always* come last?
 
 ## Getting Informed

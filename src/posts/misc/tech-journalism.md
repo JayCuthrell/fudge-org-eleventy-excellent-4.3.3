@@ -3,8 +3,23 @@ date: 2012-04-23 00:00:00+00:00
 description: ''
 permalink: /archive/tech-journalism/
 title: Tech Journalism
+faq:
+- question: What is the primary purpose of the suggested 'Tech Blog Free Diet'?
+  answer: The diet is intended to act as a cleansing process to remove the 'impurities'
+    that build up from regularly consuming tech blog coverage, serving as an A/B test
+    to see how you feel after avoiding certain types of content.
+- question: What are some of the conventions that indicate a tech blog should be avoided
+    according to the author?
+  answer: The author recommends disconnecting from tech blogs that use horse race
+    metaphors, physical violence or war references, hyperbole, all internal links,
+    consistent rivalry references, blatant refusal to use proper terminology, catering
+    to irrational fears, or meta-commentary about the act of writing.
+- question: What specific activity is recommended for Friday during the Tech Blog
+    Free Diet?
+  answer: On Friday, the author suggests finding your favorite project, identifying
+    the top 10 committers, and sending a personal thank you note to the people ranked
+    7th, 8th, 9th, and 10th if they can be found online easily.
 ---
-
 One of the things I notice when attending technology events is the ability of the tech blog ecosystem to crank out coverage even before the event is over. Tech blog posts appear before the coffee carts are removed. Conclusions and predictions are posted at the speed of light.
 
 Fascinating.

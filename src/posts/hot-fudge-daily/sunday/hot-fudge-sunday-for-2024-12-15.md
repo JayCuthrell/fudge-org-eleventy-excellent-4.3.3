@@ -4,12 +4,20 @@ permalink: "/archive/hot-fudge-sunday-for-2024-12-15/"
 description: "This week, I shared insights from the Gartner Conference and spotlighted a reader #OpenToWork."
 date: 2024-12-15 16:45:00+00:00
 tags: [quantum]
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, accessible URL.
+- question: What criteria does the author use for the Yahoo Finance heatmap screener?
+  answer: The author uses specific filters including a price change greater than 4%,
+    United States region, Mid/Large/Mega Market Cap, price greater than or equal to
+    5, volume greater than 15,000, and various sectors and industries related to Technology.
+- question: What tech news story did the author highlight regarding Microsoft on 'Final
+    Thoughts Friday'?
+  answer: The author noted that Microsoft is claiming its next-generation closed-loop
+    cooling datacenter designs will consume zero water, which could help make AI data
+    centers less thirsty.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

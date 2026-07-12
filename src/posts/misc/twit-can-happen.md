@@ -3,8 +3,21 @@ date: 2022-11-13 21:30:05.555000+00:00
 description: ''
 permalink: /archive/twit-can-happen/
 title: Twit Can Happen
+faq:
+- question: What potential change to Twitter's service model has been discussed by
+    Elon Musk and David Sacks?
+  answer: Elon Musk and David Sacks have discussed the possibility of putting all
+    of Twitter behind a paywall, which might allow users limited free browsing before
+    requiring a subscription.
+- question: Why does the author consider link rot a significant issue?
+  answer: 'The author notes that link rot matters for the same reason that domain
+    names are perishable: it leads to content drift, where links can become broken
+    or redirected to unintended content.'
+- question: What is the author's suggested solution to address issues like link rot
+    and potential paywalls on Twitter?
+  answer: The author suggests that archiving content is a solution, proposing that
+    Twitter should make the process of archiving content as easy and robust as possible.
 ---
-
 *[Yes - “It Can Happen” (1983)](https://www.youtube.com/watch?v=OeVgcIFEh3I)*
 
 Getting Informed

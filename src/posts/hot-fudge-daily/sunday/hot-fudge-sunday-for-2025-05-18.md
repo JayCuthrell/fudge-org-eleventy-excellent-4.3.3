@@ -3,8 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-05-18"
 permalink: "/archive/hot-fudge-sunday-for-2025-05-18/"
 description: "This week, I&#39;m sharing insights from Qlik Connect and upcoming talks on AI and business modernization."
 date: 2025-05-18 18:43:53.435037+00:00
+faq:
+- question: What upcoming events is the author participating in during late May and
+    early June 2025?
+  answer: The author is participating in a CISO Fireside Chat about AI and MSPs on
+    May 20th, a discussion on AI and the future of business in Orlando on May 21st,
+    and a 'Modernization & Mimosas' discussion in Tampa on June 6th.
+- question: 'What is the purpose of the Alumni section in the #OpenToWork list?'
+  answer: 'The Alumni section is for individuals from the author''s network who have
+    successfully transitioned from being #OpenToWork to starting their next career
+    adventure.'
+- question: What event did the author attend as a Tech Field Day Experience delegate
+    in May 2025?
+  answer: The author attended Qlik Connect in Orlando from May 13th to May 15th, 2025,
+    representing NexusTek.
 ---
-
 This week I'm testing out a shorter version of the newsletter.
 
 {{ survey.shorter }}

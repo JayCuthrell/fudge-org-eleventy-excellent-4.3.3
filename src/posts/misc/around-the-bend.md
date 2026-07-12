@@ -3,9 +3,17 @@ date: 2022-06-12 18:30:30.772000+00:00
 description: ''
 permalink: /archive/around-the-bend/
 title: Around the Bend
+faq:
+- question: What is the newsletter's current platform status?
+  answer: The newsletter has successfully migrated from Revue (Twitter) to Substack.
+- question: What happened to the iPod Touch product line in 2022?
+  answer: Apple discontinued the iPod touch, ending the product line after selling
+    remaining inventory 'while supplies last'.
+- question: What challenges did the author face during the migration to Substack?
+  answer: The author encountered issues such as 'null' import results that required
+    manual deletion and re-importing, as well as malformed YouTube links that necessitate
+    manual editing.
 ---
-
-
 The Asteroids Galaxy Tour - Around The Bend (2009)
 
 *Note: This issue marks a successful migration from Revue (Twitter) to Substack.*

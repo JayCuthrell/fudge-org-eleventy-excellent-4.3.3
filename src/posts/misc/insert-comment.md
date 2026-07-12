@@ -3,8 +3,21 @@ date: 2012-07-28 15:33:14+00:00
 description: ''
 permalink: /archive/insert-comment/
 title: Insert Comment
+faq:
+- question: Why did the author decide to turn off comments on their blog?
+  answer: After testing various comment systems and reviewing the total number of
+    comments received, the author concluded that maintaining them was unnecessary
+    and silly.
+- question: Has the author removed social sharing options from their blog?
+  answer: Yes, the author has removed sharing options because they no longer care
+    about the social impact, noting that they can track engagement through their own
+    web server logs.
+- question: Is the author planning to switch to a Tumblr-style platform for their
+    blog?
+  answer: The author is unsure, stating that while they are curious about trying new
+    platforms, they are currently considering options like PaaS to avoid tasks such
+    as running OS updates.
 ---
-
 Yeah. I turned off comments.
 
 You see, I was a participating fan of them for many years. I was prolific. I commented anywhere and everywhere I could. I watched as comment forms evolved, expanded, rose, fall, soared, and failed.

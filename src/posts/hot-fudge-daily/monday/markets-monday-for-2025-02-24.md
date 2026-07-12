@@ -3,11 +3,20 @@ title: "📈 Markets Monday for 2025-02-24"
 permalink: "/archive/markets-monday-for-2025-02-24/"
 description: "This edition recaps market insights using Yahoo Finance&#39;s stock screener for tech trends."
 date: 2025-02-25 03:15:45.740710+00:00
+faq:
+- question: What tool does the author recommend for creating a custom market heat
+    map?
+  answer: The author recommends using the Yahoo Finance stock screener to bookmark
+    and track a custom heat map view.
+- question: Which specific sector is the author focusing on for their market analysis?
+  answer: The author is focusing on the Technology sector, including various sub-industries
+    such as Software, Semiconductors, and Computer Hardware.
+- question: What criteria are used in the Yahoo Finance screener for Market Monday
+    analysis?
+  answer: The criteria include a price change greater than 4%, United States region,
+    Mid to Mega Market Cap, price greater than or equal to 5, volume over 15,000,
+    and specific technology-related industries.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

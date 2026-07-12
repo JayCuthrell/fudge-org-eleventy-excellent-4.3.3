@@ -3,8 +3,19 @@ date: 2004-02-17 09:10:28+00:00
 description: ''
 permalink: /archive/who-am-i-kidding/
 title: Who am I kidding
+faq:
+- question: What is the primary benefit of the 'Who Am I Kidding Plan' regarding outgoing
+    calls?
+  answer: The plan automatically sends your calls straight to the other person's voice
+    mail, saving you from waiting for it to ring and preventing you from being a pest.
+- question: How does the 'Who Am I Kidding Plan' account for the user's social life?
+  answer: The plan is designed for people who are not popular and rarely receive calls,
+    acknowledging that people often let their calls go straight to voice mail.
+- question: What happens when the man at the bus stop tries to get the attention of
+    the 'Can you hear me now?' guy?
+  answer: The Verizon guy ignores him, pretends to take an important call on his phone
+    held upside down, and quickly shuffles away.
 ---
-
 I’d like to see a skit on SNL about the “Who Am I Kidding” calling plan from Verizon.
 
 Video: Urban man age 25-35. Bad hair. Frumpy. Bad choice of clothing. Sitting on bus stop bench in city. Checking his cell phone and seeing an empty list when selecting “Received Calls”.

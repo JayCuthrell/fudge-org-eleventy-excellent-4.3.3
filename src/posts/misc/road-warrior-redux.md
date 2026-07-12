@@ -3,8 +3,23 @@ date: 2019-03-18 00:00:00+00:00
 description: ''
 permalink: /archive/road-warrior-redux/
 title: Road Warrior Redux
+faq:
+- question: What items does the author currently carry in their bag as of 2019?
+  answer: As of 2019, the author carries two laptops (one for work and one for personal
+    use), a high-wattage power adapter, two mobile phones on different carriers, a
+    full-size charging brick with cables, three lounge memberships (Delta, American
+    Airlines, and AMEX Centurion), and a slim or padded backpack.
+- question: What advice does the author offer regarding airport lounge selection?
+  answer: The author suggests that travelers should choose a lounge based on personal
+    preference for amenities, such as electrical outlet availability, Wi-Fi coverage,
+    and dietary options, rather than solely choosing based on the proximity to their
+    departure gate.
+- question: Why does the author recommend checking one's large bag instead of carrying
+    it on?
+  answer: The author recommends checking large bags to experience the freedom of walking
+    through the airport terminal with only a backpack, noting that while there is
+    a small risk of issues with checked luggage, clothes and shoes can be replaced.
 ---
-
 If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/archive/my-eighth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
 
 My office at the peak of my North American travel… the AMEX Lounge in LAS

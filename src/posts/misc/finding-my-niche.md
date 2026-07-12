@@ -3,8 +3,22 @@ title: "Finding My Niche"
 description: 'A look at newsletter specialization ideation with JupyterLab'
 date: 2024-07-21
 tags: [quantum]
+faq:
+- question: Why did the author decide to analyze their previous blog posts using JupyterLab?
+  answer: The author received reader feedback suggesting the newsletter topics were
+    too broad and that they should focus on a specific niche. The author used JupyterLab
+    to analyze their existing markdown posts to identify recurring themes and patterns
+    to help determine a suitable focus.
+- question: What specific libraries does the analysis script use to process the markdown
+    files?
+  answer: The script utilizes several libraries, including glob, markdown, re, nltk,
+    collections.Counter, bs4 (BeautifulSoup), pandas, requests, textblob, gensim,
+    and spacy.
+- question: What common themes emerged from the author's analysis of their past content?
+  answer: The analysis revealed that the author's writing frequently covers topics
+    related to telecom, cloud computing, and A.I., which led the author to consider
+    a niche that focuses on the intersection of the edge and machine learning.
 ---
-
 This week we take a look at newsletter specialization ideation as a JupyterLab exercise.
 
 # Getting Informed

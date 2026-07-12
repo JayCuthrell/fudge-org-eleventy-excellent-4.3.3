@@ -2,9 +2,19 @@
 title: "You Get A Line and I'll Get A Poll Result"
 description: 'On polling and projections'
 date: 2022-08-29 00:22:54.893000+00:00
+faq:
+- question: How should organizations decide on the placement of workloads?
+  answer: Placement decisions should be data-driven throughout the workload lifecycle
+    and across the workload landscape, using math to govern the edge to core to public
+    cloud conversation.
+- question: What is the outlook for edge computing according to the post?
+  answer: Expect to see more edge use cases emerging in smaller spaces and a broader
+    variety of locations as the concept of the 'edge use case' becomes standard practice.
+- question: What is recommended regarding cloud cost optimization?
+  answer: Cloud should be viewed as an operating model rather than a place. While
+    some argue for disciplined repatriation to save costs, it is advised to perform
+    the necessary math before making such decisions.
 ---
-
-
 *[The Crawdad Song - Foggy Mountain Boys (1962)](https://www.youtube.com/watch?v=4EinAwyQ3Xc)*
 
 Getting Informed

@@ -2,8 +2,24 @@
 title: "Run Fly Visualize"
 description: "Part 2: A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
 date: 2024-07-07
+faq:
+- question: What were the two major Qlik product-related themes highlighted at Qlik
+    Connect 2024?
+  answer: The two major Qlik product-related themes picked up at Qlik Connect 2024
+    were the importance of writeback and visualizations to Qlik Connect attendees.
+- question: What are Qlik's three distinct coding approaches for embedded analytics?
+  answer: 'Qlik refers to three distinct coding approaches for embedded analytics:
+    PRO-code, LOW-code, and NO-code. PRO-code reflects leading-edge visualization
+    possibilities, often for power users or partners. LOW-code leverages nebula.js
+    for faster results. NO-code democratizes access to pre-built visualizations without
+    requiring coding from the end user.'
+- question: How does the author believe the Qlik Partner ecosystem will evolve?
+  answer: 'The author believes Qlik Partners will execute one or more strategies:
+    Embrace (e.g., PRO-code differentiation or LOW-code matriculation), Expand (e.g.,
+    Qlik training services for LOW-code/NO-code or professional services for cloud
+    transition), and Diverge (e.g., embracing other MQ players or deeper UX design
+    patterns).'
 ---
-
 This week we continue to take a look at silo spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.
 
 ## Getting Informed

@@ -2,8 +2,20 @@
 title: "Read The Fabulous Manual"
 description: 'A look at the past, present, and future of DocOps as well as Docs as Code'
 date: 2023-12-03
+faq:
+- question: What is the alternative meaning the author proposes for the acronym RTFM?
+  answer: The author prefers to interpret RTFM as 'Read The Fabulous Manual' instead
+    of the commonly used vulgar variation.
+- question: How does the blog post use the term 'TPS' in the context of organizations?
+  answer: In organizations that lack a strong documentarian population, the author
+    notes that 'TPS' acts as an acronym or backronym for 'This Place Struggles,' 'This
+    Place Sucks,' or 'Tragically Preventable Scenario/Situation'.
+- question: What is the significance of DocBook and DITA in the history of documentation?
+  answer: DocBook was introduced in 1991 as a portable self-contained documentation
+    schema project, while DITA (Darwin Information Typing Architecture) emerged a
+    few years later as a standard for information typing and now has a community supported
+    by the DITA Open Toolkit.
 ---
-
 If you are online in the world of technology, information technology, or anything related to software development — there is a chance you've been told in an online forum to "Please RTFM". Indeed, the RTFM is probably short for [Read The @#$%ing Manual](https://en.wikipedia.org/wiki/RTFM).
 
 Me? I prefer to say it means [Read The Fabulous Manual](/archive/read-the-fabulous-manual/). 

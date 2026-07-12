@@ -3,10 +3,17 @@ date: 2002-07-08 19:46:31+00:00
 description: A dotcom tale
 permalink: /archive/and-for-my-next-trick/
 title: And for my next trick
+faq:
+- question: How long was Jay Cuthrell employed by the company before leaving?
+  answer: Jay Cuthrell had been with the company for three years, starting at iXL
+    before transitioning to Scient.
+- question: Where did Jay Cuthrell work during the final year of his employment?
+  answer: For over a year prior to his departure, Jay worked out of the North Carolina
+    office, which he also referred to as his house.
+- question: What is Jay's recommendation for visitors traveling to Raleigh?
+  answer: Jay suggests visiting Coopers for vinegar-based BBQ, noting that vegetarians
+    can enjoy hush puppies and slaw, or simply drinking sweet tea.
 ---
-
-
-
 [![Wayback machine: Red Hat badge for iXL](https://live.staticflickr.com/3030/2582551200_54422ecac2_z.jpg)](https://www.flickr.com/photos/jcuthrell/2582551200/in/photolist-bScBX-bScGQ-bScuv-kDKeaG-kDHvC4-4WdfuQ-bScLm-bScRi)
 > *[Interactive script removed]*
 

@@ -3,12 +3,18 @@ title: "📈 Markets Monday for 2024-10-14"
 permalink: "/archive/markets-monday-for-2024-10-14/"
 description: "I discuss the rise of small modular reactors and recap key market indicators from Yahoo Finance."
 date: 2024-10-14 21:22:49.923456+00:00
+faq:
+- question: What is the author's stance on small modular reactors (SMRs)?
+  answer: The author believes that small modular reactors will become more common.
+- question: How does the author track market trends for 'Market Monday'?
+  answer: The author looks at the same key indicator each week using a Yahoo Finance
+    screener to view the market at the closing bell on Monday.
+- question: What criteria are used for the Yahoo Applied Filters for Stocks screener
+    mentioned in the post?
+  answer: The screener uses filters including a price change greater than 4%, United
+    States region, Mid/Large/Mega market caps, price greater than or equal to 5, volume
+    greater than 15,000, and specific technology-related sectors and industries.
 ---
-
-
-
-
-
 ### Remember and Reminder on Reactors
 
 You might recall [my Hot Fudge Daily update from last month](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-22/)…

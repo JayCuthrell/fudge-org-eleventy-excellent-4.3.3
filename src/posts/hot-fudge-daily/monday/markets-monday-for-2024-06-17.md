@@ -3,12 +3,21 @@ title: "Markets Monday for 2024-06-17"
 permalink: "/archive/markets-monday-for-2024-06-17/"
 description: "An insightful look at the tech market trends in Markets Monday - past, present, and future."
 date: 2024-06-17 20:03:12.465747+00:00
+faq:
+- question: How does the author typically check the performance of the NASDAQ?
+  answer: The author typically asks Siri how the NASDAQ is doing to determine if there
+    is a significant change.
+- question: What tools and filters does the author suggest for creating a custom heat
+    map view in Yahoo Finance?
+  answer: The author suggests using the Yahoo Finance Stocks screener with specific
+    filters including a price change greater than 4%, United States region, Mid/Large/Mega
+    Market Cap, price greater than or equal to 5, volume over 15,000, and specific
+    technology-related sectors and industries.
+- question: Where can readers find the author's predictions regarding the Apple WWDC
+    event?
+  answer: The author's predictions regarding Apple WWDC were recorded in a podcast
+    titled 'Banking on Disruption'.
 ---
-
-
-
-
-
 # Markets Monday for 2024-06-17
 
 Analyzing the past and future of the tech market in Markets Monday.

@@ -2,8 +2,18 @@
 title: "Deploy Everything You Touch"
 description: ''
 date: 2023-01-23 04:09:30.962000+00:00
+faq:
+- question: How many deployments per week did Facebook report in 2016?
+  answer: In 2016, research papers indicated that Facebook was achieving approximately
+    5,000 deployments per week.
+- question: What is the name of the internal tool used by Facebook for continuous
+    deployment?
+  answer: Facebook's internal tool for continuous deployment is called Conveyor.
+- question: Is continuous deployment only suitable for large B2C companies like Meta?
+  answer: No, while the numbers at large B2C companies can be dizzying, continuous
+    deployment is becoming increasingly relevant across every industry as more companies
+    embrace digital transformation.
 ---
-
 Music: [Ladytron - Destroy Everything You Touch (2005)](https://www.youtube.com/watch?v=J2MdJKYsapg)
 
 This week we take a look at continuous deployment and... turtles. 🐢

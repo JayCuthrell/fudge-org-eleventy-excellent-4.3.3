@@ -3,9 +3,20 @@ date: 2016-10-12 00:00:00+00:00
 description: ''
 permalink: /archive/have-your-ai-call-my-ai/
 title: Have Your AI Call My AI
+faq:
+- question: What tools does the author currently use to help with meeting scheduling?
+  answer: The author uses several alternatives, including World Clock Meeting Planner,
+    SunCalc, World Time Buddy, Time Zones, and When2meet.
+- question: What is the author's general stance on using Artificial Intelligence for
+    scheduling tasks?
+  answer: The author is skeptical about the role of AI in meeting scheduling, noting
+    that their past experiences with AI-ish tools and calendar integration startups
+    have yielded mixed results.
+- question: What happened to the company x.ai according to the blog post updates?
+  answer: According to an update from April 14, 2023, x.ai was acquired by Bizzabo
+    in 2021, and the domain name was repurposed, which the author notes leads to link
+    rot.
 ---
-
-
 For as long as I’ve been a professional worker, I’ve wondered why it is so hard to get a group of individuals to agree to times and durations for meetings. Then again, there is a case to be made for avoiding meetings if at all possible.
 
 # How’s Tuesday Afternoon?

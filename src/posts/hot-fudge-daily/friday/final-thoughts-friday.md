@@ -3,10 +3,20 @@ title: "Final Thoughts Friday"
 permalink: "/archive/final-thoughts-friday/"
 description: "Looking back at the week with an eye to the future"
 date: 2024-06-07 22:24:46.226198+00:00
+faq:
+- question: What was the author's primary takeaway from Qlik Connect?
+  answer: The author's key takeaway is that the Qlik user community consists of passionate
+    practitioners who are genuinely focused on getting things done for their businesses.
+- question: What did the author find when asking Qlik customers about alternatives
+    to the platform?
+  answer: The author found that while these customers have tried several alternatives,
+    they continue to use Qlik because it helps them effectively accomplish their business
+    tasks.
+- question: What does the author expect regarding Qlik Talend Cloud and Qlik Answers?
+  answer: The author expects that these products will produce impressive, high-impact
+    community stories within a few months of their general availability and will result
+    in powerful case studies by Qlik Connect 2025.
 ---
-
-
-
 # Final Thoughts Friday
 
 Looking back at the week with an eye to the future.

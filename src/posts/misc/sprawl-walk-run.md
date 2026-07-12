@@ -3,8 +3,20 @@ title: "Sprawl Walk Run"
 description: "Part 1: A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
 date: 2024-06-30
 tags: [quantum]
+faq:
+- question: What is silo spreadsheet sprawl (SSS)?
+  answer: Silo spreadsheet sprawl refers to the practice of creating spreadsheets
+    outside of the primary system of record (like an ERP or Salesforce) to add or
+    update data manually, which necessitates further manual entry into other systems.
+- question: How does writeback help address silo spreadsheet sprawl?
+  answer: Writeback provides real-time capabilities for end users to contribute, analyze,
+    and visualize data directly within data platforms. This helps organizations avoid
+    the need for external spreadsheets and closes the gap between analysis and action.
+- question: What are some common business use cases for writeback in the Qlik ecosystem?
+  answer: Writeback can be used for 'planning' tasks like sales and finance budget
+    planning, as well as 'management' tasks including HR management, audit management,
+    case incident management, and document approval management.
 ---
-
 This week we take a look at silo spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.
 
 ## Getting Informed

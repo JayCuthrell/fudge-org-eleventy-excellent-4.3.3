@@ -3,6 +3,23 @@ title: "Fudge Factor: Practical IIoT"
 description: 'Edition 5 of my new newsletter on our increasingly connected world'
 date: 2024-09-01
 tags: [Fudge Factor]
+faq:
+- question: Why did major cloud providers like Google and IBM exit the IoT platform
+    market?
+  answer: As of 2023, both Google Cloud (IoT Core) and IBM (Watson IoT) retired their
+    IoT platform initiatives, with the author suggesting that users should rely on
+    their partners instead.
+- question: What are some technological advancements currently supporting IIoT development?
+  answer: Key advancements include the convergence of 5G and A.I. for localized data
+    processing, LPWANs for low-power remote connectivity, developments in Lithium
+    thionyl chloride (LiSOCL2) battery chemistry for long-term power, and low-code
+    tools like Node-RED for application development.
+- question: Which safety and cybersecurity standards are important for IIoT deployments
+    in harsh or industrial conditions?
+  answer: Crucial standards for safety, compliance, and reliability include ATEX (EU),
+    IECEx (International), and UL (US). Additionally, the ISA/IEC 62443 standard is
+    central for cybersecurity considerations in industrial automation and control
+    systems.
 ---
 This is Edition 5 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

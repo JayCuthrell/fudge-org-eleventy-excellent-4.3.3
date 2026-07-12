@@ -4,8 +4,19 @@ description: 'VCE year 7'
 date: 2017-10-18 00:00:00+00:00
 permalink: /archive/my-seventh-year-at-vce/
 tags: [VCE and Dell]
+faq:
+- question: What significant career milestone did the author achieve on June 20, 2017?
+  answer: The author was named in a granted patent, specifically patent number 9684539,
+    titled 'Methods, systems, and computer readable mediums for logically remediating
+    infrastructure resource components.'
+- question: How much has the author traveled for work over the past 12 months?
+  answer: The author traveled approximately 30 out of the 52 weeks, which equates
+    to about 60-70% travel.
+- question: What was the most requested topic of discussion in the author's recent
+    meetings?
+  answer: The most requested topic of discussion was hyperconverged infrastructure
+    (HCI).
 ---
-
 I started this post ten days ago. The year since my last work related update has been packed with integration activity, organizational changes, epiphanies, and a fair amount of travel.
 
 The Patent

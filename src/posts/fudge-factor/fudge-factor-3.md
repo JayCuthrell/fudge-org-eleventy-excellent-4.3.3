@@ -3,6 +3,23 @@ title: "Fudge Factor: Calibration and Validation"
 description: 'Edition 3 of my new newsletter on our increasingly connected world'
 date: 2024-08-18
 tags: [Fudge Factor]
+faq:
+- question: What is the purpose of calibration and validation (cal/val) in remote
+    sensing?
+  answer: Calibration and validation are used to anticipate changes and account for
+    environmental factors—such as radiation, instrument limitations, mechanical stresses,
+    and atmospheric conditions—to transform raw satellite data into accurate, actionable
+    information.
+- question: How are AI and machine learning being used in the context of remote sensing
+    data?
+  answer: AI and machine learning are being leveraged to automate and optimize cal/val
+    processes, which helps reduce human-borne errors, increase efficiency, and allow
+    for real-time adjustments via onboard edge computing.
+- question: Why is accurate calibration important for real-world applications?
+  answer: Accurate calibration is essential for reliable applications ranging from
+    climate monitoring and precision agriculture to urban planning and evidence-based
+    policy decisions, ensuring the data used for simulations and digital twins remains
+    high-fidelity.
 ---
 This is Edition 3 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

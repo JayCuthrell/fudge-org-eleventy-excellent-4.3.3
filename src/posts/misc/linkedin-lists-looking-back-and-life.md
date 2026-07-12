@@ -2,8 +2,19 @@
 title: LinkedIn, Lists, Looking Back, and Life
 description: A look at listicles, a series of tubes, and more
 date: 2023-10-22
+faq:
+- question: What happens if a LinkedIn user makes enough contributions to collaborative
+    articles?
+  answer: If a user makes enough contributions, LinkedIn offers them a Community Top
+    Voice badge.
+- question: How does the author describe the 'shot and chaser' format used in the
+    blog post?
+  answer: The format is a callback to prior topics or links, which are then compared
+    to a more recent or current link for the week.
+- question: What is the author's current status on LinkedIn?
+  answer: The author has a profile set to Creator mode with under 4,000 connections
+    and over 4,200 followers, and they do not plan to quit the platform yet.
 ---
-
 This week we take a look at thought leadership listicle prompts, advances in computing infrastructure, as well as a shot and chaser.
 
 # LinkedIn Listicles Oh My!

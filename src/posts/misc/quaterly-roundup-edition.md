@@ -3,10 +3,22 @@ title: "Quaterly Roundup Edition"
 description: 'DevEx deals a plenty'
 date: 2023-03-26 23:34:56.390000+00:00
 tags: [quantum]
+faq:
+- question: Why did the author deviate from the usual music-inspired layout for this
+    post?
+  answer: The author took a break from the music-inspired layout due to feedback and
+    metrics that intensified their experimental itch.
+- question: What is the author's perspective on the current state of venture capital
+    in developer experience?
+  answer: Despite headlines suggesting venture capital is hibernating, the author
+    notes that this view does not align with the actual data regarding developer experience-related
+    investing.
+- question: What resources does the author suggest to identify future trends in DevOps
+    and platform engineering?
+  answer: The author suggests looking at the DevOps Benchmarking Study 2023, Sequoia's
+    perspectives on AI-powered developer tools, and investments in quantum computing
+    to identify potential future trends.
 ---
-
- 
-
 Music: [James Elmore - Quarter Past Nine (1954)](https://www.youtube.com/watch?v=iMpv-kCz5O4)
 
 This week is a quarterly roundup of links to DevEx/DevX VC funding and M&A related news you might have missed.

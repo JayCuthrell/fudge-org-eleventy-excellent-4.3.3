@@ -2,10 +2,19 @@
 title: "One IDP piece at a time"
 description: ''
 date: 2023-05-07 16:05:54.730000+00:00
+faq:
+- question: What is the Internal Developer Platform (IDP) topic trend when compared
+    to DevOps?
+  answer: When compared to DevOps, the internal developer platform trend is described
+    as a sobering purple bromide reality.
+- question: How many core components of an IDP did the internaldeveloperplatform.org
+    GitHub repository identify?
+  answer: The internaldeveloperplatform.org repository identified five core components
+    of an IDP.
+- question: Who identified the eight fallacies of an Internal Developer Platform?
+  answer: The eight fallacies of an IDP were identified by Ravi Lachhman, who is a
+    Field CTO at Shipa and a Product Manager at Harness.
 ---
-
- 
-
 Music: [Johnny Cash - One Piece at a Time (1976)](https://www.youtube.com/watch?v=pmeVwYojB-s)
 
 This week we take a look at recent Internal Developer Platform (IDP) coverage, taxonomy, and industry trends.

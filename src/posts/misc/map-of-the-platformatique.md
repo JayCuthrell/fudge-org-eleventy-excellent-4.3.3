@@ -2,8 +2,21 @@
 title: "Map of the Platformatique"
 description: 'A look at platform engineering services, internal developer platforms, and Wardley maps making the rounds.'
 date: 2023-02-20 01:13:05.404000+00:00
+faq:
+- question: Is there currently a dominant, native internal developer platform (IDP)
+    marketplace offered by cloud service providers?
+  answer: No, there is currently no dominant native internal developer platform marketplace
+    offered by cloud service providers, though the author suggests this is likely
+    a temporary condition.
+- question: What is Wardley Mapping?
+  answer: Wardley Mapping is an approach used for visualizing the lifecycle of a market,
+    moving from genesis to commodity.
+- question: Which companies does the post mention as examples of SaaS options for
+    internal developer platforms found on some cloud service provider marketplaces?
+  answer: The post mentions Cycloid and Humanitec as examples of SaaS options for
+    internal developer platforms, noting that these appear on some cloud service provider
+    marketplaces while others may list none at all.
 ---
-
 Music: [Muse - "Map of the Problematique" (2007)](https://www.youtube.com/watch?v=Nw5AMCEiZms)
 
 This week we take a look at platform engineering services, internal developer platforms, and Wardley maps making the rounds.

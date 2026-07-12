@@ -2,10 +2,20 @@
 title: "Zero Tickets to Paradise"
 description: ''
 date: 2023-05-29 01:25:35.882000+00:00
+faq:
+- question: What is the primary goal of adopting AIOps in relation to developer experience?
+  answer: The goal is the ruthless removal of developer annoyances in the form of
+    tickets, moving toward a near zero ticket or ticketless developer experience.
+- question: Why are tickets considered a negative for developer productivity?
+  answer: Tickets consume time, energy, and productivity cycles. Relying on tickets
+    often creates Ops bottlenecks where developers are forced into a culture of 'waiting
+    as hard as you can' instead of being enabled to complete work or reach outcomes
+    directly.
+- question: What is required to successfully transition to a ticketless developer
+    experience?
+  answer: Promoting a ticketless developer experience requires a 'getting things done'
+    (GTD) champion within platform engineering who has executive support.
 ---
-
- 
-
 Music: [Eddie Money - Two Tickets to Paradise (1977)](https://www.youtube.com/watch?v=JxcUmAVG3RQ)
 
 This week we take a look at the goal of attaining a near zero ticket developer experience with AIOps.

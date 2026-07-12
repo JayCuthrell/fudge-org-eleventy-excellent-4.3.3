@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2025-01-13"
 permalink: "/archive/markets-monday-for-2025-01-13/"
 description: "This week’s Market Monday highlights a calm return as I analyze key tech indicators from Yahoo Finance."
 date: 2025-01-14 03:41:00.198263+00:00
+faq:
+- question: What tool does the author use to track market indicators each week?
+  answer: The author uses a simple Yahoo Finance webpage to view a market indicator
+    through the lens of the Monday closing bell.
+- question: What is the current 'Spicy level' reported for this week?
+  answer: The current Spicy level is 1, indicating that the end of year calm has returned.
+- question: Which filters are recommended for creating a custom heat map view in the
+    Yahoo Finance stock screener?
+  answer: The recommended filters include a Price % Change (Intraday) greater than
+    4, Region set to United States, Market Cap set to Mid, Large, and Mega Cap, Price
+    (Intraday) greater than or equal to 5, Volume greater than 15,000, and specific
+    settings for Technology sectors and industries.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

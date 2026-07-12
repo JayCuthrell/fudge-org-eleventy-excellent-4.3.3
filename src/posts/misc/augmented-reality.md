@@ -3,8 +3,23 @@ date: 2019-02-25 00:00:00+00:00
 description: ''
 permalink: /archive/augmented-reality/
 title: Augmented Reality
+faq:
+- question: What is one potential use for augmented reality in the context of self-driving
+    cars?
+  answer: The author suggests that AR could be used as an advertising modality, where
+    the human occupant becomes an audience for commercials displayed against the real-world
+    environment while the car drives itself.
+- question: What concern does the author raise regarding the rapid growth of machine
+    learning?
+  answer: The author is concerned that the hunger for progress may lead to the use
+    of flawed data sets, which could result in machine learning applications that
+    are unethical, unrealistic, or unsatisfactory.
+- question: How does the author propose we mitigate the risks associated with testing
+    new technologies?
+  answer: The author suggests using augmented reality (AR) and virtual reality (VR)
+    as safer constructs to test and apply machine learning findings before unleashing
+    them in the real world.
 ---
-
 This past week seemed to follow an augmented reality theme in the regular places I read. Techmeme, A16Z podcast, and even Hacker News provided multiple references to augmented reality, virtual reality, 5G ubiquity, and the widening adoption of gaming technologies.
 
 

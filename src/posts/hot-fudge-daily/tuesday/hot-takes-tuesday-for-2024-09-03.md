@@ -3,11 +3,21 @@ title: "🔥 Hot Takes Tuesday for 2024-09-03"
 permalink: "/archive/hot-takes-tuesday-for-2024-09-03/"
 description: "AI&#39;s growing prominence, funding trends, and the future of coding tools are explored in this edition."
 date: 2024-09-04 00:17:06.613191+00:00
+faq:
+- question: What is the author's primary question regarding the future of AI infrastructure?
+  answer: The author questions whether practitioners will move on to the next emerging
+    technology once AI infrastructure becomes mature and cost-effective, or if AI
+    will remain the defining specialization for the coming decades.
+- question: What observation does the author make about AI coding tools like Codeium?
+  answer: The author notes that Codeium has achieved unicorn status and suggests that
+    the market has the capacity to absorb many more similar tools as AI specialization
+    creates demand for more coding solutions.
+- question: How does the author characterize the spending levels of companies like
+    Magic and Poolside?
+  answer: The author describes the implied spending by Magic on Google Cloud as remarkable
+    and notes that it mimics the patterns seen in interviews published by Poolside
+    regarding their AI coding tools.
 ---
-
-
-
-
 First… an observation and a question. 
 
 [![Gartner Hype Cycle for Emerging Technologies, 2024](https://assets.buttondown.email/images/bfca3f64-fba4-4614-81c2-1a0844b4b22c.png?w=960&fit=max)](https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security)

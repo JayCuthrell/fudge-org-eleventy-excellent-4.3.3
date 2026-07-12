@@ -3,8 +3,27 @@ date: 2010-01-08 00:00:00+00:00
 description: ''
 permalink: /archive/social-telecom/
 title: Social Telecom
+faq:
+- question: Why does the author suggest that service providers should monitor social
+    media and customer chatter?
+  answer: The author suggests that monitoring social media chatter allows providers
+    to identify service issues, outages, or anomalies in real-time. By observing patterns
+    in subscriber feedback, providers can better understand network performance, fast-track
+    ticket resolution, and address customer frustrations before they escalate.
+- question: What is the author's view on the future of asymmetric broadband and upload
+    speeds?
+  answer: The author believes that asymmetric broadband will become a thing of the
+    past. As applications shift toward real-time communication, cloud services, and
+    symmetric interactions—such as Skype or video-based applications—the author argues
+    that upload speeds will become just as critical as download speeds.
+- question: How does the author characterize the role of a 'power subscriber' in the
+    modern telecommunications landscape?
+  answer: A 'power subscriber' is an influential user who closely tracks service quality
+    and has a wide audience to share their experiences with. Because they can quickly
+    and efficiently broadcast service issues to a large audience, they force service
+    providers to be more accountable, as their complaints can easily escalate from
+    local discussions to national tech and mainstream press attention.
 ---
-
 About a year ago I spoke in front of the [Atlanta Telecom Professionals (ATP)](http://www.telecompros.org/) audience on the topic of social media and telecommunications. It was a great crowd.
 
 I was also afforded a glass of Scotch. Trust me when I say the crowd was great regardless of the Scotch I had consumed as the panel pulled together. It doesn’t get much more telecom focused than the group of folks assembled that evening.

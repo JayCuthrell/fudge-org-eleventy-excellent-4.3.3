@@ -3,11 +3,18 @@ title: "📈 Markets Monday for 2025-02-10"
 permalink: "/archive/markets-monday-for-2025-02-10/"
 description: "This edition highlights key market indicators for tech stocks using Yahoo Finance insights."
 date: 2025-02-11 05:31:02.609145+00:00
+faq:
+- question: What source does the author use for their weekly market indicator?
+  answer: The author uses a simple Yahoo Finance webpage to view key market indicators.
+- question: How can readers save their own market heat map view?
+  answer: Readers can bookmark their own heat map view by using the Yahoo Applied
+    Filters for Stocks screener.
+- question: What specific criteria are used in the Yahoo Finance screener for the
+    author's heat map?
+  answer: The criteria include a greater than 4% intraday price change, United States
+    region, Mid/Large/Mega market cap, price greater than or equal to 5, volume over
+    15,000, and a specific selection of Technology-related sectors and industries.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

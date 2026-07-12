@@ -3,9 +3,22 @@ title: "✅ Final Thoughts Friday for 2024-09-06"
 permalink: "/archive/final-thoughts-friday-for-2024-09-06/"
 description: "The past week in BGP, Internet Archive, Salesforce + Own(Backup), and YouTube/Google."
 date: 2024-09-07 02:41:22.829403+00:00
+faq:
+- question: What events does the author have scheduled for the remainder of 2024?
+  answer: 'The author is scheduled to attend four events: AI Field Day 5 (September
+    9-13), Monktoberfest (October 1-4), Cloud Field Day 21 (October 23-25), and All
+    Things Open (October 27-29).'
+- question: What is the author's perspective regarding Salesforce and data backup?
+  answer: The author notes that Salesforce did not have a native backup and recovery
+    service until very recently, having previously relied on third-party providers.
+    The author believes that a third-party provider acquired by Salesforce is arguably
+    more successful with customers than the native service launched a year ago.
+- question: What is the author's take on the legal situation regarding the Internet
+    Archive and GenAI training?
+  answer: The author suggests that if the Internet Archive faces strict legal scrutiny,
+    companies using published materials for GenAI and LLM training should prepare
+    for significant legal challenges and potential legal precedents.
 ---
-
-
 As a reminder, I’ve committed to four events for the remainder of this year.
 
 1. [AI Field Day 5](https://techfieldday.com/event/aifd5/) in Silicon Valley September 9-13, 2024 for [Tech Field Day](https://techfieldday.com/events/)

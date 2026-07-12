@@ -3,11 +3,20 @@ title: "📈 Markets Monday for 2024-08-12"
 permalink: "/archive/markets-monday-for-2024-08-12/"
 description: "Analyzing tech market past and future trends in this edition of Markets Monday."
 date: 2024-08-12 22:57:53.528252+00:00
+faq:
+- question: What source does the author use to analyze the tech market each week?
+  answer: The author uses a simple Yahoo Finance webpage and its screener tool to
+    track key indicators.
+- question: When is Onto Innovation (ONTO) scheduled to report its second-quarter
+    2024 financial results?
+  answer: Onto Innovation is scheduled to report its second-quarter 2024 financial
+    results on August 8, 2024.
+- question: What criteria are used for the Yahoo Finance screener heat map view mentioned
+    in the post?
+  answer: 'The screener uses several filters including: Price Change greater than
+    4%, United States region, Mid to Mega Market Caps, Price greater than or equal
+    to 5, Volume over 15,000, and specific technology-related sectors and industries.'
 ---
-
-
-
-
 Analyzing the past and future of the tech market in Markets Monday.
 
 ## Last week

@@ -2,8 +2,21 @@
 title: "IDP Clearly Now"
 description: ''
 date: 2023-01-30 00:26:35.199000+00:00
+faq:
+- question: How does the author define an Internal Developer Platform (IDP)?
+  answer: The author defines an Internal Developer Platform (IDP) as the prevailing
+    toolchain within an organization that develops software applications, representing
+    an opinionated stack that is adopted and refashioned over time.
+- question: Can members of the public contribute to the definition of an Internal
+    Developer Platform?
+  answer: Yes, if you have ideas for a better definition of IDP, you can submit a
+    pull request to the Internal Developer Platform website's GitHub repository.
+- question: Is an Identity Provider (IdP) the same thing as an Internal Developer
+    Platform (IDP)?
+  answer: No, the author notes that it is important to distinguish between the two,
+    as they are different acronyms; additionally, an Internal Developer Platform likely
+    relies upon an Identity Provider to function.
 ---
-
 [![image.jpg](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/47eb1c44-ddc5-4bbd-8bd1-0680d96fd93d.jpg)](https://stockimg.ai)
 
 Source: ["developers using an internal developer platform" on stockimg.ai](https://stockimg.ai)

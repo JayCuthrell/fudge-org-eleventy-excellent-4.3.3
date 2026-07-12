@@ -2,10 +2,19 @@
 title: "Shock the Chaos Monkey"
 description: ''
 date: 2023-07-17 00:33:45.699582+00:00
+faq:
+- question: What is the core focus of chaos engineering for platform engineering teams?
+  answer: Chaos engineering goes beyond Murphy's Law by actively thinking and acting
+    upon events that might or will go wrong to ensure system resilience.
+- question: What question does the author suggest asking to frame a discussion about
+    chaos engineering?
+  answer: The author suggests asking how confident a team is that the remaining software
+    development team could handle everything that occurs if the top SRE or platform
+    team members were to take an extended vacation.
+- question: Has the topic of chaos engineering been covered by this blog previously?
+  answer: 'Yes, chaos engineering was previously covered in 2021 in Fudge Sunday #113
+    as part of a five-part series on ''Cloud in Public''.'
 ---
-
- 
-
 This week's musical inspiration in title and lyrics: 
 
 https://open.spotify.com/track/6B2vTF4zhKdR4v4RDXkz3G?si=7a6c3663ec1e4b1b

@@ -3,8 +3,20 @@ date: 2001-09-14 00:00:00+00:00
 description: a post 9/11 update
 permalink: /archive/here-it-comes/
 title: Here It Comes
+faq:
+- question: How early should I arrive at the airport for my flight?
+  answer: You should arrive at the airport a minimum of two hours before departure
+    for domestic flights and a minimum of two and a half hours for international flights.
+- question: What forms of identification are considered acceptable for passengers?
+  answer: Acceptable forms of identification include a valid photo driver’s license,
+    an active passport, or employee identification from a county, state, or federal
+    agency.
+- question: Are non-ticketed individuals allowed to go to the gate area?
+  answer: No, only individuals with valid travel documentation, such as an electronic
+    ticket confirmation, itinerary, boarding pass, or paper ticket, are permitted
+    beyond security checkpoints; those without tickets cannot enter gate areas to
+    greet or see off passengers.
 ---
-
 From the US Airways mailing lists for frequent flyers (*emphasis* mine):
 
 To ensure the safety and security of airline passengers, heightened security measures have been implemented at airports. As you plan your trip, please keep the following in mind:

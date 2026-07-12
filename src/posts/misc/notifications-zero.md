@@ -3,8 +3,19 @@ date: 2016-12-26 00:00:00+00:00
 description: ''
 permalink: /archive/notifications-zero/
 title: Notifications Zero
+faq:
+- question: What is the primary goal of this newsletter digest?
+  answer: The goal of the digest is to revisit items shared by the author over the
+    course of a day or week and provide additional context regarding why those items
+    are of interest.
+- question: Why did the author decide to start this email newsletter?
+  answer: The author started the newsletter because they were told that their Twitter
+    posts were sometimes hard to keep up with and because their personal blog is updated
+    infrequently without an automated way to deliver content to readers' inboxes.
+- question: What does the author identify as the modern equivalent of an email inbox?
+  answer: The author identifies notifications—specifically the red circles with numbers
+    on mobile or web browser tools—as the new version of an email inbox.
 ---
-
 Welcome to the first issue of my digest.
 
 I know… an email newsletter on the eve of the year 2017. Bold! :wink:

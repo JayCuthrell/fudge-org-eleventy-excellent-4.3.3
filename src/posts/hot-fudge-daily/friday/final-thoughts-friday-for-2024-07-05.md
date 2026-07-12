@@ -3,9 +3,19 @@ title: "Final Thoughts Friday for 2024-07-05"
 permalink: "/archive/final-thoughts-friday-for-2024-07-05/"
 description: "Final Thoughts Friday for 2024-07-05 Looking back at the week with an eye to the future. For July, I am having a weekly coffee meetup and have decided to go..."
 date: 2024-07-05 14:52:33.300964+00:00
+faq:
+- question: Where will the Friday coffee meetups be held starting next week?
+  answer: Starting next week, the Friday coffee meetups will be held at Cru, which
+    is located right next door to The Vault.
+- question: What changes are planned for the fudge.org website next month?
+  answer: Next month, fudge.org will transition into a funnel to drive traffic to
+    the newsletter with automated sponsorship management, allowing the site to be
+    reclaimed for blogging content that is difficult to convey via email.
+- question: Will the author be attending the Summer Career Fair at Raleigh Founded
+    - NCSU?
+  answer: Yes, the author will be attending the Summer Career Fair at Raleigh Founded
+    - NCSU in Raleigh on July 17, 2024.
 ---
-
-
 # Final Thoughts Friday for 2024-07-05
 
 Looking back at the week with an eye to the future.

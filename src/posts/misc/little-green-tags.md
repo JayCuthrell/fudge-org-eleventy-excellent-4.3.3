@@ -2,8 +2,20 @@
 title: "Little Green Tags"
 description: 'A look at the past, present, and future of FinOps strategies for A.I. workloads'
 date: 2023-09-03 23:29:48.998000+00:00
+faq:
+- question: What is the focus of the blog post regarding FinOps?
+  answer: The blog post explores the past, present, and future of FinOps strategies
+    specifically related to A.I. workloads.
+- question: Why might businesses need to reconsider their current cloud tagging and
+    metadata strategies?
+  answer: Because businesses are increasingly being asked to integrate A.I. into public
+    clouds, leading to questions about whether traditional cloud operating models
+    and adoption frameworks are sufficient for these new workloads.
+- question: What is the alternative to using hyperscale public cloud providers for
+    A.I. workloads mentioned in the post?
+  answer: The post mentions the potential for avoiding hyperscale public cloud providers
+    entirely by embracing cloud repatriation.
 ---
-
 This week we take a look at the past, present, and future of FinOps strategies for A.I. workloads.
 
 This week's musical inspiration in title and lyrics:

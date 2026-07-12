@@ -3,8 +3,18 @@ date: 2020-08-25 00:00:00+00:00
 description: Indeed
 permalink: /archive/emerging-hype/
 title: Emerging Hype
+faq:
+- question: What was the top blog post topic identified by searching Gartner blogs
+    using keywords from the 2020 Hype Cycle for Emerging Technologies?
+  answer: '"Social Distancing Technologies" enjoyed the top topic spot, matching the
+    Peak of Inflated Blog Post Themes.'
+- question: When did blogging become a formal content channel for Gartner?
+  answer: Blogging at Gartner has been a formal content channel since late 2008.
+- question: Which topic is predicted to be a significant focus for future blog posts?
+  answer: The "Digital Twin" topic is predicted to be significant, as it enjoyed a
+    high number of blog posts and is considered broad enough to sweep in many more
+    stories and blog posts in the coming years.
 ---
-
 On a hunch, I searched [Gartner blogs](https://blogs.gartner.com) for specific keywords from the [Gartner Hype Cycle for Emerging Technologies, 2020](https://www.gartner.com/en/newsroom/press-releases/2020-08-18-gartner-identifies-five-emerging-trends-that-will-drive-technology-innovation-for-the-next-decade).
 
 Survey Says…

@@ -3,10 +3,14 @@ title: "🔥 Hot Takes Tuesday for 2025-07-22"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-22/"
 description: "Funding for Poseidon, Composio, Asylon, Delve, Inforcer, Ashby, Reka AI, and xAI"
 date: 2025-07-23 01:35:38.556+00:00
+faq:
+- question: Which company received the most funding according to the post?
+  answer: xAI received the most funding with a total of $12B.
+- question: What is the primary focus of the company Asylon?
+  answer: Asylon focuses on AI robot guard dogs.
+- question: How much funding did Reka AI raise?
+  answer: Reka AI, which focuses on efficient LLMs, raised $110M.
 ---
-
-
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [Poseidon](https://www.techmeme.com/250722/p26#a250722p26)

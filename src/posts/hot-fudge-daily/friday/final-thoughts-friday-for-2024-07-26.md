@@ -3,8 +3,14 @@ title: "✅ Final Thoughts Friday for 2024-07-26"
 permalink: "/archive/final-thoughts-friday-for-2024-07-26/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-26 10:08:31+00:00
+faq:
+- question: What is the date of this Final Thoughts Friday post?
+  answer: The post is for 2024-07-26.
+- question: Are there any updates for this week?
+  answer: No, the team is taking a break this week for the summer.
+- question: Who took the photo featured in the post?
+  answer: The photo was taken by Vicko Mozara.
 ---
-
 # ✅ Final Thoughts Friday for 2024-07-26
 
 Looking back at the week with an eye to the future.

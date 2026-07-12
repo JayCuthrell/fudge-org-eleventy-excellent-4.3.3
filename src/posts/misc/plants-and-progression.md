@@ -2,10 +2,20 @@
 title: "Plants, Polyphony, Packets, and Progress"
 description: "A look at plants and progressively converging technologies"
 date: 2024-04-21
+faq:
+- question: What is Data Garden?
+  answer: Data Garden is a multidisciplinary collective that explores the fusion of
+    nature and technology by using data from plants to create music.
+- question: What is the historical significance of the circular patterns seen in rural
+    American farmlands from the air?
+  answer: These patterns are not alien crop circles, but rather the result of center-pivot
+    irrigation farm operations used to grow crops and natural fibers.
+- question: What call to action does the author suggest for those attending technology
+    industry conferences?
+  answer: The author encourages attendees to ask conference planners and organizers
+    if a nature-connected experiential setting will be offered, as this simple act
+    can spark curiosity and lead to change.
 ---
-
-
-
 This week we take a look at plants, polyphony, and progressively converging technologies over the past 20 years.
 
 ## Housekeeping Notes

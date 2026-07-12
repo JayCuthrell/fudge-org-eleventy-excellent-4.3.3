@@ -4,12 +4,22 @@ permalink: "/archive/hot-fudge-sunday-for-2025-02-23/"
 description: "This week&#39;s edition highlights top professionals #OpenToWork and stories worth following"
 date: 2025-02-24 01:30:00+00:00
 tags: [quantum]
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    Hot Fudge Daily paid newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: 'What is the purpose of the #OpenToWork section in the newsletter?'
+  answer: 'The #OpenToWork section highlights professionals in the author''s network
+    who are looking for work by linking to their LinkedIn profiles and quoting their
+    ''About'' sections to encourage readers to connect with and reach out to them.'
+- question: How can readers create their own stock heat map view similar to the one
+    used in the newsletter?
+  answer: Readers can use the Yahoo Applied Filters for Stocks screener to bookmark
+    their own heat map view by applying specific criteria, such as setting the region
+    to United States, the sector to Technology, and filtering by specific market caps,
+    price thresholds, and volume requirements.
 ---
-
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}

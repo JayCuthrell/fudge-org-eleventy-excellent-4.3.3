@@ -4,9 +4,16 @@ description: "Thoughts on my 5th year at VCE"
 permalink: /archive/my-fifth-year-at-vce/
 title: "My Fifth Year at VCE"
 tags: [VCE and Dell]
+faq:
+- question: How many years has Jay Cuthrell been at VCE as of this blog post?
+  answer: This post marks Jay Cuthrell's 5th year at VCE.
+- question: What platform does the author use to host his blog?
+  answer: The author uses GitHub Pages to host his blog, utilizing flat file rendering.
+- question: According to 451 Group, what percentage of senior IT professionals are
+    planning to move toward converged infrastructure?
+  answer: According to the 451 Group, 40% of senior IT professionals are planning
+    on moving toward converged infrastructure.
 ---
-
-
 > A quick reflection on my 5th year at [@VCE](https://twitter.com/VCE) 🚀 🚀 🚀 🚀 🚀 [http://t.co/6rA6LgdFr8](http://t.co/6rA6LgdFr8) [#VCE](https://twitter.com/hashtag/VCE?src=hash) [#Vblock](https://twitter.com/hashtag/Vblock?src=hash) [#VMware](https://twitter.com/hashtag/VMware?src=hash) [#Cisco](https://twitter.com/hashtag/Cisco?src=hash) [#EMC](https://twitter.com/hashtag/EMC?src=hash) [#Dell](https://twitter.com/hashtag/Dell?src=hash) [#roadwarrior](https://twitter.com/hashtag/roadwarrior?src=hash)
 > 
 > — Jay Cuthrell (@JayCuthrell) [October 18, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/655773375093059585)

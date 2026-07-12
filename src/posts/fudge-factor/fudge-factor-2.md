@@ -3,6 +3,19 @@ title: "Fudge Factor Format"
 description: 'Edition #2 of my new newsletter and what to expect'
 date: 2024-08-11
 tags: [Fudge Factor]
+faq:
+- question: What is the primary goal of the Fudge Factor newsletter?
+  answer: Fudge Factor aims to bridge the gap between theory and real-world data applications
+    by exploring how converged technologies at the edge, cloud, and core datacenter
+    are used to achieve outcomes that are permissible, sustainable, repeatable, and
+    advisable.
+- question: What content sections are included in each edition of the newsletter?
+  answer: Each edition features a deep-dive story followed by sections covering news,
+    technology, use cases, standards, analysis, and relevant industry events.
+- question: What kind of technologies will be discussed in the 'Technology' section?
+  answer: The technology section will cover topics such as 5G, applied machine learning,
+    A.I., edge computing, blockchain, and the strategies of hyperscale cloud service
+    providers like AWS, Azure, GCP, and OCI.
 ---
 This is edition #2 of my [newest](/archive/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

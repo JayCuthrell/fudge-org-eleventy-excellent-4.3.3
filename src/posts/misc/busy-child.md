@@ -3,9 +3,19 @@ date: 2022-07-17 22:47:41.300000+00:00
 description: ''
 permalink: /archive/busy-child/
 title: Busy Child
+faq:
+- question: What are some examples of youth learning communities mentioned in the
+    blog post?
+  answer: The blog post highlights Scratch, DIY, Makers Empire, and Code.org as examples
+    of communities for young learners.
+- question: What kind of statistics does the Scratch community have?
+  answer: Scratch grows by over 1 million accounts each month, is used in every country
+    on the planet, and is available in more than 70 languages.
+- question: What is the mission of Code.org?
+  answer: Code.org seeks to reach students in underserved populations and expose them
+    to computer science, particularly focusing on groups that are historically underrepresented
+    in STEM fields.
 ---
-
-
 [The Crystal Method - Busy Child (1997)](https://www.youtube.com/watch?v=t6twhXA1Gyw)
 
 Getting Informed

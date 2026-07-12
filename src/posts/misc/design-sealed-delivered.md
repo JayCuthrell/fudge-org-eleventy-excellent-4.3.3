@@ -2,6 +2,24 @@
 title: Designed Sealed Delivered
 description: A look at the past, present, and future of homomorphic encryption
 date: 2023-09-24
+faq:
+- question: What is the primary benefit of using homomorphic encryption discussed
+    in the post?
+  answer: Homomorphic encryption allows for the protection of sensitive data, such
+    as medical records or retail order history, by enabling secure data analytics
+    without leaving the data unencrypted or vulnerable to extraction.
+- question: Which researchers demonstrated how hardware acceleration can improve the
+    performance of homomorphic encryption?
+  answer: Stefano Di Matteo, Matteo Lo Gerfo, and Sergio Saponara demonstrated the
+    performance possibilities of homomorphic encryption using hardware acceleration
+    in their work regarding the Number Theoretic Transform for the Microsoft SEAL-Embedded
+    library.
+- question: How does the post relate drone delivery services to the future of data
+    protection?
+  answer: The post highlights that drones collecting data for commercial deliveries,
+    such as those operated by Zipline, raise questions about data retention and the
+    need for spatial and temporal data protection, especially as these drones are
+    increasingly augmented with AI and autonomy.
 ---
 This week we take a look at the past, present, and future of homomorphic encryption.
 

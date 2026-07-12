@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2025-03-24"
 permalink: "/archive/markets-monday-for-2025-03-24/"
 description: "This week&#39;s Market Monday dives into tech stock trends via Yahoo Finance&#39;s key indicators."
 date: 2025-03-25 01:42:39.976602+00:00
+faq:
+- question: What resource does the author use to track their key market indicator?
+  answer: The author uses a simple Yahoo Finance webpage to track their key indicator.
+- question: What specific criteria are included in the Yahoo Applied Filters for Stocks
+    screener mentioned in the post?
+  answer: 'The criteria include a % Change in Price (Intraday) greater than 4, Region:
+    United States, Market Cap of Mid, Large, and Mega Cap, Price (Intraday) greater
+    than or equal to 5, Volume greater than 15,000, Sector: Technology, and a variety
+    of specified industries.'
+- question: What is the primary purpose of the author's Market Monday post?
+  answer: The post serves as an end-of-day snapshot to provide a recap of the market
+    through the lens of the Monday closing bell using a consistent key indicator.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

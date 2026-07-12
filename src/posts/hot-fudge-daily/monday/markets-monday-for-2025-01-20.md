@@ -3,11 +3,17 @@ title: "📈 Markets Monday for 2025-01-20"
 permalink: "/archive/markets-monday-for-2025-01-20/"
 description: "This week, I reflect on market trends while noting MLK Day&#39;s impact on trading activity."
 date: 2025-01-21 15:15:37.806206+00:00
+faq:
+- question: What happened to the market on Monday?
+  answer: The markets were closed in observance of MLK Day.
+- question: Where does the author get their key market indicator from?
+  answer: The author uses a simple Yahoo Finance webpage to look at key market indicators.
+- question: What criteria are used for the Yahoo Applied Filters for Stocks screener
+    mentioned in the post?
+  answer: The screener uses criteria including a price change greater than 4%, United
+    States region, Mid/Large/Mega Market Cap, price greater than or equal to 5, volume
+    greater than 15,000, and specific Technology sector industries.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

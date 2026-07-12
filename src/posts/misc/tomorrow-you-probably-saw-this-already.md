@@ -3,8 +3,25 @@ date: 2019-04-21 00:00:00+00:00
 description: ''
 permalink: /archive/tomorrow-you-probably-saw-this-already/
 title: Tomorrow You Probably Saw This Already
+faq:
+- question: What is the relationship between necessity and technology as described
+    in the post?
+  answer: The post asserts that technology is a response to a perceived need. It suggests
+    that when there is a necessity, the future may have already arrived in the past,
+    noting that historical inventions like electric trucks demonstrate that innovations
+    are often born from necessity rather than just modern development.
+- question: Why do some industries continue to use human operators despite the availability
+    of self-service technology?
+  answer: Human operators are still utilized in certain applications, such as elevators,
+    because there are specific service design cases where a human is still better
+    suited to perform tasks that might otherwise be handled by self-service buttons
+    or automation.
+- question: What legal challenge does the rise of AI-generated music present?
+  answer: 'The rise of AI-produced music, such as the computationally generated death
+    metal mentioned in the post, creates questions regarding copyright and compensation,
+    specifically identifying a potential future conflict over who should be paid for
+    the work: the humans, the monkeys, or the creators of the machines.'
 ---
-
 In this issue, we take a look at the future, past, and the creative combinations of both marked by technology and popular media. We’ll look at the relics that persist and the promises yet to be realized. Along the way, the potential for unintended parachronism grows larger with each passing year.
 
 p.s. Thanks to the folks behind [Vecteezy Editor](https://www.vecteezy.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) for the new logo!

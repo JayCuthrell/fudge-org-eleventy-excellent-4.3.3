@@ -3,11 +3,20 @@ title: "📈 Markets Monday for 2025-02-03"
 permalink: "/archive/markets-monday-for-2025-02-03/"
 description: "This Market Monday, I&#39;m tracking tech trends with Yahoo Finance&#39;s latest stock insights."
 date: 2025-02-04 01:55:30.105809+00:00
+faq:
+- question: What source does the author use for their weekly market indicator?
+  answer: The author uses a simple Yahoo Finance webpage to view market data through
+    the lens of the closing bell on Monday.
+- question: Can I save my own view for the Yahoo Finance stock screener?
+  answer: Yes, if you are using the Yahoo Applied Filters for Stocks screener, you
+    can bookmark your own heat map view.
+- question: What are the specific sector and industry filters mentioned for the screener?
+  answer: The sector filter is set to Technology, and it includes a broad range of
+    industries such as Software—Infrastructure, Information Technology Services, Computer
+    Hardware, Software—Application, Communication Equipment, Electronics & Computer
+    Distribution, Consumer Electronics, Electronic Components, Scientific & Technical
+    Instruments, Semiconductor Equipment & Materials, and Semiconductors.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

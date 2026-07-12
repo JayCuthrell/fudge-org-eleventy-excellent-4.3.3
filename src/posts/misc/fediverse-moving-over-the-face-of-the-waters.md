@@ -2,8 +2,22 @@
 title: "Fediverse Moving over the Face of the Waters"
 description: ''
 date: 2022-12-03 21:21:49.425681+00:00
+faq:
+- question: Why is the author moving their newsletter from Substack to Buttondown?
+  answer: The author decided to switch to Buttondown because Substack's default sharing
+    links were not using their custom domain, leading them to reconsider the platform
+    and seek a more simplified, self-managed solution.
+- question: What steps were involved in migrating the newsletter to Buttondown?
+  answer: The migration process included exporting posts and subscriber data from
+    Substack, importing that data into Buttondown, purchasing a Buttondown Standard
+    subscription, updating DNS settings for their custom domain, and customizing the
+    newsletter settings.
+- question: How did the author transition from Twitter to Mastodon?
+  answer: The author set up a single-user Mastodon instance on their own domain using
+    a Linode VPS. They used Fedifinder to export their Twitter followers and lists,
+    imported that data into Mastodon, and updated their profile to reflect their new
+    Mastodon handle.
 ---
-
 This is an early edition of Fudge Sunday where we we take a look at moving a newsletter from Substack to Buttondown and from Twitter to Mastodon.
 
 Music: [\*Moby - "God Moving over the Face of the Waters" (1995)\*](https://www.youtube.com/watch?v=UMfn7KXdPQQ)

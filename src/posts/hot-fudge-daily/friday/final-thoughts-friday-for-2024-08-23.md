@@ -3,9 +3,22 @@ title: "✅ Final Thoughts Friday for 2024-08-23"
 permalink: "/archive/final-thoughts-friday-for-2024-08-23/"
 description: "Tech events, thankfulness, and big tech stories covered in this edition."
 date: 2024-08-24 00:20:22.592482+00:00
+faq:
+- question: What events is the author committed to attending for the remainder of
+    2024?
+  answer: The author is attending AI Field Day 5 (September 11-13), Monktoberfest
+    (October 2-4), Cloud Field Day 21 (October 23-25), and All Things Open (October
+    27-29).
+- question: What is the author's perspective on the AMD and ZT merger?
+  answer: The author believes the merger makes sense given the large volume of chips
+    required for hyperscale cloud service provider data centers and notes that we
+    should expect more mergers and acquisitions as companies pursue moats and vertical
+    integration.
+- question: How does the author view the delay in the Microsoft Recall rollout?
+  answer: The author believes the delay makes sense due to general security concerns
+    with Microsoft and suggests that it provides a necessary window for systems and
+    devices to be upgraded to handle the workload demands of Microsoft Recall.
 ---
-
-
 As a reminder, I’ve committed to four events for the remainder of this year.
 
 - [AI Field Day 5](https://techfieldday.com/event/aifd5/) in Silicon Valley September 11-13, 2024 for [Tech Field Day](https://techfieldday.com/events/)

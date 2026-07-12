@@ -3,8 +3,15 @@ title: "📈 Markets Monday for 2025-09-08"
 permalink: "/archive/markets-monday-for-2025-09-08/"
 description: "Updating my screener with ALAB and APP leading the way"
 date: 2025-09-08
+faq:
+- question: Which company listed in the screener experienced the highest percentage
+    change?
+  answer: Astera Labs Inc (ALAB) experienced the highest percentage change at +11.52%.
+- question: How many companies are listed in the provided screener data?
+  answer: There are 7 companies listed in the screener.
+- question: What is the percentage change for Gitlab Inc?
+  answer: Gitlab Inc (GTLB) had a percentage change of +4.51%.
 ---
-
 And my screener gets a bit closer...
 
 | Symbol | Company Name | % Change |

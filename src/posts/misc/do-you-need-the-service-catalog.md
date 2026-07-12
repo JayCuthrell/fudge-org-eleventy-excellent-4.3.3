@@ -2,10 +2,24 @@
 title: "Do You Need The Service Catalog?"
 description: ''
 date: 2023-05-21 23:16:18.709000+00:00
+faq:
+- question: What is a service catalog in the context of developer experience?
+  answer: A service catalog is an exhaustively curated, self-service list of developer-empowering
+    capabilities that is easily discovered, accessed, and consumed as a foundational
+    part of developer experience, often supported by an internal developer platform
+    or developer portal.
+- question: How does a software team-specific service catalog differ from a traditional
+    IT service catalog?
+  answer: While a traditional IT service catalog is typically a portal for end users
+    to request common services like hardware, software licenses, or technical support,
+    a software team-specific service catalog is tailored to the unique needs of application
+    developers, which is increasingly important as businesses embrace digital transformation.
+- question: What factors determine the look and feel of a developer portal or service
+    catalog?
+  answer: The look and feel of a developer portal or service catalog ultimately depends
+    on the specific needs of the developers it serves and how effectively the platform
+    engineering team presents the curated elements.
 ---
-
- 
-
 Music: [Tubeway Army - Do You Need The Service? (1979)](https://www.youtube.com/watch?v=1XjhHxd-6S0)
 
 This week we take a look at service catalog frameworks, the internal developer platform (IDP), and developer experience (DevX).

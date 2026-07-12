@@ -3,10 +3,20 @@ title: "🔥 Hot Takes Tuesday for 2024-10-22"
 permalink: "/archive/hot-takes-tuesday-for-2024-10-22/"
 description: "Exploring how AI could transform farming diversity and accelerate cancer treatment innovations!"
 date: 2024-10-23 04:07:24.755910+00:00
+faq:
+- question: How might the use of AI and robotics impact weed management in agriculture?
+  answer: The use of robotics directed by AI and machine learning could potentially
+    eliminate or significantly diminish the need for chemical weed killers in farming.
+- question: Could AI-driven weeding technology change the structure of the farming
+    industry?
+  answer: There is a question of whether such technology will favor well-capitalized
+    industrial farming operations or if it will make it more practical for smaller,
+    more diverse farms to succeed.
+- question: Can the combination of AI and wet lab science improve pharmaceutical development?
+  answer: Yes, applying AI and wet lab science in equal measure may shorten the innovation
+    timeline and lead to a safer, faster time to market for small molecule inhibitors
+    used in cancer treatment.
 ---
-
-
-
 Two hot takes on the two stories caught my eye on Tuesday.
 
 💰 + 🥬 If (big if?) robots can be directed by CV/AI/ML to do the weeding, will it change farm labor to favor well capitalized industrial farming? Or, would this provide the ability for more farms with greater diversity to be practical? If so, does this mean the need for weed killing chemicals in agriculture diminishes or goes away?

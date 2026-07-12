@@ -3,8 +3,18 @@ date: 2019-05-13 00:00:00+00:00
 description: ''
 permalink: /archive/internet-of-things-have-changed/
 title: Internet of Things Have Changed
+faq:
+- question: Was Nest the first company to produce a WiFi-enabled smart thermostat?
+  answer: No, Nest was not the first. The article notes that Ecobee released a WiFi-enabled
+    smart thermostat in 2009, two years before Nest arrived in 2011.
+- question: When did Google acquire Nest?
+  answer: Google purchased Nest in 2014 for $3.2 billion.
+- question: What advice does the author give regarding home automation investments?
+  answer: The author suggests that home automation should only be pursued if you have
+    money to burn and do not view it as a long-term investment. If you do plan for
+    the long term, the author emphasizes the importance of documenting everything
+    so the operating manual is easy to find and apply for those who follow you.
 ---
-
 The past few days have been confusing and frustrating for home automation enthusiasts that made investments in Nest products. How did we get here?This week we take a look at Nest.
 
 

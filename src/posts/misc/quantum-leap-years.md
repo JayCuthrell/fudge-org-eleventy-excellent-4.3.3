@@ -4,8 +4,27 @@ description: 'Rising interest in quantum computing'
 permalink: /archive/quantum-leap-years/
 title: Quantum Leap Years
 tags: [quantum]
+faq:
+- question: How has public interest in quantum computing evolved over time?
+  answer: The topic of quantum computing has steadily moved towards the realm of popular
+    science, with recognition on the rise. While Google Trends indicate that interest
+    has risen and fallen, there has been a steady uptick in searches. In just over
+    15 years, the interest has risen to the level of demand for summaries targeting
+    CIOs.
+- question: Where was quantum computing positioned on Gartner's Hype Cycle around
+    2000?
+  answer: Almost 20 years ago, Gartner placed quantum computing on their hype cycle.
+    On the Gartner Hype Cycle for 2000, quantum computing was situated on the far
+    far left, in contrast to many other entries that are now commonplace.
+- question: What are the distinct strategic goals for quantum computing in the US
+    and Europe?
+  answer: In the US, the race to be a leader in quantum computing solidified with
+    the National Quantum Initiative Act being signed into law and AWS telegraphing
+    potential plans. In Europe, initiatives aim to harness quantum computing for purposes
+    that will challenge nation state surveillance actors and the platform implications
+    for global consumer advertising juggernauts, with potential far-reaching implications
+    for privacy and B2C aggregation.
 ---
-
 The topic of [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) has steadily moved towards the realm of popular science. As with many other topics within popular science, wider audiences will have varying degrees of awareness and depth – but recognition is certainly on the rise.
 
 Let’s get the TV reference out of the way…

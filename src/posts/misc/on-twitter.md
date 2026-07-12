@@ -3,9 +3,18 @@ date: 2017-06-24 12:42:00+00:00
 description: ''
 permalink: /archive/on-twitter/
 title: On Twitter
+faq:
+- question: What did the author do with their primary Twitter output from 2007?
+  answer: The author reset almost all of their primary Twitter output that dated back
+    to 2007.
+- question: Why did the author create archives of their Twitter data?
+  answer: The author created archives to revisit prior analysis and to overcome limitations
+    on web access related to Twitter's rate limits.
+- question: What tool did the author use to analyze their Twitter archives in the
+    most recent attempt?
+  answer: The author used a Python example found on GitHub titled twitter-archive-analysis
+    by dangoldin.
 ---
-
-
 A few days ago I reset almost all of my primary Twitter output since 2007.
 
 First, I made archives to revisit some prior analysis.

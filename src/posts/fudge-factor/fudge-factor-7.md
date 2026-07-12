@@ -3,6 +3,18 @@ title: "Fudge Factor: Holiday Updates"
 description: 'Edition 7 of my new newsletter'
 date: 2024-11-30
 tags: [Fudge Factor]
+faq:
+- question: What technical updates are being made to the newsletter website?
+  answer: The author recently upgraded to the latest Eleventy Excellent, addressed
+    Netlify build limit errors by adding a build option, and plans to focus on build
+    time optimization, automation updates via Activepieces, and newsletter functionality
+    improvements via Buttondown.
+- question: Will the author be attending AWS re:Invent 2024?
+  answer: No, the author will not be attending AWS re:Invent, but their peers from
+    NexusTek will be there and are available to connect.
+- question: Which conference does the author plan to attend in December 2024?
+  answer: The author is attending the Gartner IT Infrastructure, Operations & Cloud
+    Strategies Conference from December 9-12, 2024.
 ---
 This is Edition 7 of my [newest](/topics/fudge-factor) newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 

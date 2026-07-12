@@ -3,9 +3,18 @@ title: "✅ Final Thoughts Friday for 2024-08-30"
 permalink: "/archive/final-thoughts-friday-for-2024-08-30/"
 description: "I&#39;ve got a jam-packed schedule with tech events, thankful for client work, and reflecting on big tech stories of the week."
 date: 2024-08-31 02:09:39.493953+00:00
+faq:
+- question: How many events has the author committed to attending for the remainder
+    of the year?
+  answer: The author has committed to four events for the remainder of the year.
+- question: What is the author's current daily driver smartphone?
+  answer: The author's current daily driver is an iPhone 13 mini.
+- question: What does the author note regarding the recent SD-WAN zero-day exploit?
+  answer: The author notes that the exploit highlights how increased connectivity
+    makes it easier for bad actors to have a global impact, drawing a parallel to
+    how security features were often ignored or disabled in early digital phone switching
+    infrastructure.
 ---
-
-
 As a reminder, I’ve committed to four events for the remainder of this year.
 
 - [AI Field Day 5](https://techfieldday.com/event/aifd5/) in Silicon Valley September 11-13, 2024 for [Tech Field Day](https://techfieldday.com/events/)

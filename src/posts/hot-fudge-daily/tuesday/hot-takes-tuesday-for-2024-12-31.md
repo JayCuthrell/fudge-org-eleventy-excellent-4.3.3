@@ -3,9 +3,15 @@ title: "🔥 Hot Takes Tuesday for 2024-12-31"
 permalink: "/archive/hot-takes-tuesday-for-2024-12-31/"
 description: "Two hot takes on success, trust, and a strategic business partnership."
 date: 2025-01-01 03:07:07.168685+00:00
+faq:
+- question: How does the author define the demonstration of success?
+  answer: The author states that success is demonstrated by being spammed.
+- question: What does the author believe demonstrates trust?
+  answer: Trust is demonstrated by being exploited.
+- question: What is the author's perspective on the combination of WWT and Softchoice?
+  answer: The author suggests that the combination was inevitable and primarily motivated
+    by financial reasons, noting there is no why beyond making good dollars and sense.
 ---
-
-
 Two hot takes on stories that caught my eye on Tuesday.
 
 ⭐ + ⚠️ Success is demonstrated by being spammed. Trust is demonstrated by being exploited.

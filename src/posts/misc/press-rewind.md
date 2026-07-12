@@ -2,10 +2,20 @@
 title: "Press Rewind"
 description: ''
 date: 2023-04-24 00:40:18.394696+00:00
+faq:
+- question: What is the focus of this week's Fudge Sunday issue?
+  answer: This week's issue focuses on recent updates in software supply chain security
+    and the ability to effectively 'press rewind' when security issues occur.
+- question: How does the author characterize the flexibility of VoIP office phones?
+  answer: The author notes that while VoIP phones offer software-definable characteristics
+    and flexibility based on embedded Linux, this same flexibility allows for unintended
+    uses, such as running games like Doom on a desk phone.
+- question: Beyond tools, what does the author emphasize is necessary for software
+    supply chain security?
+  answer: The author emphasizes that software supply chain security requires more
+    than just tools scanning tools; it also requires the involvement of people, processes,
+    and community knowledge sharing.
 ---
-
- 
-
 Music: [Del the Funky Homosapien - Press Rewind (2000)](https://www.youtube.com/watch?v=Y9lWPxI2zCc)
 
 This week we take at recent updates in software supply chain security that may provide an ability to press rewind.

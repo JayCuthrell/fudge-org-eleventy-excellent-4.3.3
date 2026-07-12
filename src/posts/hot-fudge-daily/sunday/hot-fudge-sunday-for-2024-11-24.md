@@ -3,13 +3,17 @@ title: "🌶️ Hot Fudge Sunday for 2024-11-24"
 permalink: "/archive/hot-fudge-sunday-for-2024-11-24/"
 description: "Excited to share my new role at NexusTek and recap this week&#39;s market insights and hot takes!"
 date: 2024-11-24 21:20:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter in a single, easy-to-reach URL.
+- question: What new professional role did the author announce?
+  answer: The author announced their new role as the Chief Product Officer at NexusTek.
+- question: How does the author curate the content for 'Wacky Wednesday'?
+  answer: For Wacky Wednesday, the author reviews dozens of Slack communities and
+    selects the most interesting shared links, ensuring the list remains safe for
+    work.
 ---
-
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

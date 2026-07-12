@@ -3,8 +3,20 @@ date: 2021-04-10 00:00:00+00:00
 description: ''
 permalink: /archive/multicloud-march/
 title: Multicloud March
+faq:
+- question: What is the author's opinion regarding the current state of multicloud
+    interoperability?
+  answer: The author believes that achieving a uniformly multicloud experience is
+    currently challenging due to differences in cloud service provider networking
+    features, pricing, and the difficulty of using the same IP range across multiple
+    providers.
+- question: How does the author characterize cloud egress fees?
+  answer: The author compares cloud egress fees to the long-distance charges of the
+    1990s and predicts that they will eventually become completely unjustifiable.
+- question: Which cloud service provider was the first to offer 100 Gbps connectivity?
+  answer: According to the post, Microsoft Azure was the first to offer 100 Gbps connectivity,
+    followed by Google Cloud Platform in 2019, and then AWS in 2021.
 ---
-
 Time flies. This is a reflection on one of the many things I’ve learned about as of March 2021 since [my first day at Faction](https://fudge.org/archive/cloud-data-services-ahead).
 
 Basically, in this post I wanted to capture some thoughts over the past 90 days (technically 117). While I have more thoughts that are topical, I’ll use this post to reflect on multicloud and the march towards multicloud… in March. Ah, wordplay.

@@ -4,8 +4,18 @@ description: 'VCE year 8'
 date: 2018-10-08 00:00:00+00:00
 permalink: /archive/my-eighth-year-at-vce/
 tags: [VCE and Dell]
+faq:
+- question: How long has the author been with Dell?
+  answer: As of the October update described in the post, the author has been with
+    Dell for eight years.
+- question: What change did the author make regarding their work travel in January?
+  answer: In January, the author stopped traveling frequently for work and enrolled
+    in flexible work programs, allowing them to work without commuting into a traditional
+    office.
+- question: What is the author's current status regarding social media profiles?
+  answer: The author is no longer active on Twitter, has removed their LinkedIn profile,
+    and is focusing on their personal website as the primary source for updates.
 ---
-
 The traditional one year blog post continues. The year since my last work related update would best be described as a time of great changes.
 
 Years of Service

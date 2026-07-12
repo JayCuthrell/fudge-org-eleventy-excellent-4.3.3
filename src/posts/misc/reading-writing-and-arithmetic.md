@@ -3,8 +3,17 @@ date: 2022-09-19 00:17:18.689000+00:00
 description: ''
 permalink: /archive/reading-writing-and-arithmetic/
 title: Reading, Writing, and Arithmetic
+faq:
+- question: Why did the author originally decide to pay for YouTube Premium?
+  answer: The author initially decided to pay for YouTube Premium primarily to avoid
+    the annoyance of advertising.
+- question: What is the focus of Cassie Kozyrkov's YouTube content?
+  answer: Cassie Kozyrkov hosts 'Making Friends with Machine Learning,' which consists
+    of over 100 episodes providing over 6 hours of learning about machine learning.
+- question: What kind of content does the Rawkode channel provide?
+  answer: Rawkode features over 100 hands-on videos covering a variety of open-source
+    cloud-native topics, ranging from Kubernetes fundamentals to DevSpace.
 ---
-
 Getting Informed
 ================
 

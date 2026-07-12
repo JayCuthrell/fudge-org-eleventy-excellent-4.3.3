@@ -3,8 +3,19 @@ title: "✅ Final Thoughts Friday for 2025-11-28"
 permalink: "/archive/final-thoughts-friday-for-2025-11-28/"
 description: "Google TPU custom silicon and value chain implications"
 date: 2025-11-28
+faq:
+- question: What is Google's new strategy regarding its custom silicon?
+  answer: Google is attempting to turn its custom silicon advantage into an external
+    revenue stream by pitching TPUs directly to large customers and rivals like Meta.
+- question: How might Google's move impact NVIDIA?
+  answer: Google's initiative is potentially disrupting NVIDIA's pseudo-monopoly gross
+    margins by offering a competitive alternative to their hardware.
+- question: Why does the author suggest NVIDIA is using a 'delighted' tone in its
+    PR?
+  answer: The author suggests NVIDIA's PR tone may be a subtle attempt to preemptively
+    address future government regulatory concerns regarding value chain vertical integration
+    and antitrust M&A approvals.
 ---
-
 The story that caught my eye this week was an audacious attempt by [Google to turn its custom silicon advantage into an external revenue stream](https://www.techmeme.com/251124/p41#a251124p41). By pitching [TPUs](https://techstrong.ai/aiops/ai-infrastructure-gets-googleier/) directly to the largest customers AND rivals like Meta, Google is potentially disrupting NVIDIA's pseudo-monopoly gross margins.
 
 As for why this caught my eye, [NVIDIA's defensive "delighted" PR message](https://www.techmeme.com/251125/p32#a251125p32) was worded in a very "happy for you" meme way and the [reactions from the community](https://www.techmeme.com/251128/p21#a251128p21) have been [fascinating](https://www.techmeme.com/251128/p11#a251128p11). But, by way of analogy, if [David Bar can buy up EPG](https://www.youtube.com/watch?v=5UzDx3moasw&t=758s), then perhaps [NVIDIA can buy up HBM](https://fudge.org/archive/throwback-thursday-for-2024-07-04/).

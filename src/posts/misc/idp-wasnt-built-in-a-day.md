@@ -2,10 +2,23 @@
 title: "IDP Wasn't Built in a Day"
 description: ''
 date: 2023-02-26 23:11:01.879659+00:00
+faq:
+- question: What is an Internal Developer Platform (IDP) in the context of platform
+    engineering?
+  answer: An Internal Developer Platform (IDP) is defined as a uniquely custom stack
+    or toolchain, which is supported by a platform team.
+- question: What similarity does the author identify between platform engineering
+    and RevOps/DataOps teams?
+  answer: The author notes that both platform engineering teams and RevOps/DataOps
+    teams must maintain and streamline pipelines—CI/CD pipelines for platform engineering
+    and data pipelines for GTM teams—to increase productivity and improve operations.
+- question: What risk does the author highlight regarding manually intensive pipelines
+    in GTM teams?
+  answer: The author points out that relying on manually intensive pipelines leads
+    to 'single-point-of-vacation-failure' engineers. When key team members depart,
+    these precarious, undocumented heroic pipelines fail, causing the organization
+    to suffer from revenue losses and wasted opportunity costs.
 ---
-
-  
-
 Music: [Morcheeba - Rome Wasn't Built in a Day (2000)](https://www.youtube.com/watch?v=FLGJXbl6g8o)
 
 This week we look at similarities in platform engineering, data operations (DataOps), and revenue operations (RevOps) teams.

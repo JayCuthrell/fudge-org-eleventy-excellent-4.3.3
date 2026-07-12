@@ -3,9 +3,15 @@ title: "🔥 Hot Takes Tuesday for 2024-11-26"
 permalink: "/archive/hot-takes-tuesday-for-2024-11-26/"
 description: "I highlight two exciting funding rounds for Cradle and Halcyon, plus a thought-provoking Bluesky thread."
 date: 2024-11-27 01:23:13.017164+00:00
+faq:
+- question: How much funding did Cradle raise in their Series B round?
+  answer: Cradle raised $73 million in their Series B round.
+- question: What is the potential impact of Cradle's recent funding?
+  answer: The funding may assist in the creation of an open-source Next-Generation
+    Sequencing (NGS) dataset for antibody binders.
+- question: How much funding did Halcyon secure in their Series C?
+  answer: Halcyon secured $100 million in their Series C round.
 ---
-
-
 Two hot takes on the two stories caught my eye on Tuesday from companies both started in the ancient times of 2021.
 
 🧬 + 🤖 Seeing a company like [Cradle](https://www.cradle.bio/) take $73M Series B is amazing and the funding may assist the creation of an [open-source Next-Generation Sequencing (NGS) dataset for antibody binders](https://www.cradle.bio/blog/antibody-ngs-data-initiative).

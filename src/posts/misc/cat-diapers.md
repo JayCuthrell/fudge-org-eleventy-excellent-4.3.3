@@ -3,8 +3,20 @@ date: 2005-02-12 16:44:44+00:00
 description: ''
 permalink: /archive/cat-diapers/
 title: Cat Diapers
+faq:
+- question: How should pet fecal matter be disposed of in Raleigh?
+  answer: According to the city's waste department, fecal matter should be removed
+    from litter or diapers and flushed down the toilet so it can be properly treated
+    by the sewage plant.
+- question: Does the City of Raleigh allow pet waste or loose cat litter to be placed
+    in the regular garbage cart?
+  answer: No, the city advises against putting loose cat litter or animal waste in
+    the garbage, noting that disposable diapers and animal litter should be free of
+    fecal matter and enclosed in a plastic bag before being placed in a garbage cart.
+- question: What is the purpose of the LitterLocker product mentioned in the post?
+  answer: The LitterLocker is marketed as a product that allows pet owners to scoop
+    and sift waste from a litter box and store it in a container for disposal.
 ---
-
 I was trying to figure out where cat poop goes. *Yes, this is my life.*
 
 So, as I live in Raleigh I asked the waste folks (they have email) the question:

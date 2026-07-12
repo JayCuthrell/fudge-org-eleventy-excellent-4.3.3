@@ -3,9 +3,23 @@ date: 2022-10-31 00:28:41.312000+00:00
 description: ''
 permalink: /archive/cadillac-webassembly-line/
 title: Cadillac WebAssembly Line
+faq:
+- question: What is WebAssembly (Wasm) and what is an example of its capability mentioned
+    in the post?
+  answer: WebAssembly (Wasm) refers to ubiquitous stack-based virtual machines. An
+    example of its capability is being able to run a late 1990s classic game like
+    Diablo in a Safari browser, even from a low-end Linux or Apple laptop.
+- question: Who is identified as a central figure in driving the web industry towards
+    ubiquitous stack-based virtual machines, and what was their vision?
+  answer: Sundar Pichai, now the CEO of Alphabet, is identified as that central figure.
+    Ten years ago, as an executive at Google, he envisioned a future where a web browser
+    would be sufficient to run any application anywhere on very low-cost computing
+    devices.
+- question: What speculative use cases for WebAssembly were discussed around 2016?
+  answer: Around 2016, speculative use cases for WebAssembly were categorized into
+    computationally expensive number crunching (like games, media, and data) and server-side
+    pre-processing of what was previously client-side processing.
 ---
-
-
 *[Albert King - “Cadillac Assembly Line” (1980)](https://www.youtube.com/watch?v=7bdtuOJycFQ)*
 
 Getting Informed

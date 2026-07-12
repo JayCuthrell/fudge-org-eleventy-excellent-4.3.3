@@ -2,11 +2,20 @@
 title: "AI Feel You"
 description: 'A look at recent updates to A.I., platform engineering, and DevX'
 date: 2023-07-23 20:36:29.885430+00:00
+faq:
+- question: What is the price point established by Microsoft for the Microsoft 365
+    Copilot AI tool?
+  answer: Microsoft set a price point of $30 per user per month for the Microsoft
+    365 Copilot AI tool.
+- question: What are some of the 'first' slogans mentioned in the post that have historically
+    captured the zeitgeist of technological focus?
+  answer: Examples include Design-first, Web-first, Mobile-first, API-first, Cloud-first,
+    Security-first, Privacy-first, AI-first, and Women-and-Children-first.
+- question: What broader educational shift does the post suggest will occur alongside
+    the rise of AI?
+  answer: The post suggests that education will expand beyond the traditional focus
+    on reading, writing, and arithmetic to include AI prompting.
 ---
-
- 
-
-
 This week's musical inspiration in title and lyrics:
 
 [https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy?si=0b18b7171314483d](https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy?si=0b18b7171314483d)

@@ -3,11 +3,14 @@ title: "Hot Takes Tuesday"
 permalink: "/archive/hot-takes-tuesday/"
 description: "Off the cuff analysis in a rapid fire format."
 date: 2024-06-05 02:30:21.468419+00:00
+faq:
+- question: How much funding did Pika raise?
+  answer: Pika raised $80 million.
+- question: What is the primary function of Cohere according to the newsletter?
+  answer: Cohere builds large language models.
+- question: Which company is Databricks planning to acquire for over $1 billion?
+  answer: Databricks is planning to acquire Tabular for over $1 billion.
 ---
-
-
-
-
 Want more? 🤓
 
 # Hot Takes Tuesday

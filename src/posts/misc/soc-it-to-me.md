@@ -3,9 +3,22 @@ date: 2022-09-11 17:09:09.150000+00:00
 description: ''
 permalink: /archive/soc-it-to-me/
 title: SoC It To Me
+faq:
+- question: What are the three different definitions of the acronym 'SoC' provided
+    in the text?
+  answer: In the context of the text, SoC stands for 'separation of concerns' in computer
+    science, 'system on a chip' in computer hardware design, and 'security operations
+    center' regarding organizational protection.
+- question: What historical change occurred in mining in 1986 regarding the use of
+    canaries?
+  answer: In 1986, the mining industry ended the practice of using live canaries to
+    detect toxic gases, replacing them with electronic sensors known as 'electronic
+    noses.'
+- question: What is the author's outlook on the future of security operations centers?
+  answer: The author suggests that future security operations centers will increasingly
+    rely on human-machine partnerships, automation, and convergence to effectively
+    correlate events and signal necessary actions.
 ---
-
-
 Getting Informed
 ================
 

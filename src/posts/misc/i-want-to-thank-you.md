@@ -3,8 +3,15 @@ date: 2022-11-20 23:08:32.658000+00:00
 description: A recap and a thank you
 permalink: /archive/i-want-to-thank-you/
 title: I Want To Thank You
+faq:
+- question: How long has the author been writing on Substack?
+  answer: The author has been writing on Substack for five months.
+- question: Where do the majority of the author's new subscribers come from?
+  answer: 60% of new subscribers come from Substack platform features.
+- question: What is the author's stated goal for the content in their newsletter?
+  answer: The author strives to bring education, utility, a sprinkle of humor, and
+    humility to the newsletter.
 ---
-
 *[Natalie Merchant - Kind and Generous (1998)](https://www.youtube.com/watch?v=uAwyIad93-c)*
 
 Getting Informed

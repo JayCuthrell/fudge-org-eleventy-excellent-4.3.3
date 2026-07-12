@@ -2,10 +2,19 @@
 title: "GitOps Down On It"
 description: ''
 date: 2023-06-11 21:00:04.076725+00:00
+faq:
+- question: What two topics are explored in this blog post?
+  answer: The blog post focuses on GitOps and the current limits of Generative AI.
+- question: What was the author's experience when using Google Bard to find learning
+    resources for GitOps?
+  answer: The author found that while the results initially seemed promising, the
+    actual links were often outdated, broken, or lacked direct sources, leading the
+    author to conclude that further research into Google Bard's results is necessary.
+- question: What rhetorical devices did the author experiment with to describe GitOps?
+  answer: The author attempted to use antimetabole and chiasmus to create wordplay
+    describing GitOps, inspired by the military phrase 'slow is smooth and smooth
+    is fast'.
 ---
-
- 
-
 Music: [Kool & The Gang - "Get Down On It" (1981)](https://www.youtube.com/watch?v=qchPLaiKocI)
 
 This week we take a look (again) at GitOps and the limits of Generative AI.

@@ -4,8 +4,17 @@ permalink: "/archive/markets-monday-for-2025-10-06/"
 description: "AI, chips, quantum, comms, and digital currency"
 date: 2025-10-06
 tags: [quantum]
+faq:
+- question: Which company experienced the highest percentage change in the market
+    on Monday?
+  answer: Advanced Micro Devices Inc (AMD) experienced the highest percentage change
+    at +19.16%.
+- question: What sectors were highlighted as seeing market movement on Monday?
+  answer: The sectors mentioned are AI, chips, quantum, communications, and digital
+    currency.
+- question: What was the percentage change for IREN Ltd?
+  answer: IREN Ltd saw a percentage change of +12.62%.
 ---
-
 🤖 🍪 🛰️ ₿ On Monday, the market moved once again for all things AI, chips, quantum, communications, and digital currency.
 
 | Symbol | Company Name | % Change |

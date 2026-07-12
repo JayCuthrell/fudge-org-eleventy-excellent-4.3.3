@@ -2,8 +2,17 @@
 title: "Networks, Security, and an Easier EV"
 description: "A look at the past, present, and future of eBPF and an easier EV experience"
 date: 2023-12-24
+faq:
+- question: What is the format of the 'Shot and Chaser' segments used in the blog?
+  answer: The format involves calling back to prior topics or links and comparing
+    them to a more recent or current link for the week.
+- question: Which company did Cisco recently acquire, as noted in the 'Chaser' section?
+  answer: Cisco acquired Isovalent, a company known for the creation of Cilium Tetragon.
+- question: What two standards does the author suggest keeping an eye on to potentially
+    improve the EV recharging experience?
+  answer: The author identifies the Open Charge Point Protocol (OCPP) version 2.1
+    and IEC 61850 as two standards to watch for making EV recharging easier.
 ---
-
 Next week will be my zettelkasten end of year for 2023. As a reminder, the format will follow my [zettelkasten end of year for 2022](https://fudge.org/archive/zettelkasten-end-of-year-for-2022/). 
 
 This week it is time for another Shot and Chaser. Essentially, the format is a callback to prior topics, links, etc. for an issue which is then compared to a more recent or current link for the week.

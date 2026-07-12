@@ -2,6 +2,17 @@
 title: "ESTEEM is STEM plus Ethics plus Empathy"
 description: 'STEM + Ethics + Empathy = ESTEEM'
 date: 2014-01-20
+faq:
+- question: What does STEM stand for, according to the blog post?
+  answer: STEM is the backronym associated with educational pursuits in the areas
+    of Science, Technology, Engineering, and Mathematics.
+- question: What new backronym does the author propose and what does it stand for?
+  answer: The author proposes ESTEEM, which stands for Ethics, Science, Technology,
+    Engineering, Empathy, and Mathematics.
+- question: Based on the author's college experience, what is the difference between
+    science and technology?
+  answer: The author learned that science is that which explains and predicts, whereas
+    technology is the response to a perceived need.
 ---
 ![High School Science Student Honors Program Argonne National Laboratory Summer 1990](/assets/images/screenshots/2024-06-04-15-39-36.png)
 

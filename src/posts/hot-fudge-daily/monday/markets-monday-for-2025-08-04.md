@@ -3,8 +3,17 @@ title: "📈 Markets Monday for 2025-08-04"
 permalink: "/archive/markets-monday-for-2025-08-04/"
 description: "Initial Fudge Factor screener for VSAT, QNTM, ARQQ, CABO, GTLB, RBRK, XPEL, and VCEL."
 date: 2025-08-04
+faq:
+- question: What does the provided table represent?
+  answer: The table represents a list of companies with their respective stock symbols
+    and the percentage change in their stock price from Monday's close compared to
+    Friday's close.
+- question: Which company showed the highest percentage change in the list?
+  answer: Viasat Inc (VSAT) showed the highest percentage change at 18.24%.
+- question: What is the author's opinion on this screener?
+  answer: The author is not yet happy with the screener but felt it was the right
+    time to start the project.
 ---
-
 My first attempt at a screener. I'm not happy with it yet, but it was time to start somewhere:
 
 | Symbol | Company Name | % Change (Mon Close vs. Fri Close) |

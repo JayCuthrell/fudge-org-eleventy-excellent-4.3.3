@@ -3,9 +3,20 @@ date: 2017-07-08 00:00:00+00:00
 description: Of Tommy Boy and Simon Wardley
 permalink: /archive/a-new-map/
 title: A New Map
+faq:
+- question: Who is the speaker of the OSCON 2015 keynote talk titled 'Situation Normal,
+    Everything Must Change'?
+  answer: The speaker is Simon Wardley.
+- question: According to the blog post, why is it important to remember that a map
+    is not a static concept?
+  answer: The post notes that when creating a map, there is a tendency to forget about
+    position, movement, and time in transit, so it is necessary to constantly remind
+    yourself and your peers that a map is not a static or exhaustive treatment of
+    a concept.
+- question: What movie does the author reference to illustrate the point that sometimes
+    one needs to get a new map?
+  answer: The author references the 1995 movie 'Tommy Boy'.
 ---
-
-
 Perhaps you’ve heard a phrase regarding conscious choice and decisive action.
 
 Perhaps, in the days before maps were built into your mobile phone you found yourself going somewhere and wondered why you didn’t bring a map.

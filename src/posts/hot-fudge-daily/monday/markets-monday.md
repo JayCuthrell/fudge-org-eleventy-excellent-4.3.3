@@ -3,11 +3,17 @@ title: "Markets Monday"
 permalink: "/archive/markets-monday/"
 description: "Analyzing the past and future of the tech market in Markets Monday."
 date: 2024-06-10 19:48:41.664143+00:00
+faq:
+- question: What tools does the author use to analyze past tech market performance?
+  answer: The author uses Google Finance to compare 5-day market views with 5-year
+    views to understand relative bounds.
+- question: What sources are used to look at the tech market for the week ahead?
+  answer: The author typically utilizes tools like Yahoo Finance to view intraday
+    technology market data, including heat maps and tables.
+- question: When does the author plan to summarize their takes on Apple's WWDC event?
+  answer: The author plans to expand upon and summarize their Apple WWDC takes on
+    'Hot Takes Tuesday'.
 ---
-
-
-
-
 # Markets Monday
 
 Analyzing the past and future of the tech market in Markets Monday.

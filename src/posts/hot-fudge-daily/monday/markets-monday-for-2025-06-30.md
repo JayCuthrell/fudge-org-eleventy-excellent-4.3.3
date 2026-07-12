@@ -3,11 +3,14 @@ title: "📈 Markets Monday for 2025-06-30"
 permalink: "/archive/markets-monday-for-2025-06-30/"
 description: "Triple spicy week mergers and a dash of Quantumania!"
 date: 2025-06-30 22:11:09.954184+00:00
+faq:
+- question: What topics were covered in last week's post?
+  answer: Last week's post covered AI, space satellites, and AI-related networking.
+- question: What is the focus of this week's post?
+  answer: This week's post focuses on mergers and Quantumania.
+- question: What is the source provided for this week's content?
+  answer: The source provided is https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a.
 ---
-
-
-
-
 It’s triple the spicy this week.
 
 ### **Last**week

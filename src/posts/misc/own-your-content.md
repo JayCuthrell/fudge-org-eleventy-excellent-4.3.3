@@ -3,8 +3,22 @@ date: 2020-08-23 00:00:00+00:00
 description: ''
 permalink: /archive/own-your-content/
 title: Own Your Content
+faq:
+- question: How does the author analyze their traffic patterns?
+  answer: The author analyzes traffic patterns annually, typically approaching October,
+    by reviewing metrics across various platforms like LinkedIn, Twitter, and other
+    experimental services, acknowledging that each platform provides its own unique
+    set of tools and dashboards.
+- question: Why is it becoming more difficult to track referral information?
+  answer: Referral information is increasingly being deprecated because modern browsers
+    are prioritizing user privacy and their own ecosystems, making it necessary to
+    use unique URL tracking to gain insights into content trends.
+- question: What challenge does the author face regarding social media cards and content
+    previews?
+  answer: The author notes that social media card support and cache longevity frequently
+    change, meaning creators have little control over whether their shared content
+    previews correctly or at all on different platforms.
 ---
-
 Each year, I revisit where I publish and syndicate my content. Typically, an analysis of traffic patterns is done as October approaches. Analysis is performed across platforms such as LinkedIn, Twitter, and whatever experiment I’ve tried in the preceding months. Examples of experiments could include Medium or whatever invite code caught my attention for a newly launched social service.
 
 Each platform has a different tool or dashboard to present metrics. While almost all platforms provide tools, some tools are more mature than others. As one might expect, the platforms all seek to ensure the creator sees the most compelling metrics possible but statistical rigor and significance is likely caveat emptor.

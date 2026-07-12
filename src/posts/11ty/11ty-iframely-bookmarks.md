@@ -3,10 +3,19 @@ title: "11ty iFramely Bookmarks"
 description: "A look at bookmarks as a reading list presented using 11ty and iFramely"
 date: 2024-02-04
 tags: [11ty]
+faq:
+- question: What tool is the author using to test and create new unfurled link card
+    formats?
+  answer: The author is using iFramely to test and create new unfurled card formats
+    for their newsletter.
+- question: What steps did the author take to begin using iFramely?
+  answer: The author created a free account on iFramely, customized the available
+    card outputs, and manually tested various embedded results with their collection
+    of bookmarks.
+- question: Is the author planning to attend SxSW 2024?
+  answer: Yes, the author confirms they are attending SxSW 2024 and invites readers
+    to connect in person or view their published schedule picks.
 ---
-
-
-
 I'm truly enjoying [11ty](/topics/11ty/). I'm also looking to recapture some of the layout options I still miss from Revue (RIP) for unfurled cards the created flexible previews of embedded URLs within my newsletter.
 
 https://www.techmeme.com/221214/p28#a221214p28

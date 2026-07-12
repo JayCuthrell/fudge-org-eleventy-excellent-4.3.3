@@ -3,9 +3,23 @@ title: "✅ Final Thoughts Friday for 2024-09-20"
 permalink: "/archive/final-thoughts-friday-for-2024-09-20/"
 description: "Wrapping up AI Field Day 5 notes while exploring energy solutions for data centers."
 date: 2024-09-21 02:24:07.592976+00:00
+faq:
+- question: Which companies were featured in the author's delegate notes following
+    AI Field Day 5?
+  answer: The author's delegate notes cover Keysight, Integrail, Cisco, Vmware, Elastic,
+    Arista, and Enfabrica, as well as a Delegate Ignite Talk series and a Delegate
+    Roundtable.
+- question: What advice does the author provide to LinkedIn users in the United States
+    regarding AI settings?
+  answer: The author advises users to check their LinkedIn 'Data for AI improvement'
+    settings via the provided link to manage their data preferences.
+- question: What is the author's perspective on the role of nuclear power in addressing
+    data center energy needs?
+  answer: The author suggests that nuclear power, including small modular reactors
+    (SMRs), is a necessary solution for the significant energy demands of data centers,
+    noting that companies like Microsoft, AWS, Apple, and Meta are increasingly moving
+    toward nuclear-related power agreements.
 ---
-
-
 As of this update, [AI Field Day 5](https://techfieldday.com/event/aifd5/) for [Tech Field Day](https://techfieldday.com/events/) videos are posted and I am wrapping up publishing my delegate notes on Keysight, Integrail, Cisco, Vmware, Elastic, Arista, and Enfabrica *as well as* a Delegate Ignite Talk series and Delegate Roundtable.
 
 > I would like to give a HUGE shout out to the team that makes Tech Field Day possible and to Futurum Group as well the sponsoring companies for making the event possible. 🙏 🙏 🙏

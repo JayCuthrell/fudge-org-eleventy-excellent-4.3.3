@@ -3,9 +3,19 @@ title: "✅ Final Thoughts Friday for 2024-10-04"
 permalink: "/archive/final-thoughts-friday-for-2024-10-04/"
 description: "Travel hiccups, mind-blowing data stats, and a massive fundraising."
 date: 2024-10-05 05:26:02.949151+00:00
+faq:
+- question: What is the author currently working on regarding their recent travel
+    changes?
+  answer: The author is currently updating their AI Field Day 5 delegate notes, which
+    are currently in their drafts pile waiting to be published.
+- question: What analogy does the author use to describe 3.8 Terabits per second of
+    traffic?
+  answer: The author describes 3.8 Tbps as the equivalent of fully saturating a 32-port
+    100G Ethernet LAN switch while adding even more traffic on top, or sending two
+    dozen compressed text copies of Wikipedia every second.
+- question: Which company raised $500 million in a Series B round?
+  answer: The company Poolside raised $500 million in a Series B round.
 ---
-
-
 Travel changes this week mean I am still updating my [AI Field Day 5](https://techfieldday.com/event/aifd5/) delegate notes that sit in my drafts pile to be published. Due to the travel changes, I also missed out on Monktoberfest (again!) but I am thankful for the amazing organizers that helped me find a way to give back in my absence.
 
 Two big numbers stories that caught me eye this week:

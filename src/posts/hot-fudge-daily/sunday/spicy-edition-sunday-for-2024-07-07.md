@@ -3,12 +3,23 @@ title: "Spicy Edition Sunday for 2024-07-07"
 permalink: "/archive/spicy-edition-sunday-for-2024-07-07/"
 description: "This edition covers a range of topics from market insights to tech trends and upcoming events."
 date: 2024-07-07 16:00:00+00:00
+faq:
+- question: What changes are coming to the fudge.org website next month?
+  answer: Starting next month, fudge.org will function as a funnel to drive traffic
+    to the newsletter, which will feature automated sponsorship management. The author
+    plans to then reclaim the site for blogging purposes that are not easily adapted
+    to email.
+- question: Why is the author changing the location of their Friday coffee meetup?
+  answer: The author is moving the coffee meetup to a location called Cru because
+    their previous venue, The Vault, experienced issues with running out of coffee
+    cups and managing attendee volume.
+- question: What criteria does the author recommend for the Yahoo Finance screener
+    to track technology stocks?
+  answer: The author suggests filtering for companies in the Technology sector with
+    a price change greater than 4%, a market cap categorized as Mid, Large, or Mega,
+    a price of at least 5, and a volume greater than 15,000, specifically within the
+    United States.
 ---
-
-
-
-
-
 # Spicy Edition Sunday for 2024-07-07
 
 Welcome to 🌶️ Spicy Edition Sunday!

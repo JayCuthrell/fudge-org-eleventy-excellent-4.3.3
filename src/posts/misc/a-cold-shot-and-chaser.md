@@ -3,9 +3,21 @@ date: 2022-08-22 00:21:47.947000+00:00
 description: Looking back at prior coverage and predictions
 permalink: /archive/a-cold-shot-and-chaser/
 title: A Cold Shot and Chaser
+faq:
+- question: What is the 'shot and chaser' format used in the blog post?
+  answer: The 'shot and chaser' format is a technique where the author references
+    a prior topic, prediction, or link and compares it to a more recent or current
+    update to see how the subject has progressed.
+- question: How does the author describe the progression from data centers to wisdom
+    centers?
+  answer: 'The author defines the progression as: data centers < information centers
+    < knowledge centers < wisdom centers, noting that current technology has primarily
+    focused on data centers rather than the higher-level centers.'
+- question: What was the status of the author's prediction regarding Helium and FreedomFi?
+  answer: The author initially expressed hedged confidence in Helium and FreedomFi
+    in early 2022. While they later highlighted critical feedback regarding Helium's
+    revenue, they also noted that Nova Labs had subsequently acquired FreedomFi.
 ---
-
-
 *[Stevie Ray Vaughan & Double Trouble - Cold Shot (1984)](https://www.youtube.com/watch?v=oqBtVaLXPw0)*
 
 Getting Informed

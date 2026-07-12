@@ -3,11 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-04-13"
 permalink: "/archive/hot-fudge-sunday-for-2025-04-13/"
 description: "This week I reflect on my Job Search Council and celebrate network alumni finding new opportunities."
 date: 2025-04-13 20:10:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter, available in a single URL and published every
+    Sunday.
+- question: How does the author track stock market trends for Markets Monday?
+  answer: The author uses a specific set of applied filters on the Yahoo Finance stock
+    screener to generate a heat map view of the technology sector, focusing on mid-cap,
+    large-cap, and mega-cap companies in the United States.
+- question: What is the difference between Model Context Protocol (MCP) and Agent2Agent
+    (A2A) as described in the newsletter?
+  answer: The author describes MCP like chefs competing individually on a cooking
+    show with unique recipes, while A2A is described as those same chefs collaborating
+    as a team to create a better, more complete meal experience.
 ---
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 {{ subscribe_form }}

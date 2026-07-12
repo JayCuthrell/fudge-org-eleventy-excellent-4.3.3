@@ -3,9 +3,17 @@ title: "Final Thoughts Friday for 2024-06-28"
 permalink: "/archive/final-thoughts-friday-for-2024-06-28/"
 description: "Weekly events, community outreach, and content organization for my newsletters and blog."
 date: 2024-06-28 20:58:01.090917+00:00
+faq:
+- question: Where does the author normally work?
+  answer: The author normally works out of The Vault in Beaufort, NC, USA.
+- question: How will the author be using the fudge.org platform in the future?
+  answer: The author plans to collapse newsletter content into fudge.org for emails
+    only and reclaim the site as an advanced blogging platform that is not limited
+    to email.
+- question: What new feature is the author excited to start using from Buttondown?
+  answer: The author is excited to begin using the automated sponsorship features
+    provided by Buttondown.
 ---
-
-
 # Final Thoughts Friday for 2024-06-28
 
 Looking back at the week with an eye to the future.

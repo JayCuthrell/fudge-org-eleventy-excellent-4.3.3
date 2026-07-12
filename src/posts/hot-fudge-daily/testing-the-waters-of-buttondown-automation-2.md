@@ -3,10 +3,15 @@ title: "Testing the waters of Buttondown Automation #2"
 permalink: "/archive/testing-the-waters-of-buttondown-automation-2/"
 description: "Exploring new automation features and potential syndication in this edition!"
 date: 2024-08-02 23:03:35.068372+00:00
+faq:
+- question: What is the author planning to do with their newsletter?
+  answer: The author is going to slowly begin the syndication of their newsletter.
+- question: What features does the author hope to see through GenAI automation?
+  answer: If the automation works, the author expects to see a GenAI-created description
+    and a share image.
+- question: Which service documentation is referenced in the post?
+  answer: The post references the LinkedIn documentation for Buttondown.
 ---
-
-
-
 Testing the waters of Buttondown Automation #2
 
 I’m going to slowly begin syndication of my newsletter.

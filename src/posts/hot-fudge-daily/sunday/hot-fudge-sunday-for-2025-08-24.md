@@ -3,8 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-24"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-24/"
 description: "Microsoft licensing changes, dining tech, markets, AI, history, and more"
 date: 2025-08-24
+faq:
+- question: What topics did NexusTek cover in their recent publications and webinars?
+  answer: NexusTek shared insights on Microsoft's licensing changes, the role of technology
+    in modernizing dining experiences, and how managed detection and response (MDR)
+    services help security teams save time.
+- question: What is the primary purpose of the 'Alumni' section in the OpenToWork
+    weekly update?
+  answer: The Alumni section is dedicated to recognizing and congratulating individuals
+    from the author's network who have successfully transitioned to their next career
+    adventure.
+- question: Which AI-related company received the largest funding amount mentioned
+    in the 'Hot Takes Tuesday' section?
+  answer: Eight Sleep, an AI-powered mattress cover company, received $100 million
+    in funding.
 ---
-
 {{ subscribe_form }}
 
 ## Last week

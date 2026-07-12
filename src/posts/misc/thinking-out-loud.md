@@ -2,8 +2,23 @@
 title: "Reading, Wishing, and Watching"
 description: "My thoughts on recent reading, wish lists, and viewing habits"
 date: 2024-03-31
+faq:
+- question: What is the "Adaptability Paradox" discussed in the blog post?
+  answer: The blog post describes Kris Krüg's "Adaptability Paradox" as the tension
+    between the need for change and the quest for a stable identity. It questions
+    how one can change with the times without losing sight of who they are, or keep
+    their profile updated without forgetting the "password to their own soul."
+- question: What kind of "avatars" does the author reflect on having?
+  answer: The author reflects on having various avatars throughout their life, including
+    an online writer avatar, a telco ISP consultant nerd avatar from the late 1990s
+    and 2000s, and a datacenter cloud consultant nerd avatar from the 2010s. They
+    also speculate about potential past avatars like an engineering student, lab grunt,
+    busboy, or retail assistant.
+- question: How does the author discover new books for their reading wish list?
+  answer: The author discovers much of their reading by not trying to live every moment
+    online, particularly from events like SXSW where they hear about books from people
+    in the real world. They maintain a Thriftbooks wish list for these discoveries.
 ---
-
 This week I am sharing my thoughts on recent reading, wish lists, and viewing habits.
 
 ## Getting Informed

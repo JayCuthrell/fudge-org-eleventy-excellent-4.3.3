@@ -3,8 +3,19 @@ title: "📈 Markets Monday for 2025-11-24"
 permalink: "/archive/markets-monday-for-2025-11-24/"
 description: "Quantum computing and digital infrastructure rises"
 date: 2025-11-24
+faq:
+- question: What is the primary theme driving the stock market activity mentioned
+    in the post?
+  answer: The market activity is driven by a focus on Future Compute Architecture.
+- question: What factors are likely contributing to the return of the Digital Infrastructure
+    and Crypto Mining trade?
+  answer: The trade is likely driven by the continued pivot toward high-performance
+    computing (HPC) capacity.
+- question: Which sectors are cited as pointing to a significant day for the hardware
+    layer of the stack?
+  answer: Optical connectivity and autonomous systems are cited as factors pointing
+    to a big day for the hardware layer of the stack.
 ---
-
 The screener is lighting up with a very specific theme today: Future Compute Architecture.
 
 Quantum Computing is having a breakout moment with double-digit gains.

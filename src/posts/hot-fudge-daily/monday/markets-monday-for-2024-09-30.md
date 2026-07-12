@@ -3,12 +3,19 @@ title: "📈 Markets Monday for 2024-09-30"
 permalink: "/archive/markets-monday-for-2024-09-30/"
 description: "This edition highlights why you should follow GAI Insights and my weekly market recap."
 date: 2024-09-30 23:39:45.808653+00:00
+faq:
+- question: Who is the writer behind GAI Insights?
+  answer: The writer behind GAI Insights is Paul Baier.
+- question: What resource does the author use for the Market Monday recap?
+  answer: The author uses a simple Yahoo Finance webpage and the Yahoo Applied Filters
+    for Stocks screener to look at key market indicators.
+- question: Which technology sectors are included in the author's Yahoo Finance screener
+    settings?
+  answer: The sectors include Software—Infrastructure, Information Technology Services,
+    Computer Hardware, Software—Application, Communication Equipment, Electronics
+    & Computer Distribution, Consumer Electronics, Electronic Components, Scientific
+    & Technical Instruments, Semiconductor Equipment & Materials, and Semiconductors.
 ---
-
-
-
-
-
 ### Reading Recommendation
 
 The GenAI market can be hard to keep up with and if you aren’t reading [GAI Insights](https://gaiinsights.com/about), you should be. As for why, the writer behind [GAI Insights](https://gaiinsights.com/about) is [Paul Baier](https://www.linkedin.com/in/paulbaier/)* *.

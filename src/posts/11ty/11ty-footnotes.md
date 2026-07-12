@@ -3,10 +3,19 @@ title: "11ty Footnotes"
 description: "A look at enhancing 11ty for newsletter footnotes"
 date: 2024-02-18
 tags: [11ty]
+faq:
+- question: Why is the author bringing back footnotes to the newsletter?
+  answer: The author is reintroducing footnotes to address reader feedback regarding
+    readability issues with links, aiming to strike a better balance between the needs
+    of web and email readers.
+- question: What is the author's next project regarding the newsletter content?
+  answer: The next project task for the newsletter is a formal harvesting of all previously
+    used markdown links to address issues where older media and images have become
+    inaccessible due to DNS changes or platforms going offline.
+- question: Will the author be attending SxSW 2024?
+  answer: Yes, the author will be at SxSW 2024 and invites readers who are also attending
+    to get in contact to meet up.
 ---
-
-
-
 Feedback is a gift. I've been collecting a growing amount of reader feedback as I've shifted from various newsletter platforms to my evolving [POSSE](/topics/posse) approach.
 
 ## Getting Informed

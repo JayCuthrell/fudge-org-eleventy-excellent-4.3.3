@@ -3,12 +3,20 @@ title: "🌶️ Hot Fudge Sunday for 2025-01-19"
 permalink: "/archive/hot-fudge-sunday-for-2025-01-19/"
 description: "This edition spotlights professionals eager for new opportunities—connect and collaborate!"
 date: 2025-01-19 19:30:00+00:00
+faq:
+- question: What is the Hot Fudge Sunday newsletter?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    Hot Fudge Daily paid newsletter from fudge.org in a single, easy-to-access URL.
+- question: 'What is the purpose of the #OpenToWork section in the newsletter?'
+  answer: 'The #OpenToWork section highlights professionals in the author''s network
+    who are looking for new opportunities by linking to their LinkedIn profiles and
+    quoting their ''About'' sections to encourage readers to connect with them.'
+- question: How does the author determine the market 'Spicy level' for the Markets
+    Monday segment?
+  answer: The author determines the market 'Spicy level' by using a key indicator
+    from a Yahoo Finance webpage, viewing the market through the lens of the closing
+    bell on Monday.
 ---
-
-
-
-
-
 [Hot Fudge Sunday](https://fudge.org) 🤔 💡 🤯 🤓 is a free weekly newsletter containing a digest of the Hot Fudge Daily paid newsletter at [fudge.org](https://fudge.org) in a single easy to reach URL. This free weekly edition is posted every… wait for it… Sunday.
 
 ---

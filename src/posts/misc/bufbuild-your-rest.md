@@ -2,10 +2,18 @@
 title: "Buf.build Your REST"
 description: 'A a look at the history of protocol buffers as well as the rise of buf'
 date: 2023-03-06 02:10:56.785300+00:00
+faq:
+- question: What is the primary goal of using protocol buffers?
+  answer: The goal of protocol buffers is serializing structured data for use in apps
+    for any programming language, providing a path towards extensibility via schemas.
+- question: What is the mission of Buf Technologies?
+  answer: Buf Technologies' mission is to deprecate REST/JSON and move the industry
+    towards a future of schema-driven development with Protobuf.
+- question: How is the buf cli contributing to software development?
+  answer: The buf cli is democratizing access to schema-driven development for a wider
+    audience of developers and is helping to improve developer productivity in areas
+    where RESTful APIs are becoming cumbersome.
 ---
-
- 
-
 Music: [Earth, Wind & Fire - Build Your Nest (1973)](https://www.youtube.com/watch?v=T1w3nM8HrSg)
 
 This week we take a look at the history of protocol buffers as well as the rise of buf cli and Buf Technologies.

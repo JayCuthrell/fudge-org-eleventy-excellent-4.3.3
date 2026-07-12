@@ -3,9 +3,22 @@ title: "SXSW 2024 Days 1-3"
 description: 'My end of day notes from SXSW 2024 Days 1-3'
 date: 2024-03-10
 tags: [quantum]
+faq:
+- question: What advice does the author give for securing SXXpress Passes in the SXSW
+    GO app?
+  answer: The author advises that you must refresh the app at 9:00 AM CT to get the
+    passes. If you wait even 15 minutes, the available passes will dwindle rapidly.
+- question: What strategy does the author suggest for getting into popular, packed
+    sessions?
+  answer: The author suggests arriving 45 minutes ahead of time to form the line for
+    general access.
+- question: What are some of the practical tips provided in the session regarding
+    layoffs and professional development?
+  answer: The session recommends maintaining a 'personal hype file' of accomplishments,
+    networking constantly, joining private back-channel communities, and embracing
+    GenAI to increase efficiency and business impact rather than focusing solely on
+    the internal workings of the tools.
 ---
-
-
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)
 > See also: [SXSW 2024 Days 1-3](/archive/sxsw-2024-days-1-3/)
 > See also: [SXSW 2024 Days 4-9](/archive/sxsw-2024-days-4-9/)

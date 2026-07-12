@@ -3,9 +3,15 @@ title: "✅ Final Thoughts Friday for 2024-08-09"
 permalink: "/archive/final-thoughts-friday-for-2024-08-09/"
 description: "Week in review with my upcoming events, my SXSW panel submission, and my re-launch on fudge.org."
 date: 2024-08-10 02:53:11.884899+00:00
+faq:
+- question: How many events has the author committed to for the remainder of 2024?
+  answer: The author has committed to four events for the remainder of 2024.
+- question: Will the author be speaking on a panel at SXSW 2025?
+  answer: The author submitted a panel to PanelPicker for SXSW 2025 voting but will
+    not be speaking on it, though they are considering submitting a solo talk.
+- question: What is new regarding the website fudge.org this month?
+  answer: This month, Google AdSense has gone live on fudge.org.
 ---
-
-
 Looking back at the week with an eye to the future.
 
 As a reminder, I’ve committed to four events for the remainder of this year. I’ve also submitted a final version of a panel to PanelPicker for SXSW 2025 voting but I won’t be speaking on a panel but might submit a solo talk — maybe.

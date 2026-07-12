@@ -3,8 +3,14 @@ title: "🔥 Hot Takes Tuesday for 2025-11-04"
 permalink: "/archive/hot-takes-tuesday-for-2025-11-04/"
 description: "Funding for AI, robotics, and cybersecurity"
 date: 2025-11-04
+faq:
+- question: Which company received the highest amount of funding in the list?
+  answer: Beacon Software received the highest amount of funding with $250M.
+- question: What is the primary focus of Hippocratic AI?
+  answer: Hippocratic AI focuses on health care AI agents.
+- question: How much funding did Mimic Robotics raise and what is their specialization?
+  answer: Mimic Robotics raised $16M and specializes in AI for robotic hands.
 ---
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [Mimic Robotics](https://www.techmeme.com/251104/p26#a251104p26) (AI for robotic hands): **$16M**

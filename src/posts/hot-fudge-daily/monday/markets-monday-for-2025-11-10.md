@@ -3,8 +3,18 @@ title: "📈 Markets Monday for 2025-11-10"
 permalink: "/archive/markets-monday-for-2025-11-10/"
 description: "Broad rally in semiconductors, hardware, and software"
 date: 2025-11-10
+faq:
+- question: Which company experienced the highest percentage change in today's top
+    movers list?
+  answer: Tower Semiconductor Ltd (TSEM) experienced the highest percentage change
+    at +14.27%.
+- question: What is the primary focus of the companies listed as today's top movers?
+  answer: According to the post, today's top movers show a clear focus on the physical
+    hardware underpinning the industry.
+- question: What was the percentage change for NVIDIA Corp (NVDA) in the provided
+    list?
+  answer: NVIDIA Corp (NVDA) saw a percentage change of +5.48%.
 ---
-
 Today's top movers show a clear focus on the physical hardware underpinning the industry.
 
 | Symbol | Company Name | % Change |

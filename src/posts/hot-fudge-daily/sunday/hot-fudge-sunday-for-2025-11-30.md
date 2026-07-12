@@ -4,8 +4,20 @@ permalink: "/archive/hot-fudge-sunday-for-2025-11-30/"
 description: "Hot Fudge Daily digest for the week of 11-24-2025 to 11-29-2025."
 date: 2025-11-30
 tags: ['Hot Fudge Sunday']
+faq:
+- question: What is the primary reason global futures markets halted operations according
+    to the post?
+  answer: Global futures trading was halted due to a cooling systems issue at a data
+    center used by the CME Group.
+- question: Which tech companies received significant funding recently for AI-related
+    initiatives?
+  answer: Companies including Cerrion ($18M), Opti ($20M), Harmonic ($120M), Picnic
+    (~$450M), and X-energy ($700M) all received funding for AI-focused projects.
+- question: What theme dominated the market screener for the week of November 24,
+    2025?
+  answer: The market screener was dominated by the theme of Future Compute Architecture,
+    which included significant gains in quantum computing and digital infrastructure.
 ---
-
 ## Last Week
 
 * [NexusTek](https://www.nexustek.com/insights/case-study-agricultural-packing-ai-readiness) published [Case Study: Harvesting Innovation Through AI for an Agriculture Packing Company](https://www.nexustek.com/insights/case-study-agricultural-packing-ai-readiness)

@@ -2,9 +2,22 @@
 title: "SXSW 2025: Senior Moments"
 description: 'A look at my SXSW 2025 PanelPicker submission'
 date: 2024-07-14
+faq:
+- question: What is the title of the panel being organized for SXSW 2025?
+  answer: 'The panel is titled ''Senior Savoir-Faire: The Fiercely Agentic Meet Agentic
+    AI''.'
+- question: What are the required steps to participate in the SXSW PanelPicker voting
+    process?
+  answer: To participate, you must first register for a free SXSW ID, sign in, and
+    then you can vote for your preferred panels on the PanelPicker website.
+- question: What information is mandatory for speakers when submitting a panel to
+    the SXSW PanelPicker?
+  answer: Mandatory speaker information includes their qualifications, how they contribute
+    a diverse perspective, whether they want to be considered as a SXSW Mentor, and
+    confirmations from the primary contact that they have a personal relationship
+    with the speaker, a means to contact them, and that the speaker is available to
+    attend if accepted.
 ---
-
-
 #### UPDATE: We'd appreciate your SXSW Vote
 
 First thing — Please be sure to have [registered](https://id.sxsw.com/sign_in) with a SXSW ID (free).  [https://id.sxsw.com/sign_in](https://id.sxsw.com/sign_in)

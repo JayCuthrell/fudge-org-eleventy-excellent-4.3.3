@@ -2,8 +2,22 @@
 title: "Project Liberty & DSNP"
 description: "A look at Project Liberty and Decentralized Social Networking Protocol"
 date: 2024-06-09
+faq:
+- question: What is the primary appeal of the Decentralized Social Networking Protocol
+    (DSNP)?
+  answer: The appeal of DSNP is that it emphasizes user agency by focusing on user
+    identity, user data rights, and user control, rather than leaving these aspects
+    to a central corporate interest.
+- question: Who is Frank McCourt in the context of the mentioned social networking
+    projects?
+  answer: Frank McCourt is associated with Project Liberty and is also noted in the
+    news cycle for his efforts to organize a bid to acquire TikTok.
+- question: What major challenge do open initiatives like decentralized social networks
+    face?
+  answer: One of the significant challenges for open initiatives is a lack of funding,
+    as many current social networks rely on advertising and the monetization of clicks
+    and impressions.
 ---
-
 This week we take a look at Project Liberty and Decentralized Social Networking Protocol.
 
 ## Housekeeping

@@ -3,8 +3,20 @@ date: 2017-01-05 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-eight/
 title: Converged Thoughts Eight
+faq:
+- question: How many speakers, panels, sessions, and presentations are typically offered
+    at SxSW?
+  answer: There are over 1,000 speakers, panels, sessions, and presentations held
+    in just a few days.
+- question: Why does the author enjoy attending SxSW?
+  answer: The author likes attending SxSW because it offers a mix of inputs from a
+    variety of sources rather than just vendor-specific pitches, and attendees are
+    free to choose which sessions they want to attend.
+- question: How can attendees learn about the music selections the author is interested
+    in?
+  answer: Attendees can follow the author's tweet regarding music selections, where
+    the author continues to reply with new or interesting artists.
 ---
-
 This will be my first SxSW as a resident of Austin, Texas. I’m looking forward to it. Part of the build up to SxSW is making sense of an absolute wall of content in the form of Interactive speaker abstracts, Interactive panel abstracts, and of course… the musical acts. Below are a few of my selections so far.
 
 A Plethora of Panels

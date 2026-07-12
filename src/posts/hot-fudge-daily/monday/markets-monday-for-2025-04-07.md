@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2025-04-07"
 permalink: "/archive/markets-monday-for-2025-04-07/"
 description: "In this edition, I analyze Monday&#39;s market movements and highlight key tech indicators."
 date: 2025-04-08 00:26:57.196380+00:00
+faq:
+- question: What resource does the author use for their weekly market analysis?
+  answer: The author uses a simple Yahoo Finance webpage and its stock screener tool
+    to analyze the market through the lens of the Monday closing bell.
+- question: What specific criteria are used in the Yahoo Applied Filters for the stock
+    screener?
+  answer: The filters include a price change greater than 4%, US region, mid-to-mega
+    market caps, a price greater than or equal to 5, volume over 15,000, and specific
+    technology-related sectors and industries.
+- question: How many companies typically appear in the author's screen results?
+  answer: The results typically show around a dozen interesting companies when the
+    market is moving and a smaller handful when the market is not moving as much.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

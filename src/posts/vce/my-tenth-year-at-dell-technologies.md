@@ -4,8 +4,16 @@ description: 'VCE year 10'
 permalink: /archive/my-tenth-year-at-vce/
 title: My Tenth Year at Dell Technologies
 tags: [VCE and Dell]
+faq:
+- question: How long was the author employed at Dell Technologies?
+  answer: The author worked at Dell Technologies for 9 years and 11 months.
+- question: What is the author doing following their departure from Dell Technologies?
+  answer: The author has been taking road trips, spending time outdoors, reading,
+    and planning to clean up and reboot their blog content.
+- question: What areas is the author interested in for their next career adventure?
+  answer: The author is interested in the future of 5G, Telco, Edge, and Bare Metal
+    as a Service (BMaaS), noting that the cloud is moving toward the physical world.
 ---
-
 In perhaps the last in a series of such posts, the traditional one year blog post continues. The year since my last work related update would best be described as several doors closing and several doors opening.
 
 TLDR

@@ -2,10 +2,23 @@
 title: "Take the Bot DataDome"
 description: ''
 date: 2023-04-10 00:19:41.356000+00:00
+faq:
+- question: Why do concert tickets often sell out within minutes of going on sale
+    online?
+  answer: Tickets sell out quickly because of bots and automation technology used
+    by scalpers to acquire a large number of tickets for the secondary market, rather
+    than for personal use.
+- question: What distinguishes DataDome from other anti-bot solution providers mentioned
+    in the text?
+  answer: The primary differentiator noted for DataDome is its accessibility, with
+    the company claiming that a digital business can activate its protection in less
+    than one hour.
+- question: How do anti-bot companies and the bot-using community interact over time?
+  answer: There is an ongoing escalation where anti-bot companies provide protection
+    for storefronts, followed by the scraping or scalping community developing tools
+    to bypass those defenses, leading to a continuous cycle of iteration that increasingly
+    incorporates AI and machine learning.
 ---
-
- 
-
 Music: [Supertramp - Take the Long Way Home (1979)](https://www.youtube.com/watch?v=\_Pts0jqX-yY)
 
 This week we take a look at recent funding for DataDome, related bot management solutions, and the road ahead.

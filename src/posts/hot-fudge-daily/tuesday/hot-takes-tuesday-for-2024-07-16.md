@@ -3,11 +3,22 @@ title: "🔥 Hot Takes Tuesday for 2024-07-16"
 permalink: "/archive/hot-takes-tuesday-for-2024-07-16/"
 description: "Tech funding and M&amp;A trends in AI, cybersecurity, and GenAI discussed with a touch of humor."
 date: 2024-07-17 03:25:05.142725+00:00
+faq:
+- question: What is the author's perspective on the future of GenAI for enterprise
+    applications?
+  answer: The author believes that RAG-focused GenAI is a particularly compelling
+    area for enterprise use cases, rather than focusing on the creative GenAI use
+    cases often highlighted in media.
+- question: How does the author envision AI improving the medical field?
+  answer: The author believes AI will be most useful by providing doctors or nurses
+    with total recall of a patient's entire medical history, while still allowing
+    the human element of care to remain intact.
+- question: What is the author's prediction regarding cybersecurity companies and
+    funding?
+  answer: The author notes that cybersecurity companies are currently attracting significant
+    funding and predicts that we will see an increasing amount of M&A activity within
+    the cybersecurity space.
 ---
-
-
-
-
 # 🔥 Hot Takes Tuesday for 2024-07-16
 
 Off the cuff analysis in a rapid fire format.

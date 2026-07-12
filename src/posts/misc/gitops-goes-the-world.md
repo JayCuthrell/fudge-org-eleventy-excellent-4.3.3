@@ -2,10 +2,20 @@
 title: "GitOps Goes the World"
 description: ''
 date: 2023-06-05 02:00:19.651000+00:00
+faq:
+- question: What is GitOps?
+  answer: GitOps is a practice that combines version control systems favored by developers
+    (Git) with the operations (Ops) of IT practitioners to ensure that everything
+    in the software lifecycle and software versioning currency draws from one true
+    source.
+- question: What is the purpose of OpenGitOps?
+  answer: OpenGitOps is a CNCF sandbox project that aims to define GitOps in a way
+    that is vendor-neutral.
+- question: What is Kyverno?
+  answer: Kyverno is a CNCF incubating project that provides a policy engine for Kubernetes
+    governance at scale, allowing users to implement Policy-as-Code (PaC) with hundreds
+    of available policies.
 ---
-
- 
-
 Music: [Gossip - Pop Goes the World (2009)](https://www.youtube.com/watch?v=IFLWfj\_r7kY)
 
 This week we take a look at GitOps and Policy-as-Code (PaC).

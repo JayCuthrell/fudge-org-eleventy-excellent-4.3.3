@@ -3,11 +3,17 @@ title: "📈 Markets Monday for 2025-02-17"
 permalink: "/archive/markets-monday-for-2025-02-17/"
 description: "I&#39;m analyzing market trends using Yahoo Finance data for Technology stocks this week."
 date: 2025-02-18 03:58:36.261514+00:00
+faq:
+- question: What tool does the author use to track market indicators each week?
+  answer: The author uses the Yahoo Finance screener to look at key market indicators.
+- question: Which specific sector does the author filter for in their market analysis?
+  answer: The author filters specifically for the Technology sector, including various
+    related industries like Software, Computer Hardware, and Semiconductors.
+- question: What are the specific criteria used for the Yahoo Finance screener?
+  answer: The criteria include an intraday price change greater than 4%, United States
+    region, Mid/Large/Mega Market Cap, price greater than or equal to 5, volume greater
+    than 15,000, and a focus on the Technology sector and its sub-industries.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

@@ -5,8 +5,16 @@ description: All Things AI 2026 fun then looking ahead to  cackalackycon and Tec
 layout: post
 tags:
   - AI
+faq:
+- question: What venues hosted the All Things AI conference?
+  answer: The conference was held at the Carolina Theatre and expanded into the Durham
+    Convention Center.
+- question: What events are scheduled to take place in May 2026?
+  answer: Cackalackycon 2026 and TechFest with NC TECH are both scheduled to take
+    place during the same week in May 2026.
+- question: Which speakers led the 'Past, Present, and Future of AI' fireside chat?
+  answer: The fireside chat was led by Igor Jablokov and Mark Hinkle.
 ---
-
 As part of my advisor role at NC Tech, I was able to attend the all things AI conference in Durham North Carolina this week. The attendee energy was amazing and the first day session wrap [Fireside Chat: The Past, Present, and Future of AI with Igor Jablokov and Mark Hinkle](https://2026.allthingsai.org/sessions/fireside-chat-the-past-present-and-future-of-ai-with-igor-jablokov-and-mark-hinkle) was incredibly thought provoking.
 
 As a bonus, I was able to run into several peers that I haven't seen in years then reconnect with attendees from the prior All Things AI conference and Tech Field Day alumni. This time the conference was much larger and expanded beyond the [Carolina Theatre](https://carolinatheatre.org/) and into [Durham Convention Center](https://durhamconventioncenter.com/).

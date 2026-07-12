@@ -3,9 +3,18 @@ title: "MACH Alliance March"
 description: 'A look back at the MACH Alliance and the future ahead'
 date: 2024-03-22
 tags: [quantum]
+faq:
+- question: What does the acronym MACH stand for?
+  answer: MACH stands for Microservices (based), API (first), Cloud (native and most
+    likely SaaS), and Headless.
+- question: What is the purpose of the MACH Alliance?
+  answer: According to the MACH Alliance LinkedIn page, the organization advocates
+    for open and best-of-breed enterprise technology ecosystems.
+- question: How has the membership of the MACH Alliance changed over time?
+  answer: The MACH Alliance has grown from eighteen members in 2020 to over 100 members
+    by 2023, representing a diverse group of ISVs, systems integrators, enablers,
+    and ambassadors.
 ---
-
-
 This week we're going to look back at the MACH Alliance and the future ahead for Enterprise software application experiences.
 
 ## Getting Informed

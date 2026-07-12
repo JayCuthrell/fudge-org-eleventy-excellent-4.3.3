@@ -3,11 +3,18 @@ title: "🔥 Hot Takes Tuesday for 2024-08-20"
 permalink: "/archive/hot-takes-tuesday-for-2024-08-20/"
 description: "Tech funding, M&amp;A, and rising interest in gov/military contracts in this rapid-fire edition."
 date: 2024-08-20 23:55:29.756807+00:00
+faq:
+- question: What percentage of objectionable internet traffic is the author currently
+    blocking using Pi-hole?
+  answer: The author is currently blocking 22.4% of objectionable traffic.
+- question: What trend does the author notice regarding funding for companies with
+    'cryptography' in their name?
+  answer: The author notes that seeing funding coverage for companies focused on cryptography
+    rather than cryptocurrency suggests that 'nature is healing.'
+- question: What is the author's observation regarding M&A activity in 2024?
+  answer: The author states that M&A is alive and well in 2024 and predicts that this
+    pattern will likely occur a few more times before the end of the year.
 ---
-
-
-
-
 Off the cuff analysis in a rapid fire format.
 
 First… a quick nerdy aside. My [Pi-hole](https://pi-hole.net/) approved list of FQDNs grows one entry at a time. Better than 1/5 of objectionable (to me) traffic is being effectively blocked. 🙏

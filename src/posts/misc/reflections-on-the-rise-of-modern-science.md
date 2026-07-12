@@ -2,8 +2,19 @@
 title: "Reflections on the Rise of Modern Science"
 description: 'A look back at looking back 1993 to 2023'
 date: 2023-11-12 12:00:00+00:00
+faq:
+- question: What specific history course did the author take thirty years ago?
+  answer: The author took 'HI 322 - THE RISE OF MODERN SCIENCE'.
+- question: What significant technology events occurred in 1993 according to the blog
+    post?
+  answer: Significant events in 1993 included the wider recognition of the World Wide
+    Web, the concept of an 'eternal September', the birth of the Pentium processor,
+    and the initial operational capability of GPS for civilian use.
+- question: What is the purpose of the provided thirty-year listicle?
+  answer: The listicle serves as a highlight reel of loosely related topics from the
+    past 30 years that have shaped the author's career, intended to show events that
+    might compound, converge, or convolute possible futures.
 ---
-
 There is an ancient saying...
 
 > Those who do not study history, are doomed to... [checks notes] take an alternative course that satisfies the elective requirements to graduate in their matriculated degree program.

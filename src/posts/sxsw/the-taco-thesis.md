@@ -3,8 +3,22 @@ date: 2008-03-19 04:43:08+00:00
 description: Thoughts on SxSW 2008
 permalink: /archive/the-taco-thesis/
 title: The Taco Thesis
+faq:
+- question: What three items did the author consider the most important to bring to
+    SXSW?
+  answer: The three most important items were a Blackberry, a camera phone, and business
+    cards.
+- question: Why did the author prefer using a camera phone over a digital camera for
+    the conference?
+  answer: The camera phone allowed for timely uploads, as the author could simply
+    send photos to a Flickr email address, which simultaneously posted to their WordPress
+    blog and notified Twitter followers, avoiding the cumbersome process of manually
+    transferring and editing files from a digital camera.
+- question: What are the three key elements identified by the author regarding how
+    social networking has changed the feedback loop?
+  answer: The three key elements are ease of access, self-grouping, and removing silos
+    of authentication.
 ---
-
 Last week I attended SXSW Interactive. My goal was to [expand my mind](http://www.communicatrix.com/2008/03/communicatrix-sxsw-20.html).
 
 I’m calling this The Taco Thesis for [numerous reasons](http://twitter.com/lauratex/statuses/773499374). First, I walked a lot during the week and didn’t eat well either resulting in operating at a caloric deficit even with tacos calling to me at each turn. Second, the tasty breakfast tacos during [one of the more interesting pitches](http://getsatisfaction.com/) were filling. Third, my reflection on how quickly a room fills with just the mention of breakfast tacos at noon is telling — yes, free punch and pie does work.

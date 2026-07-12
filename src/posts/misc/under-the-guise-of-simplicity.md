@@ -3,8 +3,23 @@ date: 2007-01-20 23:31:57+00:00
 description: ''
 permalink: /archive/under-the-guise-of-simplicity/
 title: Under the guise of simplicity
+faq:
+- question: Why does the author suggest that people should use voice communication
+    more often?
+  answer: The author suggests using voice more if individuals are spending too much
+    time in email or experiencing frustration with instant messaging, as voice allows
+    for immediate, symmetric communication and the benefits of proxemics.
+- question: What are the primary limitations of instant messaging as a communication
+    tool?
+  answer: Instant messaging is at the mercy of presence, meaning the sender cannot
+    control whether the recipient is reading or comprehending the message. Additionally,
+    users can walk away from their devices, which can be problematic if the person
+    is in a critical path for a remote team.
+- question: How can companies address the abuse of email features and flow?
+  answer: Companies can share email etiquette and guides for sending better emails
+    with their team members, a process the author notes can ironically be accomplished
+    via email.
 ---
-
 Everything after the Etch A Sketch has been an exercise in escalating support demands. Consider that simply shaking it like a Polaroid picture puts you right back to a pristine operating state.
 
 Loss of productivity from email is symptomatic.

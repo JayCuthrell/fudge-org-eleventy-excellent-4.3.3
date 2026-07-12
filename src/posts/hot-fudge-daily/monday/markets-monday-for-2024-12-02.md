@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2024-12-02"
 permalink: "/archive/markets-monday-for-2024-12-02/"
 description: "This edition highlights market insights and key metrics from Yahoo Finance for tech stocks."
 date: 2024-12-03 04:25:39.677911+00:00
+faq:
+- question: What source does the author use for their weekly market indicator?
+  answer: The author uses a simple Yahoo Finance webpage to view market indicators
+    each week.
+- question: What criteria are used for the Yahoo Applied Filters for Stocks screener?
+  answer: The filters include a percentage change in price greater than 4, United
+    States region, Mid/Large/Mega Market Cap, price greater than or equal to 5, volume
+    greater than 15,000, and specific technology sectors and industries.
+- question: How does the number of companies in the tech sector view fluctuate?
+  answer: The number of companies displayed in the technology view typically results
+    in about a dozen or so when the market is moving, and a smaller handful when the
+    market is not moving as much.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

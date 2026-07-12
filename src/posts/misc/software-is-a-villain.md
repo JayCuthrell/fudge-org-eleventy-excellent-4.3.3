@@ -2,8 +2,20 @@
 title: "Software is a Villain"
 description: ''
 date: 2016-12-21 00:00:00+00:00
+faq:
+- question: What metaphor does the post use to describe the impact of software on
+    the world?
+  answer: The post describes software as a Galactus-style entity that consumes entire
+    planets as a snack.
+- question: According to the post, what does culture do to strategy?
+  answer: Culture eats strategy for breakfast, employing caloric restriction and ketogenic
+    diet principles to ensure it has great abs.
+- question: What is the author's stance on the attribution of the quote about culture
+    and strategy?
+  answer: The author notes that it is difficult to find a reliable citation for the
+    quote, as it is often circularly referenced and incorrectly attributed to Peter
+    Drucker.
 ---
-
 *Cardio and diet make for a washboard abs villain.*
 
 That’s right. Software is a villain that wants great abs.

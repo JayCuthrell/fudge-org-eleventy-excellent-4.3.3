@@ -3,8 +3,14 @@ title: "🔥 Hot Takes Tuesday for 2025-07-29"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-29/"
 description: "Another week and another roundup of AI firms raking in fresh funding"
 date: 2025-07-29
+faq:
+- question: Which company received the highest amount of funding listed in the post?
+  answer: Anthropic received the highest funding amount, totaling $5 billion.
+- question: What is the primary function of Julius AI?
+  answer: Julius AI operates as an AI data analyst.
+- question: How much funding did BlinkOps secure for their AI cybersecurity agents?
+  answer: BlinkOps secured $50 million in funding.
 ---
-
 🤖 + 💰 AI, AI, and more AI funding continues.
 
 * [Julius AI](https://www.techmeme.com/250728/p32#a250728p32) (AI data analyst): **$10M**

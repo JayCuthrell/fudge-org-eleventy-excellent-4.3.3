@@ -4,8 +4,23 @@ description: ''
 permalink: /archive/converged-thoughts-nine/
 title: Converged Thoughts Nine
 tags: [quantum]
+faq:
+- question: What primary plot device is used in the movies 'Brainstorm' and 'Strange
+    Days' to record and play back experiences?
+  answer: The primary plot device in both movies is a superconducting quantum interference
+    device (SQUID), which accesses brainwaves to record and play back a person's total
+    immersive experience.
+- question: How does the author characterize the current state of VR technology compared
+    to science fiction concepts like 'The Matrix'?
+  answer: The author notes that current VR is not like 'The Matrix' yet, but suggests
+    it is likely capable of reaching the level of the 'Polar Express' uncanny valley.
+- question: What are some of the author's predictions for the future of VR and AR
+    convergence?
+  answer: The author predicts the replacement of high-end headsets with fashionable,
+    affordable SQUID devices, the transition from tower-sized gaming rigs to ultra-portable
+    devices, and the eventual development of biologically sound interfaces like sub-dermal
+    SQUIDs and haptic implantation.
 ---
-
 Yesterday, I had my first immersive VR experience. It was the total package. Headgear. Trackers. Haptics. Consoles. Rigs. Probiotic Yogurt. Honestly, I’m not sure why I waited so long to try this. Yes, my mind was suitably blown. Let’s start the digesting…
 
 

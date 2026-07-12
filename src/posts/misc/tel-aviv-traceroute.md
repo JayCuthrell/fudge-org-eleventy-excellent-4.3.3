@@ -3,8 +3,17 @@ date: 2000-04-29 00:59:10+00:00
 description: Packets of the past
 permalink: /archive/tel-aviv-traceroute/
 title: Tel Aviv Traceroute
+faq:
+- question: Where is the author currently located?
+  answer: The author is currently in Tel Aviv.
+- question: What issues did the author encounter with their flight?
+  answer: The author's connecting flights were late, and they were told at the ticketing
+    counter that the flight was overbooked, and their seat was given away because
+    they were late to check in.
+- question: Why did the author use an old camera instead of their Nikon?
+  answer: The author used an old camera because they couldn’t bear losing the Nikon
+    to a random mishap.
 ---
-
 Greetings from Tel Aviv. My body says it is noon. Everyone else here says it is 7 hours later.
 
 The flight sucked so much it isn’t funny. First, all my connects are late, then I get to the ticketing counter and they tell me they are overbooked and since I am late to check in they gave away my seat.

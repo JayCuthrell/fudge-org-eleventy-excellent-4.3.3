@@ -3,10 +3,19 @@ title: "Hot Takes Tuesday for 2024-06-25"
 permalink: "/archive/hot-takes-tuesday-for-2024-06-25/"
 description: "AI dominates tech funding and M&amp;A moves, shaping a future of bioengineered indicators and internal data mastery."
 date: 2024-06-25 20:42:49.935358+00:00
+faq:
+- question: What is the author's prediction for agentic A.I. by 2030?
+  answer: The author predicts that by 2030, agentic A.I. will be viewed as common
+    office staples, similar to the digital calculators and ergonomic staplers used
+    in the 1990s.
+- question: How might the focus on internal data mastery affect employees?
+  answer: The shift toward internal data mastery may serve as a less than subtle form
+    of persistent employee monitoring under the guise of recruiting.
+- question: What potential application does the author suggest for A.I. regarding
+    bioengineering?
+  answer: The author suggests a future where the world is filled with bioengineered
+    indicators based on novel Green Fluorescent Protein (GFP) designs created by A.I.
 ---
-
-
-
 # Hot Takes Tuesday for 2024-06-25
 
 Off the cuff analysis in a rapid fire format.

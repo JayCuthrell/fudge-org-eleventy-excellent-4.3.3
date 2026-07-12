@@ -4,8 +4,20 @@ permalink: "/archive/voice-to-11ty/"
 description: "Exploring transcription workflows and getting my face out of the screen."
 date: 2026-02-15
 tags: [11ty]
+faq:
+- question: Why is the author using their iPhone for transcription during travel?
+  answer: The author is using their iPhone to reclaim time spent in transit by generating
+    content through transcription, serving as a simple alternative after discontinuing
+    the use of the Limitless AI pendant.
+- question: How does the author plan to enrich their transcribed content?
+  answer: The author intends to use Google Gemini Gems trained on their prior blog
+    posts to provide deep links to existing content and use Python scripts and n8n
+    to integrate context from sources like Techmeme.
+- question: What is the author's ultimate goal for their transcription toolchain?
+  answer: The goal is to create a 'minimum viable' toolchain that automatically sends
+    a draft into version control on GitHub, triggering webhooks to build the site
+    and distribute the post via the Fudge Factor Newsletter.
 ---
-
 As my travel schedule ramps up for 2026, I’ve found myself spending a significant amount of time heading to the airport or in transit between destinations. When I’m not catching up on phone calls, it occurred to me that I could reclaim that time to generate content using basic transcription available on the iPhone.
 
 This isn’t exactly a new frontier for me. Many years ago, back when I was still rocking a BlackBerry, I was experimenting with early application support for transcription. Back then, it was never quite clear if the audio was being processed by a computer or if a WAV file was being quietly shipped off to a third party for "Mechanical Turk" style human transcription.

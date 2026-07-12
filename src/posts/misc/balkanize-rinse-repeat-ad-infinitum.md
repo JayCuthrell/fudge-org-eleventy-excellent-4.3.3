@@ -3,8 +3,25 @@ date: 2008-12-21 00:00:00+00:00
 description: ''
 permalink: /archive/balkanize-rinse-repeat-ad-infinitum/
 title: Balkanize, Rinse, Repeat ad infinitum
+faq:
+- question: What is the author's perspective on preserving all internet content for
+    posterity?
+  answer: The author argues that we do not need to save every internet artifact. They
+    suggest that we should let go of things that lose relevance and that the 'wisdom
+    of crowds' on the web does not necessarily equate to things that must be preserved
+    forever.
+- question: How does the author suggest dealing with trolls in online platforms?
+  answer: The author suggests that 'don't feed the trolls' remains a valid strategy.
+    They propose that platforms should implement better moderation and tools, such
+    as the ability to 'squelch' or filter out unwanted content, allowing users to
+    opt-in to seeing only the things they care about.
+- question: What does the author identify as a common historical pattern when new
+    platforms emerge?
+  answer: The author notes a recurring scenario where early users perceive a platform
+    as 'cool' until a mass influx of new users arrives, which these early adopters
+    often feel 'ruins' the space. The author views this as a historical pattern seen
+    across many technologies, including Usenet and FTP sites.
 ---
-
 After listening to a [podcast rant](http://gillmorgang.techcrunch.com/2008/12/20/gillmor-gang-122008/) on the topic of the blog / web / Internet with terms like signal, noise, and other histrionics typically reserved for the stage I felt that familiar urge to capture some quick thoughts.
 
 Those on the podcast are not terribly youthful and could easily classify as sages, elders, or at worst — subject matter experts.  They are certainly not in a position to say they have not seen this before.  We all have seen this before as we emerge from our first collective social experience tied to a place, grouping, or special interest.

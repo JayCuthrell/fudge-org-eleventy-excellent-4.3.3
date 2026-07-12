@@ -2,8 +2,21 @@
 title: "Such Tweet Nothing"
 description: 'A look at IndieWeb origins and ActivityPub within the fediverse'
 date: 2023-01-01 23:31:02.583880+00:00
+faq:
+- question: What primary factors led to the inception of the IndieWeb movement?
+  answer: The IndieWeb movement was driven by concerns regarding how social media
+    companies handled user-generated content and the observation of destructive patterns,
+    which were highlighted by a series of site-deaths.
+- question: Besides Mastodon, what are some other examples of platforms mentioned
+    in the fediverse?
+  answer: The blog post highlights Akkoma as an interesting fork in fediverse projects,
+    mentions the ongoing development of Bonfire, and notes that the long-lived diaspora
+    project recently celebrated over ten years of community contributions.
+- question: How does the author plan to change the format of Fudge Sunday issues this
+    year?
+  answer: The author intends to keep all Fudge Sunday issues to just under 500 words
+    throughout the year.
 ---
-
 Music: [Calvin Harris - Sweet Nothing ft. Florence Welch (2012)](https://www.youtube.com/watch?v=17ozSeGw-fY)
 
 Happy New Year! I am not one for resolutions, but I'm inspired [^0] to keep Fudge Sunday issues to just under 500 words this year.

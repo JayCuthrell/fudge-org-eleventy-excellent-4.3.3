@@ -3,8 +3,15 @@ date: 2009-01-31 17:55:27+00:00
 description: ''
 permalink: /archive/back-to-my-consulting-roots/
 title: Back to my consulting roots
+faq:
+- question: What is the author's professional background?
+  answer: The author has served as a CTO since 2002 with NeoNova and Digitel.
+- question: Where is the author located?
+  answer: The author has relocated to Research Triangle Park, NC, and has also established
+    a second office in Missoula, MT.
+- question: Where can clients find the author's consulting services?
+  answer: Clients can find the author and updated content at cuthrell.com.
 ---
-
 After being a CTO since 2002 with [NeoNova](http://www.neonova.net) and [Digitel](http://www.digitel.net) the time has come to return to my *consulting roots*. I’ve had a great run as a technology leader with great people, great companies, and I’ve seen the beauty of rural America.
 
 Having spent almost two years in Atlanta, GA I’ve re-relocated back to Research Triangle Park, NC in the East.  In addition, I have established a second office away from the office in Missoula, MT for trips to the West.

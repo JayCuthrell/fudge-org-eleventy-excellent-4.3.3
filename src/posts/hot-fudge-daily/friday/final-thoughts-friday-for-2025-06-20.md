@@ -3,11 +3,23 @@ title: "✅ Final Thoughts Friday for 2025-06-20"
 permalink: "/archive/final-thoughts-friday-for-2025-06-20/"
 description: "Exploring the US Army Reserve&#39;s recruitment challenges and innovative talent strategies at SXSW 2024."
 date: 2025-06-21 01:28:40.376024+00:00
+faq:
+- question: What percentage of American youth are currently ineligible to serve in
+    the military?
+  answer: According to the provided post, 77% of youth are ineligible to serve.
+- question: What is the primary benefit of the expanded Constructive Service Credit
+    mentioned in the post?
+  answer: The expanded Constructive Service Credit allows for R&D talent to be brought
+    in at ranks up to Colonel to solve major challenges, providing a significantly
+    faster path to rank—reducing the transition time from civilian to Major from 10
+    years to 6 months.
+- question: How is the military working to attract talent from the cyber and intelligence
+    industries?
+  answer: The military is focusing on flexible on-ramp and off-ramp paths, competitive
+    compensation, retention bonuses, work flexibility, and unique benefits, including
+    healthcare and savings plans, to recruit talent for both uniform and no-uniform
+    roles.
 ---
-
-
-
-
 🪖 + 🧑‍💻 The story that caught my eye this week was the US Army Reserve’s Detachment 201.
 
 [https://www.techmeme.com/250613/p10#a250613p10](https://www.techmeme.com/250613/p10#a250613p10)

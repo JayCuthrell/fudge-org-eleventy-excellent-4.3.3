@@ -4,8 +4,20 @@ description: Here comes Acadia
 permalink: /archive/private-clouds-ahead/
 title: Private Clouds Ahead
 tags: [VCE and Dell]
+faq:
+- question: What is Jay Cuthrell's new role at Acadia?
+  answer: Jay Cuthrell has accepted the position of Principal Technology Consultant,
+    where he will help companies realize and harness the full potential of private
+    cloud solutions.
+- question: Is Acadia currently hiring?
+  answer: Yes, Acadia is growing a number of teams. Interested candidates are encouraged
+    to review open positions via the link provided in the post or reach out to Jay
+    Cuthrell via LinkedIn for guidance.
+- question: Will fudge.org or the @qthrul Twitter account become corporately controlled?
+  answer: No. Jay Cuthrell stated that his blog and Twitter account will remain personal,
+    independent, and reflective of his own interests, though he plans to update his
+    disclosure statements and bios to reflect his new role.
 ---
-
 I have an announcement to make…
 
 I have accepted a position with [Acadia](http://www.acadia.com/).

@@ -3,11 +3,20 @@ title: "📈 Markets Monday for 2024-07-15"
 permalink: "/archive/markets-monday-for-2024-07-15/"
 description: "Analyzing tech market trends with a focus on weekly views and heat maps."
 date: 2024-07-15 21:06:27.277290+00:00
+faq:
+- question: How does the author typically track the performance of the NASDAQ?
+  answer: The author typically asks Siri about the NASDAQ's performance to determine
+    if there has been a significant change.
+- question: What visualization tool does the author use to analyze the tech market
+    for the week ahead?
+  answer: The author uses a heat map view from the Yahoo Finance screener to analyze
+    the tech market for the week ahead.
+- question: What are some of the criteria used in the Yahoo Finance screener to filter
+    the stocks mentioned?
+  answer: The filters include a price change greater than 4%, US region, mid/large/mega
+    market caps, a minimum price of 5, volume greater than 15,000, and specific technology-related
+    sectors and industries.
 ---
-
-
-
-
 # 📈 Markets Monday for 2024-07-15
 
 Analyzing the past and future of the tech market in Markets Monday.

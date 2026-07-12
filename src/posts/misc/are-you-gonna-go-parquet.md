@@ -1,10 +1,23 @@
 ---
 title: "Are You Gonna Go Parquet"
 description: 'A look at the past, present, and future of Apache Parquet.'
-date: 2023-08-28 
+date: 2023-08-28
+faq:
+- question: What was the primary focus of Apache Parquet when it was first released
+    over ten years ago?
+  answer: When Apache Parquet was released over ten years ago, it was designed as
+    a more efficient file format with a specific emphasis on the speed to read data.
+- question: How has the focus of data analytics shifted in recent years compared to
+    the early days of 'big data'?
+  answer: While the early focus was on big data within the Apache Hadoop ecosystem,
+    the current market emphasis has shifted toward 'speed to value' to support the
+    needs of A.I. and M.L. models.
+- question: Does the blog post mention Databricks or Snowflake as part of the 'big
+    data' companies from 2013?
+  answer: No. The author notes that Databricks took its first funding in 2013 and
+    Snowflake did not launch until 2014, so they were not part of the 2013 big data
+    landscape described.
 ---
-
-
 This week we take a look at the past, present, and future of Apache Parquet.
 
 This week's musical inspiration in title and lyrics:

@@ -2,8 +2,18 @@
 title: "Reading Fudge Sunday Test 1"
 description: ''
 date: 2022-06-12 16:16:00+00:00
+faq:
+- question: What is the author currently doing and what podcast setup are they using?
+  answer: The author is currently reading the latest issue of Fudge Sunday and using
+    the microphone array from their MacBook Air to publish directly via in-browser
+    podcast recording on Substack.
+- question: What equipment does the author plan to use for podcasting next time?
+  answer: Next time, the author plans to use a Shure SM57 microphone, a PreSonus Studio
+    24c, and GarageBand software.
+- question: How will the author publish their podcast next time?
+  answer: Next time, the author will upload the rendered audio file to the podcast
+    publishing page on Substack.
 ---
-
 I’m reading my latest issue of Fudge Sunday and using the microphone array from my MacBook Air to publish directly via in browser podcast recording on Substack.
 
 (https://fudge.org/archive/around-the-bend/?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Next week…

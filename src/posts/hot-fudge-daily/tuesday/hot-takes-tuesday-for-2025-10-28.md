@@ -3,8 +3,14 @@ title: "🔥 Hot Takes Tuesday for 2025-10-28"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-28/"
 description: "AI flavored funding for robotics, fintech, chip companies, and more"
 date: 2025-10-28
+faq:
+- question: Which company listed received the highest amount of funding?
+  answer: Wealthsimple received the highest amount of funding at $538 million.
+- question: What is the primary focus of The Bot Company?
+  answer: The Bot Company focuses on AI household robots.
+- question: How much funding did Mem0 raise, and what is its business model?
+  answer: Mem0 raised $24 million and functions as an AI cross-device memory passport.
 ---
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [Mem0](https://www.techmeme.com/251028/p32#a251028p32) (AI cross-device memory passport): **$24M**

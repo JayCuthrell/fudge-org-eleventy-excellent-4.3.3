@@ -3,8 +3,16 @@ title: "📈 Markets Monday for 2025-09-15"
 permalink: "/archive/markets-monday-for-2025-09-15/"
 description: "Screener update and tracking top market movers"
 date: 2025-09-15
+faq:
+- question: What is the status of the screener improvements?
+  answer: The screener improvements are currently in progress and getting closer to
+    completion.
+- question: Which company listed in the table experienced the highest percentage change?
+  answer: Rambus Inc. (RMBS) experienced the highest percentage change at +9.33%.
+- question: What kind of data is provided in the table?
+  answer: The table provides a list of company symbols, company names, and their corresponding
+    percentage change.
 ---
-
 Screener improvements are happening and getting closer.
 
 | Symbol | Company Name | % Change |

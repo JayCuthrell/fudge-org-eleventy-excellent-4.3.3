@@ -3,13 +3,17 @@ title: "🌶️ Hot Fudge Sunday for 2024-11-10"
 permalink: "/archive/hot-fudge-sunday-for-2024-11-10/"
 description: "Reflecting on 2024&#39;s evolution, my newsletter journey expansion and submissions so far!"
 date: 2024-11-10 17:59:00+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    paid Hot Fudge Daily newsletter, conveniently gathered into a single URL.
+- question: When is the free weekly edition of Hot Fudge Sunday published?
+  answer: The free weekly edition is published every Sunday.
+- question: How many long-form pieces has the author published in 2024 as of the update?
+  answer: As of the update, the author has published a total of 58 long-form pieces,
+    which consists of 150 daily paid writing submissions, 20 weekly free digests,
+    and 38 blog-style posts.
 ---
-
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

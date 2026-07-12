@@ -2,10 +2,27 @@
 title: "It's Not Easy Being GreenDevSecFinOps"
 description: ''
 date: 2023-05-14 22:05:42.835000+00:00
+faq:
+- question: What are the key benefits of applying green coding methodologies to the
+    application lifecycle?
+  answer: The benefits include lowering the overall carbon impact within the SDLC,
+    achieving up to 80% faster performance (especially on mobile or poor network conditions),
+    reducing costs, improving accessibility, and creating a more efficient application
+    without compromising design aesthetics or increasing development time.
+- question: What role do platform engineering teams play in the adoption of green
+    coding?
+  answer: Given that Cloud Sustainability and Platform Engineering appear near each
+    other on Gartner's Hype Cycle for Emerging Tech, the blog suggests it may be up
+    to platform engineering teams to prioritize the consideration of green coding
+    as part of a delightful Developer Experience (DevX).
+- question: How can individuals or organizations get involved in green IT and green
+    coding today?
+  answer: Interested parties can get involved through resources such as Green Software
+    for Practitioners (LFC131), The Green Grid (TGG), the Green Software Foundation
+    (GSF), and the Computational Sustainability Network (CompSustNet). Additionally,
+    developers can start by using tools like co2.js to estimate emissions for software
+    projects.
 ---
-
- 
-
 Music: [Kermit the Frog - It's Not Easy Bein' Green (1970)](https://www.youtube.com/watch?v=51BQfPeSK8k)
 
 This week we take a look at Green IT and green coding adoption cycles for Platform Engineering past, present, and future of GreenDevSecFinOps.

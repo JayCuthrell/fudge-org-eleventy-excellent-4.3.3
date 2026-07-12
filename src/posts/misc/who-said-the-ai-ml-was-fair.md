@@ -2,8 +2,19 @@
 title: "Who Said The AI ML Was Fair?"
 description: ''
 date: 2023-08-21 00:57:53.750145+00:00
+faq:
+- question: What does the acronym FAIR stand for in the context of research data principles?
+  answer: FAIR stands for Findable, Accessible, Interoperable, and Reusable principles.
+- question: Are FAIR principles considered an established, long-standing standard
+    in IT?
+  answer: No, FAIR principles are less than a decade old, which is considered young
+    in IT terms.
+- question: What is the concern mentioned regarding the future of data and market
+    incentives?
+  answer: The post expresses concern that perverse market incentives might drive data
+    to become more closed, proprietary, and paywalled, focusing on short-term extraction
+    rather than long-term enlightenment and human values.
 ---
-
 This week we take a look at fairness in A.I. and M.L. and F.A.I.R. data.
 
 This week's musical inspiration in title and lyrics:

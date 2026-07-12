@@ -2,8 +2,21 @@
 title: "Proxy Tear Us Apart"
 description: 'A look at the path from VPN to Beyondcorp-esque alternatives'
 date: 2022-12-11 15:10:50.325363+00:00
+faq:
+- question: Why did the author decide to move their newsletter from Substack to Buttondown?
+  answer: The author moved to Buttondown because they wanted access to a public API
+    and more design flexibility, preferring a platform that caters to their needs
+    as an aspiring developer and writer rather than a 'walled garden' service.
+- question: What is the author's opinion on the future of VPNs in light of new offerings
+    from cloud providers?
+  answer: The author does not believe the VPN market will become irrelevant; however,
+    they believe that as major cloud providers move toward Beyondcorp-esque offerings,
+    VPNs will likely be pushed into more niche use cases.
+- question: What development tools does the author mention that will support the transition
+    to zero trust designs?
+  answer: The author notes that infrastructure as code (IaC) tools such as Terraform,
+    Ansible, and Pulumi will enable incremental approaches to zero trust design.
 ---
-
 Music: \*[INXS - Never Tear Us Apart (1988)](https://www.youtube.com/watch?v=AIBv2GEnXlc)\*
 
 This week we look at the path from VPN[^0] to Beyondcorp-esque alternatives

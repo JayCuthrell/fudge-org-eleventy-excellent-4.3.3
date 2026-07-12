@@ -2,8 +2,19 @@
 title: "Events and Efficiency"
 description: "A look at what's next in events and efficiency in runtimes"
 date: 2024-04-28
+faq:
+- question: How is a runtime defined in a C-suite context?
+  answer: A runtime is defined as the amount of time any software application workload
+    takes to run, which is significant because time equates to money.
+- question: Which events can readers attend to connect with the author in 2024?
+  answer: The author is scheduled to attend Red Hat Summit and AnsibleFest (May 6-9
+    in Denver), Dell Technologies World (May 21-23 in Las Vegas), and Qlik Connect
+    (Jun 3-5 in Orlando).
+- question: What is the primary technical difference between Velox and Comet mentioned
+    in the post?
+  answer: Velox is a C++ library associated with Meta/Facebook, while Comet is a newer
+    Rust library currently under the Apache DataFusion project.
 ---
-
 This week we take a look at what's next in events and efficiency in runtimes.
 
 ## Housekeeping

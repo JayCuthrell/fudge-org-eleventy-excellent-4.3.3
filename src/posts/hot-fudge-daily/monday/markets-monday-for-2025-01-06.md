@@ -3,11 +3,20 @@ title: "📈 Markets Monday for 2025-01-06"
 permalink: "/archive/markets-monday-for-2025-01-06/"
 description: "This edition reviews key stock indicators from Yahoo Finance as we kick off another Market Monday."
 date: 2025-01-07 00:33:08.262787+00:00
+faq:
+- question: What tool does the author use to track market indicators each week?
+  answer: The author uses a simple Yahoo Finance webpage and their screener tool to
+    look at market indicators.
+- question: What are the specific Yahoo Finance screener criteria recommended in the
+    post?
+  answer: The recommended criteria include a Price % Change greater than 4, United
+    States region, Mid/Large/Mega Market Cap, Price greater than or equal to 5, Volume
+    greater than 15,000, and specific filters for the Technology sector.
+- question: What is the significance of the 'Spicy level' mentioned in the post?
+  answer: The 'Spicy level' reflects the number of interesting companies identified
+    by the screener, where a higher number indicates more movement in the market compared
+    to lower numbers which represent calmer periods.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

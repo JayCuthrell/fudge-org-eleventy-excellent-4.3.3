@@ -3,8 +3,19 @@ date: 2019-05-06 00:00:00+00:00
 description: ''
 permalink: /archive/las-vegas-lawsuits-and-lyft/
 title: Las Vegas Lawsuits and Lyft
+faq:
+- question: How many registered taxicab companies serve Las Vegas?
+  answer: There are sixteen (16) registered taxicab companies serving Las Vegas.
+- question: What was the process for passengers to summon an Uber at the airport during
+    the early years of ride-sharing in Las Vegas?
+  answer: Passengers had to stand in line for the rental car bus, take the bus to
+    the rental car center, walk a block, cross the intersection to a gas station,
+    summon an Uber, and wait for their ride at the gas station.
+- question: What is the current trend for traditional taxi services in the Las Vegas
+    area?
+  answer: The trends for traditional taxi services are heading down, with usage plummeting
+    as transportation network companies (TNCs) disrupt the taxi market.
 ---
-
 This week I made the pilgrimage to Las Vegas for Dell Technologies World and had the chance to take a lot of car services but none were via the sixteen (16) registered taxicab companies serving Las Vegas. Let’s take a look at ride-sharing in the city of sin and what is likely to be the future of getting around in just a few years.
 
 

@@ -3,10 +3,15 @@ title: "✅ Final Thoughts Friday for 2025-03-28"
 permalink: "/archive/final-thoughts-friday-for-2025-03-28/"
 description: "I delve into Signal&#39;s unexpected mainstream news moment and highlight Meredith Whittaker at SXSW."
 date: 2025-03-29 02:08:36.704960+00:00
+faq:
+- question: Who is Meredith Whittaker?
+  answer: Meredith Whittaker is the President of Signal.
+- question: What is the content of the video featured in the post?
+  answer: The video features Meredith Whittaker speaking on stage at SXSW.
+- question: Why has Signal been in the mainstream news recently?
+  answer: According to the post, Signal has been in the mainstream news for all the
+    wrong reasons.
 ---
-
-
-
 The story that caught my eye this week was how Signal was catapulted into mainstream news… but for all the wrong reasons.
 
 [https://www.techmeme.com/250324/p30#a250324p30](https://www.techmeme.com/250324/p30#a250324p30)

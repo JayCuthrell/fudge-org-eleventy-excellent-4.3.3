@@ -3,8 +3,20 @@ date: 2016-12-30 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-two/
 title: Converged Thoughts Two
+faq:
+- question: What is the origin of the quote 'This is not a world of wizards and clicky
+    clicky anymore'?
+  answer: 'The quote is attributed to John Troyer and was featured in episode #278
+    of The Cloudcast.'
+- question: Does the author believe that GUIs and CLIs will eventually replace one
+    another entirely?
+  answer: No, the author believes that GUIs and CLIs will coexist, and that convergence
+    in user experiences will require IT professionals to know how to use both effectively.
+- question: How does the author define art in the context of the IT industry?
+  answer: The author defines art as a form of expression using a developed skill,
+    noting that knowing when to use a GUI versus a CLI will help bridge the science
+    of IT with the art of IT.
 ---
-
 Thanks for sticking around! My second installment is a bit longer but I plan to settle on a word count soon enough.
 
 

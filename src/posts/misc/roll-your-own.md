@@ -3,8 +3,22 @@ date: 2019-04-08
 description: A look at platform dependency
 permalink: /archive/roll-your-own/
 title: Roll Your Own
+faq:
+- question: What trend has the author noticed regarding content hosting?
+  answer: The author has noticed a renewed interest in the repatriation of content
+    from centralized social platform juggernauts to more self-hosted options.
+- question: What event is highlighted as a significant turning point for social media
+    scrutiny?
+  answer: March 2018 is highlighted as the period when social media finally saw the
+    culmination of unflattering coverage by both tech press and traditional media,
+    followed by users questioning if there were alternatives.
+- question: What types of alternatives to large centralized social media platforms
+    are discussed?
+  answer: The post discusses alternatives ranging from smaller centralized social
+    platforms to more interesting approaches like self-hosted options with decentralized,
+    federated, and distributed sensibilities. Examples provided include the Diaspora*
+    Project, Mastodon, Movim, and Aether.
 ---
-
 When I started collecting links this week I had no idea how I would conclude. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
 
 Go Your Own Way

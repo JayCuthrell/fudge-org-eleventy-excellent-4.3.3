@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2025-01-27"
 permalink: "/archive/markets-monday-for-2025-01-27/"
 description: "This edition reviews key market indicators and highlights a Yahoo Finance heat map for tech stocks."
 date: 2025-01-28 04:08:34.268233+00:00
+faq:
+- question: What is the source of the key indicator used for the Market Monday recap?
+  answer: The author uses a simple Yahoo Finance webpage as their key indicator for
+    the weekly Market Monday recap.
+- question: What specific tool can readers use to create their own heat map view?
+  answer: Readers can use the Yahoo Applied Filters for Stocks screener to bookmark
+    their own custom heat map view.
+- question: What are some of the filter criteria recommended for the Technology sector
+    view?
+  answer: Recommended filters include a Price % Change greater than 4, United States
+    region, Mid/Large/Mega Market Cap, a price greater than or equal to 5, volume
+    over 15,000, and a specific selection of technology-related industries.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

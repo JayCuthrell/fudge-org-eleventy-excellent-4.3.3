@@ -2,8 +2,20 @@
 title: "Happy When It Toolchains"
 description: ''
 date: 2023-01-08 21:43:23.331800+00:00
+faq:
+- question: What is a software toolchain?
+  answer: A software toolchain is defined as a set of tools used during the activities
+    associated with the creation and modification of various programs throughout their
+    lifespan.
+- question: Are toolchains uniform across different companies?
+  answer: No, a toolchain is not one fixed thing. It is a composable set of tools
+    that depends on the specific needs of the organization, such as the size of the
+    developer team, the diversity of the business portfolio, and the regulatory environment.
+- question: What is the primary role of Cloud Service Providers (CSPs) regarding toolchains?
+  answer: CSPs often promote Cloud Adoption Frameworks (CAF) that reference specific
+    tools, though these recommendations may carry a bias towards the CSP's own proprietary
+    tools.
 ---
-
 ![76p44o.jpg](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/4f6f13db-1fe8-4336-9227-229a93cff63c.jpg)
 
 Music: [The Jesus And Mary Chain - Happy When It Rains (1987)](https://www.youtube.com/watch?v=G5x1F9ohRa4)

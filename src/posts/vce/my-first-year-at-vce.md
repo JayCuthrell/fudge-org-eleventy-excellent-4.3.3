@@ -4,8 +4,19 @@ description: 'VCE year 1'
 permalink: /archive/my-first-year-at-vce/
 title: My First Year at VCE
 tags: [VCE and Dell]
+faq:
+- question: What is the core ethos of the VCE team regarding change?
+  answer: The VCE team ethos is that they eat change for breakfast, lunch, dinner,
+    and snacks in between.
+- question: What specific roles is the VCE team in Research Triangle Park, NC, currently
+    hiring for?
+  answer: The VCE team in Research Triangle Park is aggressively hiring for Software
+    Engineers and Software QA Test Engineers.
+- question: What is the primary focus area for the software engineering roles at VCE?
+  answer: The software engineering roles are focused on orchestration, which involves
+    building on ITIL best practices and disciplines to define consistent, repeatable
+    processes.
 ---
-
 *“We eat change for breakfast, lunch, dinner, and snacks in between” — VCE team ethos*
 
 A year ago today was [my first day](https://fudge.org/archive/private-clouds-ahead/) at what would become VCE.

@@ -3,8 +3,27 @@ date: 2017-01-03 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-six/
 title: Converged Thoughts Six
+faq:
+- question: What security risk currently exists regarding boarding passes and luggage
+    tags?
+  answer: Researchers have found that ID codes printed on boarding passes and luggage
+    tags for approximately 90% of flights allow hackers to access a traveler's personal
+    information, steal reservations, and potentially gain access to other sensitive
+    data.
+- question: How does the author characterize the current state of modernization in
+    airline travel systems?
+  answer: While modernization efforts are underway, the author notes that these results
+    are not currently realized. Many systems remain legacy-based, still relying on
+    outdated technology like paper forms and brittle IVR (Interactive Voice Response)
+    functions.
+- question: What is the author's outlook on the future of air travel innovation and
+    convergence?
+  answer: The author predicts that innovation will be driven by large companies acquiring
+    smaller ones, such as Google's ownership of ITA or SAP's acquisition of Concur/TripIt.
+    Future convergence will likely focus on simplifying consumer workflows, integrating
+    AI travel arrangers, and making security considerations a part of the traveler's
+    personal preferences.
 ---
-
 Broken Wings
 
 [Mr. Mister - Broken Wings - YouTube](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=nKhN1t_7PEY)

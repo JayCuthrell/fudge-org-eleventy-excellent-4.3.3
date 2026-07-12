@@ -3,9 +3,23 @@ date: 2022-01-03 00:00:00+00:00
 description: ''
 permalink: /archive/looking-for-looking-for/
 title: Looking For Looking For
+faq:
+- question: What does the author suggest is the best way to improve your odds of finding
+    a job compared to just applying through applicant tracking systems?
+  answer: The author suggests that instead of relying on applicant tracking systems,
+    which have very low success rates, you should talk to people and leverage your
+    network to connect with the right individuals.
+- question: Why does the author discourage relying solely on applicant tracking systems
+    when job hunting?
+  answer: The author explains that applying through these systems is similar to buying
+    a lottery ticket, noting that in the realm of knowledge work, the odds of success
+    are typically between 1 in 1,000 or 1 in 10,000.
+- question: How can LinkedIn search parameters be used to find recent job openings
+    within one's network?
+  answer: The author recommends searching for keywords like 'hiring' or 'looking'
+    and filtering the results to show only posts from your 1st-degree connections
+    that were posted within the last 24 hours.
 ---
-
-
 Happy New Year!
 
 Over the past few months I’ve been catching up with peers. Some are at their same companies, others were just starting new roles, and a few asked me a simple question as they are looking for something new in their career.

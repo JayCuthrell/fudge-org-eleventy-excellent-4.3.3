@@ -3,12 +3,16 @@ title: "🌶️ Welcome to Hot Fudge Sunday"
 permalink: "/archive/welcome-to-hot-fudge-sunday/"
 description: "Welcome to the age of Fudge Factor and Hot Fudge Sunday, where deep research and syndication strategies are key."
 date: 2024-08-04 21:00:00+00:00
+faq:
+- question: What is the difference between Hot Fudge Sunday and Hot Fudge Daily?
+  answer: Hot Fudge Sunday is a free weekly newsletter published every Sunday, while
+    Hot Fudge Daily is a daily paid newsletter.
+- question: What is the 'Fudge Factor' brand transition?
+  answer: Fudge Factor is a rebrand for the website fudge.org that will focus on niche
+    posts that go very deep into specific topics.
+- question: Will I still be able to receive newsletters via RSS?
+  answer: Yes, RSS to email syndication will remain enabled for content on fudge.org.
 ---
-
-
-
-
-
 # Welcome to the age of 🌶️ Hot Fudge Sunday
 
 > 🙏 A big thank you to our sponsors. 🙏

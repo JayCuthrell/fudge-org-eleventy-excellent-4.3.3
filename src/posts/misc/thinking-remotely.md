@@ -3,9 +3,26 @@ date: 2020-09-27 00:00:00+00:00
 description: Thoughts on remote work
 permalink: /archive/thinking-remotely/
 title: Thinking Remotely
+faq:
+- question: What are some ways to maintain a social work environment while working
+    remotely?
+  answer: You can maintain social interactions by scheduling virtual lunches via tools
+    like Zoom or Lunchclub AI, and by utilizing ChatOps tools such as Slack, Microsoft
+    Teams, or Discord to create dedicated channels for casual conversation and banter
+    similar to an office break room.
+- question: How can employees improve their home network performance for work?
+  answer: To improve network performance, employees should check if their company
+    offers stipends for home office expenses to purchase a better router, utilize
+    split-tunnel VPNs, switch to SaaS platforms like G Suite or Microsoft Office 365,
+    install a pi-hole for DNS-level ad blocking, and set up a personal dashboard on
+    Down Detector to monitor service statuses.
+- question: What techniques does the author suggest for maintaining a work-life balance
+    while working from home?
+  answer: The author suggests owning your calendar to protect time for yourself, strictly
+    enforcing hard stops for meetings, using delayed email delivery to respect colleagues'
+    off-hours, and ensuring that you actually take your earned vacation days, even
+    if they are taken as stay-cations.
 ---
-
-
 I’ve had a chance to think more about the past few months that for many might seem as though it has lasted for years not just months. This post is about thinking remotely.
 
 First, I want to be clear that I’m incredibly *fortunate* and *privileged* to be able to even had the spare time to think let alone write this post. See also: It’s easy for me to say this as a long time technology consultant that has spent the majority of my career in telecommunications as well as information and communications technology (ICT) being a “road warrior” operating far outside of traditional office settings.

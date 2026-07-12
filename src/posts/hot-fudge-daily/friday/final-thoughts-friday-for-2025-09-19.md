@@ -3,8 +3,15 @@ title: "✅ Final Thoughts Friday for 2025-09-19"
 permalink: "/archive/final-thoughts-friday-for-2025-09-19/"
 description: "The comeback of tech IPOs"
 date: 2025-09-19
+faq:
+- question: What was considered the biggest story in tech this week?
+  answer: The biggest story this week was the return of tech IPO activity.
+- question: When did Pattern Group (PTRN) have its IPO?
+  answer: Pattern Group (PTRN) had its IPO on September 19, 2025.
+- question: Which tech companies had an IPO in the month of June 2025?
+  answer: The tech companies that had an IPO in June 2025 were Chime (CHYM) on June
+    12 and Circle Internet Group (CRCL) on June 5.
 ---
-
 The biggest story this week was the return of tech IPO activity.
 
 https://www.techmeme.com/250919/p18#a250919p18

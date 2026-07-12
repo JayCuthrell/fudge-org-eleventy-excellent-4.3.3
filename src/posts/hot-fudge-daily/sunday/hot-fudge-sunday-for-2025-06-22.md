@@ -3,12 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-22"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-22/"
 description: "NexusTek wins two Pax8 awards, and I&#39;m gearing up for my first vacation since 2024!"
 date: 2025-06-22 15:00:00+00:00
+faq:
+- question: What honors did NexusTek receive at the Pax8 Beyond 2025 Partner Awards?
+  answer: 'NexusTek earned two top honors: the Peak Performance – USA award and the
+    Microsoft Copilot MVP award.'
+- question: 'What is the purpose of the ''Alumni'' section in the #OpenToWork Weekly
+    segment?'
+  answer: The Alumni section is for individuals in the author's network who have successfully
+    transitioned to their next career adventure.
+- question: What are some of the key takeaways from the author's notes regarding cyber
+    talent in the military?
+  answer: Key takeaways include that 77% of youth are ineligible to serve, the importance
+    of the 'propensity to serve,' and that more flexible pathways—such as reducing
+    the time from civilian to Major from 10 years to 6 months—are being utilized to
+    draw cyber and intelligence talent from the industry.
 ---
-
-
-
-
-
 This week continues our new shortened format. Next week will be a shorter vacation edition of 🌶️ Hot Fudge Sunday.
 
 {{ subscribe_form }}

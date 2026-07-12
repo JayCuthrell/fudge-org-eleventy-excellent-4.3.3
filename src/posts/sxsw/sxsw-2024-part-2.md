@@ -3,9 +3,20 @@ title: "SXSW 2024 Days 4-9"
 description: 'My end of day notes from SXSW 2024 Days 4-9'
 date: 2024-03-17
 tags: [quantum]
+faq:
+- question: What is the author's professional status following SXSW 2024?
+  answer: The author is currently looking for their next career adventure and invites
+    interested parties or professional connections to reach out via their contact
+    page.
+- question: What is the significance of materials science mentioned in the post?
+  answer: Materials science was a prominent theme at SXSW 2024, appearing in sessions
+    such as Amy Webb's talk and discussions regarding quantum leaps in timing, where
+    it relates to the miniaturization of precision clocks and device subassemblies.
+- question: What is Delta Sync, according to the blog post?
+  answer: Delta Sync is an initiative by Delta Airlines, supported by Viasat's Ka-band
+    GEO satellite-based services, which will offer free inflight internet access as
+    part of a broader vision for inflight entertainment and connectivity.
 ---
-
-
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)
 > See also: [SXSW 2024 Days 1-3](/archive/sxsw-2024-days-1-3/)
 > See also: [SXSW 2024 Days 4-9](/archive/sxsw-2024-days-4-9/)

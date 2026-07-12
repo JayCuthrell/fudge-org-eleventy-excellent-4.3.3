@@ -4,8 +4,16 @@ description: 'VCE year 9'
 date: 2019-10-18 00:00:00+00:00
 permalink: /archive/my-ninth-year-at-vce/
 tags: [VCE and Dell]
+faq:
+- question: What is the current status of the author's relationship with VCE?
+  answer: The author is no longer part of VCE, and any remaining references to VCE
+    are considered deprecated and purely cosmetic.
+- question: How many years has the author been with Dell Technologies?
+  answer: According to the terms of the concurrent nested mergers, the author has
+    been with Dell Technologies for nine years.
+- question: What new product did the author's team launch on November 12, 2019?
+  answer: The team launched a new product called PowerOne Autonomous Infrastructure.
 ---
-
 The traditional one year blog post continues but the *vce* in the URL slug will change. The year since my last work related update would best be described one door closing and another door opening.
 
 As of this update, I’m no longer considered part of VCE and VCE references from here on are simply an alias or convention that is essentially deprecated and purely cosmetic.

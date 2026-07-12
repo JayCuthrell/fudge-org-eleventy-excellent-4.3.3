@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2025-04-28"
 permalink: "/archive/markets-monday-for-2025-04-28/"
 description: "This edition highlights key stock indicators and market movements from Yahoo Finance for the week."
 date: 2025-04-29 03:05:28.641158+00:00
+faq:
+- question: What tool does the author use to track market indicators?
+  answer: The author uses the Yahoo Finance screener to track key market indicators.
+- question: What specific filters are applied to the Yahoo Finance screener in the
+    post?
+  answer: The filters include a Price Change greater than 4%, United States region,
+    Mid to Mega cap market capitalization, Price greater than or equal to 5, Volume
+    greater than 15,000, and a specific selection of Technology-related sectors and
+    industries.
+- question: How often does the author update the market snapshot?
+  answer: The author provides a snapshot through the lens of the closing bell every
+    Monday.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

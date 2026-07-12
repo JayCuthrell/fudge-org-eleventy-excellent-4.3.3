@@ -3,11 +3,20 @@ title: "🌶️ Hot Fudge Sunday for 2025-04-27"
 permalink: "/archive/hot-fudge-sunday-for-2025-04-27/"
 description: "This week highlighted NexusTek&#39;s expansions, alumni successes, and market insights!"
 date: 2025-04-28 01:44:33.247326+00:00
+faq:
+- question: 'What is the purpose of the Alumni section in the #OpenToWork list?'
+  answer: 'The Alumni section was added to recognize and celebrate individuals who
+    have successfully transitioned from the #OpenToWork list to their next career
+    adventure.'
+- question: What criteria does the author use to filter stocks in the Yahoo Finance
+    screener for Market Monday?
+  answer: The author filters for United States companies in the Technology sector
+    with a Market Cap of Mid, Large, or Mega; a Price greater than or equal to 5;
+    a % Change in Price greater than 4; and a Volume greater than 15,000.
+- question: 'Why did the author simplify the #OpenToWork list format this week?'
+  answer: The author decided to simplify the list because the LinkedIn About section
+    updates were not being updated in a timely fashion.
 ---
-
-
-
-
 ## Recap
 
 This week was a big week! 🎉 

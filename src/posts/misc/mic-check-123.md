@@ -2,8 +2,18 @@
 title: "Mic Check 123"
 description: ''
 date: 2019-03-11 00:00:00+00:00
+faq:
+- question: How has the technology used for stage snakes changed in recent years?
+  answer: Engineers now use analog-digital conversion to replace thick, heavy bundles
+    of cables with low-cost Ethernet cables.
+- question: What is the benefit of using Wi-Fi for live sound mixing?
+  answer: Using Wi-Fi allows the sound engineer to move freely throughout the room,
+    as the console can be controlled via a tablet from anywhere the Wi-Fi signal reaches.
+- question: How can a sound engineer communicate with the band while using a mobile
+    tablet to mix sound?
+  answer: The sound engineer can use a rugged, wireless headset microphone to communicate
+    with the band through the monitors while moving around.
 ---
-
 Just over 30 years ago I was enamored with the playing and recording of live music. Life back then involved analog recording rigs, tapes, heavy sound mixers, clunky snakes, speakers, monitors, amps, mics, and the investment of time to get it all right.
 
 This week I learned a little more about what has changed in the past 20 years.

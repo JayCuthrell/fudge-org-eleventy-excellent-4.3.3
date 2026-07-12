@@ -3,11 +3,18 @@ title: "📈 Markets Monday for 2024-11-25"
 permalink: "/archive/markets-monday-for-2024-11-25/"
 description: "This Market Monday highlights a surge in tech stocks and tips for tracking market trends."
 date: 2024-11-26 06:44:57.944552+00:00
+faq:
+- question: What source does the author use to track key market indicators each week?
+  answer: The author uses a simple Yahoo Finance webpage and the Yahoo Applied Filters
+    for Stocks screener to track market indicators.
+- question: What are the specific filters used for the market heatmap?
+  answer: The filters include a percentage change in price greater than 4, United
+    States region, Mid/Large/Mega Market Cap, price greater than or equal to 5, volume
+    greater than 15,000, and specific technology sectors and industries.
+- question: How did the market performance compare between last week and this week?
+  answer: The author noted that there were double the amount of green indicators visible
+    in the heatmap this week compared to last week.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

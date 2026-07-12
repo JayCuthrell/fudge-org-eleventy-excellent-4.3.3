@@ -2,6 +2,19 @@
 title: Uh Zoom ZPR
 description: A look at Zero-Trust Packet Routing (ZPR)
 date: 2023-10-01
+faq:
+- question: What is the primary goal of Zero-Trust Packet Routing (ZPR)?
+  answer: The goal of ZPR is to create an identity-aware network security layer, known
+    as a ZPRnet, which allows organizations to enforce uniform security policies across
+    all their systems and users regardless of whether they are on-premises, in clouds,
+    or using remote connections.
+- question: How are security policies determined within a ZPRnet?
+  answer: Security policies in ZPR are based on the authenticated identity and attributes
+    of both the communicators and the communicated data.
+- question: Where can one find more information about Zero-Trust Packet Routing?
+  answer: 'Additional information can be found at the official website zpr.org, the
+    ZPR publication page on PubPub, or by reviewing the published paper via its Digital
+    Object Identifier (DOI): 10.21428/60abf910.5e8e3001.'
 ---
 This week we take a look at Zero-Trust Packet Routing (ZPR).
 

@@ -3,8 +3,20 @@ date: 2022-07-25 00:50:43.864000+00:00
 description: ''
 permalink: /archive/get-it-all-while-you-can/
 title: Get It All While You Can
+faq:
+- question: What concept has the author decided to industrialize based on reader feedback
+    regarding data repatriation?
+  answer: The author has decided to industrialize the concept of repatriation from
+    edge to core to cloud as 'continuous commensurate repatriation'.
+- question: What are the primary factors that the author identifies as limiters when
+    moving workloads between the edge, core, and cloud?
+  answer: The author notes that security and finance concerns are the primary limiters
+    to finding an answer for moving workloads between the edge, core, and cloud.
+- question: Besides the traditional '6 Rs' of cloud migration, what four additional
+    'R's' does the author suggest considering for future data center modalities?
+  answer: The author suggests that four additional 'R's' to consider are Relative,
+    Reallocate, Readied, and Realistic.
 ---
-
 *[Tesla - Ez Come Ez Go (1986)](https://www.youtube.com/watch?v=a40BIowhEOA)*
 
 

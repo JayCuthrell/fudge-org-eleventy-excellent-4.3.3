@@ -3,11 +3,18 @@ title: "📈 Markets Monday for 2024-12-16"
 permalink: "/archive/markets-monday-for-2024-12-16/"
 description: "I&#39;m diving back into Bluesky while sharing my Market Monday insights from Yahoo Finance."
 date: 2024-12-17 01:48:16.986182+00:00
+faq:
+- question: How can users access a customized heat map view on Yahoo Finance?
+  answer: Users can bookmark their own heat map view by using the Yahoo Applied Filters
+    for Stocks screener with specific settings for % Change in Price, Region, Market
+    Cap, Price, Volume, Sector, and Industry.
+- question: What is the author's primary method for analyzing Market Monday?
+  answer: The author analyzes Market Monday by looking at a key indicator from a Yahoo
+    Finance webpage through the lens of the closing bell on Monday.
+- question: Where can readers follow the author and Hot Fudge Daily on social media?
+  answer: Readers can follow the author at https://bsky.app/profile/cuthrell.com and
+    Hot Fudge Daily at https://bsky.app/profile/fudge.org on Bluesky.
 ---
-
-
-
-
 Housekeeping note: I’m experimenting with Bluesky (again)
 
 Follow me on Bluesky:

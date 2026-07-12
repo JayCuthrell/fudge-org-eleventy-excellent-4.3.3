@@ -3,9 +3,22 @@ date: 2010-06-03 00:00:00+00:00
 description: ''
 permalink: /archive/security-elements-everywhere/
 title: Security Elements Everywhere
+faq:
+- question: What is the 'SEE' model proposed by the author?
+  answer: 'SEE stands for Security Elements Everywhere, a proposed sharing settings
+    system that would allow users to categorize content visibility into five specific
+    tiers: Public, Facebook, Friends Only, Friends of Friends, and Private.'
+- question: Besides granular sharing settings, what visual feature does the author
+    suggest to improve transparency?
+  answer: The author suggests that Facebook should pictorially show users the specific
+    exposure counts for their information, detailing exactly how many people or which
+    groups will see their posts based on their chosen privacy settings.
+- question: Why does the author feel that Facebook’s current design philosophy is
+    problematic regarding privacy?
+  answer: The author believes Facebook's goal is to force opt-out sharing, which contradicts
+    user privacy and results in the platform potentially sharing private information
+    with search engines under the guise of iterative design improvements.
 ---
-
-
 *Diclosure: I donated to Diaspora.*
 
 I’ve been asked the same question a few times these past few weeks

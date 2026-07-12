@@ -2,8 +2,22 @@
 title: "Summary Solstice"
 description: "A fork in the road for summaries approaches"
 date: 2024-06-23
+faq:
+- question: What is happening to the Hot Fudge Daily weekly digest?
+  answer: This week's edition will be the final weekly digest in the series. Moving
+    forward, the content will be incorporated into the 'Spicy Edition Sunday' newsletter
+    as free weekly content to streamline the author's workflow.
+- question: Why is the author planning to add the Google Analytics 4 tag back to their
+    website?
+  answer: The author intends to use the statistics to measure how 'Fudge Sunday' and
+    'Hot Fudge Daily' contribute to 'Cuthrell Consulting,' as strong analytics are
+    important for attracting potential newsletter sponsorships.
+- question: How can readers participate in the new 'Fudge Sunday Reader Postcards'
+    project?
+  answer: Readers can send a postcard to the author; the author plans to scan the
+    picture side of received postcards and feature them in a gallery, ensuring suitable
+    redactions and anonymity are applied.
 ---
-
 This week is the last weekly digest of [Hot Fudge Daily](https://fudge.org). Details on why are below. 👇
 
 ## Housekeeping

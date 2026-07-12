@@ -3,11 +3,18 @@ title: "📈 Markets Monday for 2024-08-26"
 permalink: "/archive/markets-monday-for-2024-08-26/"
 description: "Flip a coin. The tech press predicts NVIDIA earnings will impact future tech market... or maybe not."
 date: 2024-08-26 22:26:22.177397+00:00
+faq:
+- question: When are NVIDIA's earnings scheduled to be released?
+  answer: NVIDIA's earnings are scheduled for Wednesday, August 28, 2024.
+- question: What tool does the author recommend for tracking market data?
+  answer: The author recommends using the Yahoo Finance screener to create and bookmark
+    custom heat map views.
+- question: What criteria are used for the Yahoo Finance stock screener mentioned
+    in the post?
+  answer: The criteria include a price change greater than 4%, United States region,
+    Mid/Large/Mega Market Cap, price greater than or equal to 5, volume over 15,000,
+    and specific technology sectors and industries.
 ---
-
-
-
-
 According to the tech press, the future of the tech market in Markets Monday will hinge upon NVIDIA earnings on Wednesday August 28, 2024… if you believe the tech press. I kind of don’t but here we go.
 
 [![NVIDIA is up a lot over a long time](https://assets.buttondown.email/images/f5c51ef4-a50f-4a63-a8ef-705cbedf9067.png?w=960&fit=max)](https://finance.yahoo.com/quote/NVDA/)

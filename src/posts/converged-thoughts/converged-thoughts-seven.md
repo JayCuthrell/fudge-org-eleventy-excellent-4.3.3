@@ -3,8 +3,20 @@ date: 2017-01-04
 description: ''
 permalink: /archive/converged-thoughts-seven/
 title: Converged Thoughts Seven
+faq:
+- question: Why does the author prefer using GitHub Pages for their blog?
+  answer: The author prefers GitHub Pages due to its low cost and near bulletproof
+    reliability, allowing for flat file rendering without needing their direct involvement.
+- question: What is the author's opinion on using WordPress for blogging?
+  answer: The author considers WordPress to be one of their worst blogging experiments,
+    noting that they enjoyed maintaining the LAMP stack and WordPress more than they
+    actually enjoyed writing.
+- question: What does the author believe the future of activity stream convergence
+    will involve?
+  answer: The author believes future convergence will provide a way to look back with
+    rich context and a way to look ahead, likely supported by behind-the-scenes AI
+    or ML and universal standards for data enclosures.
 ---
-
 Looking Back & Looking Ahead
 ============================
 

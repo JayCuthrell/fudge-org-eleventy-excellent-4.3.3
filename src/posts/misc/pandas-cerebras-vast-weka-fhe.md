@@ -1,10 +1,22 @@
 ---
 title: "Interoperability and Convergence Ahead"
 description: 'A look at Polars, Cerebras, VAST, Weka, FHE, and much more.'
-date: 2024-01-14 
+date: 2024-01-14
+faq:
+- question: What is the primary prediction regarding the cloud operating model (COM)
+    by 2026?
+  answer: Gartner predicts that within two years, three in four operations leaders
+    will use cloud platform foundations as the underpinning for digital transformation.
+- question: What two factors does the author identify as essential for organizations
+    to thrive in the coming years?
+  answer: The author states that organizations will need to see both interoperability
+    and convergence to succeed.
+- question: What does the author suggest will be required for organizations that currently
+    follow a 'cloud only' strategy?
+  answer: The author suggests that any current provider with a 'cloud only' strategy
+    will need to adjust their roadmaps, M&A strategy, and corporate development to
+    contemplate edge-to-core-to-cloud infrastructure.
 ---
-
-
 This week is a potpourri of topics. Buckle up and let's go down the rabbit hole(s).
 
 ## Getting Informed

@@ -3,9 +3,20 @@ title: "🔥 Hot Takes Tuesday for 2024-09-10"
 permalink: "/archive/hot-takes-tuesday-for-2024-09-10/"
 description: "This week, big funding numbers hint at exciting shifts in AI and tech investments."
 date: 2024-09-11 05:40:20.216970+00:00
+faq:
+- question: What categories of business news does the author highlight as having significant
+    numbers this week?
+  answer: The numbers are spread across funds, funding, and M&A.
+- question: How does the author characterize the current evolution of agentic A.I.?
+  answer: The author notes that agentic A.I. is shifting toward being repackaged as
+    'useful' A.I., with current funding levels reflecting the burn rate needed to
+    meet expectations.
+- question: What is the author's observation regarding the impact of silicon supply
+    chain resilience?
+  answer: The author believes that the balkanization and supply chain resilience around
+    silicon will change the understanding of the phrase 'cheap as chips' and influence
+    how far intelligence can be pushed to the edge of the network.
 ---
-
-
 The numbers this week are big numbers.
 
 The numbers are also spread across funds, funding, and M&A.

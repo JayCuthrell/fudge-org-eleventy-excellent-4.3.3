@@ -2,8 +2,21 @@
 title: Thanks Again in 2023
 description: A quick thank you note and links that caught my eye this week
 date: 2023-11-19
+faq:
+- question: Which tools is the author planning to use to tag over 200 posts?
+  answer: The author intends to try out spaCy, yake, and KeyBERT for tagging posts
+    before the next newsletter.
+- question: What trend has the author observed regarding social media links in the
+    newsletters they read?
+  answer: The author has noticed a decline in embedded links to Twitter/X in recent
+    months and has not seen a corresponding rise in links from platforms like Bluesky,
+    Threads, or Mastodon.
+- question: Why does the author suggest that Twitter/X links might be appearing less
+    frequently?
+  answer: The author suggests it may be due to the difficulty or unreliability of
+    embedding social content, noting that tweets may not always appear as rich media,
+    often forcing users to rely on screenshots instead.
 ---
-
 # Getting Informed
 
 One of my goals before the next newsletter is to tag for 200+ posts. I'll probably try out [spaCy](https://github.com/explosion/spaCy), [yake](https://github.com/LIAAD/yake) and [KeyBERT](https://github.com/MaartenGr/KeyBERT).

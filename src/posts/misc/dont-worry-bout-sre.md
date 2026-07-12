@@ -3,8 +3,23 @@ date: 2022-11-28 00:42:04.765000+00:00
 description: ''
 permalink: /archive/dont-worry-bout-sre/
 title: Don't Worry 'Bout SRE
+faq:
+- question: How does Google define Site Reliability Engineering (SRE)?
+  answer: According to Google, SRE is what you get when you treat operations as if
+    it is a software problem.
+- question: When is human intervention typically required for cloud support?
+  answer: Human intervention is typically required when a support case or ticket is
+    successfully opened after meeting necessary triage requirements. It is also required
+    more frequently when automation adoption is low and relies on subjective, qualitative
+    observation or individual decision-making.
+- question: Is it realistic to worry that a platform like Twitter will go down without
+    SRE support?
+  answer: It is reasonable to take precautions for any platform feature that assumes
+    a long-term reduction in SRE support. While massive outages are less likely than
+    they were in the past, risks include the inability to pay bills, staff turnover,
+    and a shift in company priorities that may lead to the degradation or deprecation
+    of existing features.
 ---
-
 Music: [*Frank Sinatra - “Don’t Worry ‘Bout Me” (1966)*](https://www.youtube.com/watch?v=twoRSUbHW-k)
 
 Getting Informed

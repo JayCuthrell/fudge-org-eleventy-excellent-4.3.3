@@ -3,9 +3,14 @@ title: "🔥 Hot Takes Tuesday for 2025-07-15"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-15/"
 description: "AI firms from autonomous driving to ethical video models rake in funding"
 date: 2025-07-15 23:05:20.217+00:00
+faq:
+- question: Which company received the largest amount of funding listed in the post?
+  answer: Thinking Machines Lab, Mira Murati's AI startup, received $2B in funding.
+- question: What is the primary focus of Moonvalley?
+  answer: Moonvalley focuses on developing ethical AI video models.
+- question: How much funding did Portola and Motor AI each receive?
+  answer: Both Portola and Motor AI received $20M in funding.
 ---
-
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 - [Motor AI](https://www.techmeme.com/250714/p36#a250714p36) (autonomous driving software): **$20M**

@@ -2,9 +2,20 @@
 title: "Mind Mapping and A.I."
 description: "A look at what's on my mind as a map with A.I."
 date: 2024-05-19
+faq:
+- question: What is the primary function of a mind map as described in the post?
+  answer: A mind map is a visual tool that typically begins with a specific subject
+    or primary topic, which then branches out into subtopics and subtopics of subtopics
+    to organize information.
+- question: Which software does the author use for their personal knowledge management
+    and Zettelkasten?
+  answer: The author uses Obsidian to manage their knowledge base and has been expanding
+    their vaults since 2021.
+- question: What is the stated goal of A.I. agents according to the blog post?
+  answer: The goal of A.I. agents is to harness technologies like personal knowledge
+    graphs, vector databases, synthetic data, and GenAI to provide humans and other
+    A.I. agents with API-accessible applications that offer high-utility value.
 ---
-
-
 This week we take a look at what's on my mind as a map.
 
 ## Housekeeping

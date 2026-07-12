@@ -2,9 +2,16 @@
 title: Nuance, Repatriation, and iPaaS
 description: A look at the speech to text, edge core cloud directions, and open source iPaaS
 date: 2023-10-15
+faq:
+- question: What is the accessibility feature for speech to text called on Apple devices?
+  answer: Apple refers to its speech to text accessibility feature as Dictate or Dictation.
+- question: Who acquired Nuance in 2022?
+  answer: Microsoft completed the acquisition of Nuance in early 2022.
+- question: What is Activepieces?
+  answer: Activepieces is an open source iPaaS (integration platform as a service)
+    project that aims to provide features and functionality similar to tools like
+    Zapier, Tray, MuleSoft, and Boomi.
 ---
-
-
 This week we take a look at speech to text, edge core cloud directions, and open source iPaaS.
 
 The format this week is slightly different because I managed to injure myself in such a way that typing is not joyful. Much of what you're reading here is speech to text — courtesy of Apple.

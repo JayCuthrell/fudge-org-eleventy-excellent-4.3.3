@@ -3,8 +3,21 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-31"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-31/"
 description: "NexusTek, NC TECH, AI, and OpenToWork Alumni"
 date: 2025-08-31
+faq:
+- question: What recent professional updates did the author share regarding their
+    career?
+  answer: The author joined the NC TECH Board of Advisors and released a new episode
+    of the NexusTek Winners Circle.
+- question: What is the author's view on using AI for fast-food drive-thru ordering?
+  answer: The author believes that in 2025, voice-based AI ordering in drive-thrus
+    remains a significant challenge, noting that human-operated mobile apps are currently
+    more effective than automated voice systems.
+- question: 'What is the purpose of the #OpenToWork section in the newsletter?'
+  answer: The section serves to highlight members of the author's LinkedIn network
+    who are currently looking for new career opportunities, as well as providing an
+    'Alumni' list for those who have successfully transitioned to their next career
+    adventure.
 ---
-
 ## Last Week
 
 Last week saw a new [NexusTek Winners Circle](https://www.brighttalk.com/webcast/20887/651366) episode dropped, I joined the [NC TECH Board of Advisors](https://www.linkedin.com/posts/north-carolina-technology-association_nctechadvisors-activity-7367262400196005889-d8Gb), and more [NexusTek Insights](https://nexustek.com/insights/?utm_campaign=Blog%20Promotion&utm_source=email&utm_medium=newsletter&utm_term=nexustek&utm_content=jaycuthrell).

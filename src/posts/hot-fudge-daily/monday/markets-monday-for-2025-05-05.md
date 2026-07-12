@@ -3,11 +3,20 @@ title: "📈 Markets Monday for 2025-05-05"
 permalink: "/archive/markets-monday-for-2025-05-05/"
 description: "This week, I recap market movements with insights from Yahoo Finance&#39;s tech sector."
 date: 2025-05-06 04:31:24.882098+00:00
+faq:
+- question: What tool does the author use to track market indicators for their weekly
+    analysis?
+  answer: The author uses the Yahoo Finance stock screener to look at key market indicators.
+- question: Which specific sector does the author monitor for their Market Monday
+    analysis?
+  answer: The author monitors the Technology sector.
+- question: What are some of the applied filters used in the Yahoo Finance screener
+    mentioned in the post?
+  answer: Some of the filters include a minimum % change in price of greater than
+    4, a United States region, a market cap of Mid, Large, and Mega, a minimum price
+    of 5, a volume greater than 15,000, and a specific selection of technology-related
+    industries.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

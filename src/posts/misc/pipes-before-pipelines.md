@@ -2,8 +2,26 @@
 title: Pipes Before Pipelines
 description: A look at a recent love letter to Yahoo Pipes, the rise of iPaaS, DataOps, and a lowcode nocode update
 date: 2023-12-17
+faq:
+- question: What was ReadWriteHack, and what was the author's role?
+  answer: ReadWriteHack was a channel on ReadWriteWeb (now ReadWrite) where the author
+    would read about new tools or concepts and then write short "hacks" with links
+    to try them out. Readers were encouraged to participate by reading, writing, and
+    "hacking" around.
+- question: What was Yahoo Pipes, and what was its significance for future technology?
+  answer: Yahoo Pipes was a tool that the author wrote about in late 2010, which eventually
+    went offline in late 2015. It was significant because it "glimpsed into a lowcode
+    nocode future of user friendlier integration platform as a service (iPaaS)" and
+    outlined a technique now taken for granted using tools like Grammarly or Eleventy's
+    Inclusive Language Plugin.
+- question: How are modern data pipelines, such as in Google Maps, leveraging A.I.
+    today and in the future?
+  answer: Modern Google Maps experiences increasingly leverage A.I. to provide a preview
+    of directions, exemplified by its "Immersive View" feature. A.I. claims are integrated
+    into product marketing and IT processes for data enrichment, with a promise of
+    future "copilots" that move beyond simple autocomplete, such as for tasks in Microsoft
+    Excel.
 ---
-
 Years ago, I was a [writer for ReadWriteWeb](https://readwrite.com/author/jay-cuthrell/) which is now known as ReadWrite. The channel I wrote for on the site was ReadWriteHack.
 
 As the name implies, I would read about a new tool or concept then I would write a short "hack" with links to try out the tool or concept. Readers were encouraged to read, write, and "hack" around too.

@@ -3,11 +3,21 @@ title: "📈 Markets Monday for 2025-04-14"
 permalink: "/archive/markets-monday-for-2025-04-14/"
 description: "This edition reviews key market indicators and highlights significant technology stocks for the week."
 date: 2025-04-15 04:16:51.016077+00:00
+faq:
+- question: What is the source of the key indicator used for Market Monday?
+  answer: The key indicator is taken from a simple Yahoo Finance webpage each week.
+- question: What specific filter settings are suggested for the Yahoo Applied Filters
+    for Stocks screener?
+  answer: 'The suggested filters include: % Change in Price > 4, Region set to United
+    States, Market Cap set to Mid, Large, and Mega Cap, Price >= 5, Volume > 15000,
+    Sector set to Technology, and a specific list of industries including Software,
+    Computer Hardware, and Semiconductors.'
+- question: How does the author determine if the market is moving based on their technology
+    sector view?
+  answer: The author observes how many companies appear in their intraday view; a
+    moving market usually produces around a dozen interesting companies, while a less
+    active market results in a smaller handful.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

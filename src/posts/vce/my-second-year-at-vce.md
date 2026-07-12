@@ -4,8 +4,22 @@ description: 'VCE year 2'
 permalink: /archive/my-second-year-at-vce/
 title: My Second Year at VCE
 tags: [VCE and Dell]
+faq:
+- question: How has the author's travel schedule changed during their second year
+    at VCE?
+  answer: The author's travel became more intense during their second year, with a
+    significant increase in international trips to countries including Australia,
+    the United Kingdom, Japan, Singapore, Brazil, and Saudi Arabia.
+- question: What notable features did the author observe at the VCE office in RTP?
+  answer: The author noted the presence of pair programming/extreme programming rooms,
+    as well as ample meeting space and designated 'touch down' spots for mobile employees.
+- question: What four points does the author wish tech bloggers and their editors
+    would understand about VCE?
+  answer: 'The author wants them to understand that: 1) VCE is a successful company
+    in every meaningful metric, 2) customers are realizing the benefits of Vblock
+    Systems, 3) partners are committed to providing converged infrastructure experiences,
+    and 4) investors are committed to the company''s success.'
 ---
-
 > *You are witnessing the transformation of an entire industry.*
 > 
 > 

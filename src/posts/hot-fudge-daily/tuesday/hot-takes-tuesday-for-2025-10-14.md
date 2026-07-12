@@ -3,8 +3,16 @@ title: "🔥 Hot Takes Tuesday for 2025-10-14"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-14/"
 description: "The past week of AI related funding from insurance to devices"
 date: 2025-10-14
+faq:
+- question: Which company received the highest amount of funding mentioned in the
+    post?
+  answer: Oura, which develops AI-insights wearables, received $900M.
+- question: What is the primary function of Flow Engineering?
+  answer: Flow Engineering is an AI-native company focused on collaborative hardware
+    development.
+- question: How much funding did the AI-first Slack competitor, Glue, secure?
+  answer: Glue secured $20 million in funding.
 ---
-
 💰 Funding continues to favor AI flavor
 
 * [ClaimSorted](https://www.techmeme.com/251013/p15#a251013p15) (AI for insurance claims): **$13.3M**

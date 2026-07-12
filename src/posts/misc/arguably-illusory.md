@@ -2,9 +2,20 @@
 title: "Arguably Illusory"
 description: "A look at times when A.I. hype might outpace reality"
 date: 2024-04-07
+faq:
+- question: What does the author suggest the acronym A.I. may represent in the current
+    tech cycle?
+  answer: The author suggests that in the current cycle, the acronym A.I. may simply
+    stand for 'Arguably Illusory'.
+- question: What historical service does the author compare modern A.I. to?
+  answer: The author compares modern A.I. to the Amazon Mechanical Turk, a service
+    launched nearly 20 years ago that relies on humans to perform tasks that may be
+    mistaken for automation.
+- question: What is Human-in-the-loop (HITL) machine learning according to the post?
+  answer: HITL is described as the human training of A.I., which the author notes
+    will continue to be part of the story even when approaches may appear to be purely
+    mechanical or automated.
 ---
-
-
 This week we take a look at times when A.I. hype might outpace reality.
 
 ## Gartner Hype Cycle Says

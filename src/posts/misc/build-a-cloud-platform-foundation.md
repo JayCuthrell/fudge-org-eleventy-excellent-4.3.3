@@ -3,9 +3,21 @@ date: 2022-09-25
 description: A look at cloud platform foundations and landing zones
 permalink: /archive/build-a-cloud-platform-foundation/
 title: Build a Cloud Platform Foundation
+faq:
+- question: How does the author define developer experience (DevX/DevEx)?
+  answer: The author defines developer experience as the empathy that an organization
+    expresses for their developers to enable and empower them.
+- question: What is the definition of platform engineering provided in the post?
+  answer: Platform engineering is defined as the discipline of designing and building
+    toolchains and workflows that enable self-service capabilities for software engineering
+    organizations in the cloud-native era.
+- question: What are the four key questions digital organizations should answer regarding
+    their developer strategy?
+  answer: 'The four key questions are: Do you enable a culture that attracts developers?
+    Do you have a clear platform engineering strategy? Do you promote using a DevX/DevEx
+    minded cloud platform foundation? Do you further enrich the foundation with developer
+    goal landing zones?'
 ---
-
-
 Music: [Spandau Ballet - Foundation (1983)](https://www.youtube.com/watch?v=XbdHH-MbNrI)
 
 Getting Informed

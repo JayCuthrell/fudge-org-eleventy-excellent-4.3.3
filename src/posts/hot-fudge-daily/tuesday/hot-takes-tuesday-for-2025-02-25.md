@@ -3,8 +3,20 @@ title: "🔥 Hot Takes Tuesday for 2025-02-25"
 permalink: "/archive/hot-takes-tuesday-for-2025-02-25/"
 description: "Celebrating rural ISPs while urging big telecoms to focus on innovative strategies over lawsuits."
 date: 2025-02-26 03:06:18.026897+00:00
+faq:
+- question: What does the acronym RLEC stand for?
+  answer: RLEC stands for rural local exchange company.
+- question: What is the author's opinion on the role of independent rural operators
+    in providing internet access?
+  answer: The author has great respect for independent operators and their public-private
+    partnerships, which have provided internet access to areas that large telecom
+    providers would not have otherwise served.
+- question: What does the author suggest large telecom providers should focus on instead
+    of litigation?
+  answer: The author suggests that large telecom providers should spend more time
+    strategizing about Low Earth Orbit (LEO) technology rather than litigating entry-level
+    service tiers.
 ---
-
 Two hot takes on two stories that caught my eye on Tuesday.
 
 My early career was in telecom and ISPs. However, this was not with the large telecom companies, but with the small rural and very much fiercely independent operators. The common name for these companies was rural local exchange companies or RLECs.

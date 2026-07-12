@@ -3,9 +3,20 @@ title: "✅ Final Thoughts Friday for 2024-08-16"
 permalink: "/archive/final-thoughts-friday-for-2024-08-16/"
 description: "Four upcoming events, SXSW panel, tech news highlights, and personal updates."
 date: 2024-08-16 20:24:02.885311+00:00
+faq:
+- question: What events is the author committed to attending for the remainder of
+    2024?
+  answer: The author is attending AI Field Day 5 (Sept 11-13), Monktoberfest (Oct
+    2-4), Cloud Field Day 21 (Oct 23-25), and All Things Open (Oct 27-29).
+- question: How can readers support the author's SXSW panel?
+  answer: Readers can support the SXSW panel by registering for free and voting for
+    the panel via the provided PanelPicker link.
+- question: What is the author's perspective on the recent FTC actions regarding fake
+    reviews?
+  answer: The author notes that they stopped using Amazon for e-commerce approximately
+    10 years ago due to a lack of authentic reviews, highlighting that government
+    regulation is slow to keep up with the speed of technology.
 ---
-
-
 As a reminder, I’ve committed to four events for the remainder of this year.
 
 - [AI Field Day 5](https://techfieldday.com/event/aifd5/) in Silicon Valley September 11-13, 2024 for [Tech Field Day](https://techfieldday.com/events/)

@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2025-03-10"
 permalink: "/archive/markets-monday-for-2025-03-10/"
 description: "This week&#39;s Market Monday focuses on key technology indicators from Yahoo Finance."
 date: 2025-03-11 01:56:06.043068+00:00
+faq:
+- question: What resource does the author use to track their key market indicator?
+  answer: The author uses a simple Yahoo Finance webpage to look at their key market
+    indicator each week.
+- question: How can readers create their own custom heat map view for stock screening?
+  answer: Readers can use the Yahoo Applied Filters for Stocks screener and bookmark
+    their own view using specific settings such as region, market cap, price, volume,
+    sector, and industry.
+- question: What is the criteria used for the 'Price (Intraday)' filter in the author's
+    Yahoo screener setup?
+  answer: The criteria for the 'Price (Intraday)' filter is set to greater than or
+    equal to 5.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

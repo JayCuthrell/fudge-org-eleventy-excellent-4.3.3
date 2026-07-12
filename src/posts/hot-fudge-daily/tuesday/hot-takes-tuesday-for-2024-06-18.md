@@ -3,10 +3,21 @@ title: "Hot Takes Tuesday for 2024-06-18"
 permalink: "/archive/hot-takes-tuesday-for-2024-06-18/"
 description: "Tech giants jockey for market cap, trucking goes autonomous, materials science meets AI, and cybersecurity M&amp;A heats up."
 date: 2024-06-18 18:58:45.992931+00:00
+faq:
+- question: What is the author's expectation regarding big tech market cap and M&A
+    activity?
+  answer: The author expects to see more coverage of market cap jockeying between
+    major tech companies as they utilize stock for M&A, which will likely draw increased
+    scrutiny from the EU and US governments regarding potential antitrust disassembly.
+- question: What trend does the author predict for the cybersecurity sector?
+  answer: The author expects a higher velocity of M&A deals involving Managed Security
+    Service Providers (MSSPs) and the broader cybersecurity industry to continue throughout
+    2024.
+- question: How does the author view the current state of materials science in relation
+    to A.I.?
+  answer: The author observes that the quest for first-mover advantage in materials
+    science is currently reaching a status comparable to A.I. alchemy.
 ---
-
-
-
 # Hot Takes Tuesday for 2024-06-18
 
 Off the cuff analysis in a rapid fire format.

@@ -3,11 +3,18 @@ title: "📈 Markets Monday for 2025-05-19"
 permalink: "/archive/markets-monday-for-2025-05-19/"
 description: "This edition highlights my weekly market analysis using Yahoo Finance&#39;s key indicators."
 date: 2025-05-20 03:27:17.310758+00:00
+faq:
+- question: What source does the author use for their weekly market indicator?
+  answer: The author uses a simple Yahoo Finance webpage to view market indicators
+    each week.
+- question: What are the specific criteria for the 'Price (Intraday)' filter used
+    in the Yahoo screener?
+  answer: The Price (Intraday) filter is set to greater than or equal to 5.
+- question: How can readers create their own custom heat map view for market analysis?
+  answer: Readers can create their own view by using the Yahoo Applied Filters for
+    Stocks screener and bookmarking the configuration once they have applied their
+    preferred filters.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

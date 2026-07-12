@@ -4,8 +4,16 @@ description: 'VCE year 6'
 date: 2016-10-22 00:00:00+00:00
 permalink: /archive/my-sixth-year-at-vce/
 tags: [VCE and Dell]
+faq:
+- question: What is the current brand name following the evolution of the VCE division?
+  answer: The current brand name is Dell EMC, specifically under the Dell EMC Converged
+    Platforms and Solutions Division (CPSD).
+- question: Which products does the author consider to be iconic?
+  answer: The author considers Vblock, VxBlock, VxRack, and VxRail to be iconic.
+- question: How long has the author been with the company and where have they relocated?
+  answer: The author has been with the company for six years and has recently relocated
+    to Austin, Texas.
 ---
-
 Six years! Six weeks! That’s right. I’ve been at VCE for six years as of this update and that means I’ve been at Dell EMC for six weeks. To understand the nuance of VCE it is important to think about the history of VCE and just how far we have come… and where we are going as Dell EMC.
 
 I had hoped to push this update a few days earlier but the week has been an amazing time to connect and reconnect with my peers and several customers during the first Dell EMC World in Austin, Texas.

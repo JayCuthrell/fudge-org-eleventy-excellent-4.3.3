@@ -3,12 +3,18 @@ title: "📈 Markets Monday for 2024-09-16"
 permalink: "/archive/markets-monday-for-2024-09-16/"
 description: "This week&#39;s edition highlights must-read insights from Greg Meyer on the evolving data operations market."
 date: 2024-09-17 03:22:22.753903+00:00
+faq:
+- question: Who is the writer behind the Finding Data Operations newsletter?
+  answer: The writer behind Finding Data Operations is Greg Meyer.
+- question: What is the source used for the weekly Market Monday recap?
+  answer: The weekly Market Monday recap uses a simple Yahoo Finance webpage and the
+    Yahoo Applied Filters for Stocks screener.
+- question: What specific criteria are used in the Yahoo Finance screener for the
+    Market Monday view?
+  answer: The criteria include a greater than 4% change in price (intraday), United
+    States region, Mid/Large/Mega Market Cap, price greater than or equal to 5, volume
+    greater than 15,000, and specific technology sectors and industries.
 ---
-
-
-
-
-
 ### Reading Recommendation
 
 The data operations and RevOps market can be hard to keep up with and if you aren’t reading [Finding Data Operations](https://www.finddataops.com/), you should be. As for why, the writer behind [Finding Data Operations](https://www.finddataops.com/) is [Greg Meyer](https://www.linkedin.com/in/gregmeyer/).

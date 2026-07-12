@@ -3,8 +3,15 @@ title: "🔥 Hot Takes Tuesday for 2025-12-02"
 permalink: "/archive/hot-takes-tuesday-for-2025-12-02/"
 description: "Funding flows for AI, chips, and robotics"
 date: 2025-12-02
+faq:
+- question: Which company mentioned in the list received the highest amount of funding?
+  answer: Black Forest Labs received the highest funding amount, totaling $300 million.
+- question: What is the primary focus of the startup Axiado?
+  answer: Axiado focuses on AI server chips.
+- question: How much funding did Tutor Intelligence raise and what is their specialization?
+  answer: Tutor Intelligence raised $34 million and they specialize in AI warehouse
+    robots.
 ---
-
 💰 + 🤖 Funding for AI anything companies continues.
 
 * [Tutor Intelligence](https://www.techmeme.com/251201/p19#a251201p19) (AI warehouse robots): **$34M**

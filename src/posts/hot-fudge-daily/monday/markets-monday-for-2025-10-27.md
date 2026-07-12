@@ -3,8 +3,17 @@ title: "📈 Markets Monday for 2025-10-27"
 permalink: "/archive/markets-monday-for-2025-10-27/"
 description: "Automation, semiconductors, and communications hardware"
 date: 2025-10-27
+faq:
+- question: Which sectors showed strength in today's market performance?
+  answer: Today's market strength was concentrated in robotics and robotic process
+    automation, semiconductors, and communication equipment.
+- question: Which company experienced the highest percentage gain in the list provided?
+  answer: Lemonade Inc (LMND) experienced the highest gain at +10.80%.
+- question: Which specific companies were highlighted as part of the semiconductor
+    sector?
+  answer: The companies highlighted in the semiconductor sector are Qualcomm Inc (QCOM),
+    Applied Optoelectronics Inc (AAOI), and Marvell Technology Inc (MRVL).
 ---
-
 Today showed strength in automation, hardware, and core components. The movement was concentrated in **robotics** and **robotic process automation** (SYM, PATH), **semiconductors** (QCOM, AAOI, MRVL), and **communication equipment** (LITE, ASTS).
 
 | Symbol | Company Name | % Change |

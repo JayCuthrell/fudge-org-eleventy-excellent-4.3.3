@@ -3,11 +3,22 @@ title: "📈 Markets Monday for 2024-12-09"
 permalink: "/archive/markets-monday-for-2024-12-09/"
 description: "This week&#39;s market recap highlights fewer green stocks in tech than last week."
 date: 2024-12-10 03:09:57.308425+00:00
+faq:
+- question: What tool does the author use to track market indicators each week?
+  answer: The author uses a simple Yahoo Finance webpage to view a market heatmap
+    and track indicators through the lens of the Monday closing bell.
+- question: How can a user create their own custom heatmap view on Yahoo Finance?
+  answer: Users can bookmark their own heatmap view by utilizing the Yahoo Applied
+    Filters for Stocks screener with specific settings for price change, region, market
+    cap, price, volume, sector, and industry.
+- question: What specific criteria are used for the technology sector filter in the
+    Yahoo Finance screener?
+  answer: The technology sector filter includes several industries such as Software—Infrastructure,
+    Information Technology Services, Computer Hardware, Software—Application, Communication
+    Equipment, Electronics & Computer Distribution, Consumer Electronics, Electronic
+    Components, Scientific & Technical Instruments, and Semiconductor Equipment &
+    Materials.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

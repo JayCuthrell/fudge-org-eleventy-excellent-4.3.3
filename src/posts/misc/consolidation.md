@@ -3,8 +3,23 @@ date: 2005-04-04 02:30:27+00:00
 description: ''
 permalink: /archive/consolidation/
 title: Consolidation
+faq:
+- question: What is the author's primary concern regarding the consolidation of telecommunications
+    providers?
+  answer: The author worries that as these companies undergo 'right sizing' and consolidation,
+    they will lack the necessary research and development (R&D) investment to fulfill
+    long-standing promises of ubiquitous technology.
+- question: How does the author feel about the current state of promised technological
+    advancements?
+  answer: The author believes that while some elements of these promises exist as
+    proofs of concept, they have not reached the level of ubiquity that was originally
+    promised.
+- question: What analogy does the author use to describe the trend of self-checkout
+    kiosks at grocery stores?
+  answer: The author compares self-checkout to a way of making the grocery clerk role
+    obsolete by offloading labor onto the customer, rather than implementing widespread
+    technological innovation like comprehensive RFID systems.
 ---
-
 Photo: A 5 minute self installation of AT&T Xtreme DSL circa 2005-ish.
 
 Consumers are playing the part of a monk watching the beer bubbles coalesce into larger bubbles. Only, today those bubbles are called telecommunications providers. I wonder if we’ll wake up one morning with a massive hangover?

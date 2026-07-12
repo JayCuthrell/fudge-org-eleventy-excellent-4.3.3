@@ -3,8 +3,19 @@ date: 2019-04-15 00:00:00+00:00
 description: ''
 permalink: /archive/reflections-on-a-dot-com-legacy/
 title: Reflections on a Dot-Com Legacy
+faq:
+- question: What was the author's first experience with a corporate merger?
+  answer: The author's first merger occurred when Bay Networks was acquired by Nortel
+    while the author was working in a small Nortel group.
+- question: Which company acquired iXL in 2001?
+  answer: iXL was acquired by their competitor, Scient, following the bursting of
+    the dot-com bubble.
+- question: How did the companies the author worked for eventually evolve over two
+    decades?
+  answer: The companies the author worked for were part of a long series of nested
+    mergers and roll-ups that eventually led to them becoming part of Publicis, one
+    of the largest communications companies in the world.
 ---
-
 Just over 20 years ago I met with investment groups that later turned into a new direction in my career. While the .com days were a mixed bag, some of the companies rolled up into other companies which continued to roll up into other companies. If anything, I’ve learned a lot about the long and sometimes winding path of nested mergers.
 
 The Right Angle Turn

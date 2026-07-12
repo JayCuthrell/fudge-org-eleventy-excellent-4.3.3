@@ -2,9 +2,22 @@
 title: "A.I. For You"
 description: "A look at the proliferation of M.L. and A.I. across the Enterprise knowledge worker stack"
 date: 2023-09-10
+faq:
+- question: What was the growth rate of A.I. implementation in enterprises between
+    2015 and 2019?
+  answer: According to Gartner, there was almost 300% growth in the percentage of
+    organizations that had implemented some form of A.I. from 2015-2019.
+- question: Why are Independent Software Vendors (ISVs) integrating A.I. into their
+    offerings?
+  answer: Independent software vendors (ISVs) are integrating A.I. to maintain relevance
+    and increase value year over year, influenced by a mix of FOMO and customer expectations
+    for value stream mapping.
+- question: Which four Enterprise ISVs are discussed as examples of companies acquiring
+    M.L. and A.I. related businesses?
+  answer: The blog post highlights Atlassian, ServiceNow, Workday, and Salesforce
+    as Enterprise ISVs with the financial capacity to acquire M.L. and A.I. related
+    companies.
 ---
-
-
 This week we take a look at the proliferation of M.L. and A.I. across the Enterprise knowledge worker stack.
 
 This week's musical inspiration in title and lyrics:

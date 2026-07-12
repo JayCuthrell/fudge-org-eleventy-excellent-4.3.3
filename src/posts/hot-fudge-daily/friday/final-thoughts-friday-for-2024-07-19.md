@@ -3,9 +3,21 @@ title: "✅ Final Thoughts Friday for 2024-07-19"
 permalink: "/archive/final-thoughts-friday-for-2024-07-19/"
 description: "A busy week ahead with event commitments and website updates."
 date: 2024-07-20 02:21:03.481960+00:00
+faq:
+- question: Which events is the author committed to attending for the remainder of
+    2024?
+  answer: 'The author is committed to four events: AI Field Day 5 (Sept 11-12), Monktoberfest
+    (Oct 2-4), Cloud Field Day 21 (Oct 23-24), and All Things Open (Oct 27-29).'
+- question: Will there be intrusive messages asking users to disable ad blockers when
+    Google Adsense goes live on fudge.org?
+  answer: No, the author explicitly stated that there will not be any annoying 'please
+    turn off your ad blocker' messages.
+- question: What is the author considering using as a holding entity for their various
+    websites?
+  answer: The author is considering using qthrul.com (QTHRUL CORP) as a holding entity
+    to anchor websites like cuthrell.com, jaycuthrell.com, cuthrell.consulting, and
+    fudge.org.
 ---
-
-
 # ✅ Final Thoughts Friday for 2024-07-19
 
 Looking back at the week with an eye to the future.

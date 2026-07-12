@@ -3,11 +3,22 @@ title: "📈 Markets Monday for 2025-04-21"
 permalink: "/archive/markets-monday-for-2025-04-21/"
 description: "This edition focuses on my weekly Market Monday recap, highlighting key tech stocks and trends."
 date: 2025-04-22 03:37:17.645750+00:00
+faq:
+- question: What tool does the author recommend for creating a custom market heat
+    map view?
+  answer: The author recommends using the Yahoo Applied Filters for Stocks screener
+    to bookmark and track a custom heat map view.
+- question: What specific criteria are used in the Yahoo Finance screener for the
+    Technology sector?
+  answer: The criteria include a % Change in Price (Intraday) greater than 4, United
+    States region, Mid/Large/Mega Market Cap, Price greater than or equal to 5, Volume
+    greater than 15,000, and a comprehensive list of technology-related industries.
+- question: How does the author determine if the market is moving when reviewing the
+    technology companies?
+  answer: The author notes that the market is considered to be moving when the screener
+    results show around a dozen or so interesting companies, whereas a smaller handful
+    indicates the market is not moving as much.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

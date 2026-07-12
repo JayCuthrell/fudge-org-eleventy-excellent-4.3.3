@@ -3,8 +3,17 @@ date: 2019-05-20 00:00:00+00:00
 description: ''
 permalink: /archive/thinking-outside-the-cardboard-box/
 title: Thinking Outside the Cardboard Box
+faq:
+- question: When was the cardboard box invented?
+  answer: The cardboard box was born in 1817.
+- question: What is the significance of the year 2015 for the cardboard box?
+  answer: In 2015, the package emoji was released in a Unicode update, and Amazon
+    became well-known for memes regarding its packaging practices.
+- question: How is Amazon using technology to address packaging efficiency?
+  answer: Amazon has adopted robotics, such as the Kiva robots and the CartonWrap
+    1000, to improve fulfillment efficiency and address issues like shipping small
+    items in excessively large boxes.
 ---
-
 (https://www.wastedive.com/news/what-recycling-end-market-development-looks-like-in-2019/553683/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) as the piles… continue to make a bigger pile. This week, let’s take a look at the humble cardboard box.
 
 

@@ -3,8 +3,20 @@ date: 2019-04-01 00:00:00+00:00
 description: ''
 permalink: /archive/life-at-34000-feet/
 title: Life at 34000 Feet
+faq:
+- question: What was AirFone?
+  answer: AirFone was an in-flight communication technology introduced in the early
+    1980s that allowed passengers to make phone calls from airplanes using cordless
+    handsets.
+- question: Why did in-flight phone services like AirFone eventually end?
+  answer: The service gave way to market realities, as the allure of making phone
+    calls from airplanes faded and usage declined over time.
+- question: How has in-flight broadband connectivity evolved since 2011?
+  answer: While early air-to-ground broadband in 2011 often suffered from degraded
+    performance due to high contention for shared resources, modern in-flight broadband
+    services have improved significantly, with some now providing speeds faster than
+    the Wi-Fi found in coffee shops or hotels.
 ---
-
 My travel has [picked up](https://fudge.org/archive/my-eighth-year-at-dell/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) in 2019. On a recent flight I discovered the captive portal experiences for the latest generation of in-flight broadband has come a long way. Below are links to help frame the peaks and valleys of connected experiences going back to the 1980s.
 
 

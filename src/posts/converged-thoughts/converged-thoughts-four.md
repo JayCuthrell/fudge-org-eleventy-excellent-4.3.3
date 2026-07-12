@@ -3,8 +3,27 @@ date: 2017-01-01 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-four/
 title: Converged Thoughts Four
+faq:
+- question: What specific hardware and software were required to stream music on a
+    Windows PC in 1997?
+  answer: To stream music in 1997, a user needed a fast internet connection (such
+    as T1, ADSL, or ISDN), a working Ethernet card, a functional sound card, an operating
+    system like Windows 95/97, and a special third-party software application like
+    RealAudio or WinAmp.
+- question: How did the mobile phone landscape evolve regarding music streaming between
+    2007 and 2009?
+  answer: In 2007, music streaming on mobile was limited to feature phones, such as
+    the ability for Sprint subscribers to access Pandora. By 2009, Pandora became
+    available on BlackBerry devices, and the iPhone had begun to change the market
+    by converging multiple purpose-built devices into a single form factor.
+- question: According to the post, what characterizes the current landscape of music
+    streaming in 2017?
+  answer: In 2017, music streaming is defined by high levels of convergence in devices
+    and backend systems, with consumer expectations that services should 'just work.'
+    Users now have a wide variety of choices regarding their devices, connectivity
+    options (including WiFi and 4G/LTE), and a vast array of streaming apps like Spotify,
+    Apple Music, and Tidal.
 ---
-
 Happy New Year! Are we done celebrating? Cool. Let’s get started.
 
 As a warning, this update is probably entering long form essay mode due to the nostalgia of what has happened along the rough timeline I’ve constructed. Otherwise – Enjoy!

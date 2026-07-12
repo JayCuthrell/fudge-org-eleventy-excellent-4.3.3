@@ -3,11 +3,21 @@ title: "📈 Markets Monday for 2024-08-05"
 permalink: "/archive/markets-monday-for-2024-08-05/"
 description: "An in-depth look at the tech market past and future in Markets Monday."
 date: 2024-08-06 01:49:19.322211+00:00
+faq:
+- question: What primary source does the author use to analyze the tech market each
+    week?
+  answer: The author uses a simple Yahoo Finance webpage and its stock screener tool
+    to analyze the tech market.
+- question: Why does the author suggest Warren Buffett might sell off portions of
+    large companies?
+  answer: The author suggests that Warren Buffett might sell off portions of companies
+    if he believes there are future bargains and sales to be had in the market.
+- question: What specific factors does the author suspect are driving the market changes
+    observed in the recent heat map?
+  answer: The author suspects that the market changes are being driven by semiconductors,
+    value chains, and upcoming earnings reports, specifically noting the earnings
+    release for Onto Innovation scheduled for August 8, 2024.
 ---
-
-
-
-
 Analyzing the past and future of the tech market in Markets Monday.
 
 ## Last week

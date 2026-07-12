@@ -2,8 +2,16 @@
 title: "SXSW 2026: Look, up in the sky! It's Super SMB!"
 description: 'A look at my SXSW 2026 PanelPicker submission'
 date: 2025-07-23
+faq:
+- question: What is the title of the SXSW 2026 panel proposal?
+  answer: The title of the proposal is 'Look, up in the sky! It's Super SMB!'
+- question: Who is the intended audience for the proposed session?
+  answer: The session is intended for Managed Intelligence Providers (MIPs) who are
+    evolving from Managed Service Providers (MSPs).
+- question: What is one of the key takeaways from the proposed session?
+  answer: One of the takeaways is that smaller models are better when it comes to
+    the AI models that will matter in the physical world.
 ---
-
 I submitted a proposal for a panel at SXSW 2026. If you are reading this, I would make the argument that [you should submit a panel too](https://panelpicker.sxsw.com).
 
 I am serious. If you haven't spoken at SXSW before, [you should submit a panel](https://panelpicker.sxsw.com).

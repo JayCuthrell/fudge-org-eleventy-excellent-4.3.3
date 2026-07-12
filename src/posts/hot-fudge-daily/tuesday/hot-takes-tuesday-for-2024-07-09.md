@@ -3,10 +3,18 @@ title: "Hot Takes Tuesday for 2024-07-09"
 permalink: "/archive/hot-takes-tuesday-for-2024-07-09/"
 description: "Tech industry funding trends, gaming growth, robot overlords, and unique VC firm connections."
 date: 2024-07-10 00:56:51.192962+00:00
+faq:
+- question: Why is data storage becoming an increasingly important sector?
+  answer: Data storage is significant because the amount of data being generated has
+    been growing exponentially, and AI requires large amounts of data to function.
+- question: What is the author's outlook on the gaming industry?
+  answer: The author expects the gaming industry, valued at over $300 billion, to
+    continue growing like a weed.
+- question: How does the author characterize the use of AI in professional workflows?
+  answer: The author depicts AI as a tool used to quickly summarize documents, such
+    as memos, through an AI assistant, which can then be displayed via wearable technology
+    like AR glasses.
 ---
-
-
-
 # Hot Takes Tuesday for 2024-07-09
 
 Off the cuff analysis in a rapid fire format.

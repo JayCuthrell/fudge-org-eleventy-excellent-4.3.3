@@ -3,8 +3,16 @@ title: "📈 Markets Monday for 2025-10-20"
 permalink: "/archive/markets-monday-for-2025-10-20/"
 description: "Digital assets company pivots, fintech, and the semiconductor value chain"
 date: 2025-10-20
+faq:
+- question: Which company experienced the highest percentage change in today's movers
+    list?
+  answer: Riot Platforms Inc (RIOT) experienced the highest percentage change at +9.00%.
+- question: What industries are highlighted as the focus of today's market movers?
+  answer: Today's movers include digital asset company pivots, fintech, and the semiconductor
+    value chain.
+- question: What was the percentage change for SoFi Technologies Inc (SOFI)?
+  answer: SoFi Technologies Inc (SOFI) had a percentage change of +7.46%.
 ---
-
 Today's movers include digital asset company pivots, fintech, and the semiconductor value chain.
 
 | Symbol | Company Name | % Change |

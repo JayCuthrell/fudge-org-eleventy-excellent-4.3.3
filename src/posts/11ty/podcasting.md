@@ -4,8 +4,21 @@ permalink: "/archive/podcasting/"
 description: "It is time to start podcasting (again)"
 date: 2026-03-06
 tags: [11ty, Podcast]
+faq:
+- question: What is the primary goal of the author's upcoming podcast strategy?
+  answer: The author is applying the POSSE (Publish on Own Site, Syndicate Everywhere)
+    principle to their podcast, using their existing 11ty on Akamai Linode VPS approach
+    to maintain ownership of the source and keep infrastructure as code.
+- question: What hardware will the author use to record the podcast?
+  answer: Initially, the author will use an iPhone or a MacBook Air to keep the studio
+    setup portable, with plans to eventually move to a formal studio design that fits
+    into a carry-on bag.
+- question: How does the author plan to manage audio file delivery to avoid bandwidth
+    issues?
+  answer: The author is implementing a 'Zero-Runtime' architecture and considering
+    a Storage-Origin/CDN-Edge strategy, such as using Cloudflare R2 with a media subdomain,
+    to offload the delivery of heavy .mp3 files and mitigate Linode egress overages.
 ---
-
 ## 🎙️ Podcast via POSSE
 
 While evolving the way I handle my digital footprint, the **POSSE** (Publish on Own Site, Syndicate Everywhere) principle is coming to my upcoming [podcast](https://fudge.org/tags/podcast/). Initially, I will be using my existing **11ty (Eleventy)** on Akamai Linode VPS approach.

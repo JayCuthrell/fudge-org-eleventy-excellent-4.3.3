@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2024-10-21"
 permalink: "/archive/markets-monday-for-2024-10-21/"
 description: "This Market Monday, I highlight key indicators from Yahoo Finance to navigate tech stocks trends."
 date: 2024-10-22 02:54:06.591043+00:00
+faq:
+- question: What is the Market Monday process described in the post?
+  answer: Market Monday involves looking at a specific key indicator from a Yahoo
+    Finance webpage at the closing bell each Monday.
+- question: How can readers save their own heatmap view on Yahoo Finance?
+  answer: Readers can bookmark their own heat map view by using the Yahoo Applied
+    Filters for Stocks screener with the specific settings provided in the post.
+- question: What are the specific filter criteria for the Technology sector heatmap
+    mentioned?
+  answer: The filters include a price change greater than 4%, US region, mid/large/mega
+    market cap, price greater than or equal to 5, volume over 15,000, and a specific
+    list of technology-related industries.
 ---
-
-
-
-
 ### Quick Recap
 
 For Market Monday, I look at the same key indicator that I take from a simple Yahoo Finance webpage each week. It’s how I look at things at the closing bell on Monday.

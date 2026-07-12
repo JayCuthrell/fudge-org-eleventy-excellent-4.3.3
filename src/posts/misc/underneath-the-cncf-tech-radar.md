@@ -3,9 +3,23 @@ date: 2022-10-23 19:56:38.856000+00:00
 description: A look at emerging cloud native topics
 permalink: /archive/underneath-the-cncf-tech-radar/
 title: Underneath The CNCF Tech Radar
+faq:
+- question: When was the Cloud Native Computing Foundation (CNCF) formed and what
+    was its original mission?
+  answer: The CNCF was formed in 2015 by 22 supporting member companies. Its original
+    mission was to create and drive the adoption of a new computing paradigm optimized
+    for modern distributed systems environments.
+- question: According to the Gartner survey of CIOs, which categories are seeing increased
+    investments?
+  answer: The survey identified increased investments in cyber and information security
+    (66%), business intelligence/data analytics (55%), cloud platforms (50%), artificial
+    intelligence (32%), and hyperautomation (24%).
+- question: What point of confusion did the author raise regarding the CNCF End User
+    Technology Radar for DevSecOps?
+  answer: The author noted confusion because the 'Trial' range listed 'XRay' as an
+    entry, which linked to XRay (an Idera Company) rather than the JFrog Xray DevSecOps
+    SCA tool, potentially causing ambiguity for readers.
 ---
-
-
 *Music: [Underworld - Underneath The Radar (1988)](https://www.youtube.com/watch?v=br8AvTqZ0w4)*
 
 Getting Informed

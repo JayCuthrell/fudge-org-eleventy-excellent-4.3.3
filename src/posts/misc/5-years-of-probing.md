@@ -2,10 +2,19 @@
 title: "5 Years of Probing"
 description: "A look at RIPE Atlas probes"
 date: 2024-02-25
+faq:
+- question: What is a RIPE Atlas probe?
+  answer: A RIPE Atlas probe is a specialized network device that continuously measures
+    Internet performance and relays key statistical information to an open community
+    of individuals and companies.
+- question: How do you set up a RIPE Atlas probe?
+  answer: Setting up a probe involves plugging an Ethernet cable from your home router
+    into the provided nanopi box and supplying it with USB power.
+- question: What are the benefits of earning RIPE Atlas credits?
+  answer: By earning credits, you gain access to the RIPE Atlas community, which allows
+    you to run User-Defined Measurements (UDMs), such as checking ping times or testing
+    SSL for a website from various locations around the planet.
 ---
-
-
-
 Behold, one of my probes [^ripe].
 
 [^ripe]: This is the bigger RIPE Atlas Probe — they truly are quite small.

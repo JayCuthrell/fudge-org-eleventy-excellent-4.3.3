@@ -2,10 +2,20 @@
 title: "Jumping Someone Else's Trained Model"
 description: ''
 date: 2023-07-31 02:23:18.530000+00:00
+faq:
+- question: Who sees GenAI benefits outside of technologists?
+  answer: The author notes that individuals outside of the technology field, including
+    themselves, are beginning to see and experience the benefits of GenAI.
+- question: What practical GenAI benefit can be experienced and grasped by business
+    leaders?
+  answer: A practical benefit for business leaders is the ability to use 'Generate'
+    tools to create clear, crisp, and concise summaries of content, such as newsletters,
+    as demonstrated by the author's own use of such technology.
+- question: When will everyone begin to benefit from GenAI?
+  answer: Expectations are that as access to the technology becomes democratized,
+    commodified, and subsidized, the price per month will drop, allowing for wider
+    adoption and benefits for everyone.
 ---
-
- 
-
 This week's musical inspiration in title and lyrics: 
 
 https://open.spotify.com/track/3Tjkh6zFgjb2StmUdfi1VI?si=214497a9ac964ee8

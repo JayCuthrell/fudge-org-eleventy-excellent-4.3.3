@@ -3,11 +3,18 @@ title: "Markets Monday for 2024-07-01"
 permalink: "/archive/markets-monday-for-2024-07-01/"
 description: "Analyzing the past and future of the tech market in this week&#39;s Markets Monday."
 date: 2024-07-01 20:16:51.959024+00:00
+faq:
+- question: How does the author typically check the performance of the NASDAQ?
+  answer: The author typically asks Siri for the status of the NASDAQ and listens
+    to hear if there is a significant change.
+- question: What two timeframes does the author compare when analyzing the tech market?
+  answer: The author compares a 5-day view against a 5-year view to analyze the tech
+    market.
+- question: What specific tool does the author suggest using to bookmark a custom
+    heat map view of the tech market?
+  answer: The author suggests using the Yahoo Applied Filters for Stocks screener
+    to bookmark and track a custom heat map view.
 ---
-
-
-
-
 # Markets Monday for 2024-07-01
 
 Analyzing the past and future of the tech market in Markets Monday.

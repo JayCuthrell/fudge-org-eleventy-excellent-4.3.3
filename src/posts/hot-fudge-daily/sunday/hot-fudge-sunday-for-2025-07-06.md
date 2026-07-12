@@ -3,12 +3,16 @@ title: "🌶️ Hot Fudge Sunday for 2025-07-06"
 permalink: "/archive/hot-fudge-sunday-for-2025-07-06/"
 description: "A short spicy winning week"
 date: 2025-07-06 14:40:01.268+00:00
+faq:
+- question: What service does the author use for their newsletter delivery?
+  answer: The author uses Buttondown as their trusted newsletter delivery service.
+- question: How does the author handle the replication of newsletter content to fudge.org?
+  answer: The author uses simple Buttondown and Mastodon-related Python scripts to
+    handle the replication of their newsletter content to fudge.org.
+- question: What is the purpose of the Alumni section in the newsletter?
+  answer: The Alumni section is for individuals in the author's network who have successfully
+    transitioned to their next career adventure.
 ---
-
-
-
-
-
 As I mentioned last week, [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) continues to be my [trusted newsletter delivery service](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email). My simple [Buttondown](https://buttondown.email/refer/jaycuthrell?utm_source=hot-fudge-daily&utm_medium=email) and Mastodon related [python scripts](https://github.com/JayCuthrell/buttondown-python-scripts) handle the replication to [fudge.org](https://fudge.org/) now.
 
 {{ subscribe_form }}

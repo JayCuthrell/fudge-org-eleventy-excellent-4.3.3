@@ -3,8 +3,23 @@ date: 2010-02-05 00:00:00+00:00
 description: On face to face meetings and technology
 permalink: /archive/airwaves-vs-airlines/
 title: Airwaves vs Airlines
+faq:
+- question: What is the author's perspective on the future of business travel compared
+    to Cisco Telepresence?
+  answer: The author believes that Cisco Telepresence will increasingly replace the
+    need for face-to-face meetings that require air travel, noting that it will likely
+    become as standard as using a phone within two to three years.
+- question: How does the author view the current state of in-flight WiFi and its pricing?
+  answer: The author notes that road warriors are currently willing to pay for in-flight
+    WiFi, but expects that the current pay-per-use model will eventually disappear
+    or be replaced by packages or membership-based perks.
+- question: Why does the author prefer the Delta Sky Club over working in a coach
+    seat on a plane?
+  answer: The author finds the airline club experience much better for productivity
+    because it offers reliable free wireless and wired internet, whereas working in
+    coach is uncomfortable due to cramped quarters and potential space issues with
+    fellow passengers.
 ---
-
 On my last Delta flight I was not so surprised to see that my upgrade to first class went through. Since I travel a lot this is, thankfully, pretty common. What happened next was the stuff of wonder an amazement. When I ordered my *Delta Instant Nap in a Plastic Cup*; Scotch; the response wasn’t rocks or neat but… Dewars or Glenlivet. After my mind reset, I went with Glenlivet — neat — and it came served in a glass tumbler.
 
 Sometimes you just have to travel to make a face to face meeting happen. Or do you?

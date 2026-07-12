@@ -1,9 +1,28 @@
 ---
 title: "Zettelkasten End of Year for 2023"
 description: 'A look back at what I learned this year in this newsletter'
-date: 2023-12-31 
+date: 2023-12-31
+faq:
+- question: Is the Fudge Sunday newsletter free, and does it contain ads or tracking?
+  answer: Yes, the Fudge Sunday newsletter remains a free newsletter. The author states
+    there are no referral links or interstitial banner ads, and all forms of tracking
+    (such as Buttondown click tracking, Google Analytics, and LinkedIn Creator Analytics)
+    have been removed.
+- question: What is the author's primary workflow for creating and delivering the
+    Fudge Sunday newsletter?
+  answer: The author's 10-step process involves using Obsidian for daily notes, Microsoft
+    Visual Studio Code for editing, and Eleventy (specifically Eleventy Excellent)
+    to generate the newsletter from markdown files. After committing to GitHub and
+    an automated build on Netlify, Buttondown's RSS to Email delivers the content,
+    which is then manually replicated to LinkedIn Newsletter. The process concludes
+    with monitoring for replies and automated GitHub Actions.
+- question: How does the author find content and ideas for the Fudge Sunday newsletter?
+  answer: The author gathers content by reading approximately 100 newsletters (after
+    pruning Substack), uses Obsidian for notes, and manages a tamed Safari Reading
+    List. For search, the author uses DuckDuckGo, plans to experiment with Kagi Search,
+    and occasionally uses Google Search and Bing Search with anonymization. The author
+    has also stopped using Twitter/X.
 ---
-
 This week we take a look at what I learned this year and my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) that powers this newsletter and blog archives.
 
 #### Sidebar

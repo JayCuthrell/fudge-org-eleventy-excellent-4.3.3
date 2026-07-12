@@ -3,8 +3,15 @@ title: "🔥 Hot Takes Tuesday for 2025-09-30"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-30/"
 description: "A funding spree with AI firms"
 date: 2025-09-30
+faq:
+- question: Which company received the highest amount of funding listed in the post?
+  answer: Cerebras Systems, an AI chipmaker, received the highest funding with $1.1B.
+- question: What is the primary focus of the company Eve?
+  answer: Eve is an AI assistant specifically designed for lawyers.
+- question: How much funding did Neptune Robotics secure for their AI ship cleaning
+    robots?
+  answer: Neptune Robotics secured $52M in funding.
 ---
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [Paid](https://www.techmeme.com/250929/p3#a250929p3) (AI agent monetization platform): **$21.6M**

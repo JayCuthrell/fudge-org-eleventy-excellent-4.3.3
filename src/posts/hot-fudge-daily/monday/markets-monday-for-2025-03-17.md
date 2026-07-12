@@ -3,11 +3,17 @@ title: "📈 Markets Monday for 2025-03-17"
 permalink: "/archive/markets-monday-for-2025-03-17/"
 description: "This week, I&#39;m diving into the tech sector with my Monday market indicators—get your heat map ready!"
 date: 2025-03-18 01:52:13.295743+00:00
+faq:
+- question: What source does the author use to track their key market indicator?
+  answer: The author uses a simple Yahoo Finance webpage to track their key market
+    indicator.
+- question: Which specific sector does the author filter for in their market analysis?
+  answer: The author filters for the Technology sector.
+- question: What are the required filter criteria for the Price (Intraday) and Volume
+    when using the Yahoo Finance screener?
+  answer: The Price (Intraday) must be greater than or equal to 5, and the Volume
+    must be greater than 15,000.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

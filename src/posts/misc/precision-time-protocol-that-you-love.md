@@ -2,9 +2,21 @@
 title: "Precision Time Protocol That You Love"
 description: ''
 date: 2022-10-02 22:44:33.004000+00:00
+faq:
+- question: What protocols and services are discussed in the blog post regarding network
+    time?
+  answer: The post discusses Network Time Protocol (NTP), Precision Time Protocol
+    (PTP), Time Appliance Project (TAP), and Time as a Service (TaaS).
+- question: What is the difference in accuracy between commercial Time as a Service
+    (TaaS) options mentioned?
+  answer: Commercial TaaS options are available in the ~50 µs accuracy range, though
+    some industrial outcomes may require closer to ~1 µs accuracy.
+- question: Why does the Society of Motion Picture and Television Engineers (SMPTE)
+    exist in the context of network time?
+  answer: SMPTE exists to handle challenges such as the time synchronization of audio
+    and video streaming over IP networks, with standards like SMPTE ST 2110 driving
+    features for services like AWS Elemental.
 ---
-
-
 *[Tom Waits - "Time" (1985)](https://www.youtube.com/watch?v=VhWTDvPLGTE)*
 
 Getting Informed

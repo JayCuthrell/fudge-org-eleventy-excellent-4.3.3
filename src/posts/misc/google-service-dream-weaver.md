@@ -2,10 +2,23 @@
 title: "Google Service (Dream) Weaver"
 description: ''
 date: 2023-03-12 22:16:13.626568+00:00
+faq:
+- question: What performance improvements does Service Weaver claim to offer compared
+    to typical gRPC and protocol buffer microservices?
+  answer: Service Weaver claims to improve application latency by 15x and reduce VM
+    costs by 9x when compared to a typical microservices solution built on gRPC and
+    protocol buffers.
+- question: Where can developers find official documentation and information regarding
+    Google Service Weaver?
+  answer: Developers can find information at the official website (https://serviceweaver.dev),
+    the documentation page (https://serviceweaver.dev/docs.html), and a blog post
+    featuring a 'hello world' guide (https://serviceweaver.dev/blog/quick_intro.html).
+- question: According to the post, what is a key factor for the actual growth and
+    adoption of developer tooling?
+  answer: According to the post, growth in adoption comes from making a strong business
+    case that includes tooling capable of improving key metrics used to measure developer
+    experience.
 ---
-
- 
-
 Music: [Gary Wright - Dream Weaver (1975)](https://www.youtube.com/watch?v=xZKuzwPOefs)
 
 This week we take a look at Google Service Weaver and the next generation of distributed applications.

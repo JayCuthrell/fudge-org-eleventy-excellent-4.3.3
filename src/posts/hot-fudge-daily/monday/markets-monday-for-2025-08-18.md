@@ -3,8 +3,15 @@ title: "📈 Markets Monday for 2025-08-18"
 permalink: "/archive/markets-monday-for-2025-08-18/"
 description: "Another week of updating my screener"
 date: 2025-08-18
+faq:
+- question: What is the purpose of the table provided in the blog post?
+  answer: The table lists companies, their ticker symbols, and their percentage change,
+    with each symbol linked to its respective Google Finance page.
+- question: Which company showed the highest percentage change in the provided list?
+  answer: Applied Digital Corp (APLD) showed the highest percentage change at 13.77%.
+- question: What tool was used to generate the data for the comparison?
+  answer: The blog post indicates that a Yahoo Screener was used for the comparison.
 ---
-
 Another week of iteration on my screener shows progress.
 
 Of course. Here is the enriched markdown table with clickable Google Finance links for each symbol.

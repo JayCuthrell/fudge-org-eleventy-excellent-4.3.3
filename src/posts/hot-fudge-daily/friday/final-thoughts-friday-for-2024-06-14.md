@@ -3,9 +3,17 @@ title: "Final Thoughts Friday for 2024-06-14"
 permalink: "/archive/final-thoughts-friday-for-2024-06-14/"
 description: "Recap of a busy week: Qlik Connect content, Coworking Day, Triangle Tech Night, and Hot Fudge Daily updates. ⚡️💼📈"
 date: 2024-06-14 16:45:46.372980+00:00
+faq:
+- question: What content was recently added to YouTube following the author's busy
+    week?
+  answer: The final content from Qlik Connect in Orlando was posted to YouTube.
+- question: Where did the author spend time working besides their usual location,
+    The Vault?
+  answer: The author visited Raleigh Founded for a Coworking Day and Triangle Tech
+    Night.
+- question: How much of a $0.99 monthly subscription does Stripe take as a fee?
+  answer: Stripe takes $0.33 of a $0.99 monthly subscription.
 ---
-
-
 # Final Thoughts Friday for 2024-06-014
 
 Looking back at the week with an eye to the future.

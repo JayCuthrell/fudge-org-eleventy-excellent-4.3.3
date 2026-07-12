@@ -2,6 +2,18 @@
 title: "Fractional Futures"
 description: "A look at what's next in executive roles of the future"
 date: 2024-05-05
+faq:
+- question: What is a fractional executive role?
+  answer: A fractional executive role is ideal for companies needing strategic executive
+    support without the overhead of a full-time hire. The concept is not new and likely
+    dates back at least 20 years.
+- question: What events is the author planning to attend or participate in soon?
+  answer: The author is headed to Red Hat Summit and AnsibleFest in Denver, Dell Technologies
+    World in Las Vegas, and will be a Tech Field Day delegate at Qlik Connect in Orlando.
+- question: Are there any communities or resources mentioned for fractional executives?
+  answer: Yes, the post directs readers to 'Fractionals United' and 'Business Talent
+    Group.' It also mentions articles from SDxCentral and HR Brew, and refers to the
+    'Fractional Defined' landing page from Fractionals United for definitions.
 ---
 This week we take a look at what's next in executive roles of the future.
 

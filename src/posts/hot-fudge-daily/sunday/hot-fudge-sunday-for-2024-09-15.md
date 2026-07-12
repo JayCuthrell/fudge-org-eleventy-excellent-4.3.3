@@ -3,12 +3,19 @@ title: "🌶️ Hot Fudge Sunday for 2024-09-15"
 permalink: "/archive/hot-fudge-sunday-for-2024-09-15/"
 description: "This week&#39;s edition dives into tech market insights, funding highlights, and fun, wacky finds!"
 date: 2024-09-15 19:40:40.766968+00:00
+faq:
+- question: What is Hot Fudge Sunday?
+  answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the
+    Hot Fudge Daily paid newsletter in a single, easy-to-reach URL, published every
+    Sunday.
+- question: What is the primary focus of the 'Markets Monday' section?
+  answer: The 'Markets Monday' section provides a market recap using key indicators
+    from a Yahoo Finance heat map, specifically focusing on the technology sector
+    with filters for United States companies and mid-to-mega market capitalizations.
+- question: What kind of content is featured in the 'Wacky Wednesday' section?
+  answer: The 'Wacky Wednesday' section features a list of the most interesting, safe-for-work
+    links curated from dozens of Slack communities.
 ---
-
-
-
-
-
 > 🙏 A big thank you to our sponsors. 🙏
 > (Scroll to the end…)
 

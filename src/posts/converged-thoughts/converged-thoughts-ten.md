@@ -3,8 +3,19 @@ date: 2017-01-07 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-ten/
 title: Converged Thoughts Ten
+faq:
+- question: What is the Monte Carlo method?
+  answer: The Monte Carlo method is a common approach to computational physics that
+    has been used in research for many years, including for the purposes of simulation.
+- question: What are block copolymers in the context of sneaker manufacturing?
+  answer: Block copolymers are customized polymers that offer unique properties, allowing
+    for design options that could eventually be used to create custom-made, long-lasting
+    sneakers.
+- question: Does the author suggest that simulation tools have improved since the
+    1990s?
+  answer: Yes, the author notes that simulation tools have come a long way since the
+    mid-1990s, highlighting the availability of open source options like GNU MCSim.
 ---
-
 Computation and Kicks
 =====================
 

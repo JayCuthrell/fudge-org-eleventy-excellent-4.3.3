@@ -3,10 +3,15 @@ title: "✅ Final Thoughts Friday for 2024-11-22"
 permalink: "/archive/final-thoughts-friday-for-2024-11-22/"
 description: "I celebrated my new role at NexusTek on LinkedIn and shared my tech news highlights for the week."
 date: 2024-11-23 16:05:26.291673+00:00
+faq:
+- question: What new role did the author announce on LinkedIn?
+  answer: The author announced a new role at NexusTek.
+- question: What tech news stories captured the author's attention this week?
+  answer: The author focused on the earnings and exploits related to Palo Alto Networks.
+- question: How did the author describe the response to their LinkedIn post?
+  answer: The author described the post as being well received and a great way to
+    end the week.
 ---
-
-
-
 Posting on LinkedIn about [my new role at NexusTek](https://www.linkedin.com/in/jaycuthrell) was well received and a great way to end the week.
 
 [![LinkedIn top performing posts](https://assets.buttondown.email/images/98d8ddef-3e08-4700-9d2f-97c8374a7ed0.png?w=960&fit=max)](https://www.linkedin.com/in/jaycuthrell/)

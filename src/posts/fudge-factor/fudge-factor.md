@@ -3,8 +3,18 @@ title: "Fudge Factor"
 description: 'First edition of my new newsletter on our increasingly connected world'
 date: 2024-08-04
 tags: [Fudge Factor]
+faq:
+- question: What is the focus of the rebranded newsletter, 'Fudge Factor'?
+  answer: Fudge Factor is rebranded to cover our increasingly connected world, transitioning
+    to deep, niche posts regarding technology.
+- question: What is the author's goal in going deeper into niche topics?
+  answer: The author aims to raise awareness about the vastness of the edge and provide
+    context that AI is not solely focused on GenAI, highlighting technological applications
+    that are only beginning to be understood.
+- question: Where are the archives for the Fudge Factor newsletter hosted?
+  answer: The archives are hosted at fudge.org, which is decoupled from the Buttondown
+    service used for Hot Fudge Daily and Hot Fudge Sunday.
 ---
-
 This is the First edition of my new newsletter on our [increasingly connected](/archive/increasingly-connected) world.
 
 ### Welcome to Fudge Factor 🤓

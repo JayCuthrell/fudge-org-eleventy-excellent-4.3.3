@@ -2,8 +2,19 @@
 title: "k8s Operator, Could You Help Me Place SysCall?"
 description: ''
 date: 2023-02-13 01:29:11.592900+00:00
+faq:
+- question: What is the purpose of Seccomp Profiles in containerized environments?
+  answer: Seccomp Profiles are used to protect applications by restricting specific
+    actions that can be taken within a container.
+- question: Where can users find information and the roadmap for the Kubernetes Security
+    Profiles Operator (SPO)?
+  answer: Users can visit the Security Profiles Operator GitHub repository to review
+    the SPO roadmap and documentation.
+- question: What future technology is mentioned in relation to the evolution of Kubernetes
+    Operators?
+  answer: The blog post highlights WebAssembly (Wasm) Operators as a potential future
+    development for Kubernetes.
 ---
-
 This week we look at Custom Seccomp Profiles (CSP) and Security Profiles Operator (SPO), and future WebAssembly (Wasm) Operators.
 
 Music: [Jim Croce - "Operator" (1972)](https://www.youtube.com/watch?v=Bb85NvjbBm8)

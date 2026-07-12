@@ -2,9 +2,23 @@
 title: "Why Is The Network Slow?"
 description: 'A look at low latency networks as defined in the early 2020s'
 date: 2023-12-10
+faq:
+- question: Why is there a need to decrease latency in modern technology?
+  answer: Decreasing latency is essential because it is a critical component of the
+    overall user experience (UX). Since technology serves to address perceived needs,
+    companies invest in reducing latency to improve how users interact with applications,
+    as latency can be a source of frustration and inconsistency.
+- question: Did the implementation of SSL security affect website performance?
+  answer: Yes, as SSL became more prevalent, its initial implementation made websites
+    and applications appear slower. The industry responded to this latency challenge
+    on multiple fronts to balance the need for security with performance requirements.
+- question: How have companies like AWS and Microsoft Azure addressed latency concerns
+    for cloud services?
+  answer: These companies have worked to move cloud resources closer to users by building
+    massive datacenters near major population centers. Examples include AWS Local
+    Zones and Microsoft Azure Edge Zones, which help meet the latency requirements
+    for modern applications.
 ---
-
-
 *Note: This post will draw heavily upon [Techmeme](https://www.techmeme.com) for links. I'm experimenting with the use of [unfurl](https://github.com/daviddarnes/eleventy-plugin-unfurl) for markdown links to provide a summary card automatically.*
 
 What happens when a request for comments ([RFC](https://en.wikipedia.org/wiki/Request_for_Comments)) becomes more than commentary?

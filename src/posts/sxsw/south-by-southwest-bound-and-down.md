@@ -2,8 +2,17 @@
 title: "South by Southwest Bound and Down"
 description: ''
 date: 2023-08-07 00:13:58.613000+00:00
+faq:
+- question: What is the title of the proposal submitted for the SxSW 2024 panel?
+  answer: The proposal title is "Have Your AI Call My AI in 2024."
+- question: When does the voting period for the SxSW 2024 PanelPicker occur?
+  answer: Voting begins on Tuesday, August 8, 2023, and ends on Monday, August 21,
+    2023.
+- question: What was the name of the blog post written by the author during their
+    first time attending SxSW in 2008?
+  answer: The author wrote a post titled "The Taco Thesis" during their first time
+    at SxSW in 2008.
 ---
-
 This week we take a look at [South by Southwest® (SXSW®)](https://en.wikipedia.org/wiki/South\_by\_Southwest) from SxSW 2008 to SxSW 2024.
 
 Musical inspiration in title and lyrics: 

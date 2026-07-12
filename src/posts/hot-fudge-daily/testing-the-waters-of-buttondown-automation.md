@@ -3,10 +3,14 @@ title: "Testing the waters of Buttondown Automation"
 permalink: "/archive/testing-the-waters-of-buttondown-automation/"
 description: "Diving into Buttondown Automation for Newsletter Syndication."
 date: 2024-08-02 18:37:46.103433+00:00
+faq:
+- question: What is the author planning to do with their newsletter?
+  answer: The author is going to slowly begin syndicating their newsletter.
+- question: Which platform is the author using to test automation?
+  answer: The author is using Buttondown for automation.
+- question: Where can users find more information about Buttondown's automation features?
+  answer: More information can be found at https://docs.buttondown.com/linkedin
 ---
-
-
-
 Testing the waters of Buttondown Automation
 
 I’m going to slowly begin syndication of my newsletter.

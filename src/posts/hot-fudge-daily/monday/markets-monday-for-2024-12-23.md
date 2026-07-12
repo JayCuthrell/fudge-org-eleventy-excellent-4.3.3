@@ -4,11 +4,20 @@ permalink: "/archive/markets-monday-for-2024-12-23/"
 description: "This week&#39;s Market Monday highlights my latest stock insights from Yahoo Finance&#39;s new layout."
 date: 2024-12-24 06:01:53.357486+00:00
 tags: [quantum]
+faq:
+- question: What tool does the author use to analyze stocks for Market Monday?
+  answer: The author uses the Yahoo Finance screener (now part of the "Research Hub")
+    to look at key market indicators.
+- question: What is the 'spicy level' for the stocks featured this week?
+  answer: The spicy level for this week is 6, and quantum stocks remain in the top
+    two.
+- question: What specific filters are recommended for the Yahoo Applied Filters for
+    Stocks screener?
+  answer: The recommended filters include a Price % Change (Intraday) greater than
+    4, United States region, Mid/Large/Mega Market Cap, Price greater than or equal
+    to 5, Volume greater than 15,000, the Technology sector, and a specific list of
+    industries including Software, Computer Hardware, and Semiconductors.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap

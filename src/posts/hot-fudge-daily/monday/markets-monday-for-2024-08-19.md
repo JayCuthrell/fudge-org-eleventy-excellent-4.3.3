@@ -3,11 +3,19 @@ title: "📈 Markets Monday for 2024-08-19"
 permalink: "/archive/markets-monday-for-2024-08-19/"
 description: "Analyzing past and future tech market trends in Markets Monday newsletter."
 date: 2024-08-24 17:55:37.255263+00:00
+faq:
+- question: What resource does the author use to track the tech market each week?
+  answer: The author uses a simple Yahoo Finance webpage, specifically utilizing the
+    Yahoo Applied Filters for Stocks screener to view a heat map.
+- question: What specific criteria are used in the Yahoo Finance screener for the
+    tech market analysis?
+  answer: The screener criteria include a price change greater than 4%, United States
+    region, Mid/Large/Mega market cap, price greater than or equal to 5, volume greater
+    than 15,000, and a specific range of technology-related sectors and industries.
+- question: When was the heatmap chart featured in the post last updated?
+  answer: The heatmap chart was updated just before the digest was built for Sunday,
+    August 25, 2025.
 ---
-
-
-
-
 Analyzing the past and future of the tech market in Markets Monday.
 
 ## Last week

@@ -4,8 +4,22 @@ permalink: "/archive/hot-fudge-sunday-for-2025-08-10/"
 description: "A fresh newsletter format of weekly market insights"
 date: 2025-08-10 
 tags: [quantum]
+faq:
+- question: What is the primary factor the author believes is essential for operational
+    excellence in modern datacenter site selection?
+  answer: The author believes that the ability to self-generate power via on-site
+    generation has become essential to operational excellence in modern datacenter
+    site selection.
+- question: Which company was recently recognized at number 114 on CRN's Fast Growth
+    150 list for 2025?
+  answer: NexusTek was recognized at number 114 on CRN's Fast Growth 150 list for
+    2025.
+- question: What are some examples of trends mentioned in the newsletter regarding
+    funding for technology companies?
+  answer: Funding for AI and quantum computing companies continues to be a trend,
+    with notable examples including Reflection AI ($1B+), Luma AI ($1B+), Runway (~$500M),
+    Clay ($100M), Uzum ($65.5M), Alaan ($48M), and QuamCore ($26M).
 ---
-
 I'm testing a new format this week for the digest.
 
 {{ subscribe_form }}

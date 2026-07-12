@@ -2,10 +2,19 @@
 title: "What's Golden Path?"
 description: ''
 date: 2023-04-16 23:59:15.525000+00:00
+faq:
+- question: How does the Spotify engineering team define a "golden path"?
+  answer: Spotify describes a "golden path" as a journey towards conspicuous and continuous
+    improvements in the essential toolchain for a growing software development team.
+- question: What is the author's personal definition of a golden path?
+  answer: The author defines a golden path as a specific journey towards continuous
+    improvements in an essential toolchain, aimed at increasing software development
+    team velocity, quality, productivity, and joy.
+- question: What concern does Kaspar von Grünberg of Humanitec raise regarding golden
+    paths?
+  answer: Kaspar von Grünberg highlights the "slippery slope" where golden paths can
+    potentially become "cages" for developers.
 ---
-
- 
-
 Music: [Jurassic 5 - What's Golden (2002)](https://www.youtube.com/watch?v=XsZKrctSDaw)
 
 This week we take a look at the definition of a golden path in the rising coverage related to topics of platform engineering and developer experience.

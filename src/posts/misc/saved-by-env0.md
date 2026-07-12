@@ -2,10 +2,18 @@
 title: "Saved by env0"
 description: ''
 date: 2023-04-03 01:37:01.427232+00:00
+faq:
+- question: What is the primary function of the company env0?
+  answer: env0 is a company that helps to simplify and streamline the adoption of
+    Infrastructure as Code (IaC) associated with public cloud operating models.
+- question: What specific IaC features does env0 offer that are mentioned in the post?
+  answer: env0 offers examples of ChatOps or GitOps, such as planning and applying
+    from PR comments, as well as cost monitoring features for Infrastructure as Code.
+- question: How does the author characterize the maturity of the public cloud?
+  answer: The author characterizes the public cloud as being like a teenager, noting
+    that while it is old enough to legally drive in the United States, it is not yet
+    old enough to lease a car.
 ---
-
- 
-
 Music: [The Fixx - Saved by Zero (1983)](https://www.youtube.com/watch?v=JOiZP8FS5Ww)
 
 This week we take a look at platform engineering related venture capital (VC) funding you might have missed.

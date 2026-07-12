@@ -2,10 +2,19 @@
 title: "Back in Circulation"
 description: "A look at what's next in post-pandemic travel and apps potpourri"
 date: 2024-05-12
+faq:
+- question: Which upcoming events is the author planning to attend?
+  answer: The author is planning to attend Dell Technologies World in Las Vegas later
+    this month and Qlik Connect in Orlando next month, where they will serve as a
+    Tech Field Day delegate.
+- question: Which mobile app does the author recommend for tracking flights?
+  answer: The author recommends the app Flighty, noting that it provides better flight
+    status, ETA, and visualizations than the native airline apps.
+- question: What is the author's new initiative regarding postcards?
+  answer: The author is inviting readers to send snail mail postcards. They plan to
+    scan the picture side of the postcards received and feature them in a gallery
+    on the Fudge Sunday newsletter.
 ---
-
-
-
 This week we take a look at what's next in post-pandemic travel and apps potpourri.
 
 ## Housekeeping

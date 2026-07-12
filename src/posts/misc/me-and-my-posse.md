@@ -3,9 +3,21 @@ date: 2022-06-19
 description: A reflection on owning as much of your platform as you can
 permalink: /archive/me-and-my-posse/
 title: Me and My POSSE
+faq:
+- question: What was the prediction Michael Dell made during the 2017 IQT Day analyst
+    event?
+  answer: Michael Dell predicted that we would soon have IoT processors costing fractions
+    of a cent, which would serve as building blocks for a future digital mirror of
+    the world.
+- question: What does the acronym POSSE stand for in the context of content publishing?
+  answer: POSSE stands for Publish (on your) Own Site, Syndicate Elsewhere, which
+    is the practice of posting content on your own site first before sharing copies
+    or links on third-party social media platforms.
+- question: Why did the author decide to move their newsletter from Revue to Substack?
+  answer: The author moved due to concerns regarding a potential 'change in control'
+    at Revue and the need to ensure their content was not sequestered, emphasizing
+    that one should never rely on a third-party service as a primary backup strategy.
 ---
-
-
 *Note: Thank you readers for the great migration feedback and helpful suggestions. I’m happy this newsletter continues to provide so many of you with utility.*
 
 *[Rivers Cuomo - Me and My Posse (2020)](https://www.youtube.com/watch?v=uPAzNXk59P8)*

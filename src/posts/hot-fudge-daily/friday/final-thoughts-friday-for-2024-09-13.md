@@ -3,8 +3,17 @@ title: "✅ Final Thoughts Friday for 2024-09-13"
 permalink: "/archive/final-thoughts-friday-for-2024-09-13/"
 description: "I wrapped up my delegate duties at AI Field Day 5 and will share insights from the event soon!"
 date: 2024-09-14 03:39:45.125341+00:00
+faq:
+- question: Which companies presented at AI Field Day 5?
+  answer: The companies that provided updates were Keysight, Integrail, Cisco, Vmware,
+    Elastic, Arista, and Enfabrica.
+- question: When and where is the author's next scheduled event?
+  answer: The author's next event is Monktoberfest, which will take place in Portland
+    from October 1-4, 2024.
+- question: When will the author's notes from AI Field Day 5 be available?
+  answer: The author's notes from AI Field Day 5 will be published in the coming days
+    or weeks once they have been consolidated.
 ---
-
 As of this update, my delegate duties at [AI Field Day 5](https://techfieldday.com/event/aifd5/) for [Tech Field Day](https://techfieldday.com/events/) are done but my notes will be published in the coming days / weeks. Over three days, I and fellow delegates took in updates from Keysight, Integrail, Cisco, Vmware, Elastic, Arista, and Enfabrica *as well as* a Delegate Ignite Talk series and Delegate Roundtable!
 
 > I would like to give a HUGE shout out to the team that makes Tech Field Day possible and to Futurum Group as well the sponsoring companies for making the event possible. 🙏 🙏 🙏

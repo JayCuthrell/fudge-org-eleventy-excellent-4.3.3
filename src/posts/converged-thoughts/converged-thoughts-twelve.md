@@ -3,8 +3,21 @@ date: 2017-01-09 00:00:00+00:00
 description: ''
 permalink: /archive/converged-thoughts-twelve/
 title: Converged Thoughts Twelve
+faq:
+- question: What is the author's opinion on Oracle's M&A strategy?
+  answer: The author finds Oracle's M&A activity impressive, noting that their strategy
+    involves acquiring companies that support entire industry ecosystems, such as
+    those in the telecommunications sector.
+- question: What does the author identify as the next trend following Converged and
+    Hyper-Converged Infrastructure?
+  answer: The author suggests that the IT industry will eventually shift toward a
+    paradigm based on disaggregated infrastructure (DI) systems, which combine concepts
+    from both Converged and Hyper-Converged Infrastructure.
+- question: What warning does the author provide regarding software pricing models?
+  answer: The author advises ISVs and full-stack companies to avoid 'punching their
+    customers in the face' with overly complex or predatory pricing schemes, citing
+    a reminder from Chad Sakac.
 ---
-
 Parking Decks and Pricing Models
 ================================
 

@@ -2,8 +2,21 @@
 title: "How Soon is Next Year?"
 description: ''
 date: 2022-12-26 01:22:16.950955+00:00
+faq:
+- question: What are the two specific predictions the author highlights for 2023?
+  answer: The two predictions highlighted for 2023 are Assumed Accessible Observability
+    and the growth of Site Reliability Engineering (SRE) cultures.
+- question: How does the author define the difference between Site Reliability Engineering
+    (SRE) and Platform Engineering (PE) in terms of empathy?
+  answer: The author suggests that if the SRE ethos is grounded in empathy for the
+    end user of a digital service, then the Platform Engineering ethos is grounded
+    in empathy for the developers of a digital service.
+- question: Why does the author believe that 2023 will see an evolution in data-driven
+    journalism?
+  answer: The author believes that as machine learning and artificial intelligence
+    proliferate, being able to 'watch the watchers' of these new machines through
+    accessible debug logs will become an evolved form of data-driven journalism.
 ---
-
 ![Untitled design-7.png](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c4db29e6-caee-42d5-b004-75f25b1fd009.png)
 
 Music: [The Smiths - How Soon Is Now? (1985)](https://www.youtube.com/watch?v=hnpILIIo9ek)

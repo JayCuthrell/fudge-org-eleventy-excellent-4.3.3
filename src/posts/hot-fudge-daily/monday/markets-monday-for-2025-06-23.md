@@ -3,11 +3,14 @@ title: "📈 Markets Monday for 2025-06-23"
 permalink: "/archive/markets-monday-for-2025-06-23/"
 description: "Less spicy but still movement in AI, space, and networking this week"
 date: 2025-06-23 20:19:47.568576+00:00
+faq:
+- question: What was the theme of last week's update?
+  answer: Last week's update was about love, rockets, and Quantumania.
+- question: What topics are being covered this week?
+  answer: This week's topics include AI, space satellites, and AI-related networking.
+- question: What is the source provided for the content?
+  answer: The source provided is https://finance.yahoo.com/research-hub/screener/9bda6c7b-fe9e-41ca-9da9-e281a4a9889a
 ---
-
-
-
-
 ### Last week
 
 It’s all about love and rockets… so, a bit more spicy.

@@ -2,8 +2,18 @@
 title: "Plugins, Patterns, and Potpourri"
 description: 'A little bit of everything this week from plugins to pattern recognition to surveillance intelligence'
 date: 2023-11-26
+faq:
+- question: What is the author's opinion on using Drafts as an alternative to Obsidian?
+  answer: The author realized they are likely not the right market for Drafts and
+    finds that plugins for an existing tool like Obsidian are more compelling than
+    switching to an alternative product.
+- question: What does the author plan to update next month?
+  answer: The author plans to update their annual zettelkasten post.
+- question: 'Which organization produced the study titled ''Downtowns Rebound: The
+    Data Driven Path to Recovery''?'
+  answer: The study was produced by The Center City District (CCD), the Central Philadelphia
+    Development Corporation (CPDC), and the Center City District Foundation (CCDF).
 ---
-
 I've taken a few days to catch up on reading and hoped to exhaustively tag 200+ posts. I say hoped because it was way more fun to play with the different tools than to get the results mapped to the actual tagging. 
 
 So, I'll just say I got close to tagging 20+ posts and learned a lot along the way. I also tried fixing some of the artifacts and formatting quirks of going from HTML to markdown back and forth between services.

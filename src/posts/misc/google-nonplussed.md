@@ -3,8 +3,20 @@ date: 2019-02-02 00:00:00+00:00
 description: ''
 permalink: /archive/google-nonplussed/
 title: Google Nonplussed
+faq:
+- question: Why did the author decide to export their Google+ data?
+  answer: The author exported their data due to warnings and advice provided in April
+    2019 regarding the impending closure of Google+ for most users.
+- question: What determines whether a Google service will continue to run according
+    to the author?
+  answer: The author suggests that services continue to run as long as there is a
+    viable model for monetization; if a service lacks a model or if a better monetization
+    model exists, the service is likely to be shut down.
+- question: Why does the author believe Google+ for G-Suite might remain available?
+  answer: Because G-Suite is monetized through subscription services, the author believes
+    the Google+ service within G-Suite is more likely to continue as long as there
+    is a sufficiently large number of enterprise customers using it.
 ---
-
 Google+ for most users will go away soon. April 2019 warnings and advice to export user data promted me to export my own.
 
 Memories of Wave

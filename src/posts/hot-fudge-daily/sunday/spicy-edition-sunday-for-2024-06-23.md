@@ -3,12 +3,19 @@ title: "Spicy Edition Sunday for 2024-06-23"
 permalink: "/archive/spicy-edition-sunday-for-2024-06-23/"
 description: "Uncover the spicy inspiration behind this week&#39;s Fudge Sunday edition, with a balance of deep links and fresh insights."
 date: 2024-06-23 13:53:16.396437+00:00
+faq:
+- question: What change is happening to the Hot Fudge Daily digest?
+  answer: Starting from the update in the post, Hot Fudge Daily will be posted as
+    free weekly content within 🌶️ Spicy Edition Sunday, and it will no longer be a
+    separate weekly digest in the previous format.
+- question: What is the new subscription price for Hot Fudge Daily?
+  answer: The subscription price for Hot Fudge Daily has been changed to $9.99 per
+    year.
+- question: What is the intended focus of the 'Throwback Thursday' section?
+  answer: Throwback Thursday focuses on the 'Shot and Chaser' format, which looks
+    back at a prior prediction or past news coverage to see how it has developed or
+    worked out in the present.
 ---
-
-
-
-
-
 {{ subscribe_form }}
 
 # Spicy Edition Sunday for 2024-06-23

@@ -3,9 +3,18 @@ title: "Final Thoughts Friday for 2024-07-12"
 permalink: "/archive/final-thoughts-friday-for-2024-07-12/"
 description: "Recapping the week, navigating coffee meetups, and planning future events while updating websites and experimenting with social platforms."
 date: 2024-07-12 19:51:46.572624+00:00
+faq:
+- question: What happened to the weekly coffee meetup series?
+  answer: The meetup series encountered issues with tourist overflow and is currently
+    on hold, with a potential return planned for the Fall.
+- question: Will visitors to fudge.org be asked to disable their ad blockers once
+    Google Adsense is enabled?
+  answer: No, there will not be any messages asking users to turn off their ad blockers.
+- question: What is the author's plan for the 11ty version of fudge.org?
+  answer: The author plans to go through major revisions of their original 11ty version
+    and opinionated starter to take advantage of the features provided by the upcoming
+    3.x release.
 ---
-
-
 # Final Thoughts Friday for 2024-07-12
 
 Looking back at the week with an eye to the future.

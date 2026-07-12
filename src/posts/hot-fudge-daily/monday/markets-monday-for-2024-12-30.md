@@ -4,11 +4,18 @@ permalink: "/archive/markets-monday-for-2024-12-30/"
 description: "This week’s Market Monday focuses on key indicators from Yahoo Finance and a spicy stock recap."
 date: 2024-12-31 03:54:00.705605+00:00
 tags: [quantum]
+faq:
+- question: What is the source of the market data used for the weekly recap?
+  answer: The market data is sourced from a simple Yahoo Finance webpage screener.
+- question: How can readers save their own market view on Yahoo Finance?
+  answer: Readers can bookmark their own heat map view by using the Yahoo Applied
+    Filters for Stocks screener with specific criteria for price change, region, market
+    cap, price, volume, sector, and industry.
+- question: What happens to the number of companies identified by the screener when
+    the market is less active?
+  answer: When the market is not moving as much, the screener typically identifies
+    a smaller handful of companies compared to when the market is moving.
 ---
-
-
-
-
 As a reminder, this is an end of day snapshot…
 
 ### Quick Recap
