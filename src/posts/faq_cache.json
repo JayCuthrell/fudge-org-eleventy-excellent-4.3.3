@@ -7698,5 +7698,19 @@
       "question": "What kind of content is featured in the 'Wacky Wednesday' section?",
       "answer": "The 'Wacky Wednesday' section features a list of the most interesting, safe-for-work links curated from dozens of Slack communities."
     }
+  ],
+  "wtf-003.md": [
+    {
+      "question": "What does the author mean by the shift toward 'Agentic AI'?",
+      "answer": "Agentic AI refers to models, such as OpenClaw and nemoClaw, designed for specific goals and outcomes, allowing for a 'set it and forget it' approach to autonomous software and the concept of 'digital employees' in the workplace."
+    },
+    {
+      "question": "What is the significance of the recent jury verdicts involving Meta and YouTube?",
+      "answer": "The verdicts signal a major shift toward holding companies liable for harmful app design (product liability) rather than just focusing on content liability."
+    },
+    {
+      "question": "What are the new technological developments in energy storage mentioned in the post?",
+      "answer": "Developments include using ceramics to absorb solar radiation to reach temperatures over 1,000°C for industrial use, and using cement combined with carbon black to form supercapacitors to store electrical energy."
+    }
   ]
 }
