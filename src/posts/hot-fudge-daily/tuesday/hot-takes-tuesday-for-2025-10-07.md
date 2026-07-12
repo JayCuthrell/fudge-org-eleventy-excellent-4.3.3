@@ -3,8 +3,15 @@ title: "🔥 Hot Takes Tuesday for 2025-10-07"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-07/"
 description: "The Tuesday sample of $20.272B raised for AI"
 date: 2025-10-07
+faq:
+- question: What does FurtherAI do and how much funding did it receive?
+  answer: FurtherAI automates insurance tasks using AI and received $25M in funding.
+- question: Which company raised $150M and what is its target market?
+  answer: EvenUp raised $150M, and it provides AI tools for law firms.
+- question: What is Bee Maps and how much investment did it secure?
+  answer: Bee Maps is a decentralized AI dashcam mapping project that secured $32M
+    in funding.
 ---
-
 💰 + 🤖 Funding for AI-anything companies continues.
 
 * [FurtherAI](https://www.techmeme.com/251007/p16#a251007p16) (AI that automates insurance tasks): **$25M**

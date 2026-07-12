@@ -3,8 +3,21 @@ date: 2022-08-07 23:51:09.837000+00:00
 description: Another look at multicloud
 permalink: /archive/union-of-the-cloud/
 title: Union of the Cloud
+faq:
+- question: According to the 2021 HashiCorp survey data mentioned in the post, what
+    percentage of companies with annual cloud budgets of $5 million or more operated
+    a Cloud Center of Excellence (CCoE)?
+  answer: Almost 2/3 (or approximately 66%) of companies with annual cloud budgets
+    of $5 million or more operated a CCoE, compared to only 40% of all respondents.
+- question: What term does the 2022 HashiCorp and Forrester Consulting study use to
+    refer to centralized cloud functions like a Cloud Center of Excellence (CCoE)?
+  answer: The study refers to these centralized cloud functions as "platform teams."
+- question: According to HashiCorp and Forrester Consulting, what is the main problem
+    facing multicloud adoption?
+  answer: The main problem is not the technology itself, but rather the people—specifically,
+    the lack of people available to staff "cloud platform teams" and "Cloud Centers
+    of Excellence (CCoE)" teams.
 ---
-
 *[Duran Duran - Union Of The Snake (1983)](https://www.youtube.com/watch?v=n6p5Q6_JBes)*
 
 Getting Informed

@@ -2,10 +2,18 @@
 title: "There's A Lot of Opportunities "
 description: ''
 date: 2023-06-18 23:50:29.115649+00:00
+faq:
+- question: What new newsletter features from Buttondown is the author testing in
+    this post?
+  answer: The author is testing a Spotify card from the Fudge Sunday playlist and
+    a long-running survey at the end of each email.
+- question: Which MLOps (Machine Learning Operations) company is congratulated for
+    receiving new funding?
+  answer: Striveworks is congratulated on their new funding.
+- question: Which company mentioned in 'Do You Need the Service Catalog' recently
+    received a new round of funding?
+  answer: Cortex recently received a new round of funding.
 ---
-
- 
-
 Music: [Pet Shop Boys - Opportunities (1986)](https://www.youtube.com/watch?v=di60NYGu03Y)
 
 https://open.spotify.com/track/4jgdKiZhbD6BlVMhCf4NJH?si=1dcdb69998d74c72

@@ -3,8 +3,15 @@ title: "🔥 Hot Takes Tuesday for 2025-09-23"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-23/"
 description: "AI app development, Wi-Fi chips, drone software, and more"
 date: 2025-09-23
+faq:
+- question: Which humanoid robotics company is currently seeking up to $1B in funding?
+  answer: 1X is the humanoid robotics company seeking up to $1B in funding.
+- question: How much funding did Distyl AI receive, and what do they specialize in?
+  answer: Distyl AI received $175M in funding, and they specialize in AI for business
+    processes.
+- question: What company received $140M in funding for power management chips?
+  answer: Empower Semiconductor received $140M in funding for power management chips.
 ---
-
 💰 + 🧠 AI, robotics, and other funding this week.
 
 * [Rocket.new](https://www.techmeme.com/250923/p2#a250923p2) (AI app development): **$15M**

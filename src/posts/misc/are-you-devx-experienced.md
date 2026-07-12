@@ -2,9 +2,24 @@
 title: "R U DevX Experienced?"
 description: 'a look at recent Developer Experience (DevX) coverage and articles that caught my attention'
 date: 2023-04-30 16:19:58.364000+00:00
+faq:
+- question: How does the author distinguish between the terms Dev, DevEx, DevX, and
+    DX?
+  answer: According to the author, 'Dev' is short for developer or development; 'DevEx'
+    refers to Developer Exchange (associated with activities like Roblox DevEx); 'DevX'
+    is used for Developer Experience to avoid typing two words; and 'DX' refers specifically
+    to the company named DX.
+- question: How did Etsy's transition to Developer Experience (DevX) progress over
+    time?
+  answer: Etsy's progression to DevX began with basic staff augmentation to handle
+    tasks impacting developer satisfaction and productivity. This effort eventually
+    led to the creation of a formal platform team and an enduring C-level initiative.
+- question: According to the author, what two principles are required to make the
+    next industrial revolution possible?
+  answer: The author states that the next industrial revolution will only be possible
+    through the Ruthless Removal of Annoyances (RRoA) and the Relentless Pursuit of
+    Automation (RPoA).
 ---
-
-
 Music: [Devo - Are U X-perienced? (1984)](https://www.youtube.com/watch?v=YVCt\_mAAZpQ)
 
 This week we take a look at recent Developer Experience (DevX) coverage and articles that caught my attention.

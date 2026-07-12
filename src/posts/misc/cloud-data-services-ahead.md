@@ -3,8 +3,20 @@ date: 2020-12-31 00:00:00+00:00
 description: A look at the the past, present, and future of data analytics
 permalink: /archive/cloud-data-services-ahead/
 title: Cloud Data Services Ahead
+faq:
+- question: What company did the author of the blog post join, and what is their new
+    role?
+  answer: The author joined Faction in a new servant leader role.
+- question: According to the post, what is the definition of Cloud Data Services?
+  answer: Cloud Data Services is a category to describe the common elements associated
+    with managed delivery of data services that exist across a continuous spectrum
+    from Private Cloud to IaaS / PaaS / FaaS / SaaS within Public Cloud as well as
+    Hybrid Cloud.
+- question: What products back Faction's Cloud Data Services for Multi-Cloud practice?
+  answer: Faction's practice is backed by Cloud Control Volumes™ (CCV™) and Hybrid
+    Disaster Recovery-as-a-Service (HDRaaS) products, which are enabled by a growing
+    number of patents.
 ---
-
 *The photo above is from a 2011 post on Twitter via Instagram (I think?). At the time, I was commenting that Cloud was now being used in conversations the way Broadband was back in 2000.*
 
 So, a quick couple of updates…

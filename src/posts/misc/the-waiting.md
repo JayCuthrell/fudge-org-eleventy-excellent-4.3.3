@@ -3,8 +3,23 @@ date: 2010-01-21 00:00:00+00:00
 description: Thoughts on analyst thoughts on YouTube
 permalink: /archive/the-waiting/
 title: The Waiting
+faq:
+- question: What features and developments were rolled out by YouTube to expand its
+    revenue sources beyond just 'running ads'?
+  answer: To generate revenue beyond running ads, YouTube introduced full feature
+    length movies, deep audience analytics, storage for HD content, large screen formats,
+    partner programs for news media, and location-based services options.
+- question: Why are analyst predictions about Internet titans inaccurate when they
+    use enterprise or carrier assumptions?
+  answer: These predictions are inaccurate because Internet titans do not fit traditional
+    enterprise or carrier patterns; they have unique business goals, multi-use facilities,
+    novel location selections, and vibrant refresh requirements at scale.
+- question: What is the recommended approach for analyzing the financials of Internet
+    infrastructure titans instead of reverse engineering their costs?
+  answer: The author recommends sticking with public financial reporting and waiting
+    for revenue numbers to be shared, rather than attempting to reverse engineer 'secret
+    sauce' costs.
 ---
-
 https://www.youtube.com/watch?v=uMyCa35_mOg
 
 YouTube is difficult to understand as a business model for a lot folks. Heck, a lot of this Internet stuff is.

@@ -3,8 +3,24 @@ date: 2005-03-19 00:00:00+00:00
 description: ''
 permalink: /archive/internet-access/
 title: Internet Access
+faq:
+- question: What does the author mean by "monotone" management?
+  answer: The author uses the term "monotone" to describe a management style where
+    a manager assumes all employees are either fully independent ("big boys/girls")
+    or require massive micromanagement ("complete ninnies"), showing a rare ability
+    to adapt or shift gears between the two.
+- question: What is the difference between problem solvers and quota workers as described
+    in the post?
+  answer: Problem solvers are those who figure out complex issues with very few instructions
+    and are left to work independently until a deadline or milestone. Quota workers,
+    on the other hand, follow a detailed workflow with expected outputs over a period
+    of time and face more frequent deadlines.
+- question: What observation made the author wonder if Internet access is not as productive
+    as it could be?
+  answer: The author questioned the productivity of Internet access after seeing an
+    overflowing bin reserved for printed phone books at the recycling bins, wondering
+    why phone books still exist if the Internet is highly productive.
 ---
-
 I was listening to TSOT on NPR this morning. This was made possible due to my new early to bed and early to rise experiment. The subject was related to productivity and Internet access in the workplace. There was a lot of anecdotal evidence and people called in to say why they felt the Internet was good or bad for productivity. The real issue, in my mind, is management techniques.
 
 Often, there is management in a company setting and it is monotone. I say monotone to describe a management technique where the manager assumes that everyone is either a) a big boy/girl or b) a complete ninny that requires massive micromanagement. It’s pretty rare, at least in my limited experience, to see a manager that can shift gears.

@@ -2,6 +2,24 @@
 title: "The Promised Landing Zones"
 description: 'A look and landing zones at AWS, Azure, GCP, and OCI'
 date: 2023-03-20
+faq:
+- question: What alternative terms does the blog post suggest using to describe Landing
+    Zones (LZ)?
+  answer: The blog post suggests replacing the term Landing Zones (LZ) with plans,
+    blueprints, or recipes.
+- question: What common elements are included in Landing Zone discussions and definitions
+    for Cloud Service Providers (CSPs)?
+  answer: 'Landing Zone definitions combine technical and business decisions, including:
+    considerations for governance that are well-architected with industry-standard
+    best practices; application and platform specific security profiles with multi-account
+    isolation methodology; a modular design for scale, management, and lifecycle;
+    and a summary of a vast number of lessons learned.'
+- question: How does the author use the pasta sauce analogy to describe different
+    Landing Zone requirements?
+  answer: The author compares different Landing Zones to pasta sauces to show how
+    different application deployments have different needs, such as using a zesty
+    arrabiata for Kubernetes (k8s), an alfredo for an ML/AI stack, or a basic pomodoro
+    for a legacy monolith.
 ---
 Music: [Bruce Springsteen - The Promised Land (1978)](https://www.youtube.com/watch?v=azQY2YBUMQc)
 

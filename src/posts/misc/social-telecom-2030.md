@@ -2,8 +2,19 @@
 title: "Social Telecom 2030"
 description: 'A projection in 2020 for what the next 10 years will bring'
 date: 2020-11-25 00:00:00+00:00
+faq:
+- question: What does the acronym ESTEEM stand for according to the blog post?
+  answer: According to the author, ESTEEM stands for STEM (Science, Technology, Engineering,
+    and Math) plus Ethics and Empathy.
+- question: What change did Delta Airlines make to its Twitter presence in early 2016?
+  answer: Delta Airlines phased out its dedicated @DeltaAssist account on Twitter
+    in early 2016 to simply use its main @Delta account.
+- question: How does the author compare cloud egress fees of the 2020s to past telecom
+    charges?
+  answer: The author describes cloud egress fees of the 2020s as the modern version
+    of long-distance telephone charges from the 1990s, predicting they will become
+    completely unjustifiable by 2030.
 ---
-
 ![12898055183.jpg](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/0d46be19-0bf6-4aaf-b36e-e536017fde6c.jpg) 
 
 The screenshot above is from a trip to Tokyo back in 2012 during my global road warrior days at VCE. I had never experienced this kind of raw network performance back in the USA. This was true 3G performance that seemed almost magical and too good to be true.

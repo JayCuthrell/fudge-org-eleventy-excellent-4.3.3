@@ -2,8 +2,23 @@
 title: The End of the Inflated Expectations
 description: A look at the hype cycle for A.I. and what's next
 date: 2023-10-08
+faq:
+- question: What is the main thesis regarding the training of A.I. models discussed
+    in the post?
+  answer: The thesis is that training A.I. models on unfiltered Internet content and
+    unvetted contributor input may be cost-effective, but it will not always provide
+    explicitly intended results that are ready for Enterprise use cases.
+- question: Which A.I. or M.L. concepts are listed under the 'Peak of Inflated Expectations'
+    from the 2023 Gartner Hype Cycle?
+  answer: The concepts listed are A.I. TRiSM (Trust, Risk, Security Management), Generative
+    A.I., and A.I. Augmented.
+- question: What examples are provided in the 'Shot' and 'Chaser' section to illustrate
+    the risks of training A.I. on unvetted content?
+  answer: The 'Shot' example is from 2016, when Twitter taught Microsoft’s AI chatbot
+    to be racist in less than a day. The 'Chaser' example is from 2023, when Amazon's
+    Alexa claimed that the 2020 election was stolen, citing sources from Rumble and
+    Substack.
 ---
-
 This week we take a look at the hype cycle for Artificial Intelligence (A.I.) and what's next.
 
 This week's musical inspiration in title and lyrics:

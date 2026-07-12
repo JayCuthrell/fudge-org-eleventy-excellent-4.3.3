@@ -2,8 +2,17 @@
 title: "Zettelkasten End of Year for 2022"
 description: ''
 date: 2022-12-19 00:37:15.328771+00:00
+faq:
+- question: How many posts did the Fudge Sunday newsletter publish in 2022?
+  answer: Fudge Sunday published approximately 50 posts in 2022.
+- question: Where does the author organize the online resources they read?
+  answer: The author organizes online resources as files in Obsidian, and also adds
+    to their Reading List or bookmarks all of their browser tabs.
+- question: What new section is the author considering experimenting with for the
+    newsletter next year?
+  answer: The author is considering experimenting with a "Links From Our Sponsor"
+    section next year, after being approached by an advertiser.
 ---
-
 This week we take a look at my Zettelkasten end of year favorites for 2022.
 
 # Sidebar

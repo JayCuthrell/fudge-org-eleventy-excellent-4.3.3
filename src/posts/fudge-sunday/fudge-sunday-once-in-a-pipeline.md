@@ -3,8 +3,21 @@ date: 2022-03-20 21:49:21+00:00
 description: A look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham
 permalink: /archive/fudge-sunday-once-in-a-pipeline/
 title: Fudge Sunday - Once in a Pipeline
+faq:
+- question: Who coined the term "Technical Debt" and when was it coined?
+  answer: The term "Technical Debt" was coined by Ward Cunningham approximately 30
+    years ago.
+- question: What is the difference between the Showback, Chargeback, and Shameback
+    stages of policy progression?
+  answer: Showback (Crawl) shows what was consumed and who consumed it. Chargeback
+    (Walk) shows who consumed what and draws against the appropriate budget. Shameback
+    (Run) shows who consumed what, draws against the appropriate budget, and reports
+    on the value return (revenue) per investment (consumption costs).
+- question: What is the purpose of the Infracost tool?
+  answer: Infracost is a tool that provides cloud cost estimates for Terraform in
+    pull requests and in the CI before the CD, allowing organizations to see estimated
+    costs before they actually incur them.
 ---
-
 This week we take a look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham.
 
 

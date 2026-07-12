@@ -2,8 +2,19 @@
 title: "Smooth k8s Operator"
 description: ''
 date: 2023-02-05 19:46:42.665000+00:00
+faq:
+- question: How old is the Kubernetes Operators concept according to the blog post?
+  answer: The Kubernetes Operators concept is seven (7) years old, tracing back to
+    its introduction in 2016.
+- question: In which section of the Kubernetes documentation can the canonical definition
+    of Operators be found?
+  answer: The canonical definition of Operators is located in the "Extending" section
+    of the Kubernetes documentation.
+- question: What is the primary purpose of using Kubernetes Operators?
+  answer: Kubernetes Operators are used to extract and apply critical, customized
+    operational knowledge to automate human-intensive tasks associated with application
+    deployment, lifecycle, care, and feeding.
 ---
-
 ![Screenshot 2023-02-05 at 12.53.13 PM.png](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/aceb8878-d34f-4080-8992-cf0ba81fc755.png) 
 
 Source: [chat.openai.com](https://chat.openai.com)

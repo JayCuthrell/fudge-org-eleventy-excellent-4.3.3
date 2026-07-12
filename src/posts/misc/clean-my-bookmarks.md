@@ -2,8 +2,20 @@
 title: "Clean My Bookmarks"
 description: "A look at rise, fall, and rebirth of bookmarking services"
 date: 2023-09-17
+faq:
+- question: What happened to the social-bookmarking site Del.icio.us?
+  answer: Del.icio.us was shut down almost five years ago after being acquired by
+    Pinboard, another social-bookmarking site.
+- question: What formatting changes does the author plan to make to their newsletter?
+  answer: The author plans to drop Spotify playlist updates, remove the 'Work Plug'
+    section, transition to workflows driven increasingly by Obsidian and automation,
+    and likely shift embedded rich card URLs from mikrolink to an alternative.
+- question: Who are the interview participants in the first reading suggestion about
+    Spotify?
+  answer: The first reading suggestion features Jennifer Riggins interviewing Helen
+    Greul on how Spotify achieved a voluntary 99% internal platform adoption rate
+    for Backstage.
 ---
-
 This week we take a look at the rise, fall, and rebirth of bookmarking services.
 
 This week's musical inspiration in title and lyrics:

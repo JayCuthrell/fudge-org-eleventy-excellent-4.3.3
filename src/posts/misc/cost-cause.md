@@ -2,8 +2,19 @@
 title: "Cost Cause"
 description: ''
 date: 2023-01-16 02:47:08.584501+00:00
+faq:
+- question: How many FinOps practitioners and tools were recently surveyed by the
+    FinOps Foundation?
+  answer: The FinOps Foundation canvased 838 FinOps practitioners regarding their
+    most used of 69 different tools.
+- question: Is Azure's Cost Management tool completely free to use?
+  answer: Azure Cost Management is free for Azure use cases, but using it for AWS
+    incurs fees.
+- question: What tools and services does GCP's DIY approach to cloud billing assume
+    a customer will use?
+  answer: GCP's approach assumes putting billing data into BigQuery and using Looker
+    for visualization.
 ---
-
 Music: [Beck - Lost Cause (2022)](https://www.youtube.com/watch?v=qkNa5xzOe5U)
 
 This week we take a look at cloud costs and how hyperscale CSP native FinOps toolchains have expanded.

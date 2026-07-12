@@ -1,0 +1,352 @@
+{
+  "internet-access.md": [
+    {
+      "question": "What does the author mean by \"monotone\" management?",
+      "answer": "The author uses the term \"monotone\" to describe a management style where a manager assumes all employees are either fully independent (\"big boys/girls\") or require massive micromanagement (\"complete ninnies\"), showing a rare ability to adapt or shift gears between the two."
+    },
+    {
+      "question": "What is the difference between problem solvers and quota workers as described in the post?",
+      "answer": "Problem solvers are those who figure out complex issues with very few instructions and are left to work independently until a deadline or milestone. Quota workers, on the other hand, follow a detailed workflow with expected outputs over a period of time and face more frequent deadlines."
+    },
+    {
+      "question": "What observation made the author wonder if Internet access is not as productive as it could be?",
+      "answer": "The author questioned the productivity of Internet access after seeing an overflowing bin reserved for printed phone books at the recycling bins, wondering why phone books still exist if the Internet is highly productive."
+    }
+  ],
+  "smooth-k8s-operator.md": [
+    {
+      "question": "How old is the Kubernetes Operators concept according to the blog post?",
+      "answer": "The Kubernetes Operators concept is seven (7) years old, tracing back to its introduction in 2016."
+    },
+    {
+      "question": "In which section of the Kubernetes documentation can the canonical definition of Operators be found?",
+      "answer": "The canonical definition of Operators is located in the \"Extending\" section of the Kubernetes documentation."
+    },
+    {
+      "question": "What is the primary purpose of using Kubernetes Operators?",
+      "answer": "Kubernetes Operators are used to extract and apply critical, customized operational knowledge to automate human-intensive tasks associated with application deployment, lifecycle, care, and feeding."
+    }
+  ],
+  "a-spotlight-on-ai-on-devices.md": [
+    {
+      "question": "What does the acronym \"DPWCG\" stand for, as proposed by the author?",
+      "answer": "The acronym \"DPWCG\" stands for deterministic power, weight, cooling, and geometry, which refers to a growing list of A.I. initiatives focused on these criteria."
+    },
+    {
+      "question": "What is Keep?",
+      "answer": "Keep is an open-source alert management and automation tool that provides everything you need to create and manage alerts effectively."
+    },
+    {
+      "question": "What tool did the author write about in February 2023 for Wardley mapping, and how can users access it now?",
+      "answer": "The author wrote about mapkeep.com, an online tool for strategy mapping. Currently, users who want to create their own maps can join the waitlist on their website."
+    }
+  ],
+  "the-promised-landing-zones.md": [
+    {
+      "question": "What alternative terms does the blog post suggest using to describe Landing Zones (LZ)?",
+      "answer": "The blog post suggests replacing the term Landing Zones (LZ) with plans, blueprints, or recipes."
+    },
+    {
+      "question": "What common elements are included in Landing Zone discussions and definitions for Cloud Service Providers (CSPs)?",
+      "answer": "Landing Zone definitions combine technical and business decisions, including: considerations for governance that are well-architected with industry-standard best practices; application and platform specific security profiles with multi-account isolation methodology; a modular design for scale, management, and lifecycle; and a summary of a vast number of lessons learned."
+    },
+    {
+      "question": "How does the author use the pasta sauce analogy to describe different Landing Zone requirements?",
+      "answer": "The author compares different Landing Zones to pasta sauces to show how different application deployments have different needs, such as using a zesty arrabiata for Kubernetes (k8s), an alfredo for an ML/AI stack, or a basic pomodoro for a legacy monolith."
+    }
+  ],
+  "cloud-data-services-ahead.md": [
+    {
+      "question": "What company did the author of the blog post join, and what is their new role?",
+      "answer": "The author joined Faction in a new servant leader role."
+    },
+    {
+      "question": "According to the post, what is the definition of Cloud Data Services?",
+      "answer": "Cloud Data Services is a category to describe the common elements associated with managed delivery of data services that exist across a continuous spectrum from Private Cloud to IaaS / PaaS / FaaS / SaaS within Public Cloud as well as Hybrid Cloud."
+    },
+    {
+      "question": "What products back Faction's Cloud Data Services for Multi-Cloud practice?",
+      "answer": "Faction's practice is backed by Cloud Control Volumes™ (CCV™) and Hybrid Disaster Recovery-as-a-Service (HDRaaS) products, which are enabled by a growing number of patents."
+    }
+  ],
+  "make-iiot-easy-on-yourself.md": [
+    {
+      "question": "What do the acronyms RRoA and RPoA stand for?",
+      "answer": "RRoA stands for the 'Ruthless Removal of Annoyances' and RPoA stands for the 'Relentless Pursuit of Automation'."
+    },
+    {
+      "question": "What is the purpose of The Open Group Open Process Automation Standard (O-PAS)?",
+      "answer": "O-PAS seeks to bring 'federated process automation systems' to all industrial plants, impacting everything from mining to chemical processing."
+    },
+    {
+      "question": "How does the author define the concept of 'cloud'?",
+      "answer": "The author defines the cloud as an 'operating model' rather than a 'place'."
+    }
+  ],
+  "artemis-radiation-hardening-and-ipfs.md": [
+    {
+      "question": "What are the primary objectives of NASA's Artemis missions?",
+      "answer": "According to the post, NASA's Artemis missions aim to land the first woman and first person of color on the Moon, collaborate with commercial and international partners to establish the first long-term presence on the Moon, and utilize the lessons learned on and around the Moon to send the first astronauts to Mars."
+    },
+    {
+      "question": "What is the RAD750 computer used in the James Webb Space Telescope, and how does it compare to a Raspberry Pi 4?",
+      "answer": "The RAD750 is a radiation-hardened single-board computer based on PowerPC 750 running at 118 MHz that was first released in 2001 and costs $200,000. By comparison, a $35 Raspberry Pi 4 released in 2019 is approximately 35 times faster."
+    },
+    {
+      "question": "Which company is planning to demonstrate space-based use cases for IPFS, and what analogy is used to describe it?",
+      "answer": "Lockheed Martin will soon publicly demonstrate non-terrestrial convergence enabling decentralization use cases for IPFS (Interplanetary File System) to support in-space economies. The author analogizes IPFS as an open way to enable an 'Akamai in the Sky' on planets and exoplanets."
+    }
+  ],
+  "clean-my-bookmarks.md": [
+    {
+      "question": "What happened to the social-bookmarking site Del.icio.us?",
+      "answer": "Del.icio.us was shut down almost five years ago after being acquired by Pinboard, another social-bookmarking site."
+    },
+    {
+      "question": "What formatting changes does the author plan to make to their newsletter?",
+      "answer": "The author plans to drop Spotify playlist updates, remove the 'Work Plug' section, transition to workflows driven increasingly by Obsidian and automation, and likely shift embedded rich card URLs from mikrolink to an alternative."
+    },
+    {
+      "question": "Who are the interview participants in the first reading suggestion about Spotify?",
+      "answer": "The first reading suggestion features Jennifer Riggins interviewing Helen Greul on how Spotify achieved a voluntary 99% internal platform adoption rate for Backstage."
+    }
+  ],
+  "social-telecom-2030.md": [
+    {
+      "question": "What does the acronym ESTEEM stand for according to the blog post?",
+      "answer": "According to the author, ESTEEM stands for STEM (Science, Technology, Engineering, and Math) plus Ethics and Empathy."
+    },
+    {
+      "question": "What change did Delta Airlines make to its Twitter presence in early 2016?",
+      "answer": "Delta Airlines phased out its dedicated @DeltaAssist account on Twitter in early 2016 to simply use its main @Delta account."
+    },
+    {
+      "question": "How does the author compare cloud egress fees of the 2020s to past telecom charges?",
+      "answer": "The author describes cloud egress fees of the 2020s as the modern version of long-distance telephone charges from the 1990s, predicting they will become completely unjustifiable by 2030."
+    }
+  ],
+  "zettelkasten-end-of-year-for-2022.md": [
+    {
+      "question": "How many posts did the Fudge Sunday newsletter publish in 2022?",
+      "answer": "Fudge Sunday published approximately 50 posts in 2022."
+    },
+    {
+      "question": "Where does the author organize the online resources they read?",
+      "answer": "The author organizes online resources as files in Obsidian, and also adds to their Reading List or bookmarks all of their browser tabs."
+    },
+    {
+      "question": "What new section is the author considering experimenting with for the newsletter next year?",
+      "answer": "The author is considering experimenting with a \"Links From Our Sponsor\" section next year, after being approached by an advertiser."
+    }
+  ],
+  "supercloudbusting.md": [
+    {
+      "question": "How does Dave Vellante define a supercloud?",
+      "answer": "Dave Vellante defines supercloud as an architecture that taps the underlying services and primitives of hyperscale clouds to deliver additional value above and beyond what is available from the public cloud provider. It delivers capabilities through software, consumed as services, and can run on a single hyperscale cloud or span multiple clouds."
+    },
+    {
+      "question": "Where did the trend of supercloud originate as a topic of related work?",
+      "answer": "The trend of supercloud relates back to work coming out of Cornell University circa 2015-2016."
+    },
+    {
+      "question": "What regional expansions are noted for GCP, Azure, and AWS in the post?",
+      "answer": "GCP is expanding its region coverage to Dallas, TX, USA; Azure is expanding to Doha, Qatar; and AWS is expanding its Local Zones and Outpost availability to Panama."
+    }
+  ],
+  "the-waiting.md": [
+    {
+      "question": "What features and developments were rolled out by YouTube to expand its revenue sources beyond just 'running ads'?",
+      "answer": "To generate revenue beyond running ads, YouTube introduced full feature length movies, deep audience analytics, storage for HD content, large screen formats, partner programs for news media, and location-based services options."
+    },
+    {
+      "question": "Why are analyst predictions about Internet titans inaccurate when they use enterprise or carrier assumptions?",
+      "answer": "These predictions are inaccurate because Internet titans do not fit traditional enterprise or carrier patterns; they have unique business goals, multi-use facilities, novel location selections, and vibrant refresh requirements at scale."
+    },
+    {
+      "question": "What is the recommended approach for analyzing the financials of Internet infrastructure titans instead of reverse engineering their costs?",
+      "answer": "The author recommends sticking with public financial reporting and waiting for revenue numbers to be shared, rather than attempting to reverse engineer 'secret sauce' costs."
+    }
+  ],
+  "tip-of-the-apache-iceberg.md": [
+    {
+      "question": "When did Apache Iceberg start and which company donated it to the Apache Software Foundation (ASF)?",
+      "answer": "Apache Iceberg began in 2017 within Netflix and was donated to the Apache Software Foundation (ASF) in 2018."
+    },
+    {
+      "question": "What can practitioners deploy using the new public GitHub repository for Compute.AI?",
+      "answer": "Practitioners can now launch a containerized deployment of the ComputeAI SQL engine using the public GitHub repository."
+    },
+    {
+      "question": "Why was the commercial entity Tabular formed in 2021?",
+      "answer": "Tabular was formed and funded to simplify, secure, and streamline the adoption of Apache Iceberg."
+    }
+  ],
+  "cost-cause.md": [
+    {
+      "question": "How many FinOps practitioners and tools were recently surveyed by the FinOps Foundation?",
+      "answer": "The FinOps Foundation canvased 838 FinOps practitioners regarding their most used of 69 different tools."
+    },
+    {
+      "question": "Is Azure's Cost Management tool completely free to use?",
+      "answer": "Azure Cost Management is free for Azure use cases, but using it for AWS incurs fees."
+    },
+    {
+      "question": "What tools and services does GCP's DIY approach to cloud billing assume a customer will use?",
+      "answer": "GCP's approach assumes putting billing data into BigQuery and using Looker for visualization."
+    }
+  ],
+  "union-of-the-cloud.md": [
+    {
+      "question": "According to the 2021 HashiCorp survey data mentioned in the post, what percentage of companies with annual cloud budgets of $5 million or more operated a Cloud Center of Excellence (CCoE)?",
+      "answer": "Almost 2/3 (or approximately 66%) of companies with annual cloud budgets of $5 million or more operated a CCoE, compared to only 40% of all respondents."
+    },
+    {
+      "question": "What term does the 2022 HashiCorp and Forrester Consulting study use to refer to centralized cloud functions like a Cloud Center of Excellence (CCoE)?",
+      "answer": "The study refers to these centralized cloud functions as \"platform teams.\""
+    },
+    {
+      "question": "According to HashiCorp and Forrester Consulting, what is the main problem facing multicloud adoption?",
+      "answer": "The main problem is not the technology itself, but rather the people—specifically, the lack of people available to staff \"cloud platform teams\" and \"Cloud Centers of Excellence (CCoE)\" teams."
+    }
+  ],
+  "the-end-of-the-inflated-expectations.md": [
+    {
+      "question": "What is the main thesis regarding the training of A.I. models discussed in the post?",
+      "answer": "The thesis is that training A.I. models on unfiltered Internet content and unvetted contributor input may be cost-effective, but it will not always provide explicitly intended results that are ready for Enterprise use cases."
+    },
+    {
+      "question": "Which A.I. or M.L. concepts are listed under the 'Peak of Inflated Expectations' from the 2023 Gartner Hype Cycle?",
+      "answer": "The concepts listed are A.I. TRiSM (Trust, Risk, Security Management), Generative A.I., and A.I. Augmented."
+    },
+    {
+      "question": "What examples are provided in the 'Shot' and 'Chaser' section to illustrate the risks of training A.I. on unvetted content?",
+      "answer": "The 'Shot' example is from 2016, when Twitter taught Microsoft’s AI chatbot to be racist in less than a day. The 'Chaser' example is from 2023, when Amazon's Alexa claimed that the 2020 election was stolen, citing sources from Rumble and Substack."
+    }
+  ],
+  "opportunities.md": [
+    {
+      "question": "What new newsletter features from Buttondown is the author testing in this post?",
+      "answer": "The author is testing a Spotify card from the Fudge Sunday playlist and a long-running survey at the end of each email."
+    },
+    {
+      "question": "Which MLOps (Machine Learning Operations) company is congratulated for receiving new funding?",
+      "answer": "Striveworks is congratulated on their new funding."
+    },
+    {
+      "question": "Which company mentioned in 'Do You Need the Service Catalog' recently received a new round of funding?",
+      "answer": "Cortex recently received a new round of funding."
+    }
+  ],
+  "are-you-devx-experienced.md": [
+    {
+      "question": "How does the author distinguish between the terms Dev, DevEx, DevX, and DX?",
+      "answer": "According to the author, 'Dev' is short for developer or development; 'DevEx' refers to Developer Exchange (associated with activities like Roblox DevEx); 'DevX' is used for Developer Experience to avoid typing two words; and 'DX' refers specifically to the company named DX."
+    },
+    {
+      "question": "How did Etsy's transition to Developer Experience (DevX) progress over time?",
+      "answer": "Etsy's progression to DevX began with basic staff augmentation to handle tasks impacting developer satisfaction and productivity. This effort eventually led to the creation of a formal platform team and an enduring C-level initiative."
+    },
+    {
+      "question": "According to the author, what two principles are required to make the next industrial revolution possible?",
+      "answer": "The author states that the next industrial revolution will only be possible through the Ruthless Removal of Annoyances (RRoA) and the Relentless Pursuit of Automation (RPoA)."
+    }
+  ],
+  "van-halen-iso-9000.md": [
+    {
+      "question": "What will the Internet of Things (IoT) become as parsing software pervades everyday life?",
+      "answer": "According to the post, the Internet of Things will fast become the \"Internet of Verified Ordering of Things.\""
+    },
+    {
+      "question": "What examples of future technology capabilities are mentioned in the text?",
+      "answer": "The author imagines a Siri that can understand legalese, Google Goggles that can scan contracts and advise you not to sign, and a car dashboard that tells you exactly what is wrong when you step into the vehicle."
+    },
+    {
+      "question": "How have personal firewalls evolved since they were first introduced in the late 90s?",
+      "answer": "Initially, early personal firewalls (like Zone Alarm) produced superfluous warnings and alerts that did not necessarily require review. Over time, they underwent hardening and refinement, and today they work seamlessly to provide a more understandable risk impact assessment without requiring constant attention."
+    }
+  ],
+  "generative-ai-thru-this.md": [
+    {
+      "question": "What new acronym does the author suggest adding to the online lexicon, and what does it stand for?",
+      "answer": "The author suggests adding the acronym \"IANALLM\", which stands for \"I am not a large language model\"."
+    },
+    {
+      "question": "According to the author, what is the key to achieving exhaustive productivity in platform engineering?",
+      "answer": "The key is the inclusion of generative AI that augments in a human + machine partnership."
+    },
+    {
+      "question": "What prediction does the author make regarding domain-specific languages (DSLs) and prompt engineers?",
+      "answer": "The author predicts there will be progressions in DSLs, leading to the rise of \"DSL poets\" (prompt engineers) who will flourish and write the essential abstractions for what was once considered business-as-usual IT."
+    }
+  ],
+  "hot-takes-tuesday-for-2025-03-11.md": [
+    {
+      "question": "What is the promised speed and valuation of the photonics chiplets mentioned in the post?",
+      "answer": "The photonics chiplets promise a speed of 14.4Tbps and have a valuation of $2.5B."
+    },
+    {
+      "question": "What valuation do the trusted 'Tupperware' software solutions command?",
+      "answer": "The trusted 'Tupperware' software solutions command a valuation of $3.5B."
+    },
+    {
+      "question": "On what day of the week did these two stories catch the author's eye?",
+      "answer": "The two stories caught the author's eye on Tuesday."
+    }
+  ],
+  "hot-takes-tuesday-for-2025-10-07.md": [
+    {
+      "question": "What does FurtherAI do and how much funding did it receive?",
+      "answer": "FurtherAI automates insurance tasks using AI and received $25M in funding."
+    },
+    {
+      "question": "Which company raised $150M and what is its target market?",
+      "answer": "EvenUp raised $150M, and it provides AI tools for law firms."
+    },
+    {
+      "question": "What is Bee Maps and how much investment did it secure?",
+      "answer": "Bee Maps is a decentralized AI dashcam mapping project that secured $32M in funding."
+    }
+  ],
+  "hot-takes-tuesday-for-2025-09-23.md": [
+    {
+      "question": "Which humanoid robotics company is currently seeking up to $1B in funding?",
+      "answer": "1X is the humanoid robotics company seeking up to $1B in funding."
+    },
+    {
+      "question": "How much funding did Distyl AI receive, and what do they specialize in?",
+      "answer": "Distyl AI received $175M in funding, and they specialize in AI for business processes."
+    },
+    {
+      "question": "What company received $140M in funding for power management chips?",
+      "answer": "Empower Semiconductor received $140M in funding for power management chips."
+    }
+  ],
+  "throwback-thursday-for-2024-12-05.md": [
+    {
+      "question": "When was Google NotebookLM first launched?",
+      "answer": "Google NotebookLM was launched two years ago."
+    },
+    {
+      "question": "What was the author's reaction to trying the recent updates of Google NotebookLM a few months ago?",
+      "answer": "The author tried the updates a few months ago and thought they were \"pretty cool stuff!\"."
+    },
+    {
+      "question": "What is happening with the Google NotebookLM team exactly two years after its launch?",
+      "answer": "The Google NotebookLM team is undergoing their own updates exactly two years after the launch."
+    }
+  ],
+  "fudge-sunday-once-in-a-pipeline.md": [
+    {
+      "question": "Who coined the term \"Technical Debt\" and when was it coined?",
+      "answer": "The term \"Technical Debt\" was coined by Ward Cunningham approximately 30 years ago."
+    },
+    {
+      "question": "What is the difference between the Showback, Chargeback, and Shameback stages of policy progression?",
+      "answer": "Showback (Crawl) shows what was consumed and who consumed it. Chargeback (Walk) shows who consumed what and draws against the appropriate budget. Shameback (Run) shows who consumed what, draws against the appropriate budget, and reports on the value return (revenue) per investment (consumption costs)."
+    },
+    {
+      "question": "What is the purpose of the Infracost tool?",
+      "answer": "Infracost is a tool that provides cloud cost estimates for Terraform in pull requests and in the CI before the CD, allowing organizations to see estimated costs before they actually incur them."
+    }
+  ]
+}

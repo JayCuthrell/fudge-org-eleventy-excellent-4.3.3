@@ -2,6 +2,19 @@
 title: A Spotlight on A.I. on Devices
 description: A look at A.I. running on devices nearest the data
 date: 2023-11-05
+faq:
+- question: What does the acronym "DPWCG" stand for, as proposed by the author?
+  answer: The acronym "DPWCG" stands for deterministic power, weight, cooling, and
+    geometry, which refers to a growing list of A.I. initiatives focused on these
+    criteria.
+- question: What is Keep?
+  answer: Keep is an open-source alert management and automation tool that provides
+    everything you need to create and manage alerts effectively.
+- question: What tool did the author write about in February 2023 for Wardley mapping,
+    and how can users access it now?
+  answer: The author wrote about mapkeep.com, an online tool for strategy mapping.
+    Currently, users who want to create their own maps can join the waitlist on their
+    website.
 ---
 # Origins
 

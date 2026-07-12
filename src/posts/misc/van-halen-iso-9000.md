@@ -2,8 +2,22 @@
 title: "Van Halen ISO 9000"
 description: ''
 date: 2013-01-13 00:00:00+00:00
+faq:
+- question: What will the Internet of Things (IoT) become as parsing software pervades
+    everyday life?
+  answer: According to the post, the Internet of Things will fast become the "Internet
+    of Verified Ordering of Things."
+- question: What examples of future technology capabilities are mentioned in the text?
+  answer: The author imagines a Siri that can understand legalese, Google Goggles
+    that can scan contracts and advise you not to sign, and a car dashboard that tells
+    you exactly what is wrong when you step into the vehicle.
+- question: How have personal firewalls evolved since they were first introduced in
+    the late 90s?
+  answer: Initially, early personal firewalls (like Zone Alarm) produced superfluous
+    warnings and alerts that did not necessarily require review. Over time, they underwent
+    hardening and refinement, and today they work seamlessly to provide a more understandable
+    risk impact assessment without requiring constant attention.
 ---
-
 As I was saying [previously](https://fudge.org/archive/burl-ives-workloads) about Branch content that means a lot less now…
 
 (I don’t feel tardy…)

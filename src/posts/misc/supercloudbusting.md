@@ -3,8 +3,21 @@ date: 2022-07-03 22:24:21.092000+00:00
 description: A look at SuperCloud and MultiCloud
 permalink: /archive/supercloudbusting/
 title: SuperCloudbusting
+faq:
+- question: How does Dave Vellante define a supercloud?
+  answer: Dave Vellante defines supercloud as an architecture that taps the underlying
+    services and primitives of hyperscale clouds to deliver additional value above
+    and beyond what is available from the public cloud provider. It delivers capabilities
+    through software, consumed as services, and can run on a single hyperscale cloud
+    or span multiple clouds.
+- question: Where did the trend of supercloud originate as a topic of related work?
+  answer: The trend of supercloud relates back to work coming out of Cornell University
+    circa 2015-2016.
+- question: What regional expansions are noted for GCP, Azure, and AWS in the post?
+  answer: GCP is expanding its region coverage to Dallas, TX, USA; Azure is expanding
+    to Doha, Qatar; and AWS is expanding its Local Zones and Outpost availability
+    to Panama.
 ---
-
 *[Kate Bush - Cloudbusting (1985)](https://www.youtube.com/watch?v=pllRW9wETzw) and may the samples live on for years to come.[1](#footnote-1)*
 
 

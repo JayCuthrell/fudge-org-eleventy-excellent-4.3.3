@@ -2,8 +2,21 @@
 title: "Generative AI Thru This"
 description: ''
 date: 2023-06-26 00:07:44.377000+00:00
+faq:
+- question: What new acronym does the author suggest adding to the online lexicon,
+    and what does it stand for?
+  answer: The author suggests adding the acronym "IANALLM", which stands for "I am
+    not a large language model".
+- question: According to the author, what is the key to achieving exhaustive productivity
+    in platform engineering?
+  answer: The key is the inclusion of generative AI that augments in a human + machine
+    partnership.
+- question: What prediction does the author make regarding domain-specific languages
+    (DSLs) and prompt engineers?
+  answer: The author predicts there will be progressions in DSLs, leading to the rise
+    of "DSL poets" (prompt engineers) who will flourish and write the essential abstractions
+    for what was once considered business-as-usual IT.
 ---
-
 Music: [Daniel Bedingfield - Gotta Get Thru This (2001)](https://www.youtube.com/watch?v=b4eMyOzD9UI)
 
 https://open.spotify.com/track/747tpec1a0Hfqvj2za1pBs?si=24d9b04f773842ba

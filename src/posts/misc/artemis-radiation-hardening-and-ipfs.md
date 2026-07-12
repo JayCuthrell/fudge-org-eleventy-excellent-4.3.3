@@ -3,9 +3,24 @@ date: 2022-09-04 21:54:41.790000+00:00
 description: ''
 permalink: /archive/artemis-radiation-hardening-and-ipfs/
 title: Artemis, Radiation Hardening, and IPFS
+faq:
+- question: What are the primary objectives of NASA's Artemis missions?
+  answer: According to the post, NASA's Artemis missions aim to land the first woman
+    and first person of color on the Moon, collaborate with commercial and international
+    partners to establish the first long-term presence on the Moon, and utilize the
+    lessons learned on and around the Moon to send the first astronauts to Mars.
+- question: What is the RAD750 computer used in the James Webb Space Telescope, and
+    how does it compare to a Raspberry Pi 4?
+  answer: The RAD750 is a radiation-hardened single-board computer based on PowerPC
+    750 running at 118 MHz that was first released in 2001 and costs $200,000. By
+    comparison, a $35 Raspberry Pi 4 released in 2019 is approximately 35 times faster.
+- question: Which company is planning to demonstrate space-based use cases for IPFS,
+    and what analogy is used to describe it?
+  answer: Lockheed Martin will soon publicly demonstrate non-terrestrial convergence
+    enabling decentralization use cases for IPFS (Interplanetary File System) to support
+    in-space economies. The author analogizes IPFS as an open way to enable an 'Akamai
+    in the Sky' on planets and exoplanets.
 ---
-
-
 Getting Informed
 ================
 

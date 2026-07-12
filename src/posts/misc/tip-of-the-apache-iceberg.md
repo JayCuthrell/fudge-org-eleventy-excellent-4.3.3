@@ -1,9 +1,20 @@
 ---
 title: "Tip of the Apache Iceberg"
 description: 'A look at the past, present, and future of Apache Iceberg and related projects'
-date: 2024-01-07 
+date: 2024-01-07
+faq:
+- question: When did Apache Iceberg start and which company donated it to the Apache
+    Software Foundation (ASF)?
+  answer: Apache Iceberg began in 2017 within Netflix and was donated to the Apache
+    Software Foundation (ASF) in 2018.
+- question: What can practitioners deploy using the new public GitHub repository for
+    Compute.AI?
+  answer: Practitioners can now launch a containerized deployment of the ComputeAI
+    SQL engine using the public GitHub repository.
+- question: Why was the commercial entity Tabular formed in 2021?
+  answer: Tabular was formed and funded to simplify, secure, and streamline the adoption
+    of Apache Iceberg.
 ---
-
 Fudge Sunday readers will recall my use of songs as inspiration. While the newsletter is not going back to the series format, the lyrics of [SchoolHouse Rock - Mother Necessity](https://www.youtube.com/watch?v=aBx-ilTzLec) are appropriate.
 
 https://www.youtube.com/watch?v=aBx-ilTzLec

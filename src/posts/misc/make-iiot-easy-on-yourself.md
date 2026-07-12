@@ -3,8 +3,17 @@ date: 2022-06-26 15:46:40.948000+00:00
 description: A look at industrial internet of things
 permalink: /archive/make-iiot-easy-on-yourself/
 title: Make IIoT Easy On Yourself
+faq:
+- question: What do the acronyms RRoA and RPoA stand for?
+  answer: RRoA stands for the 'Ruthless Removal of Annoyances' and RPoA stands for
+    the 'Relentless Pursuit of Automation'.
+- question: What is the purpose of The Open Group Open Process Automation Standard
+    (O-PAS)?
+  answer: O-PAS seeks to bring 'federated process automation systems' to all industrial
+    plants, impacting everything from mining to chemical processing.
+- question: How does the author define the concept of 'cloud'?
+  answer: The author defines the cloud as an 'operating model' rather than a 'place'.
 ---
-
 *[Dionne Warwick - “Make It Easy On Yourself” (1973)](https://www.youtube.com/watch?v=xk4fE6xIWPw)*
 
 
