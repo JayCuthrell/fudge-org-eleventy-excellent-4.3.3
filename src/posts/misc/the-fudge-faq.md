@@ -3,8 +3,17 @@ date: 1998-12-12 00:00:00+00:00
 description: ''
 permalink: /archive/the-fudge-faq/
 title: The Fudge FAQ
+faq:
+- question: Why did the author choose the nickname "fudge"?
+  answer: The nickname started during the days of MUDs and chatters on MegaDiner.
+    The author, who is an engineer, chose "fudge" because most good engineering involves
+    some sort of "fudge" factor.
+- question: Where does the name "qthrul" come from?
+  answer: The name "qthrul" (pronounced Q - Thrul) comes from the numerous mispronunciations
+    and bastardizations of the author's uncommon last name, Cooterell.
+- question: What are the author's ICQ contact numbers?
+  answer: The author's ICQ number is 1351835 for work and 4663668 for home.
 ---
-
 People often ask me “Why Qthrul? Why fudge?”
 
 Well, my last name has been slaughtered by many people in an attempt to master the correct pronunciation which is Fooonafoonapingere. Okay, maybe not, it is like the word qthrul reads: Q - Thrul.

@@ -2,8 +2,22 @@
 title: "Miscellaneous May"
 description: "A.I. chips, B.Y.O.A.I., and V.O.W.E.L."
 date: 2024-05-26
+faq:
+- question: Why does the author consider LinkedIn Newsletters to be a silo?
+  answer: The author views LinkedIn Newsletters as a silo because, despite being able
+    to see their followers, they cannot export them to a new platform without using
+    automation that potentially violates LinkedIn's terms of service.
+- question: What is the author's "hot take" regarding cloud service providers (CSPs)
+    and AI chips?
+  answer: The author's hot take is that cloud service providers will continue to offer
+    NVIDIA, Intel, and AMD chips while also moving forward with their own proprietary
+    chips, which will eventually make their way from the cloud to the edge and the
+    core.
+- question: What does the V.O.W.E.L. acronym stand for, and what is its purpose?
+  answer: V.O.W.E.L. stands for Variety, Opinions, Women, Ethnicities, and Location.
+    Its purpose is to encourage balanced, diverse, and inclusive speaker lineups at
+    events, ensuring a representative range of backgrounds and perspectives.
 ---
-
 This week we take a look at A.I. chips, B.Y.O.A.I., and V.O.W.E.L.
 
 ## Housekeeping

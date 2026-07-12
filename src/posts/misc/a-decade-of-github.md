@@ -3,8 +3,22 @@ date: 2019-03-25 00:00:00+00:00
 description: A look at 10 years of GitHub stars from 2009 to 2019
 permalink: /archive/a-decade-of-github/
 title: A Decade of GitHub
+faq:
+- question: What was the author's first GitHub repository?
+  answer: The author's first GitHub repository was a simple XML-based web gadget that
+    mapped traffic cameras for the ATL and RDU areas, originally created as a Google
+    Gadget for iGoogle.
+- question: What tools did the author use to manage and archive their Twitter content
+    before deleting it?
+  answer: The author used tweetmerge to combine multiple Twitter handles, Parse-Twitter-Archive
+    to search older tweets, expired-tweets to check for link rot, twitter-archive-analysis
+    to understand engagement, and twitter-export-image-fill to save rich media.
+- question: Why does the author bookmark and star terminal-based tools like pgcli
+    and ptpython?
+  answer: The author saves these tools to learn more about late-stage LAMP options
+    and to maintain a native terminal experience without having to spawn a desktop
+    IDE.
 ---
-
 I’ve been using GitHub for ~10 years. Over time I used GitHub more socially than for source code publishing. As my use increased so did my bookmarking via the “stars” function. Let’s see what I kept after my most recent Spring purge of GitHub stars…
 
 [JayCuthrell GitHub Stars](https://github.com/JayCuthrell?direction=desc&sort=stars&tab=stars&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)

@@ -2,10 +2,23 @@
 title: "Can't Buy Me Lead Time"
 description: ''
 date: 2023-07-09 21:16:37.798735+00:00
+faq:
+- question: How does the author of the blog post define "lead time" in the context
+    of software development?
+  answer: The author defines lead time as the measurement of the time between when
+    a developer contributes to the product experience until an end user of that product
+    experiences a desirable impact from the developer's contribution.
+- question: Can lead time be shortened by reducing quality or bypassing security?
+  answer: No. The author emphasizes that obtaining a shorter lead time must not be
+    the result of lowering quality, delivering incomplete work, or bypassing security
+    considerations, as quality assurance and safety/security remain critical.
+- question: What path does the author suggest DevOps pursuits should take for long-term
+    development?
+  answer: The author suggests that DevOps pursuits should holistically be DevSecOps
+    pursuits (rooted in secure software development practices, quality engineering,
+    and automation-first thinking) and, in the long term, transition into platform
+    engineering pursuits on a path to expressing a more product-led growth culture.
 ---
-
- 
-
 Music: [The Beatles - Can't Buy Me Love (1964)](https://www.youtube.com/watch?v=TBSpmoA8V78)
 
 https://open.spotify.com/track/38Vb1J5W5LOs0i7SAF76pa?si=8102102993634e77

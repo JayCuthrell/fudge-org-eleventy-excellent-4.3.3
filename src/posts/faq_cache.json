@@ -348,5 +348,75 @@
       "question": "What is the purpose of the Infracost tool?",
       "answer": "Infracost is a tool that provides cloud cost estimates for Terraform in pull requests and in the CI before the CD, allowing organizations to see estimated costs before they actually incur them."
     }
+  ],
+  "cant-buy-me-lead-time.md": [
+    {
+      "question": "How does the author of the blog post define \"lead time\" in the context of software development?",
+      "answer": "The author defines lead time as the measurement of the time between when a developer contributes to the product experience until an end user of that product experiences a desirable impact from the developer's contribution."
+    },
+    {
+      "question": "Can lead time be shortened by reducing quality or bypassing security?",
+      "answer": "No. The author emphasizes that obtaining a shorter lead time must not be the result of lowering quality, delivering incomplete work, or bypassing security considerations, as quality assurance and safety/security remain critical."
+    },
+    {
+      "question": "What path does the author suggest DevOps pursuits should take for long-term development?",
+      "answer": "The author suggests that DevOps pursuits should holistically be DevSecOps pursuits (rooted in secure software development practices, quality engineering, and automation-first thinking) and, in the long term, transition into platform engineering pursuits on a path to expressing a more product-led growth culture."
+    }
+  ],
+  "the-5-ps-of-workloads.md": [
+    {
+      "question": "What does the author mean by the term \"Cloud Computing Canard\"?",
+      "answer": "The author uses \"Cloud Computing Canard\" to describe the vast oversimplification of IT workload diversity, specifically referring to the rigid \"pets vs. cattle\" duality that incorrectly suggests there are only two categories of workloads."
+    },
+    {
+      "question": "What are the \"5 P's of Workloads\" proposed by the author?",
+      "answer": "The 5 P's of Workloads are a tiered classification system used to rationalize applications within an IT portfolio. They consist of Parrots (long-lived legacy workloads), Parakeets (frequently replaced tactical legacy workloads), Poultry (highly integrated, uniform deployments), Popeyes (orchestrated, self-service workloads or 'Poultry as a Service'), and Pigeons (failed, overly complex and sprawling implementations)."
+    },
+    {
+      "question": "How does the author define a \"Pigeon\" workload?",
+      "answer": "A Pigeon workload is a failed IT execution where an attempt to create a new delivery method results in an overly complex, sprawling, and cumbersome implementation. It becomes a nuisance that multiplies, requiring maintenance from those who feed it while everyone else forgets why the workload mattered or who owns it."
+    }
+  ],
+  "a-decade-of-github.md": [
+    {
+      "question": "What was the author's first GitHub repository?",
+      "answer": "The author's first GitHub repository was a simple XML-based web gadget that mapped traffic cameras for the ATL and RDU areas, originally created as a Google Gadget for iGoogle."
+    },
+    {
+      "question": "What tools did the author use to manage and archive their Twitter content before deleting it?",
+      "answer": "The author used tweetmerge to combine multiple Twitter handles, Parse-Twitter-Archive to search older tweets, expired-tweets to check for link rot, twitter-archive-analysis to understand engagement, and twitter-export-image-fill to save rich media."
+    },
+    {
+      "question": "Why does the author bookmark and star terminal-based tools like pgcli and ptpython?",
+      "answer": "The author saves these tools to learn more about late-stage LAMP options and to maintain a native terminal experience without having to spawn a desktop IDE."
+    }
+  ],
+  "the-fudge-faq.md": [
+    {
+      "question": "Why did the author choose the nickname \"fudge\"?",
+      "answer": "The nickname started during the days of MUDs and chatters on MegaDiner. The author, who is an engineer, chose \"fudge\" because most good engineering involves some sort of \"fudge\" factor."
+    },
+    {
+      "question": "Where does the name \"qthrul\" come from?",
+      "answer": "The name \"qthrul\" (pronounced Q - Thrul) comes from the numerous mispronunciations and bastardizations of the author's uncommon last name, Cooterell."
+    },
+    {
+      "question": "What are the author's ICQ contact numbers?",
+      "answer": "The author's ICQ number is 1351835 for work and 4663668 for home."
+    }
+  ],
+  "miscellaneous-may.md": [
+    {
+      "question": "Why does the author consider LinkedIn Newsletters to be a silo?",
+      "answer": "The author views LinkedIn Newsletters as a silo because, despite being able to see their followers, they cannot export them to a new platform without using automation that potentially violates LinkedIn's terms of service."
+    },
+    {
+      "question": "What is the author's \"hot take\" regarding cloud service providers (CSPs) and AI chips?",
+      "answer": "The author's hot take is that cloud service providers will continue to offer NVIDIA, Intel, and AMD chips while also moving forward with their own proprietary chips, which will eventually make their way from the cloud to the edge and the core."
+    },
+    {
+      "question": "What does the V.O.W.E.L. acronym stand for, and what is its purpose?",
+      "answer": "V.O.W.E.L. stands for Variety, Opinions, Women, Ethnicities, and Location. Its purpose is to encourage balanced, diverse, and inclusive speaker lineups at events, ensuring a representative range of backgrounds and perspectives."
+    }
   ]
 }

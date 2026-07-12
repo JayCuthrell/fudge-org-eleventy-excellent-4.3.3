@@ -3,8 +3,24 @@ date: 2014-01-17 00:00:00+00:00
 description: ''
 permalink: /archive/the-5-ps-of-workloads/
 title: The 5 Ps of Workloads
+faq:
+- question: What does the author mean by the term "Cloud Computing Canard"?
+  answer: The author uses "Cloud Computing Canard" to describe the vast oversimplification
+    of IT workload diversity, specifically referring to the rigid "pets vs. cattle"
+    duality that incorrectly suggests there are only two categories of workloads.
+- question: What are the "5 P's of Workloads" proposed by the author?
+  answer: The 5 P's of Workloads are a tiered classification system used to rationalize
+    applications within an IT portfolio. They consist of Parrots (long-lived legacy
+    workloads), Parakeets (frequently replaced tactical legacy workloads), Poultry
+    (highly integrated, uniform deployments), Popeyes (orchestrated, self-service
+    workloads or 'Poultry as a Service'), and Pigeons (failed, overly complex and
+    sprawling implementations).
+- question: How does the author define a "Pigeon" workload?
+  answer: A Pigeon workload is a failed IT execution where an attempt to create a
+    new delivery method results in an overly complex, sprawling, and cumbersome implementation.
+    It becomes a nuisance that multiplies, requiring maintenance from those who feed
+    it while everyone else forgets why the workload mattered or who owns it.
 ---
-
 Wordplay comes out in the oddest places.
 
 I was thinking about amusing apparel worn by several folks and alumni at conferences like OpenStack Summit, RICON, and Gluecon. Specifically, one shirt came to mind.
