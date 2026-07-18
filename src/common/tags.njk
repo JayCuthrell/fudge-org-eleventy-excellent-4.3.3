@@ -5,16 +5,74 @@ eleventyComputed:
   title: '{{ meta.blog.tagPlural }}'
 ---
 
+<!-- ==========================================================================
+     SECTION 1: TAG CLOUD WITH POST COUNTS
+     We keep your exact 'cluster' layout and 'button' classes, adding a 
+     span that checks the length of the collection corresponding to each tag.
+     ========================================================================== -->
 <div class="taglist | mt-s-m cluster">
   {% for tag in collections.tagList %}
-    <a href="/tags/{{ tag | slugify }}/" class="button"> {{ tag }} </a>
+    {# 
+      We link to an on-page anchor (#tag-slug) for an instant "discovery hub" experience.
+      If you prefer to direct users to dedicated tag pages instead, simply change the href 
+      back to: "/tags/{{ tag | slugify }}/" 
+    #}
+    <a href="#tag-{{ tag | slugify }}" class="button">
+      {{ tag }}
+      {# Dynamically grab the number of posts for this specific tag #}
+      <span class="tag-count" style="margin-left: 0.5em; opacity: 0.8; font-size: 0.9em;">
+        ({{ collections[tag].length }})
+      </span>
+    </a>
   {% endfor %}
 </div>
 
-<custom-masonry layout="50-50">
-  {% set itemlist = collections.posts %}
-  {% for item in itemlist %}
+<hr class="mt-s-m" style="margin-top: 3rem; margin-bottom: 2rem; border: 0; border-top: 1px solid currentColor; opacity: 0.2;">
 
-		{% include "partials/card-tag.njk" %}
+<!-- ==========================================================================
+     SECTION 2: GROUPED MASONRY GRIDS BY TAG
+     Instead of listing all posts in one giant grid, we generate a dedicated 
+     custom-masonry grid for each topic, utilizing your existing card partial!
+     ========================================================================== -->
+<div class="tagged-posts-directory | mt-s-m">
+  {% for tag in collections.tagList %}
+    
+    {# Create a targetable ID matching the anchor link in Section 1 #}
+    <section id="tag-{{ tag | slugify }}" class="tag-group" style="margin-bottom: 4rem;">
+      
+      <header style="margin-bottom: 1.5rem; display: flex; align-items: baseline; justify-content: space-between; border-bottom: 2px solid currentColor; padding-bottom: 0.5rem;">
+        <h2>
+          {{ tag }} 
+          <span style="font-size: 0.6em; opacity: 0.7; font-weight: normal;">
+            ({{ collections[tag].length }} {% if collections[tag].length == 1 %}post{% else %}posts{% endif %})
+          </span>
+        </h2>
+        
+        {# Optional: A direct link to the individual tag page if you still generate them #}
+        <a href="/tags/{{ tag | slugify }}/" style="font-size: 0.9em; text-decoration: underline;">
+          View archive page →
+        </a>
+      </header>
+
+      {# We wrap your existing custom-masonry component around the posts for THIS specific tag #}
+      <custom-masonry layout="50-50">
+        {# Assign only the posts belonging to the current tag to your itemlist variable #}
+        {% set itemlist = collections[tag] %}
+        
+        {# Loop through this tag's posts (reversed so newest appear first) and render your card partial #}
+        {% for item in itemlist | reverse %}
+          {% include "partials/card-tag.njk" %}
+        {% endfor %}
+      </custom-masonry>
+
+      {# A quick jump-link to get back to the tag cloud at the top of the page #}
+      <div style="margin-top: 1rem; text-align: right;">
+        <a href="#top" style="font-size: 0.85em; opacity: 0.7; text-decoration: none;">
+          ↑ Back to top
+        </a>
+      </div>
+
+    </section>
+
   {% endfor %}
-</custom-masonry>
+</div>

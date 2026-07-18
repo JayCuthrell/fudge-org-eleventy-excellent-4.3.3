@@ -6,33 +6,64 @@ pagination:
   alias: tag
 permalink: /tags/{{ tag | slugify }}/
 eleventyComputed:
-  title: '{{ meta.blog.tagSingle }}: {{ tag }}'
+  title: '{{ meta.blog.tagSingle }}: {{ tag }} ({{ collections[tag].length }})'
 ---
+
+<!-- ==========================================================================
+     SECTION 1: NAVIGATION BREADCRUMB
+     Provide a quick way for visitors to return to your main discovery hub.
+     ========================================================================== -->
+<div class="back-to-hub | mb-s-m" style="margin-bottom: 1.5rem;">
+  <a href="/tags/" style="text-decoration: underline; font-size: 0.9em;">
+    ← Back to all tags hub
+  </a>
+</div>
+
+<!-- ==========================================================================
+     SECTION 2: PAGE HEADER & MASONRY GRID FOR THE CURRENT TAG
+     We added an explicit heading here in case you want visual emphasis 
+     directly above the cards, matching the computed title in your layout!
+     ========================================================================== -->
+<header class="tag-header | mb-s-m" style="margin-bottom: 1.5rem; border-bottom: 2px solid currentColor; padding-bottom: 0.5rem;">
+  <h1 class="text-step-4" style="margin: 0;">
+    {{ tag }} 
+    <span class="tag-count" style="font-size: 0.6em; opacity: 0.7; font-weight: normal;">
+      ({{ collections[tag].length }} {% if collections[tag].length == 1 %}post{% else %}posts{% endif %})
+    </span>
+  </h1>
+</header>
 
 <custom-masonry layout="50-50">
   {% set itemList = collections[tag] | reverse %}
   {% for item in itemList %}
 
-		{% include "partials/card-tag.njk" %}
+    {% include "partials/card-tag.njk" %}
   {% endfor %}
 </custom-masonry>
 
 <h2 class="text-step-2">{{ meta.blog.tagMore }}</h2>
 
+<!-- ==========================================================================
+     SECTION 3: GLOBAL TAG NAVIGATION WITH POST COUNTS
+     We use 'tagName' here to prevent naming collisions with pagination.
+     ========================================================================== -->
 <ul class="taglist | my-s-m cluster gutter-s" role="list">
-  {% for tag in collections.tagList %}
+  {% for tagName in collections.tagList %}
     <li>
       <a
-        href="/tags/{{ tag | slugify }}/"
+        href="/tags/{{ tagName | slugify }}/"
         class="button"
         {{
-          helpers.getLinkActiveState('/tags/' + tag | slugify + '/',
+          helpers.getLinkActiveState('/tags/' + tagName | slugify + '/',
           page.url)
           |
           safe
         }}
       >
-        {{ tag }}
+        {{ tagName }}
+        <span class="tag-count" style="margin-left: 0.5em; opacity: 0.8; font-size: 0.9em;">
+          ({{ collections[tagName].length }})
+        </span>
       </a>
     </li>
   {% endfor %}
