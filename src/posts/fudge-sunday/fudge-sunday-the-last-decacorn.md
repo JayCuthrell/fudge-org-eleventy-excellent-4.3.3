@@ -1,5 +1,6 @@
 ---
 date: 2022-02-20 23:58:55+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-the-last-decacorn/
 title: Fudge Sunday - The Last Decacorn

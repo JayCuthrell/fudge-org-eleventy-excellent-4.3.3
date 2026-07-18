@@ -1,5 +1,6 @@
 ---
 date: 2019-05-13 03:40:45+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-internet-of-things-have-changed/
 title: Fudge Sunday - Internet of Things (Have Changed)

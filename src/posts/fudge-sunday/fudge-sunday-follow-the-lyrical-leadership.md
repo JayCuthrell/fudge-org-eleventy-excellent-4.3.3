@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Follow the Lyrical Leadership Listicles"
 description: ''
 date: 2022-05-23 00:50:44+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: How many leadership principles did Amazon have in 1998?
   answer: According to 'The Everything Store' by Brad Stone, Amazon had approximately

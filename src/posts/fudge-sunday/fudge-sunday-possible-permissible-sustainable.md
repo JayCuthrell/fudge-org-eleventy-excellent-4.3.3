@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Possible, Permissible, Sustainable, Repeatable, Advisable"
 description: ''
 date: 2021-08-30 00:53:31+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What are the five elements of product excellence described in the newsletter?
   answer: The five elements are Possible (can it be done), Permissible (can it be

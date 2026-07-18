@@ -1,5 +1,6 @@
 ---
 date: 2021-07-18 14:30:04+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-all-along-the-watchtower/
 title: Fudge Sunday - All Along the Watchtower

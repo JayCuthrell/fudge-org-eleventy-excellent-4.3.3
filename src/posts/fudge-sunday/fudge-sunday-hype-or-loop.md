@@ -1,5 +1,6 @@
 ---
 date: 2022-01-24 01:28:48+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-hype-or-loop/
 title: Fudge Sunday - Hype Or Loop?

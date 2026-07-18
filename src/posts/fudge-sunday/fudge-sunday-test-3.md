@@ -2,6 +2,7 @@
 title: "Fudge Sunday Test 3"
 description: ''
 date: 2022-06-26 15:44:59.524000+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What are some areas identified for improvement in the post?
   answer: The post lists several items to work on, including filler words and phrases,

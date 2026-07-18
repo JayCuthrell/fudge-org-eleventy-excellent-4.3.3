@@ -1,5 +1,6 @@
 ---
 date: 2022-04-17 22:13:40+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-come-together/
 title: Fudge Sunday - Come Together

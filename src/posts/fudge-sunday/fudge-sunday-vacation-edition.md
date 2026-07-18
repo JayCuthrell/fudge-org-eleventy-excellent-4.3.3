@@ -1,5 +1,6 @@
 ---
 date: 2019-04-29 05:59:33+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-vacation-edition/
 title: Fudge Sunday - Vacation Edition

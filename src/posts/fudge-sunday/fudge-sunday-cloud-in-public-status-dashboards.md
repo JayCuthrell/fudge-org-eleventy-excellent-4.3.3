@@ -1,5 +1,6 @@
 ---
 date: 2021-10-03 21:12:39+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-status-dashboards/
 title: 'Fudge Sunday - Cloud in Public: Status Dashboards'

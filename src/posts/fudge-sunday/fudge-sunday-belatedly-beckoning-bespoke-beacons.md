@@ -1,5 +1,6 @@
 ---
 date: 2022-01-10 00:04:40+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-belatedly-beckoning-bespoke-beacons/
 title: Fudge Sunday - Belatedly Beckoning Bespoke Beacons

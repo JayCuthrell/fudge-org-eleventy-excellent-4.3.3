@@ -1,5 +1,6 @@
 ---
 date: 2022-05-29 20:44:40+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-ramble-on/
 title: Fudge Sunday - Ramble On

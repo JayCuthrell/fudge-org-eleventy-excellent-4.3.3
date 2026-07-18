@@ -1,5 +1,6 @@
 ---
 date: 2019-05-06 05:04:27+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-las-vegas-edition/
 title: Fudge Sunday - Las Vegas Edition

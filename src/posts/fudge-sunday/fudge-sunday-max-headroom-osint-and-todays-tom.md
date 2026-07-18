@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Max Headroom, OSINT, and Today's Tom Sawyer"
 description: ''
 date: 2022-03-07 02:40:03+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What is the importance of Operations security (OPSEC) in the context of
     OSINT?

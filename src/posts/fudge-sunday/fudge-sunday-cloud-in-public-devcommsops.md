@@ -1,5 +1,6 @@
 ---
 date: 2021-10-18 00:01:32+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-devcommsops/
 title: 'Fudge Sunday - Cloud in Public: DevCommsOps'

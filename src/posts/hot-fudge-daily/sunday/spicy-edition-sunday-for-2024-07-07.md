@@ -3,6 +3,7 @@ title: "Spicy Edition Sunday for 2024-07-07"
 permalink: "/archive/spicy-edition-sunday-for-2024-07-07/"
 description: "This edition covers a range of topics from market insights to tech trends and upcoming events."
 date: 2024-07-07 16:00:00+00:00
+tags: ['Spicy Edition Sunday']
 faq:
 - question: What changes are coming to the fudge.org website next month?
   answer: Starting next month, fudge.org will function as a funnel to drive traffic

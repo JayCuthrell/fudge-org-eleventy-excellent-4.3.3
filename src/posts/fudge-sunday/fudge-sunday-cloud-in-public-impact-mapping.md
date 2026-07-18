@@ -1,5 +1,6 @@
 ---
 date: 2021-11-01 00:00:00+00:00
+tags: ['Fudge Sunday']
 description: A look at public things for a public cloud
 permalink: /archive/fudge-sunday-cloud-in-public-impact-mapping/
 title: 'Fudge Sunday - Cloud in Public: Impact Mapping'

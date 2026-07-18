@@ -1,5 +1,6 @@
 ---
 date: 2022-03-14 02:31:09+00:00
+tags: ['Fudge Sunday']
 description: A look at portmanteaus of Development and Operations (DevOps) making
   inroads toward operationalizing Finance, Data Management, Machine Learning, Communications,
   and more

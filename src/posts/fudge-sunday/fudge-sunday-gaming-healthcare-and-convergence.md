@@ -1,5 +1,6 @@
 ---
 date: 2021-08-08 22:57:02+00:00
+tags: ['Fudge Sunday']
 description: A look at the state of convergence in ICT
 permalink: /archive/fudge-sunday-gaming-healthcare-and-convergence/
 title: Fudge Sunday - Gaming, Healthcare, and Convergence

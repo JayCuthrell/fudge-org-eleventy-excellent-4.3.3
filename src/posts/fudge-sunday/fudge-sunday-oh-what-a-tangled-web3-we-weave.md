@@ -1,5 +1,6 @@
 ---
 date: 2021-11-29 02:00:03+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-oh-what-a-tangled-web3-we-weave/
 title: Fudge Sunday - Oh What A Tangled Web3 We Weave

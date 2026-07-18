@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Twitter, Matter, and Data-Driven Journalism "
 description: 'The road ahead'
 date: 2021-11-08 01:27:35+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: How has the author changed their approach to using Twitter to avoid algorithmic
     curation and advertising?

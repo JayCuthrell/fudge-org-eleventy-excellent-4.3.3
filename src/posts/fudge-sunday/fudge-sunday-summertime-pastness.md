@@ -1,5 +1,6 @@
 ---
 date: 2022-04-03 23:47:50+00:00
+tags: ['Fudge Sunday']
 description: A short summer reading list from 1978-2020 to consider our future
 permalink: /archive/fudge-sunday-summertime-pastness/
 title: Fudge Sunday - Summertime Pastness

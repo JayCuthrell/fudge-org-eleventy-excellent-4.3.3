@@ -1,5 +1,6 @@
 ---
 date: 2022-03-20 21:49:21+00:00
+tags: ['Fudge Sunday']
 description: A look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham
 permalink: /archive/fudge-sunday-once-in-a-pipeline/
 title: Fudge Sunday - Once in a Pipeline

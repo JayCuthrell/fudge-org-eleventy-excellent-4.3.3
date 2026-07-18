@@ -1,5 +1,6 @@
 ---
 date: 2019-02-17 23:42:23+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-issue-1/
 title: 'Fudge Sunday - Issue #1'

@@ -2,6 +2,7 @@
 title: "Fudge Sunday - What I've been reading lately"
 description: ''
 date: 2021-06-20 17:00:06+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What does the author suggest doing if you find yourself constantly hitting
     refresh on social media sites?

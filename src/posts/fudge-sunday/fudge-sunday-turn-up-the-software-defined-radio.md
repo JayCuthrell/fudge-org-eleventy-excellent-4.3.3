@@ -1,5 +1,6 @@
 ---
 date: 2022-01-03 01:13:12+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-turn-up-the-software-defined-radio/
 title: Fudge Sunday - Turn Up the (Software Defined) Radio

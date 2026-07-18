@@ -1,5 +1,6 @@
 ---
 date: 2021-06-27 17:53:34+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-reflecting-and-projecting/
 title: Fudge Sunday - Reflecting and Projecting

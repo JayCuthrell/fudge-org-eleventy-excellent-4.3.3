@@ -1,5 +1,6 @@
 ---
 date: 2021-12-27 02:29:29+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-cheap-as-chips-in-2022/
 title: Fudge Sunday - Cheap as Chips in 2022

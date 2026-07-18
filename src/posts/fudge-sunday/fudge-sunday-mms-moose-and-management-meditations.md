@@ -2,6 +2,7 @@
 title: "Fudge Sunday - M&M's, Moose, and Management Meditations"
 description: ''
 date: 2022-02-27 23:49:55+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What are the six dimensions of data quality introduced by DAMA UK?
   answer: The six data quality dimensions are accuracy, completeness, consistency,

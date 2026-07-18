@@ -1,5 +1,6 @@
 ---
 date: 2021-09-26 23:00:01+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-razor-thin-margins-of-error-bars/
 title: Fudge Sunday - Razor Thin Margins of Error Bars

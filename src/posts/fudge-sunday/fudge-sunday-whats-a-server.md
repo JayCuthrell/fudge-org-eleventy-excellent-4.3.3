@@ -2,6 +2,7 @@
 title: "Fudge Sunday - What's a Server?"
 description: 'Thinking about servers'
 date: 2021-08-15 17:35:23+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: How does the author define a server?
   answer: A server is described as a contained collection of computing hardware or

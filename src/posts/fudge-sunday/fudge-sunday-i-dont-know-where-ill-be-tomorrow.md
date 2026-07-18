@@ -2,6 +2,7 @@
 title: "Fudge Sunday - I Don't Know Where I'll Be Tomorrow"
 description: ''
 date: 2021-08-01 18:39:44+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What is Microsoft's Project Natick?
   answer: Project Natick is an experimental undersea datacenter that provided a stable,

@@ -3,6 +3,7 @@ title: "Spicy Edition Sunday for 2024-06-23"
 permalink: "/archive/spicy-edition-sunday-for-2024-06-23/"
 description: "Uncover the spicy inspiration behind this week&#39;s Fudge Sunday edition, with a balance of deep links and fresh insights."
 date: 2024-06-23 13:53:16.396437+00:00
+tags: ['Spicy Edition Sunday']
 faq:
 - question: What change is happening to the Hot Fudge Daily digest?
   answer: Starting from the update in the post, Hot Fudge Daily will be posted as

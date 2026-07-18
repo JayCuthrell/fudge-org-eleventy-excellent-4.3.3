@@ -1,5 +1,6 @@
 ---
 date: 2019-05-20 05:09:47+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-thinking-outside-the-cardboard-box/
 title: Fudge Sunday - Thinking Outside the Cardboard Box

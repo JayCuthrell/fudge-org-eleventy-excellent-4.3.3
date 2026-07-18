@@ -1,5 +1,6 @@
 ---
 date: 2022-03-27 20:29:31+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-needle-in-a-fullstack/
 title: Fudge Sunday - Needle in a Fullstack

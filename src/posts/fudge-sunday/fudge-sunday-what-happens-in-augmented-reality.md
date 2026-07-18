@@ -2,6 +2,7 @@
 title: "Fudge Sunday - What Happens in Augmented Reality Stays in Augmented Reality"
 description: ''
 date: 2019-02-25 06:20:52+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What common theme regarding self-driving cars did the author encounter
     during conversations with Lyft drivers?

@@ -2,6 +2,7 @@
 title: "Fudge Sunday Test 4"
 description: ''
 date: 2022-07-03 22:20:11.807000+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What are some of the areas mentioned for improvement in the post?
   answer: The post lists things to work on including describing links versus footnotes,

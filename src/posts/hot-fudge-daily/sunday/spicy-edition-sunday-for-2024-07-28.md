@@ -3,6 +3,7 @@ title: "🌶️ Spicy Edition Sunday for 2024-07-28"
 permalink: "/archive/spicy-edition-sunday-for-2024-07-28/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-28 10:14:14+00:00
+tags: ['Spicy Edition Sunday']
 faq:
 - question: What is the focus of Spicy Edition Sunday?
   answer: Spicy Edition Sunday provides spicy inspiration, deep links, and fresh insights.

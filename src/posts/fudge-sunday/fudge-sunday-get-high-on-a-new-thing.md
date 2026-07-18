@@ -1,5 +1,6 @@
 ---
 date: 2021-07-25 21:57:41+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-get-high-on-a-new-thing/
 title: Fudge Sunday - Get High On a New Thing

@@ -1,5 +1,6 @@
 ---
 date: 2022-01-17 00:57:36+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-fiber-to-the-homologous/
 title: Fudge Sunday - Fiber To The Homologous

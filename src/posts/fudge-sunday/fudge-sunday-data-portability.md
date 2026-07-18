@@ -1,5 +1,6 @@
 ---
 date: 2021-09-06 00:34:16+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-data-portability/
 title: Fudge Sunday - Data Portability

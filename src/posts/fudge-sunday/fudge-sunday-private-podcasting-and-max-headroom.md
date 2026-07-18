@@ -1,5 +1,6 @@
 ---
 date: 2019-05-27 05:08:23+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-private-podcasting-and-max-headroom/
 title: Fudge Sunday - Private Podcasting and Max Headroom

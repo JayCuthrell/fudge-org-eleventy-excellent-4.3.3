@@ -1,5 +1,6 @@
 ---
 date: 2021-10-25 01:27:33+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-mean-time-to-rca/
 title: 'Fudge Sunday - Cloud in Public: Mean Time To RCA'

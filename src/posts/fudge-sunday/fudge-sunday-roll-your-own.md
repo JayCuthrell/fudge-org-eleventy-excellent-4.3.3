@@ -1,5 +1,6 @@
 ---
 date: 2019-04-08 02:11:45+00:00
+tags: ['Fudge Sunday']
 description: A possible result of importing and exporting
 permalink: /archive/fudge-sunday-roll-your-own/
 title: Fudge Sunday - Roll Your Own

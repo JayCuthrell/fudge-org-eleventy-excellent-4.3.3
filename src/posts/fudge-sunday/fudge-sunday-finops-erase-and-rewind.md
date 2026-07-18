@@ -1,5 +1,6 @@
 ---
 date: 2022-04-24 18:48:29+00:00
+tags: ['Fudge Sunday']
 description: A look at FinOps and Swedish rock band lyrics
 permalink: /archive/fudge-sunday-finops-erase-and-rewind/
 title: Fudge Sunday - FinOps Erase and Rewind

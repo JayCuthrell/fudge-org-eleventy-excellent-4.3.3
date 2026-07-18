@@ -1,5 +1,6 @@
 ---
 date: 2021-07-11 14:56:41+00:00
+tags: ['Fudge Sunday']
 description: part 2 of a 5 part series
 permalink: /archive/fudge-sunday-and-all-points-in-between/
 title: Fudge Sunday - And All Points In Between

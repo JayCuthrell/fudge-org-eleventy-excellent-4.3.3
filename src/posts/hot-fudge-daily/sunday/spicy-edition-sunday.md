@@ -3,6 +3,7 @@ title: "Spicy Edition Sunday"
 permalink: "/archive/spicy-edition-sunday/"
 description: "Uncover the spicy inspiration behind this week&#39;s Fudge Sunday edition, packed with deep links and fresh insights. 🔥"
 date: 2024-06-09 19:52:29.721231+00:00
+tags: ['Spicy Edition Sunday']
 faq:
 - question: What is the typical writing process for Fudge Sunday?
   answer: The author usually wakes up on Sunday morning without a set topic, spends

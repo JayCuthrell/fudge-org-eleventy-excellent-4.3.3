@@ -1,5 +1,6 @@
 ---
 date: 2021-11-22 00:54:48+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-saas-trendspotting/
 title: Fudge Sunday - SaaS Trendspotting

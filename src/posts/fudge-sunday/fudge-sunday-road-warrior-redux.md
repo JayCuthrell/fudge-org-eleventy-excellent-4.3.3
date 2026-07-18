@@ -1,5 +1,6 @@
 ---
 date: 2019-03-18 05:34:24+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-road-warrior-redux/
 title: Fudge Sunday - Road Warrior Redux

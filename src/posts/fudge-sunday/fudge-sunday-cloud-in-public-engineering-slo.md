@@ -1,5 +1,6 @@
 ---
 date: 2021-10-11 02:54:39+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-cloud-in-public-engineering-slo/
 title: 'Fudge Sunday - Cloud in Public: Engineering SLO'

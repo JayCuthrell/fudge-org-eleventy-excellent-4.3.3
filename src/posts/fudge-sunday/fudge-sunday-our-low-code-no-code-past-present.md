@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Our Low Code No Code Past, Present, and Future"
 description: ''
 date: 2021-12-06 03:28:33+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What is the primary goal of the Low Code Application Platform (LCAP) market?
   answer: The LCAP market is a fast-growing industry designed to help companies empower

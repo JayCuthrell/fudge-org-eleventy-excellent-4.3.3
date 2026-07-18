@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Life at 34,000 Feet"
 description: ''
 date: 2019-04-01 04:23:18+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What was AirFone?
   answer: AirFone was an early in-flight communication technology that featured corded

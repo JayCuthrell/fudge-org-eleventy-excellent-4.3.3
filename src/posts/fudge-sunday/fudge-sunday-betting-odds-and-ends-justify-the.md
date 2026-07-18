@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Betting Odds and Ends Justify the Means of Production"
 description: ''
 date: 2021-09-13 01:10:51+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What are the privacy implications of the emerging 'smart toilets' market?
   answer: The privacy implications involve how opt-in and opt-out defaults will distinguish

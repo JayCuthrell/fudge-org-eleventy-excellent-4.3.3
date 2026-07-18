@@ -1,5 +1,6 @@
 ---
 date: 2021-08-23 00:21:05+00:00
+tags: ['Fudge Sunday']
 description: A look at data analytics tooling trends
 permalink: /archive/fudge-sunday-dig-your-own-sql/
 title: Fudge Sunday - Dig Your Own SQL

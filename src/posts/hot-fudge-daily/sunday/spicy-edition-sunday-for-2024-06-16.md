@@ -3,6 +3,7 @@ title: "Spicy Edition Sunday for 2024-06-16"
 permalink: "/archive/spicy-edition-sunday-for-2024-06-16/"
 description: "Uncover spicy inspiration and tech updates in this week&#39;s Fudge Sunday edition! 🔥"
 date: 2024-06-16 18:33:50.273802+00:00
+tags: ['Spicy Edition Sunday']
 faq:
 - question: What is the author's current goal for their 11ty stack?
   answer: The author is working on migrating their starter framework from version

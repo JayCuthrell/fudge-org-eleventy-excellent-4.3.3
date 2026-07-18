@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Singularity and Super Massive Black Holes"
 description: ''
 date: 2022-05-16 02:48:14+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What is the primary association of the word 'singularity' discussed in
     the text regarding recent astrophysics?

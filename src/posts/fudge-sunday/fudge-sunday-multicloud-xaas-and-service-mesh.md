@@ -1,5 +1,6 @@
 ---
 date: 2021-12-13 01:42:56+00:00
+tags: ['Fudge Sunday']
 description: A look at Multicloud Data Services and everything evolving to be a service
   with an increasing emphasis on observability
 permalink: /archive/fudge-sunday-multicloud-xaas-and-service-mesh/

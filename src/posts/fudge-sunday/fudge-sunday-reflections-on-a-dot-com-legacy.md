@@ -1,5 +1,6 @@
 ---
 date: 2019-04-15 03:42:29+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-reflections-on-a-dot-com-legacy/
 title: Fudge Sunday - Reflections on a Dot-Com Legacy

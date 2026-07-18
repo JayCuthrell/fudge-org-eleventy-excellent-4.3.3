@@ -1,5 +1,6 @@
 ---
 date: 2022-02-14 00:04:04+00:00
+tags: ['Fudge Sunday']
 description: A look at at meta newsletter reading on TypeScript, Prototyping, Consumerized
   Enterprise, Edge Computing, and the Uncanny Valley
 permalink: /archive/fudge-sunday-peek-a-boo/

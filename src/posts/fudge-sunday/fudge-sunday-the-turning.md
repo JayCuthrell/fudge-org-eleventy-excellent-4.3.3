@@ -1,5 +1,6 @@
 ---
 date: 2022-04-10 20:26:19+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-the-turning/
 title: Fudge Sunday - The Turning

@@ -2,6 +2,7 @@
 title: "Fudge Sunday - When a Clubhouse asks if Enterprise selling can be remote"
 description: ''
 date: 2021-06-11 00:45:20+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What was the main topic of the Clubhouse session discussed in the post?
   answer: 'The session was titled ''Enterprise GTM: Can Enterprise Selling Be Remote?''

@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Tomorrow You Probably Saw This Already"
 description: ''
 date: 2019-04-21 20:45:05+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What point does the blog post make about the history of electric vehicles?
   answer: The post highlights that while electric vehicles are often presented as

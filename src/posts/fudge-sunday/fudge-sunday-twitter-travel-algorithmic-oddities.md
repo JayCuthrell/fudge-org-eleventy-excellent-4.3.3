@@ -1,5 +1,6 @@
 ---
 date: 2022-05-08 20:10:22+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-twitter-travel-algorithmic-oddities/
 title: 'Fudge Sunday - Twitter Travel Algorithmic Oddities '

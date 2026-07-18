@@ -1,5 +1,6 @@
 ---
 date: 2022-01-31 00:19:16+00:00
+tags: ['Fudge Sunday']
 description: Slack and search engines
 permalink: /archive/fudge-sunday-cut-me-some-slack/
 title: Fudge Sunday - Cut Me Some Slack

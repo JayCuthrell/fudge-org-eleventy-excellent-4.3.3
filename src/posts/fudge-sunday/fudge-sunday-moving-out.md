@@ -1,5 +1,6 @@
 ---
 date: 2022-06-05 20:55:38+00:00
+tags: ['Fudge Sunday']
 description: A look at moving to new platforms
 permalink: /archive/fudge-sunday-moving-out/
 title: Fudge Sunday - Moving Out

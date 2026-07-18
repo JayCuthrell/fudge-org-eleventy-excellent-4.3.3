@@ -1,5 +1,6 @@
 ---
 date: 2021-09-20 00:32:35+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-multicloudwashing-detergent/
 title: Fudge Sunday - MultiCloudWashing Detergent

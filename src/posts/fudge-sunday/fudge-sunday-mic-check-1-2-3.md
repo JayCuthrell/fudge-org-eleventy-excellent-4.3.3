@@ -1,5 +1,6 @@
 ---
 date: 2019-03-11 03:33:18+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-mic-check-1-2-3/
 title: Fudge Sunday - Mic Check 1, 2, 3

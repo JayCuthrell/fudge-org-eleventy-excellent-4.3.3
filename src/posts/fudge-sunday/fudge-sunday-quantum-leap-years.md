@@ -3,7 +3,7 @@ date: 2019-03-04 05:25:03+00:00
 description: ''
 permalink: /archive/fudge-sunday-quantum-leap-years/
 title: Fudge Sunday - Quantum Leap Years
-tags: [quantum]
+tags: [quantum, 'Fudge Sunday']
 faq:
 - question: How has interest in quantum computing changed over time according to the
     post?

@@ -1,5 +1,6 @@
 ---
 date: 2021-12-20 00:50:53+00:00
+tags: ['Fudge Sunday']
 description: ''
 permalink: /archive/fudge-sunday-zettelkasten-end-of-year-favorites/
 title: Fudge Sunday - Zettelkasten End of Year Favorites

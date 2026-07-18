@@ -2,6 +2,7 @@
 title: "Fudge Sunday - Just Can't Get Enough"
 description: 'Getting enough'
 date: 2022-05-01
+tags: ['Fudge Sunday']
 faq:
 - question: How many links did the author find in their Safari Reading List?
   answer: The author found 173 links in their Safari Reading List that dated back

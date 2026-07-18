@@ -2,6 +2,7 @@
 title: "Fudge Sunday - And the way that gravity pulls on everyone"
 description: ''
 date: 2021-07-04 16:39:01+00:00
+tags: ['Fudge Sunday']
 faq:
 - question: What was edge computing originally referred to as?
   answer: Edge computing was once referred to as fog computing.
