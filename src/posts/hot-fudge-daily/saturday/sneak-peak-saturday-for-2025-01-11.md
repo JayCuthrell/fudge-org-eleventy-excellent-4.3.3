@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-01-11"
 permalink: "/archive/sneak-peak-saturday-for-2025-01-11/"
 description: "I’m highlighting overlooked stories from the Friday news frenzy and sharing some memes!"
 date: 2025-01-11 22:45:06.339593+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the purpose of releasing news updates on a Friday according to
     the post?

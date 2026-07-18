@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-07-15"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-15/"
 description: "AI firms from autonomous driving to ethical video models rake in funding"
 date: 2025-07-15 23:05:20.217+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the largest amount of funding listed in the post?
   answer: Thinking Machines Lab, Mira Murati's AI startup, received $2B in funding.

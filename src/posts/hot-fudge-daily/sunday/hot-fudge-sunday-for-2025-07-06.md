@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-07-06"
 permalink: "/archive/hot-fudge-sunday-for-2025-07-06/"
 description: "A short spicy winning week"
 date: 2025-07-06 14:40:01.268+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What service does the author use for their newsletter delivery?
   answer: The author uses Buttondown as their trusted newsletter delivery service.

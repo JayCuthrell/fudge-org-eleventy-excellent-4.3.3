@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-09-27"
 permalink: "/archive/final-thoughts-friday-for-2024-09-27/"
 description: "The weekend arrives..."
 date: 2024-09-28 21:20:38.458226+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: Which companies were featured in the AI Field Day 5 delegate notes?
   answer: The delegate notes cover Keysight, Integrail, Cisco, VMware, Elastic, Arista,

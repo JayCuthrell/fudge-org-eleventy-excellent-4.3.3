@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-06-28"
 permalink: "/archive/sneak-peak-saturday-for-2025-06-28/"
 description: "Friday news dumps on the ups &amp; downs of AI chips in the tech world"
 date: 2025-06-28 13:08:50.334170+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the criteria for the author's Friday news dump selection?
   answer: The author selects news that reaches a peak level of trope, cliché, or bromide

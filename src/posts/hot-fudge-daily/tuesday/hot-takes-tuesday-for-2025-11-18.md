@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-11-18"
 permalink: "/archive/hot-takes-tuesday-for-2025-11-18/"
 description: "The Tuesday sample of $1.6B raised for AI"
 date: 2025-11-18
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much funding did Lambda receive?
   answer: Lambda received $1.5 billion in funding.

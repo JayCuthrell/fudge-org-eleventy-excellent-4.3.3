@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-08-06"
 permalink: "/archive/hot-takes-tuesday-for-2024-08-06/"
 description: "Rapid fire analysis on funds, funding, M&amp;A, IIoT impact, content licensing, and cybersecurity trends."
 date: 2024-08-07 10:49:17.618305+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the significance of companies considering alternatives to NVIDIA,
     such as AMD?

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-11-24"
 permalink: "/archive/markets-monday-for-2025-11-24/"
 description: "Quantum computing and digital infrastructure rises"
 date: 2025-11-24
+tags: ['Markets Monday']
 faq:
 - question: What is the primary theme driving the stock market activity mentioned
     in the post?

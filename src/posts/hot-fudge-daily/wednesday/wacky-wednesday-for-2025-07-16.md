@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-07-16"
 permalink: "/archive/wacky-wednesday-for-2025-07-16/"
 description: "An intriguing tale of tarantulas in cake "
 date: 2025-07-16 23:51:01.114+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the subject of the news story shared in the Slack communities?
   answer: The story is about German customs officials discovering tarantulas inside

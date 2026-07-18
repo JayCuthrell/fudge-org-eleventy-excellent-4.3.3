@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-07-17"
 permalink: "/archive/throwback-thursday-for-2025-07-17/"
 description: "The 20-year journey to convergence of Android with ChromeOS"
 date: 2025-07-17 22:31:45.947+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the major convergence story recently reported regarding Google's
     operating systems?

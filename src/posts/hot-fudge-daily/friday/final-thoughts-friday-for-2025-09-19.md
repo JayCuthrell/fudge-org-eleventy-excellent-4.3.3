@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-09-19"
 permalink: "/archive/final-thoughts-friday-for-2025-09-19/"
 description: "The comeback of tech IPOs"
 date: 2025-09-19
+tags: ['Final Thoughts Friday']
 faq:
 - question: What was considered the biggest story in tech this week?
   answer: The biggest story this week was the return of tech IPO activity.

@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-01-02"
 permalink: "/archive/throwback-thursday-for-2025-01-02/"
 description: "Reflecting on my telecom career, I explore the evolution of broadband and the ongoing digital divide."
 date: 2025-01-03 05:07:29.577081+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: When did the author begin their career in the telecommunications industry?
   answer: The author began their career in the late 1990s, specifically working with

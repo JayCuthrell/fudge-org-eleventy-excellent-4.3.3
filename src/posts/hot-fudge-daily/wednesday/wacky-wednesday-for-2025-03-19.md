@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-03-19"
 permalink: "/archive/wacky-wednesday-for-2025-03-19/"
 description: "This week&#39;s email features a curated list of intriguing links from various Slack communities."
 date: 2025-03-20 16:57:43.261807+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: When does the author curate the list of links?
   answer: The author goes through Slack communities and selects interesting links

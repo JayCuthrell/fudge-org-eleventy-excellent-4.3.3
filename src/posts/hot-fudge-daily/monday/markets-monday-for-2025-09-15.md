@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-09-15"
 permalink: "/archive/markets-monday-for-2025-09-15/"
 description: "Screener update and tracking top market movers"
 date: 2025-09-15
+tags: ['Markets Monday']
 faq:
 - question: What is the status of the screener improvements?
   answer: The screener improvements are currently in progress and getting closer to

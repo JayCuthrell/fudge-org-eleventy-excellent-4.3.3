@@ -3,6 +3,7 @@ title: "Wacky Wednesday for 2024-06-12"
 permalink: "/archive/wacky-wednesday-for-2024-06-12/"
 description: "Wacky Wednesday for 2024-06-12 Explore the wild and wacky world of shared links from online Slack communities. One unique thing about online Slack..."
 date: 2024-06-12 19:31:18.241226+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the purpose of the Wacky Wednesday blog post?
   answer: 'The blog post serves to share a collection of interesting, wild, and wacky

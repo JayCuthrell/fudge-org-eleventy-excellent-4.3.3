@@ -3,7 +3,7 @@ title: "📈 Markets Monday for 2025-10-13"
 permalink: "/archive/markets-monday-for-2025-10-13/"
 description: "A broad rally in quantum, digital currency, semiconductors, and energy"
 date: 2025-10-13
-tags: [quantum]
+tags: [quantum, 'Markets Monday']
 faq:
 - question: Which technology sectors saw a significant rally according to the blog
     post?

@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-06-20"
 permalink: "/archive/final-thoughts-friday-for-2025-06-20/"
 description: "Exploring the US Army Reserve&#39;s recruitment challenges and innovative talent strategies at SXSW 2024."
 date: 2025-06-21 01:28:40.376024+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What percentage of American youth are currently ineligible to serve in
     the military?

@@ -3,6 +3,7 @@ title: "Hot Takes Tuesday for 2024-07-09"
 permalink: "/archive/hot-takes-tuesday-for-2024-07-09/"
 description: "Tech industry funding trends, gaming growth, robot overlords, and unique VC firm connections."
 date: 2024-07-10 00:56:51.192962+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Why is data storage becoming an increasingly important sector?
   answer: Data storage is significant because the amount of data being generated has

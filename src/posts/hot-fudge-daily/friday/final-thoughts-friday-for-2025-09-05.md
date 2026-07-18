@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-09-05"
 permalink: "/archive/final-thoughts-friday-for-2025-09-05/"
 description: "Art, science, and nostalgia in tech"
 date: 2025-09-05
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is considered the biggest story of the week according to the blog
     post?

@@ -3,7 +3,7 @@ title: "🔙 Throwback Thursday for 2025-09-04"
 permalink: "/archive/throwback-thursday-for-2025-09-04/"
 description: "Quantum Computing via the Quantinuum lens"
 date: 2025-09-04
-tags: [quantum]
+tags: [quantum, 'Throwback Thursday']
 faq:
 - question: What is the primary subject of the provided blog post?
   answer: The blog post focuses on examining quantum computing through the lens of

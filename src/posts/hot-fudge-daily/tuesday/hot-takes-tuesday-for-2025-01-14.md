@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-01-14"
 permalink: "/archive/hot-takes-tuesday-for-2025-01-14/"
 description: "Exploring groundbreaking AI developments from UALink and Intel Capital&#39;s potential spinout!"
 date: 2025-01-15 03:24:20.201283+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the UALink Consortium?
   answer: UALink (Ultra Accelerator Link Consortium) is an organization focused on

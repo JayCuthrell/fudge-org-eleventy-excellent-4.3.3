@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-12-12"
 permalink: "/archive/throwback-thursday-for-2024-12-12/"
 description: "The latest update highlights a $73M boost for MVNOs, igniting new telecom ambitions!"
 date: 2024-12-13 05:58:22.811647+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is an MVNO?
   answer: An MVNO stands for a mobile virtual network operator, which is a type of

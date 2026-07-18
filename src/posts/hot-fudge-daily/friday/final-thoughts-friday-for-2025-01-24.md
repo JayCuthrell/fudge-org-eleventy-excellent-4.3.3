@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-01-24"
 permalink: "/archive/final-thoughts-friday-for-2025-01-24/"
 description: "I dive into the latest buzz on Agentic AI and the new releases shaking up the landscape!"
 date: 2025-01-25 03:44:14.005154+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What has been the primary focus of the recent hype in the tech industry
     this week?

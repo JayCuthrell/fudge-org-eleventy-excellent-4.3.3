@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-10-25"
 permalink: "/archive/final-thoughts-friday-for-2024-10-25/"
 description: "VCs are increasingly stepping into investment adviser roles."
 date: 2024-10-26 20:01:21.529834+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: Why were the newsletter updates delayed last week?
   answer: The newsletter updates were delayed because the author was a delegate for

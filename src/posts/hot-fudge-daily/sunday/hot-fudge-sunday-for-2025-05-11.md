@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-05-11"
 permalink: "/archive/hot-fudge-sunday-for-2025-05-11/"
 description: "I&#39;m gearing up for Qlik Connect and offering readers a meaty 🥩 webinar on  🔐 💸 cybersecurity insurance trends!"
 date: 2025-05-11 17:45:10+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What event will NexusTek participate in from May 13 to May 15, 2025?
   answer: NexusTek will be at Qlik Connect in Orlando for Tech Field Day.

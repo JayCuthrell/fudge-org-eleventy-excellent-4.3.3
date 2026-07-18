@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-11-21"
 permalink: "/archive/throwback-thursday-for-2024-11-21/"
 description: "Reflecting on my top LinkedIn post and recent M&amp;A buzz between Dazz and Wiz."
 date: 2024-11-22 01:26:52.897992+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What was notable about the LinkedIn post mentioned by the author?
   answer: It was the author's most re-shared LinkedIn post in several years, originally

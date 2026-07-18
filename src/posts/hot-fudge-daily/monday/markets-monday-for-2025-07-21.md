@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-07-21"
 permalink: "/archive/markets-monday-for-2025-07-21/"
 description: "A less spicy version of Monday Markets"
 date: 2025-07-22 00:42:51.833+00:00
+tags: ['Markets Monday']
 faq:
 - question: What topics were covered in last week's post?
   answer: Last week's post covered Quantum Computing, AI, Software, and Space.

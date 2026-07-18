@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-03-18"
 permalink: "/archive/hot-takes-tuesday-for-2025-03-18/"
 description: "Catch my two hot takes on a story that just jumped from $23B to $32B!"
 date: 2025-03-19 02:12:14.687551+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the subject of the blog post?
   answer: The blog post discusses an update regarding a financial figure that changed

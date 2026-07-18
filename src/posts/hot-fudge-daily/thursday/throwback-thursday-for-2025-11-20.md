@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-11-20"
 permalink: "/archive/throwback-thursday-for-2025-11-20/"
 description: "US Govt, Google, Pepsi Phone, and failed bills"
 date: 2025-11-20
+tags: ['Throwback Thursday']
 faq:
 - question: What technology was used to facilitate the transfer of power for the US
     Government five years ago?

@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-04-05"
 permalink: "/archive/sneak-peak-saturday-for-2025-04-05/"
 description: "This week, I spotlighted overlooked Friday news stories amid the frenzy of deadline-driven coverage."
 date: 2025-04-06 02:03:08.579292+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What happens to news coverage as the week progresses toward Friday?
   answer: News coverage often reaches a fever pitch as people rush to turn in news

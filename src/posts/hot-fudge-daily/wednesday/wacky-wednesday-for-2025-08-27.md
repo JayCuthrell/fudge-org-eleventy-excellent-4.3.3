@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-08-27"
 permalink: "/archive/wacky-wednesday-for-2025-08-27/"
 description: "Fare? Fair."
 date: 2025-08-27
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the main topic of the video?
   answer: The video provides a comprehensive guide on how to build a basic personal

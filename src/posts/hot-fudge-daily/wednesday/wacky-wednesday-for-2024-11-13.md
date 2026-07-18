@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2024-11-13"
 permalink: "/archive/wacky-wednesday-for-2024-11-13/"
 description: "This week’s roundup includes quirky news and innovative links from Slack communities!"
 date: 2024-11-14 04:37:13.089063+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often does the author curate the list of links?
   answer: The author selects the most interesting shared links every Wednesday.

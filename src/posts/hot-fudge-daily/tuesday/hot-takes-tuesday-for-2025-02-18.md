@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-02-18"
 permalink: "/archive/hot-takes-tuesday-for-2025-02-18/"
 description: "This edition explores how AI is transforming legal language and enhancing eDiscovery processes."
 date: 2025-02-22 17:57:48.918880+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How can AI be utilized in the legal field according to the post?
   answer: AI can be used to simplify complex legal boilerplate into more easily understood

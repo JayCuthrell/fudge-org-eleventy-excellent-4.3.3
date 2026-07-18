@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-11-28"
 permalink: "/archive/final-thoughts-friday-for-2025-11-28/"
 description: "Google TPU custom silicon and value chain implications"
 date: 2025-11-28
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is Google's new strategy regarding its custom silicon?
   answer: Google is attempting to turn its custom silicon advantage into an external

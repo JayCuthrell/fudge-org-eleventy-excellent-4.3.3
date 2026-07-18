@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-08-14"
 permalink: "/archive/throwback-thursday-for-2025-08-14/"
 description: "Google-Oracle table turns from legal battles to AI collaborations in 15 years"
 date: 2025-08-14
+tags: ['Throwback Thursday']
 faq:
 - question: What major deal did Google and Oracle announce in 2025?
   answer: In 2025, Google and Oracle entered into an agreement to trade AI clouds

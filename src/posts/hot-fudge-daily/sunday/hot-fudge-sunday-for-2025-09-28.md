@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-28"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-28/"
 description: "Industry insights, data trends, and market movements"
 date: 2025-09-28
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What specific industry topics did NexusTek provide insights on last week?
   answer: NexusTek shared industry insights on Managed Detection & Response, Private

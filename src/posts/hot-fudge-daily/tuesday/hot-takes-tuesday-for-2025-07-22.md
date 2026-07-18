@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-07-22"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-22/"
 description: "Funding for Poseidon, Composio, Asylon, Delve, Inforcer, Ashby, Reka AI, and xAI"
 date: 2025-07-23 01:35:38.556+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the most funding according to the post?
   answer: xAI received the most funding with a total of $12B.

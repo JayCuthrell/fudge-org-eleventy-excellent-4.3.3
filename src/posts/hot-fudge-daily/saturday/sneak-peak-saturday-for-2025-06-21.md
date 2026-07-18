@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-06-21"
 permalink: "/archive/sneak-peak-saturday-for-2025-06-21/"
 description: "The Friday news dump reporting tactics are evergreen."
 date: 2025-06-21 15:36:09.810498+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the common perception of Friday news updates according to the
     post?

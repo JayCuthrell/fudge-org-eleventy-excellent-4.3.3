@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-11-22"
 permalink: "/archive/sneak-peak-saturday-for-2025-11-22/"
 description: "Skull-crushing allegations and misanthropic misalignment"
 date: 2025-11-22
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the primary goal of the Sneak Peak Saturday blog series?
   answer: The goal is to analyze Friday news dumps to identify stories that are timed

@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-08-23"
 permalink: "/archive/sneak-peak-saturday-for-2025-08-23/"
 description: "Exploring internet balkanization and online censorship in the U.S."
 date: 2025-08-23
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What dystopian theme has been recurring since the 1990s?
   answer: The Balkanization of the Internet has been a recurring dystopian theme since

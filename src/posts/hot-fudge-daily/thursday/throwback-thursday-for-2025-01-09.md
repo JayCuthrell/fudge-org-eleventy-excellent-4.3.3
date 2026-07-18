@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-01-09"
 permalink: "/archive/throwback-thursday-for-2025-01-09/"
 description: "I&#39;m reflecting on my top LinkedIn post and the buzz around Wiz&#39;s impact on M&amp;A in cybersecurity."
 date: 2025-01-10 02:58:19.445190+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What recent topic caught the author's attention on Techmeme?
   answer: The author noted the aggregated coverage of Wiz on Techmeme.

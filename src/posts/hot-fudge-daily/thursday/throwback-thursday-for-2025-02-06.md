@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-02-06"
 permalink: "/archive/throwback-thursday-for-2025-02-06/"
 description: "Throwback to January 2025: the costly drama of distillation vs. hyperscale AI models!"
 date: 2025-02-08 03:26:27.128380+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What does the blog post characterize as the 'ancient AI times'?
   answer: The blog post refers to January 2025 as the 'ancient AI times'.

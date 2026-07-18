@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-09-29"
 permalink: "/archive/markets-monday-for-2025-09-29/"
 description: "Data storage, digital assets, sports, and insurance"
 date: 2025-09-29
+tags: ['Markets Monday']
 faq:
 - question: What are the spotlight themes or memes mentioned in the post?
   answer: The spotlight themes or memes identified in the post are data storage, digital

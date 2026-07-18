@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-29"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-29/"
 description: "Vacation edition update - I&#39;m moving all fudge.org content to fudge.org using Buttondown and python"
 date: 2025-06-29 13:00:00+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What is happening to the archives on fudge.org?
   answer: The author is mirroring all prior fudge.org content (over 370 posts) on

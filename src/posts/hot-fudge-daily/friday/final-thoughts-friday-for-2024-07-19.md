@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-07-19"
 permalink: "/archive/final-thoughts-friday-for-2024-07-19/"
 description: "A busy week ahead with event commitments and website updates."
 date: 2024-07-20 02:21:03.481960+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: Which events is the author committed to attending for the remainder of
     2024?

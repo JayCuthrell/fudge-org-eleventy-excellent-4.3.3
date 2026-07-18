@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-11-17"
 permalink: "/archive/markets-monday-for-2025-11-17/"
 description: "A look at one top tech mover"
 date: 2025-11-17
+tags: ['Markets Monday']
 faq:
 - question: How many top tech movers were identified by the screener today?
   answer: There was only one top tech mover identified by the screener today.

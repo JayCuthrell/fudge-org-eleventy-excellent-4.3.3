@@ -5,6 +5,10 @@ export default {
       url: '/archive/'
     },
     {
+      text: 'Topics',
+      url: '/tags/'
+    },
+    {
       text: 'Sponsors',
       url: '/sponsorship/'
     },

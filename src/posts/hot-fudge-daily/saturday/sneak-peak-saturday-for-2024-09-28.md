@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-09-28"
 permalink: "/archive/sneak-peak-saturday-for-2024-09-28/"
 description: "As the week winds down, I highlight the sneaky stories you might&#39;ve missed on a slow news Friday."
 date: 2024-09-28 21:56:51.533533+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the phenomenon of news updates being released on a Friday often
     called?

@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-05-09"
 permalink: "/archive/final-thoughts-friday-for-2025-05-09/"
 description: "This week, I explored how specific AI applications outperform generic ones significantly."
 date: 2025-05-10 04:31:15.581448+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the success rate when applying AI in a generic manner?
   answer: Generic application of AI results in a 25% success rate.

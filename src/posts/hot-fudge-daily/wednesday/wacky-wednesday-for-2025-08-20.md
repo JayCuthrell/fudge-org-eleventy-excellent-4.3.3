@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-08-20"
 permalink: "/archive/wacky-wednesday-for-2025-08-20/"
 description: "Another week and another random video pick"
 date: 2025-08-20
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the content of the weekly post?
   answer: The post features a random video of the week.

@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-03"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-03/"
 description: "Unveiling the latest NexusTek podcast and data modernization services, plus more AI funding, devices, transport, and more"
 date: 2025-08-03 14:47:16.455+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What is the purpose of the new Data Modernization services launched by
     NexusTek?

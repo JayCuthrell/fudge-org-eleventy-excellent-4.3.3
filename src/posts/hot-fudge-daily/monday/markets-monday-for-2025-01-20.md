@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-01-20"
 permalink: "/archive/markets-monday-for-2025-01-20/"
 description: "This week, I reflect on market trends while noting MLK Day&#39;s impact on trading activity."
 date: 2025-01-21 15:15:37.806206+00:00
+tags: ['Markets Monday']
 faq:
 - question: What happened to the market on Monday?
   answer: The markets were closed in observance of MLK Day.

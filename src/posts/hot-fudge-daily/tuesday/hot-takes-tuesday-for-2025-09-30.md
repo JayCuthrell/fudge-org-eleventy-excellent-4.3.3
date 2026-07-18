@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-09-30"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-30/"
 description: "A funding spree with AI firms"
 date: 2025-09-30
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the highest amount of funding listed in the post?
   answer: Cerebras Systems, an AI chipmaker, received the highest funding with $1.1B.

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-12-09"
 permalink: "/archive/markets-monday-for-2024-12-09/"
 description: "This week&#39;s market recap highlights fewer green stocks in tech than last week."
 date: 2024-12-10 03:09:57.308425+00:00
+tags: ['Markets Monday']
 faq:
 - question: What tool does the author use to track market indicators each week?
   answer: The author uses a simple Yahoo Finance webpage to view a market heatmap

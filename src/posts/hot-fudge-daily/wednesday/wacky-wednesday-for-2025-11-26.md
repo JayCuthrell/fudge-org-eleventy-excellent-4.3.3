@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-11-26"
 permalink: "/archive/wacky-wednesday-for-2025-11-26/"
 description: "Shatner. Software. Seismometer."
 date: 2025-11-26
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the subject of the Shatner remix featured in the post?
   answer: The remix focuses on safety, specifically addressing the fear of turkey

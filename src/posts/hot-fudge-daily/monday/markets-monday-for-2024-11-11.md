@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-11-11"
 permalink: "/archive/markets-monday-for-2024-11-11/"
 description: "This week&#39;s Market Monday highlights major stock milestones as the Dow hits 44K and S&amp;P 500 reaches 6K."
 date: 2024-11-13 04:06:48.531822+00:00
+tags: ['Markets Monday']
 faq:
 - question: What market milestones were reached this week?
   answer: This week, the Dow reached 44K and the S&P 500 reached 6K.

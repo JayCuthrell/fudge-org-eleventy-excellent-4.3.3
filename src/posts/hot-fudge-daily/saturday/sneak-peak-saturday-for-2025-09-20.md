@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-09-20"
 permalink: "/archive/sneak-peak-saturday-for-2025-09-20/"
 description: "Diving into the chaos of H1-B visa fee hikes via EO on a Friday"
 date: 2025-09-20
+tags: ['Sneak Peak Saturday']
 faq:
 - question: How long has the H1-B visa been in existence?
   answer: The H1-B visa has been in existence for 35 years.

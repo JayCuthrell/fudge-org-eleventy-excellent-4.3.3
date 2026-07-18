@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-07-25"
 permalink: "/archive/final-thoughts-friday-for-2025-07-25/"
 description: "Google's capex forecast surges to $85B"
 date: 2025-07-26 02:04:46.235+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What was the major tech news regarding Google's capital expenditure this
     week?

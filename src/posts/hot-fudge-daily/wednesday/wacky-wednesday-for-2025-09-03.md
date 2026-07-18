@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-09-03"
 permalink: "/archive/wacky-wednesday-for-2025-09-03/"
 description: "A cool video I missed the somehow"
 date: 2025-09-03
+tags: ['Wacky Wednesday']
 faq:
 - question: Is the video shared in the post a new release?
   answer: No, the author states that the video is not new.

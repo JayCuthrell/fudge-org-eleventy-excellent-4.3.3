@@ -3,7 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2024-12-15"
 permalink: "/archive/hot-fudge-sunday-for-2024-12-15/"
 description: "This week, I shared insights from the Gartner Conference and spotlighted a reader #OpenToWork."
 date: 2024-12-15 16:45:00+00:00
-tags: [quantum]
+tags: [quantum, 'Hot Fudge Sunday']
 faq:
 - question: What is Hot Fudge Sunday?
   answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the

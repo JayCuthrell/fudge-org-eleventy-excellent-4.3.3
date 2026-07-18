@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-10-21"
 permalink: "/archive/markets-monday-for-2024-10-21/"
 description: "This Market Monday, I highlight key indicators from Yahoo Finance to navigate tech stocks trends."
 date: 2024-10-22 02:54:06.591043+00:00
+tags: ['Markets Monday']
 faq:
 - question: What is the Market Monday process described in the post?
   answer: Market Monday involves looking at a specific key indicator from a Yahoo

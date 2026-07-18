@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-04-22"
 permalink: "/archive/hot-takes-tuesday-for-2025-04-22/"
 description: "Exploring funding insights, the ongoing struggles in the open-source landscape, fighting digital bad guys!"
 date: 2025-04-23 20:25:44.542025+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the author's perspective on funding open-source alternatives to
     successful platforms?

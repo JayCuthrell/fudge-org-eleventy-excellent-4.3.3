@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-08-12"
 permalink: "/archive/markets-monday-for-2024-08-12/"
 description: "Analyzing tech market past and future trends in this edition of Markets Monday."
 date: 2024-08-12 22:57:53.528252+00:00
+tags: ['Markets Monday']
 faq:
 - question: What source does the author use to analyze the tech market each week?
   answer: The author uses a simple Yahoo Finance webpage and its screener tool to

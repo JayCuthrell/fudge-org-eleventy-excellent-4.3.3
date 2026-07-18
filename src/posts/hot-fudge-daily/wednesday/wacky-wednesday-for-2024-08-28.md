@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2024-08-28"
 permalink: "/archive/wacky-wednesday-for-2024-08-28/"
 description: "Discover the most interesting Slack community shared links for safe for work enjoyment."
 date: 2024-08-29 01:50:10.463982+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often does the author curate these links?
   answer: The author goes through Slack communities and selects interesting links

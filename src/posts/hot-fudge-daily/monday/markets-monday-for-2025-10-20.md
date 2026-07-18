@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-10-20"
 permalink: "/archive/markets-monday-for-2025-10-20/"
 description: "Digital assets company pivots, fintech, and the semiconductor value chain"
 date: 2025-10-20
+tags: ['Markets Monday']
 faq:
 - question: Which company experienced the highest percentage change in today's movers
     list?

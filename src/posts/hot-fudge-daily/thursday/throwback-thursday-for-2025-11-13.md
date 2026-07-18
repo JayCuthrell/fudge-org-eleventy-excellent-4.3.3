@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-11-13"
 permalink: "/archive/throwback-thursday-for-2025-11-13/"
 description: "OCSP imbroglio, Chrome for iOS, Netflix for Windows Phone7 and Android"
 date: 2025-11-13
+tags: ['Throwback Thursday']
 faq:
 - question: What major software launch occurred on November 13, 2020?
   answer: Apple OCSP (Online Certificate Status Protocol) came to light.

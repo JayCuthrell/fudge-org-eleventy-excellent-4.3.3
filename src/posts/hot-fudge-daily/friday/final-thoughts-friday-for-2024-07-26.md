@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-07-26"
 permalink: "/archive/final-thoughts-friday-for-2024-07-26/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-26 10:08:31+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the date of this Final Thoughts Friday post?
   answer: The post is for 2024-07-26.

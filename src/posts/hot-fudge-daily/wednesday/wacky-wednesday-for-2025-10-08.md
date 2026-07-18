@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-10-08"
 permalink: "/archive/wacky-wednesday-for-2025-10-08/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-10-08
+tags: ['Wacky Wednesday']
 faq:
 - question: What are the three main sections featured in the blog post?
   answer: The three main sections are titled Wacky Wonderful, Wayback, and Whoa.

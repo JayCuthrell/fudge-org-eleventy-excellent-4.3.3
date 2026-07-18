@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-09-09"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-09/"
 description: "Funding for AI-anything companies continues"
 date: 2025-09-09
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the highest amount of funding listed in the post?
   answer: Mistral received the highest funding amount at $1.8B.

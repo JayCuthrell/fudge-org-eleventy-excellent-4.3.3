@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-03-20"
 permalink: "/archive/throwback-thursday-for-2025-03-20/"
 description: "This edition dives into the fallout when a CEO&#39;s words cost billions and the eventual recovery."
 date: 2025-03-23 23:03:25.388344+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the consequence of a CEO uttering ill-chosen words regarding other
     companies in the market?

@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-11-15"
 permalink: "/archive/sneak-peak-saturday-for-2025-11-15/"
 description: "Apple CEO Turnover Timing Tribulations"
 date: 2025-11-15
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the primary purpose of Sneak Peak Saturday?
   answer: The goal of Sneak Peak Saturday is to analyze news stories from the Friday

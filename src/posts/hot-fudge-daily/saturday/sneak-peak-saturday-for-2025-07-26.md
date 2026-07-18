@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-07-26"
 permalink: "/archive/sneak-peak-saturday-for-2025-07-26/"
 description: "Discussing an inevitable cyber incident"
 date: 2025-07-26 15:28:36.742+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What criteria does the author typically use to select a news item for
     their post?

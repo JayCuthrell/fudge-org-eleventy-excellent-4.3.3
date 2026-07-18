@@ -3,7 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2024-12-29"
 permalink: "/archive/hot-fudge-sunday-for-2024-12-29/"
 description: "This week, I&#39;m spotlighting talented professionals who are #OpenToWork. Hire Them!"
 date: 2024-12-29 17:05:00+00:00
-tags: [quantum]
+tags: [quantum, 'Hot Fudge Sunday']
 faq:
 - question: What is the Hot Fudge Sunday newsletter?
   answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the

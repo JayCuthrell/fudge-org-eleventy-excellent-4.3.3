@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-01-30"
 permalink: "/archive/throwback-thursday-for-2025-01-30/"
 description: "This edition highlights Vodafone&#39;s pioneering impact on mobile technology over the last two decades."
 date: 2025-02-02 00:04:31.124413+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What milestone did Vodafone reach 15 years ago regarding mobile devices?
   answer: 15 years ago, Vodafone enabled the first 'World' phone by combining CDMA

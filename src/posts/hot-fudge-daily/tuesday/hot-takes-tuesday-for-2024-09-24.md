@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-09-24"
 permalink: "/archive/hot-takes-tuesday-for-2024-09-24/"
 description: "This edition highlights global tech investments and developments reshaping markets beyond the US."
 date: 2024-09-25 04:08:52.445435+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Why does the $9 billion investment in Israel make sense?
   answer: It makes sense when considering that deal flow and technology are global

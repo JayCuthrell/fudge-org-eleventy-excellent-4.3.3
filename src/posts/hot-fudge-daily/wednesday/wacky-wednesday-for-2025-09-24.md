@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-09-24"
 permalink: "/archive/wacky-wednesday-for-2025-09-24/"
 description: "Where dad jokes meet MCP"
 date: 2025-09-24
+tags: ['Wacky Wednesday']
 faq:
 - question: What content is being shared in the blog post?
   answer: The post shares a YouTube video link related to the model context protocol.

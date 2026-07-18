@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-01-08"
 permalink: "/archive/wacky-wednesday-for-2025-01-08/"
 description: "This week&#39;s edition highlights quirky finds from Slack, including a robot cat to cool your coffee!"
 date: 2025-01-09 09:12:44.553147+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often is this list of links updated?
   answer: The list is updated every Wednesday.

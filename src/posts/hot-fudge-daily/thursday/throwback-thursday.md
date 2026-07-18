@@ -3,6 +3,7 @@ title: "Throwback Thursday"
 permalink: "/archive/throwback-thursday/"
 description: "Throwback Thursday: Reflecting on NVIDIA&#39;s market cap and motley fools from 20 years ago."
 date: 2024-06-06 14:36:31.012793+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the format of Throwback Thursday based on?
   answer: Throwback Thursday is based on the Fudge Sunday Weekly newsletter sections

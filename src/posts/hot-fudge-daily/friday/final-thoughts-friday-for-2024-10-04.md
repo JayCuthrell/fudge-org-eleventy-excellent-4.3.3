@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-10-04"
 permalink: "/archive/final-thoughts-friday-for-2024-10-04/"
 description: "Travel hiccups, mind-blowing data stats, and a massive fundraising."
 date: 2024-10-05 05:26:02.949151+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the author currently working on regarding their recent travel
     changes?

@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-03-05"
 permalink: "/archive/wacky-wednesday-for-2025-03-05/"
 description: "This week&#39;s email highlights intriguing links from Slack communities, all safe for work!"
 date: 2025-03-06 03:54:39.305172+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often does the author compile these shared links?
   answer: The author goes through Slack communities and compiles the list every Wednesday.

@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-08-20"
 permalink: "/archive/hot-takes-tuesday-for-2024-08-20/"
 description: "Tech funding, M&amp;A, and rising interest in gov/military contracts in this rapid-fire edition."
 date: 2024-08-20 23:55:29.756807+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What percentage of objectionable internet traffic is the author currently
     blocking using Pi-hole?

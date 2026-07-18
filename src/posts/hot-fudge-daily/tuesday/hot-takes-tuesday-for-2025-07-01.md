@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-07-01"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-01/"
 description: "Cash flow continues for AI firms, with multiple companies securing multi-million dollar funds!"
 date: 2025-07-02 04:01:23.331+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the largest funding amount listed in the post?
   answer: xAI received the largest funding amount, totaling $10B.

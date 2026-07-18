@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-09-19"
 permalink: "/archive/throwback-thursday-for-2024-09-19/"
 description: "I&#39;m diving into Google&#39;s new passkey management while pondering its reliability and future."
 date: 2024-09-19 20:18:46.564479+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the primary concern regarding Google's entry into the passkey
     management sector?

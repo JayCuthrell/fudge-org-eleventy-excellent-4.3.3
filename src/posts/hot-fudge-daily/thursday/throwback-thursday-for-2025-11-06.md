@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-11-06"
 permalink: "/archive/throwback-thursday-for-2025-11-06/"
 description: "A look back at the top tech news from 5, 10, and 15 years ago."
 date: 2025-11-06
+tags: ['Throwback Thursday']
 faq:
 - question: What significant move did Netflix make in 2020?
   answer: Netflix invented a TV station and began offering a variety of linear and

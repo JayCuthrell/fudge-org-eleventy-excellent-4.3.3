@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-10-28"
 permalink: "/archive/markets-monday-for-2024-10-28/"
 description: "This week, I analyze key market indicators from Yahoo Finance for a tech-focused Market Monday."
 date: 2024-10-29 04:18:59.222175+00:00
+tags: ['Markets Monday']
 faq:
 - question: What resource does the author use to track key market indicators for Market
     Monday?

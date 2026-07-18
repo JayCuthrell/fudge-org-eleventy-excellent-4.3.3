@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-07-18"
 permalink: "/archive/final-thoughts-friday-for-2025-07-18/"
 description: "Crypto market value crossed over a whopping $4T this week"
 date: 2025-07-19 03:10:56.448+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What was the primary focus of big tech coverage this week?
   answer: The primary focus was the news that the crypto market value has exceeded

@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-11-02"
 permalink: "/archive/sneak-peak-saturday-for-2024-11-02/"
 description: "As Friday wraps up, I’m sharing some overlooked stories from a hectic news week."
 date: 2024-11-02 21:45:26.031397+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: Why do some news updates appear on a Friday?
   answer: Some news is quietly released on Fridays in an attempt to avoid wider coverage,

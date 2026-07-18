@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-08"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-08/"
 description: "NexusTek&#39;s launch on Azure Marketplace and exclusive NYC events highlight this week&#39;s updates!"
 date: 2025-06-08 20:21:59+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What major update regarding NexusTek was shared in the blog post?
   answer: NexusTek is now available on the Azure Marketplace for managed and professional

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-02-17"
 permalink: "/archive/markets-monday-for-2025-02-17/"
 description: "I&#39;m analyzing market trends using Yahoo Finance data for Technology stocks this week."
 date: 2025-02-18 03:58:36.261514+00:00
+tags: ['Markets Monday']
 faq:
 - question: What tool does the author use to track market indicators each week?
   answer: The author uses the Yahoo Finance screener to look at key market indicators.

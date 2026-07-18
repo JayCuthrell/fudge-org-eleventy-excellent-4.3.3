@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-03-17"
 permalink: "/archive/markets-monday-for-2025-03-17/"
 description: "This week, I&#39;m diving into the tech sector with my Monday market indicators—get your heat map ready!"
 date: 2025-03-18 01:52:13.295743+00:00
+tags: ['Markets Monday']
 faq:
 - question: What source does the author use to track their key market indicator?
   answer: The author uses a simple Yahoo Finance webpage to track their key market

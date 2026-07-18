@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-02-14"
 permalink: "/archive/final-thoughts-friday-for-2025-02-14/"
 description: "This week, I spotlight three intriguing funding stories in the robot world!"
 date: 2025-02-15 05:35:44.100009+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the subject of the blog post?
   answer: The blog post focuses on three recent robot funding stories.

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-01-06"
 permalink: "/archive/markets-monday-for-2025-01-06/"
 description: "This edition reviews key stock indicators from Yahoo Finance as we kick off another Market Monday."
 date: 2025-01-07 00:33:08.262787+00:00
+tags: ['Markets Monday']
 faq:
 - question: What tool does the author use to track market indicators each week?
   answer: The author uses a simple Yahoo Finance webpage and their screener tool to

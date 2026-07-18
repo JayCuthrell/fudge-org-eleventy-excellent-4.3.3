@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-06-09"
 permalink: "/archive/markets-monday-for-2025-06-09/"
 description: "This week, I&#39;m diving into a spicier mix of love and rockets!"
 date: 2025-06-10 02:06:53.327172+00:00
+tags: ['Markets Monday']
 faq:
 - question: How did the spice level change from last week to this week?
   answer: Last week was described as less spicy, while this week is described as a

@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-06-27"
 permalink: "/archive/final-thoughts-friday-for-2025-06-27/"
 description: "Unpacking the vital role of US broadband subsidies in bridging America&#39;s digital divide."
 date: 2025-06-28 06:24:57.269948+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the primary purpose of the Universal Service Fund (USF) and its
     E-Rate program?

@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-12-27"
 permalink: "/archive/final-thoughts-friday-for-2024-12-27/"
 description: "This week, I explore the puzzling mix of AGI hype and revenue metrics in tech news."
 date: 2024-12-28 06:32:04.387353+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What tech news story did the author focus on this week?
   answer: The author focused on the conflation of Artificial General Intelligence

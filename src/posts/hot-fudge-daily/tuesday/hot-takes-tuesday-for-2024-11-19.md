@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-11-19"
 permalink: "/archive/hot-takes-tuesday-for-2024-11-19/"
 description: "Impressive valuations and unique IP rights in France are the highlights of today&#39;s edition!"
 date: 2024-11-20 02:36:55.732366+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the valuation milestone mentioned for the company in the post?
   answer: The company reached a $61 billion valuation in approximately 10 years.

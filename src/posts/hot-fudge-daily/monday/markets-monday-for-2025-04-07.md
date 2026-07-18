@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-04-07"
 permalink: "/archive/markets-monday-for-2025-04-07/"
 description: "In this edition, I analyze Monday&#39;s market movements and highlight key tech indicators."
 date: 2025-04-08 00:26:57.196380+00:00
+tags: ['Markets Monday']
 faq:
 - question: What resource does the author use for their weekly market analysis?
   answer: The author uses a simple Yahoo Finance webpage and its stock screener tool

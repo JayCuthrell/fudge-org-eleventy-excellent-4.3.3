@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-10-15"
 permalink: "/archive/hot-takes-tuesday-for-2024-10-15/"
 description: "AI FOMO drives massive funding for tech and data infrastructure in today’s market."
 date: 2024-10-16 01:12:04.582827+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What does the author believe the 8X sized SPV indicates about the current
     AI market?

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-09-30"
 permalink: "/archive/markets-monday-for-2024-09-30/"
 description: "This edition highlights why you should follow GAI Insights and my weekly market recap."
 date: 2024-09-30 23:39:45.808653+00:00
+tags: ['Markets Monday']
 faq:
 - question: Who is the writer behind GAI Insights?
   answer: The writer behind GAI Insights is Paul Baier.

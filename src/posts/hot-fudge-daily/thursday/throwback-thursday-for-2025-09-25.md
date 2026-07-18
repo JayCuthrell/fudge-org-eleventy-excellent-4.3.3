@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-09-25"
 permalink: "/archive/throwback-thursday-for-2025-09-25/"
 description: "Unpacking the TEAM journey pre-IPO to market cap heights"
 date: 2025-09-25
+tags: ['Throwback Thursday']
 faq:
 - question: What was the pre-IPO valuation of TEAM in 2015?
   answer: In 2015, TEAM had a pre-IPO valuation of $3 billion.

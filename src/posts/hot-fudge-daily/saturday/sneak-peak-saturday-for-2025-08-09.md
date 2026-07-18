@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-08-09"
 permalink: "/archive/sneak-peak-saturday-for-2025-08-09/"
 description: "Exploring the drama of tech backdoors and a sudden win for NVIDIA"
 date: 2025-08-09
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the author's perspective on the recent resolution regarding NVIDIA
     interests?

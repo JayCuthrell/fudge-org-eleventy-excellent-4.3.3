@@ -3,6 +3,7 @@ title: "Sneak Peak Saturday for 2024-06-22"
 permalink: "/archive/sneak-peak-saturday-for-2024-06-22/"
 description: "Unveiling overlooked tech news with a sprinkle of satire - get the scoop on the latest in a snarky style."
 date: 2024-06-22 11:04:31.446201+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the primary goal of the 'Sneak Peak Saturday' blog post?
   answer: The goal is to unveil overlooked tech news from the previous week with a

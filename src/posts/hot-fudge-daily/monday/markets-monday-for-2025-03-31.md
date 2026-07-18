@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-03-31"
 permalink: "/archive/markets-monday-for-2025-03-31/"
 description: "This week&#39;s Market Monday analyzes key tech stocks and their fluctuating returns."
 date: 2025-04-01 13:00:15.378641+00:00
+tags: ['Markets Monday']
 faq:
 - question: What resource does the author use to track their key market indicator?
   answer: The author uses a simple Yahoo Finance webpage to track their key market

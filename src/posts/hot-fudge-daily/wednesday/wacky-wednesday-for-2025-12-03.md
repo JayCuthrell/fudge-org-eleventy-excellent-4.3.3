@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-12-03"
 permalink: "/archive/wacky-wednesday-for-2025-12-03/"
 description: "Holiday roar, Segway stagecraft, pyrrhic poetry"
 date: 2025-12-03
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the content of the video featured in the 'Wacky Wonderful' section?
   answer: The video is a 4K, 8-hour recording of a NASA rocket engine firing, intended

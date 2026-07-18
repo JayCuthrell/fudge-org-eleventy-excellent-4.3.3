@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-03-29"
 permalink: "/archive/sneak-peak-saturday-for-2025-03-29/"
 description: "Fridays are for sneaky news updates and some memes you might&#39;ve missed!"
 date: 2025-03-29 22:35:49.787188+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: Why do some news stories get released on a Friday?
   answer: Some news is released on Fridays to try and sneak it past wider coverage

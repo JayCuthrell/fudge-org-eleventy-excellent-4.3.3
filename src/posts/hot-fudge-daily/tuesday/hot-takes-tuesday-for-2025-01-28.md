@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-01-28"
 permalink: "/archive/hot-takes-tuesday-for-2025-01-28/"
 description: "I shared two hot takes on AI’s error tolerance and a nostalgic fusion power meme!"
 date: 2025-01-29 06:52:28.629812+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the author's opinion on the five-year timeline for tolerating
     errors and faults?

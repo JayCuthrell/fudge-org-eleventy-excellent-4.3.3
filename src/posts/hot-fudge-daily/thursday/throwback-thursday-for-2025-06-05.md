@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-06-05"
 permalink: "/archive/throwback-thursday-for-2025-06-05/"
 description: "Cortical Labs is shipping a biological computer this summer, sparking interest in organoid intelligence!"
 date: 2025-06-06 04:14:36.929632+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: Which company is shipping a biological computer this summer?
   answer: Cortical Labs is the company announcing the shipping of their biological

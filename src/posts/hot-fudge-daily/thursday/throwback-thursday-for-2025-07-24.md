@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-07-24"
 permalink: "/archive/throwback-thursday-for-2025-07-24/"
 description: "Diving into the rare occurrence of a Starlink outage today, and it's a show!"
 date: 2025-07-25 03:04:51.616+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: How common are newsworthy Starlink outages?
   answer: Newsworthy Starlink outages lasting longer than a few hours are not very

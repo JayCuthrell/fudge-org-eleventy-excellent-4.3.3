@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-09-05"
 permalink: "/archive/throwback-thursday-for-2024-09-05/"
 description: "From Nortel Networks to Verizon Cloud: A journey through telecom evolution, cloud computing, and industry giants."
 date: 2024-09-05 23:57:19.804890+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: Which company did the author work for during their early career in the
     late 1990s?

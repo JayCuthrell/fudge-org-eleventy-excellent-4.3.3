@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-06-16"
 permalink: "/archive/markets-monday-for-2025-06-16/"
 description: "This edition dives into love, rockets, and the excitement of Quantumania!"
 date: 2025-06-17 00:45:32.969010+00:00
+tags: ['Markets Monday']
 faq:
 - question: What was the theme of the blog post from last week?
   answer: The theme of last week's post was love and rockets, described as being a

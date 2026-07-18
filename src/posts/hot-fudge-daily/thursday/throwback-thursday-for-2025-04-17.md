@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-04-17"
 permalink: "/archive/throwback-thursday-for-2025-04-17/"
 description: "Exploring the intriguing evolution and niche future of data annotation in the digital age."
 date: 2025-04-20 00:15:25.563451+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is considered a common example of data annotation that many people
     have performed frequently?

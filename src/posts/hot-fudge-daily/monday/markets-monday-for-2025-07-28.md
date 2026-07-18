@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-07-28"
 permalink: "/archive/markets-monday-for-2025-07-28/"
 description: "Ending Markets Monday screenshots to begin a weekly market recaps with a screener"
 date: 2025-07-28
+tags: ['Markets Monday']
 faq:
 - question: Will the author continue to include screenshots in Markets Monday?
   answer: No, the author is stopping the use of screenshots for Markets Monday.

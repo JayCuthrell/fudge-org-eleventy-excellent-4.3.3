@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-12-03"
 permalink: "/archive/hot-takes-tuesday-for-2024-12-03/"
 description: "Exploring the rise of open-source AI and the shift away from traditional search engines."
 date: 2024-12-04 02:29:13.874704+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is driving the market's growing appetite for hardware alternatives
     to NVIDIA?

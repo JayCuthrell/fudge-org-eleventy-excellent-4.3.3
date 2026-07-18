@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-09-18"
 permalink: "/archive/throwback-thursday-for-2025-09-18/"
 description: "iOS, AWS, and the iPad"
 date: 2025-09-18
+tags: ['Throwback Thursday']
 faq:
 - question: What version of iOS was released 5 years ago?
   answer: Apple released iOS 14 five years ago.

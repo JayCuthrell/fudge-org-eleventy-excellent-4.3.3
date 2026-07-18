@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-06-14"
 permalink: "/archive/sneak-peak-saturday-for-2025-06-14/"
 description: "This edition explores the Friday news dump phenomenon and its subtle implications in publishing."
 date: 2025-06-14 20:21:12.090020+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What does the author suggest about news released on a Friday?
   answer: The author suggests that news is often released on a Friday in an attempt

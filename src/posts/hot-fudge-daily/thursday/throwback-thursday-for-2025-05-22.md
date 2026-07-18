@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-05-22"
 permalink: "/archive/throwback-thursday-for-2025-05-22/"
 description: "I dive into the emerging gap in LEO satellite broadband services this week."
 date: 2025-05-23 06:33:17.258397+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the primary topic of the blog post?
   answer: The blog post focuses on the gap in LEO satellite broadband services deployment.

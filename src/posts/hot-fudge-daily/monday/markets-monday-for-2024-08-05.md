@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-08-05"
 permalink: "/archive/markets-monday-for-2024-08-05/"
 description: "An in-depth look at the tech market past and future in Markets Monday."
 date: 2024-08-06 01:49:19.322211+00:00
+tags: ['Markets Monday']
 faq:
 - question: What primary source does the author use to analyze the tech market each
     week?

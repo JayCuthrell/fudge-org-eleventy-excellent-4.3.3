@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-03-27"
 permalink: "/archive/throwback-thursday-for-2025-03-27/"
 description: "This week, I explore random number generation and their evolution over time!"
 date: 2025-03-28 03:12:13.081649+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the recurring headline theme mentioned in the blog post?
   answer: The recurring headline theme is 'It takes time to make the random… more

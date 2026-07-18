@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-12-07"
 permalink: "/archive/sneak-peak-saturday-for-2024-12-07/"
 description: "In this edition, I highlight stories that sneak past Friday&#39;s slow news facade."
 date: 2024-12-07 16:38:02.013528+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the author's perspective on news releases sent on a Friday?
   answer: The author characterizes them as an attempt to sneak information past wider

@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-02-13"
 permalink: "/archive/throwback-thursday-for-2025-02-13/"
 description: "CyberArk continues its acquisition spree, this time buying Zilla Security."
 date: 2025-02-14 05:41:32.273755+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: Which company did CyberArk recently acquire?
   answer: CyberArk recently acquired Zilla Security.

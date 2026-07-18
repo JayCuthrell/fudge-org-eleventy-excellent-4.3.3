@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-04-25"
 permalink: "/archive/final-thoughts-friday-for-2025-04-25/"
 description: "This week’s highlights cover funding, from vCISO services to software supply chain attestation."
 date: 2025-04-26 02:00:07.726527+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What topics did the blog post cover regarding the security spectrum?
   answer: The blog post covered agentic AI advisory vCISO and attestation for software

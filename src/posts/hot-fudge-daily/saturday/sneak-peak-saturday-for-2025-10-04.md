@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-10-04"
 permalink: "/archive/sneak-peak-saturday-for-2025-10-04/"
 description: "Cybersecurity Information Sharing Act (CISA) has expired"
 date: 2025-10-04
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the author's primary concern regarding the Friday news cycle described
     in the post?

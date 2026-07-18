@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-07-09"
 permalink: "/archive/wacky-wednesday-for-2025-07-09/"
 description: "The week's most engaging Slack community-shared link!"
 date: 2025-07-10 02:23:19.112+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the content of the shared link mentioned in the post?
   answer: The shared link points to a Bluesky post by the user sprobeforebros.

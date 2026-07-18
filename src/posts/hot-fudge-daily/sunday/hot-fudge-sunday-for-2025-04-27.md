@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-04-27"
 permalink: "/archive/hot-fudge-sunday-for-2025-04-27/"
 description: "This week highlighted NexusTek&#39;s expansions, alumni successes, and market insights!"
 date: 2025-04-28 01:44:33.247326+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: 'What is the purpose of the Alumni section in the #OpenToWork list?'
   answer: 'The Alumni section was added to recognize and celebrate individuals who

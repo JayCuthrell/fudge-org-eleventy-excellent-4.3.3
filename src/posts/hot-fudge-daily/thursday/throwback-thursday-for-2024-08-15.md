@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-08-15"
 permalink: "/archive/throwback-thursday-for-2024-08-15/"
 description: "Throwback Thursday: Revisiting predictions and news coverage with Techmeme&#39;s historical insights."
 date: 2024-08-15 21:07:57.743175+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the origin of Throwback Thursday?
   answer: Throwback Thursday is based on the classic Fudge Sunday Weekly newsletter

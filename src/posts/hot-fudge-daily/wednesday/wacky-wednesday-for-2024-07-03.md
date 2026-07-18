@@ -3,6 +3,7 @@ title: "Wacky Wednesday for 2024-07-03"
 permalink: "/archive/wacky-wednesday-for-2024-07-03/"
 description: "Discover the wild and wacky shared links from online Slack communities in this edition."
 date: 2024-07-03 16:55:08.426670+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the focus of Wacky Wednesday?
   answer: Wacky Wednesday focuses on collecting and sharing interesting, wild, and

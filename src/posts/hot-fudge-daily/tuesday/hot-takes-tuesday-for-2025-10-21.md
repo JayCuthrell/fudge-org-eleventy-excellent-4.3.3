@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-10-21"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-21/"
 description: "AI funding in chip design, IT automation, and more"
 date: 2025-10-21
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much funding did ChipAgents raise and what is their focus?
   answer: ChipAgents raised $21 million and focuses on agentic AI for chip design.

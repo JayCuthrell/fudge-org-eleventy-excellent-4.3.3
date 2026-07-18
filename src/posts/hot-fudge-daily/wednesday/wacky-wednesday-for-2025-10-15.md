@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-10-15"
 permalink: "/archive/wacky-wednesday-for-2025-10-15/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-10-15
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the Gboard Dial Version video about?
   answer: The Gboard Dial Version is a wacky and delightful engineering project featured

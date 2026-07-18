@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-08-30"
 permalink: "/archive/final-thoughts-friday-for-2024-08-30/"
 description: "I&#39;ve got a jam-packed schedule with tech events, thankful for client work, and reflecting on big tech stories of the week."
 date: 2024-08-31 02:09:39.493953+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: How many events has the author committed to attending for the remainder
     of the year?

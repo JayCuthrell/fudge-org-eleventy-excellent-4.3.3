@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-11-08"
 permalink: "/archive/sneak-peak-saturday-for-2025-11-08/"
 description: "Big Tech says disregard all prior instructions on DEI reporting"
 date: 2025-11-08
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What change in corporate behavior regarding diversity reports is noted
     in the blog post?

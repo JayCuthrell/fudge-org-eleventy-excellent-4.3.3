@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-05-04"
 permalink: "/archive/hot-fudge-sunday-for-2025-05-04/"
 description: "Celebrating alumni success and spotlighting those #OpenToWork in my network this week! 🎉"
 date: 2025-05-04 21:49:36.141354+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: 'What is the #OpenToWork list and why was an Alumni section added?'
   answer: 'The #OpenToWork list highlights individuals in the author''s network who

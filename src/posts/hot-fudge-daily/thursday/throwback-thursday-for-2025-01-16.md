@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-01-16"
 permalink: "/archive/throwback-thursday-for-2025-01-16/"
 description: "Tuning into Thursday Throwback for some intriguing insights on TSMC!"
 date: 2025-01-17 06:04:26.248225+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the purpose of the blog post?
   answer: The blog post serves as a 'Thursday Throwback' to share two specific headlines

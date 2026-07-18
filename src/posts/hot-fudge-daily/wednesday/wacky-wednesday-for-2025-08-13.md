@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-08-13"
 permalink: "/archive/wacky-wednesday-for-2025-08-13/"
 description: "It's time for a video"
 date: 2025-08-13
+tags: ['Wacky Wednesday']
 faq:
 - question: Which 1985 film features a standardized test scene that the blog post
     references?

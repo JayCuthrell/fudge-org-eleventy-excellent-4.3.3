@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2024-12-11"
 permalink: "/archive/wacky-wednesday-for-2024-12-11/"
 description: "This week’s email highlights the most intriguing links I found in Slack communities!"
 date: 2024-12-11
+tags: ['Wacky Wednesday']
 faq:
 - question: When does the author curate the list of shared links?
   answer: The author curates the list every Wednesday.

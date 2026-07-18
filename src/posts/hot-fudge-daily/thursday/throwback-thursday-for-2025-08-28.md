@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-08-28"
 permalink: "/archive/throwback-thursday-for-2025-08-28/"
 description: "Google's datacenter investment evolution over the years"
 date: 2025-08-28
+tags: ['Throwback Thursday']
 faq:
 - question: What is the subject of the articles compiled in the blog post?
   answer: The articles focus on Google data centers over the years.

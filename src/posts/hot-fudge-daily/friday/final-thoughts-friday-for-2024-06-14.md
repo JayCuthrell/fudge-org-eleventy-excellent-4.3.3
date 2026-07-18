@@ -3,6 +3,7 @@ title: "Final Thoughts Friday for 2024-06-14"
 permalink: "/archive/final-thoughts-friday-for-2024-06-14/"
 description: "Recap of a busy week: Qlik Connect content, Coworking Day, Triangle Tech Night, and Hot Fudge Daily updates. ⚡️💼📈"
 date: 2024-06-14 16:45:46.372980+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What content was recently added to YouTube following the author's busy
     week?

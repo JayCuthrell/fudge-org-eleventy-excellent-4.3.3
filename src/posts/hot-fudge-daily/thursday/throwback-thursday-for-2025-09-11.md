@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-09-11"
 permalink: "/archive/throwback-thursday-for-2025-09-11/"
 description: "Governance by AI vs of AI"
 date: 2025-09-11
+tags: ['Throwback Thursday']
 faq:
 - question: What specific topic caught the author's attention in the blog post?
   answer: The author was interested in a post discussing the distinction between governing

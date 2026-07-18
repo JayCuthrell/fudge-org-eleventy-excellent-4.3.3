@@ -3,7 +3,7 @@ title: "🔙 Throwback Thursday for 2024-08-22"
 permalink: "/archive/throwback-thursday-for-2024-08-22/"
 description: "Throwback Thursday revisits past predictions with a focus on encryption and privacy in the digital age."
 date: 2024-08-23 02:09:38.657990+00:00
-tags: [quantum]
+tags: [quantum, 'Throwback Thursday']
 faq:
 - question: What is the purpose of the Throwback Thursday segment?
   answer: Throwback Thursday is a feature that examines prior predictions or past

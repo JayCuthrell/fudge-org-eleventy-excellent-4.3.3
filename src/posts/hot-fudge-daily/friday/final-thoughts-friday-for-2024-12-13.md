@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-12-13"
 permalink: "/archive/final-thoughts-friday-for-2024-12-13/"
 description: "Microsoft&#39;s new datacenter design promises zero water usage—great for reducing AI&#39;s thirst!"
 date: 2024-12-14 22:44:52.890278+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the new claim made by Microsoft regarding their datacenter cooling
     technology?

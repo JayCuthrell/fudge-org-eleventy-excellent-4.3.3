@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-11-10"
 permalink: "/archive/markets-monday-for-2025-11-10/"
 description: "Broad rally in semiconductors, hardware, and software"
 date: 2025-11-10
+tags: ['Markets Monday']
 faq:
 - question: Which company experienced the highest percentage change in today's top
     movers list?

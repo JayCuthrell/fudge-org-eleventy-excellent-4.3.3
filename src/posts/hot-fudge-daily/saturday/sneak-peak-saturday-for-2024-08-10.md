@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-08-10"
 permalink: "/archive/sneak-peak-saturday-for-2024-08-10/"
 description: "Uncovering tech news with a dash of humor - don&#39;t miss these Friday finds!"
 date: 2024-08-10 16:08:48.779172+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the purpose of the blog post?
   answer: The blog post aims to unveil overlooked tech news using a satirical tone.

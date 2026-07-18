@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-09-12"
 permalink: "/archive/final-thoughts-friday-for-2025-09-12/"
 description: "Oracle's big Twinkie"
 date: 2025-09-12
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is considered the biggest story of the week according to the blog
     post?

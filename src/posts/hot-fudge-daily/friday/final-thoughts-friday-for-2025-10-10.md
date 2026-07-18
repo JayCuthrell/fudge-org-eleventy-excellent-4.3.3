@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-10-10"
 permalink: "/archive/final-thoughts-friday-for-2025-10-10/"
 description: "Life sciences companies making bigger bets on AI"
 date: 2025-10-10
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the primary significance of AstraZeneca's recent $555M deal?
   answer: The deal signals a strategic shift in the life sciences industry, moving

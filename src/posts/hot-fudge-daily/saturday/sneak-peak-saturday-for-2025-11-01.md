@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-11-01"
 permalink: "/archive/sneak-peak-saturday-for-2025-11-01/"
 description: "A mass surveillance proposal is left behind in the EU"
 date: 2025-11-01
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the controversial policy referred to as Chat Control?
   answer: Chat Control is a proposed policy that would force technology companies

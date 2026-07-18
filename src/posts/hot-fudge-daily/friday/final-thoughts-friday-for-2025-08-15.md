@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-08-15"
 permalink: "/archive/final-thoughts-friday-for-2025-08-15/"
 description: "Exploring the impact of a revenue cut deal between government and industry"
 date: 2025-08-15
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the reported revenue cut mentioned in the deal?
   answer: The reported deal requires a 15% cut of revenue, though some news sources

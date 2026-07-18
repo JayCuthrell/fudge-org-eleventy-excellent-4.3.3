@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-14"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-14/"
 description: "GoToSocial, cybersecurity in hospitality, and more"
 date: 2025-09-14
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What platform did the author migrate to recently?
   answer: The author migrated from Mastodon to GoToSocial.

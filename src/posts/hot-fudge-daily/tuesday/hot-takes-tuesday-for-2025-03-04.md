@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-03-04"
 permalink: "/archive/hot-takes-tuesday-for-2025-03-04/"
 description: "Here&#39;s my take on the rise of vertical M&amp;A and the new normal of AI funding."
 date: 2025-03-05 23:21:07.298394+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What trend does the author anticipate for M&A activity in 2025?
   answer: The author expects to see more vertical M&A combinations that focus on creating

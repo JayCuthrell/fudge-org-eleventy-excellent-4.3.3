@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-17"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-17/"
 description: "Updates to workflows, tech throwbacks and more"
 date: 2025-08-17 13:05:49.720+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What updates were made to the Hot Fudge Daily workflow last week?
   answer: Hot Fudge Daily is now free and available at fudge.org, the look and feel

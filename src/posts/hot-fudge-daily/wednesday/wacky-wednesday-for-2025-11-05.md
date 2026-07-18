@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-11-05"
 permalink: "/archive/wacky-wednesday-for-2025-11-05/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-11-05
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the video titled Pachelbel's Chicken described as?
   answer: It is described as a wacky wonderful video that is a clucking good and very

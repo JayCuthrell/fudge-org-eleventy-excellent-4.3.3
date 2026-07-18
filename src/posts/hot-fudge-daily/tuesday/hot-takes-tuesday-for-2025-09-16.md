@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-09-16"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-16/"
 description: "AI-focused companies keeping cash coming"
 date: 2025-09-16
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the highest amount of funding mentioned in the
     post?

@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-10-24"
 permalink: "/archive/final-thoughts-friday-for-2025-10-24/"
 description: "Fast-tracking grid connections for AI data centers"
 date: 2025-10-24
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the primary goal regarding AI data centers and the power grid
     discussed this week?

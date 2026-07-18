@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-08-29"
 permalink: "/archive/throwback-thursday-for-2024-08-29/"
 description: "Datacenter energy crisis has always been looming, exacerbated by modern hyperscale demands and A.I. advancements."
 date: 2024-08-30 03:41:01.281350+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: Has the datacenter energy crisis recently emerged?
   answer: No, the datacenter energy crisis has always existed; the primary difference

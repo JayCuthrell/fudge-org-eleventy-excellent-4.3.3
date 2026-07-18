@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-11-11"
 permalink: "/archive/hot-takes-tuesday-for-2025-11-11/"
 description: "Funding for AI, crypto, drones, and legaltech"
 date: 2025-11-11
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much funding did Clio raise?
   answer: Clio raised $500 million.

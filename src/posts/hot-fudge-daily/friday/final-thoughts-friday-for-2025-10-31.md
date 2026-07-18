@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-10-31"
 permalink: "/archive/final-thoughts-friday-for-2025-10-31/"
 description: "OpenAI on a $1T IPO path with a $250B Microsoft Azure tab"
 date: 2025-10-31
+tags: ['Final Thoughts Friday']
 faq:
 - question: What significant change occurred regarding OpenAI's corporate structure?
   answer: OpenAI has pivoted to become a for-profit entity.

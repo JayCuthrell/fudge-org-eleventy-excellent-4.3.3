@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-10-01"
 permalink: "/archive/hot-takes-tuesday-for-2024-10-01/"
 description: "Sharing my hot takes on two intriguing investment stories that caught my eye this week!"
 date: 2024-10-01 23:38:28.784976+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the total amount of the fundraising round mentioned in the post?
   answer: The fundraising round is for $6.5 billion.

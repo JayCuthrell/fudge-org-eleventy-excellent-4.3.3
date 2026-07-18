@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-09-12"
 permalink: "/archive/throwback-thursday-for-2024-09-12/"
 description: "Reflecting on my early career, Intel, and the rise / fall of the web hosting boom."
 date: 2024-09-13 06:25:28.735377+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What was Intel Online Services (IOS)?
   answer: Intel Online Services (IOS) was a subsidiary launched by Intel in late 1999

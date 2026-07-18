@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-05-28"
 permalink: "/archive/wacky-wednesday-for-2025-05-28/"
 description: "I sift through Slack each week to find and share a safe-for-work gem—this week&#39;s pick is a YouTube link!"
 date: 2025-05-29 03:54:01.455042+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often does the author curate shared links?
   answer: The author curates shared links every Wednesday.

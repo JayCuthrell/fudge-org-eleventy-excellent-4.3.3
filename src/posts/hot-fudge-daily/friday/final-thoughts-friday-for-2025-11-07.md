@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-11-07"
 permalink: "/archive/final-thoughts-friday-for-2025-11-07/"
 description: "AI deal size on the rise"
 date: 2025-11-07
+tags: ['Final Thoughts Friday']
 faq:
 - question: What was the estimated value of the OpenAI and AWS deal?
   answer: The deal between OpenAI and AWS is valued at approximately $38 billion.

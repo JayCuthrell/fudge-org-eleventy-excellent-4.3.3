@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-03-03"
 permalink: "/archive/markets-monday-for-2025-03-03/"
 description: "This week, I&#39;m analyzing tech market trends using Yahoo Finance’s indicators for insights."
 date: 2025-03-04 04:33:23.569342+00:00
+tags: ['Markets Monday']
 faq:
 - question: What tool does the author recommend for creating a custom market heat
     map view?

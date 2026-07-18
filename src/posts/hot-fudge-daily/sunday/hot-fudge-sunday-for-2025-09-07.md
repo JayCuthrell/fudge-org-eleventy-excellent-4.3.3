@@ -3,7 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-07"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-07/"
 description: "AI in agriculture, tech, art, science, and more"
 date: 2025-09-07
-tags: [quantum]
+tags: [quantum, 'Hot Fudge Sunday']
 faq:
 - question: What were some of the key AI-related companies that received funding recently?
   answer: Funding was recently announced for several companies including Kite ($18M),

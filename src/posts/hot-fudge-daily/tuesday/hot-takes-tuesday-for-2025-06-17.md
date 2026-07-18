@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-06-17"
 permalink: "/archive/hot-takes-tuesday-for-2025-06-17/"
 description: "AI funding skyrockets, with major players like Applied Intuition and Helsing leading the charge!"
 date: 2025-06-18 01:40:59.394179+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the highest amount of funding listed in the post?
   answer: Helsing received the highest amount of funding at $645M.

@@ -3,6 +3,7 @@ title: "Markets Monday for 2024-06-17"
 permalink: "/archive/markets-monday-for-2024-06-17/"
 description: "An insightful look at the tech market trends in Markets Monday - past, present, and future."
 date: 2024-06-17 20:03:12.465747+00:00
+tags: ['Markets Monday']
 faq:
 - question: How does the author typically check the performance of the NASDAQ?
   answer: The author typically asks Siri how the NASDAQ is doing to determine if there

@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-01-01"
 permalink: "/archive/wacky-wednesday-for-2025-01-01/"
 description: "🎉 Happy New Year’s Edition 🎉 Each Wednesday I go through dozens of Slack communities. I then select the most interesting shared links. This will always be a..."
 date: 2025-01-01 22:48:48.697984+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often are the links selected for this list?
   answer: The links are selected every Wednesday.

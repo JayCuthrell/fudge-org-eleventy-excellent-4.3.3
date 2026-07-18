@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-07-05"
 permalink: "/archive/sneak-peak-saturday-for-2025-07-05/"
 description: "Dissecting a news dump and rising importance of ESTEEM in early AI works."
 date: 2025-07-05 15:27:57.559+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What does the author suggest about Friday and July 4th in relation to
     news coverage?

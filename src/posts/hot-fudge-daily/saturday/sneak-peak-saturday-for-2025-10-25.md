@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-10-25"
 permalink: "/archive/sneak-peak-saturday-for-2025-10-25/"
 description: "HP major manufacturing deal outside the US"
 date: 2025-10-25
+tags: ['Sneak Peak Saturday']
 faq:
 - question: Where is HP establishing new manufacturing operations?
   answer: HP is establishing manufacturing operations in the Kingdom of Saudi Arabia.

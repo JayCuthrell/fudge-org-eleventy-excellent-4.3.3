@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-09-14"
 permalink: "/archive/sneak-peak-saturday-for-2024-09-14/"
 description: "I explore the chaotic peak of Friday news and share memes that highlight slow news days."
 date: 2024-09-15 01:03:44.053636+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What happens to news coverage as the week reaches Friday?
   answer: By Friday, news coverage often reaches a fever pitch as outlets attempt

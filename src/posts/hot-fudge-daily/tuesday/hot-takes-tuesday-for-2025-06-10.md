@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-06-10"
 permalink: "/archive/hot-takes-tuesday-for-2025-06-10/"
 description: "AI funding in search and security is growing, hinting at a likely convergence ahead."
 date: 2025-06-11 03:30:24.722709+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the current trend regarding funding for AI?
   answer: Funding for AI in the fields of search and security is continuing.

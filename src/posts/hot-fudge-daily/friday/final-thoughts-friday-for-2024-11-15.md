@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-11-15"
 permalink: "/archive/final-thoughts-friday-for-2024-11-15/"
 description: "I&#39;ve been traveling, refining my setup, and exploring tech to ease travel and hybrid work."
 date: 2024-11-16 17:18:30.648707+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: How long has the author been traveling and working with clients?
   answer: The author has been traveling and working with clients for approximately

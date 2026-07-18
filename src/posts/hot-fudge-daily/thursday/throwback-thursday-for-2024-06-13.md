@@ -3,6 +3,7 @@ title: "Throwback Thursday for 2024-06-13"
 permalink: "/archive/throwback-thursday-for-2024-06-13/"
 description: "Throwback Thursday for 2024-06-13 Throwback Thursday will likely become a format based upon Fudge Sunday Weekly newsletter sections for &#39;Shot and Chaser&#39;...."
 date: 2024-06-13 17:22:22.329555+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the format of the Throwback Thursday blog posts?
   answer: Throwback Thursday is based on the 'Shot and Chaser' section from the Fudge

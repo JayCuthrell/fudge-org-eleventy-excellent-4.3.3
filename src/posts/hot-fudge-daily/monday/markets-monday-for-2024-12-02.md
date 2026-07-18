@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-12-02"
 permalink: "/archive/markets-monday-for-2024-12-02/"
 description: "This edition highlights market insights and key metrics from Yahoo Finance for tech stocks."
 date: 2024-12-03 04:25:39.677911+00:00
+tags: ['Markets Monday']
 faq:
 - question: What source does the author use for their weekly market indicator?
   answer: The author uses a simple Yahoo Finance webpage to view market indicators

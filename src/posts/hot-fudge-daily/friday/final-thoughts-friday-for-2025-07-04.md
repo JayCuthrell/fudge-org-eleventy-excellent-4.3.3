@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-07-04"
 permalink: "/archive/final-thoughts-friday-for-2025-07-04/"
 description: "Unpacking the impact of 'Section 174' on offshore and nearshore software development companies"
 date: 2025-07-05 04:56:54.634+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the primary topic discussed in the blog post?
   answer: The blog post focuses on "Section 174," which is described as the big tech

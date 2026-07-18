@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-11-21"
 permalink: "/archive/final-thoughts-friday-for-2025-11-21/"
 description: "Nvidia's Q3 earnings prove the shovel-selling business is booming"
 date: 2025-11-21
+tags: ['Final Thoughts Friday']
 faq:
 - question: What was the primary focus of this week's top business news?
   answer: The biggest story of the week was NVIDIA's Q3 earnings report.

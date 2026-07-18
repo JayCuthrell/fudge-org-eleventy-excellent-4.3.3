@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-08-18"
 permalink: "/archive/markets-monday-for-2025-08-18/"
 description: "Another week of updating my screener"
 date: 2025-08-18
+tags: ['Markets Monday']
 faq:
 - question: What is the purpose of the table provided in the blog post?
   answer: The table lists companies, their ticker symbols, and their percentage change,

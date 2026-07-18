@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-09-27"
 permalink: "/archive/sneak-peak-saturday-for-2025-09-27/"
 description: "Semiconductor vertical resilience trends"
 date: 2025-09-27
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the US Commerce Department rumored to be considering regarding
     US-sourced semiconductors?

@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-11-27"
 permalink: "/archive/throwback-thursday-for-2025-11-27/"
 description: "SignalFrame, PMC-Sierra, and Sega"
 date: 2025-11-27
+tags: ['Throwback Thursday']
 faq:
 - question: What company currently owns the entity that was previously known as SignalFrame?
   answer: SignalFrame (Wireless Registry) is now part of PWC.

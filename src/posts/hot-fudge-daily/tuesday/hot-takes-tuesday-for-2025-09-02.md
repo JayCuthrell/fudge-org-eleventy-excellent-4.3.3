@@ -3,7 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-09-02"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-02/"
 description: "Funding hauls for AI, electronics, and quantum -- then some tech fun"
 date: 2025-09-02
-tags: [quantum]
+tags: [quantum, 'Hot Takes Tuesday']
 faq:
 - question: Which company received the largest amount of funding in the provided list?
   answer: Anthropic received the largest amount of funding, totaling $13 billion.

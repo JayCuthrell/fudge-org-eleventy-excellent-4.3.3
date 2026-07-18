@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-09-09"
 permalink: "/archive/markets-monday-for-2024-09-09/"
 description: "This edition highlights the importance of reading Spyglass for tech market insights and a Monday recap."
 date: 2024-09-09 22:10:40.294642+00:00
+tags: ['Markets Monday']
 faq:
 - question: Who is the author of Spyglass?
   answer: The writer behind Spyglass is M.G. Siegler.

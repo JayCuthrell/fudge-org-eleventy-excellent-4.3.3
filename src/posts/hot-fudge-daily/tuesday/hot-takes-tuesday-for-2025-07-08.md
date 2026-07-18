@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-07-08"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-08/"
 description: "AI-focused funding is going into parking data, photonics, contact lenses, and more!"
 date: 2025-07-09 03:15:34.089+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company mentioned in the post received the largest amount of funding?
   answer: Mistral AI received the largest amount of funding, totaling $1 billion.

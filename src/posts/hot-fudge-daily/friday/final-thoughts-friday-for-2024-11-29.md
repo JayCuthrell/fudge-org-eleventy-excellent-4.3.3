@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-11-29"
 permalink: "/archive/final-thoughts-friday-for-2024-11-29/"
 description: "Reflecting on community feedback and a $10B subsea fiber project by Meta."
 date: 2024-11-30 02:48:09.742467+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What tech news story caught the author's attention this week?
   answer: The author noted a reported subsea fiber deployment plan involving a $10

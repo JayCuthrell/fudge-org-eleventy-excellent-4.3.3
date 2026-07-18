@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-08-31"
 permalink: "/archive/sneak-peak-saturday-for-2024-08-31/"
 description: "Friday&#39;s edition covers missed news items with a touch of peak patronizing publishing."
 date: 2024-08-31 21:17:35.999956+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is described as peak patronizing publishing?
   answer: It refers to the practice of releasing news updates on a slow Friday in

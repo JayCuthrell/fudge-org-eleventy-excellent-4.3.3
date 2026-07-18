@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-07-31"
 permalink: "/archive/throwback-thursday-for-2025-07-31/"
 description: "From rumors to 3B unit sales in 18 years: a device story"
 date: 2025-07-31
+tags: ['Throwback Thursday']
 faq:
 - question: How many iPhones have been sold according to the blog post?
   answer: There have been 3 billion iPhones sold.

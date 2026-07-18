@@ -3,6 +3,7 @@ title: "Throwback Thursday for 2024-06-27"
 permalink: "/archive/throwback-thursday-for-2024-06-27/"
 description: "Throwback Thursday Edition: Reflecting on past predictions and news coverage to see how they panned out."
 date: 2024-06-27 18:56:47.684164+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the format of the new Throwback Thursday posts?
   answer: Throwback Thursday posts will be based on the 'Shot and Chaser' section

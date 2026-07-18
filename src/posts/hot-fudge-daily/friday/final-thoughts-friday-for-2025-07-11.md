@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-07-11"
 permalink: "/archive/final-thoughts-friday-for-2025-07-11/"
 description: "Exploring LangChain's thriving community"
 date: 2025-07-12 02:42:25.464+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What was the primary tech story of the week according to the blog post?
   answer: The primary tech story of the week was LangChain.

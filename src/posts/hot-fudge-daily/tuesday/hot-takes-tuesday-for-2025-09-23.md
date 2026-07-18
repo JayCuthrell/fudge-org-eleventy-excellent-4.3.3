@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-09-23"
 permalink: "/archive/hot-takes-tuesday-for-2025-09-23/"
 description: "AI app development, Wi-Fi chips, drone software, and more"
 date: 2025-09-23
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which humanoid robotics company is currently seeking up to $1B in funding?
   answer: 1X is the humanoid robotics company seeking up to $1B in funding.

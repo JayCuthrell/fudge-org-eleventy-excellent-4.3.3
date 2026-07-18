@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2024-10-02"
 permalink: "/archive/wacky-wednesday-for-2024-10-02/"
 description: "This week&#39;s email highlights intriguing links from Slack, including ancient cheese and dog archaeology!"
 date: 2024-10-02 21:20:11.944519+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: When does the author curate the shared links?
   answer: The author curates the shared links every Wednesday.

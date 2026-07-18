@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-07-29"
 permalink: "/archive/markets-monday-for-2024-07-29/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-30 00:14:07.831616+00:00
+tags: ['Markets Monday']
 faq:
 - question: What is the focus of the Markets Monday blog post?
   answer: The blog post focuses on analyzing the past and future of the tech market.

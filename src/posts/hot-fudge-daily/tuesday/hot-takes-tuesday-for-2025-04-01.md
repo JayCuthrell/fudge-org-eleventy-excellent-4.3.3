@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-04-01"
 permalink: "/archive/hot-takes-tuesday-for-2025-04-01/"
 description: "This edition tackles hot funding debates around coding skills and the evolving job market due to robots."
 date: 2025-04-02 02:25:47.349299+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Should individuals still learn to code?
   answer: Yes, the post confirms that people should still learn to code.

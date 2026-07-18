@@ -3,7 +3,7 @@ title: "📈 Markets Monday for 2025-10-06"
 permalink: "/archive/markets-monday-for-2025-10-06/"
 description: "AI, chips, quantum, comms, and digital currency"
 date: 2025-10-06
-tags: [quantum]
+tags: [quantum, 'Markets Monday']
 faq:
 - question: Which company experienced the highest percentage change in the market
     on Monday?

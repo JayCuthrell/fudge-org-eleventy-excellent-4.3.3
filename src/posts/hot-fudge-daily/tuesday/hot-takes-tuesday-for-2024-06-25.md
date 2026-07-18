@@ -3,6 +3,7 @@ title: "Hot Takes Tuesday for 2024-06-25"
 permalink: "/archive/hot-takes-tuesday-for-2024-06-25/"
 description: "AI dominates tech funding and M&amp;A moves, shaping a future of bioengineered indicators and internal data mastery."
 date: 2024-06-25 20:42:49.935358+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the author's prediction for agentic A.I. by 2030?
   answer: The author predicts that by 2030, agentic A.I. will be viewed as common

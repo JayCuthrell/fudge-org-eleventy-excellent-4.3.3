@@ -3,6 +3,7 @@ title: "Throwback Thursday for 2024-06-20"
 permalink: "/archive/throwback-thursday-for-2024-06-20/"
 description: "Throwback Thursday: Revisiting past predictions and tech news from 10 years ago, including Arista Networks and HubSpot."
 date: 2024-06-20 21:04:16.198072+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the format of the new Throwback Thursday feature?
   answer: Throwback Thursday is based on the 'Shot and Chaser' section from the Fudge

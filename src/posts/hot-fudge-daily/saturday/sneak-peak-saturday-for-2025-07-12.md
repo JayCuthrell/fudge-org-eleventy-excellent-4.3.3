@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-07-12"
 permalink: "/archive/sneak-peak-saturday-for-2025-07-12/"
 description: "Dissecting Intel's shaky ranking, CEO's motive, and the firm's struggles amid layoffs / divestitures"
 date: 2025-07-12 16:10:58.568+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: Is Intel currently in the Top 10 semiconductor companies by revenue?
   answer: Yes, Intel's revenue of approximately $50 billion is sufficient to keep

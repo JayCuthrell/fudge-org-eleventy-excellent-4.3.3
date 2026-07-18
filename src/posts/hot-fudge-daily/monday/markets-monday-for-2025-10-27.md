@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-10-27"
 permalink: "/archive/markets-monday-for-2025-10-27/"
 description: "Automation, semiconductors, and communications hardware"
 date: 2025-10-27
+tags: ['Markets Monday']
 faq:
 - question: Which sectors showed strength in today's market performance?
   answer: Today's market strength was concentrated in robotics and robotic process

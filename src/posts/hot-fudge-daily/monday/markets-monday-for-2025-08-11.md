@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-08-11"
 permalink: "/archive/markets-monday-for-2025-08-11/"
 description: "Making slow weekly progress on my screener"
 date: 2025-08-11
+tags: ['Markets Monday']
 faq:
 - question: What is the author currently working on?
   answer: The author is working on a second attempt at creating a screener approximation

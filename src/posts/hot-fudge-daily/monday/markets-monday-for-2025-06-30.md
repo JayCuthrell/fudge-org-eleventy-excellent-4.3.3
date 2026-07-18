@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-06-30"
 permalink: "/archive/markets-monday-for-2025-06-30/"
 description: "Triple spicy week mergers and a dash of Quantumania!"
 date: 2025-06-30 22:11:09.954184+00:00
+tags: ['Markets Monday']
 faq:
 - question: What topics were covered in last week's post?
   answer: Last week's post covered AI, space satellites, and AI-related networking.

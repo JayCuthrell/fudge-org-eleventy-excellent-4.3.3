@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-12-06"
 permalink: "/archive/sneak-peak-saturday-for-2025-12-06/"
 description: "Meta Phoenix falling behind"
 date: 2025-12-06
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the status of Meta's mixed reality glasses project known as 'Phoenix'?
   answer: According to a leaked memo, the 'Phoenix' project is not currently rising

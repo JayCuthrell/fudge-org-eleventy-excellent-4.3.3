@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-05-08"
 permalink: "/archive/throwback-thursday-for-2025-05-08/"
 description: "Exploring evolution in power outages and impact on datacenter resilience."
 date: 2025-05-09 06:50:09.768784+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the primary theme of the blog post?
   answer: The blog post focuses on power, specifically the kind involving electrons,

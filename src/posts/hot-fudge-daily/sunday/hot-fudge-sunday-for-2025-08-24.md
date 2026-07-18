@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-24"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-24/"
 description: "Microsoft licensing changes, dining tech, markets, AI, history, and more"
 date: 2025-08-24
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What topics did NexusTek cover in their recent publications and webinars?
   answer: NexusTek shared insights on Microsoft's licensing changes, the role of technology

@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-05-24"
 permalink: "/archive/sneak-peak-saturday-for-2025-05-24/"
 description: "This Friday, I dive into the chaos of news dumps and the art of sneaky updates."
 date: 2025-05-26 14:58:58.806043+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the phenomenon referred to as the Friday news dump?
   answer: The Friday news dump describes the tendency for news updates to be released

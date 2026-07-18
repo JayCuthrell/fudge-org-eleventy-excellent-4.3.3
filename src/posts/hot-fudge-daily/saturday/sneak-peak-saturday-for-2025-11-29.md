@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-11-29"
 permalink: "/archive/sneak-peak-saturday-for-2025-11-29/"
 description: "For want of a nail the HVAC was lost"
 date: 2025-11-29
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What caused the trading halt at CME Group during the Black Friday period?
   answer: The trading halt was caused by a cooling systems issue at the company's

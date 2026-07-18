@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-06-23"
 permalink: "/archive/markets-monday-for-2025-06-23/"
 description: "Less spicy but still movement in AI, space, and networking this week"
 date: 2025-06-23 20:19:47.568576+00:00
+tags: ['Markets Monday']
 faq:
 - question: What was the theme of last week's update?
   answer: Last week's update was about love, rockets, and Quantumania.

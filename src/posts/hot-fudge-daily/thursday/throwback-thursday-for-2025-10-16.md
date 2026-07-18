@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-10-16"
 permalink: "/archive/throwback-thursday-for-2025-10-16/"
 description: "Lidar, unicorns, and apps"
 date: 2025-10-16
+tags: ['Throwback Thursday']
 faq:
 - question: What technological advancements did the iPhone introduce five years ago
     on October 16, 2020?

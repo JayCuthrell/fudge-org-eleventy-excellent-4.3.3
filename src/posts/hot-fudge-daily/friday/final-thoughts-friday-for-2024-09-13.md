@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-09-13"
 permalink: "/archive/final-thoughts-friday-for-2024-09-13/"
 description: "I wrapped up my delegate duties at AI Field Day 5 and will share insights from the event soon!"
 date: 2024-09-14 03:39:45.125341+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: Which companies presented at AI Field Day 5?
   answer: The companies that provided updates were Keysight, Integrail, Cisco, Vmware,

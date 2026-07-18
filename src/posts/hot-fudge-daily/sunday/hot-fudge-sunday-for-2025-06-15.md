@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-15"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-15/"
 description: "This week, I’m streamlining with feedback, sharing event highlights, and a new meeting make-over!"
 date: 2025-06-15 13:55:44+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What events did NexusTek participate in last week?
   answer: Last week, NexusTek attended Triangle Biotech Tuesday, presented at a business

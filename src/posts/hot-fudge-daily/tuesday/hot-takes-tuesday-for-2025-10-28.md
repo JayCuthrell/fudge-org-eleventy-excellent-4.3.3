@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-10-28"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-28/"
 description: "AI flavored funding for robotics, fintech, chip companies, and more"
 date: 2025-10-28
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company listed received the highest amount of funding?
   answer: Wealthsimple received the highest amount of funding at $538 million.

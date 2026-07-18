@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-10-17"
 permalink: "/archive/throwback-thursday-for-2024-10-17/"
 description: "Reflecting on the evolution of the iPad mini from its debut to today&#39;s impressive specs!"
 date: 2024-10-18 01:51:27.327986+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: How long ago was the first generation iPad mini released?
   answer: The first generation iPad mini was released 12 years ago.

@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-05-30"
 permalink: "/archive/final-thoughts-friday-for-2025-05-30/"
 description: "Exploring the stark divide between mundane task completion and AI&#39;s looming threat to employment."
 date: 2025-05-31 04:15:11.895040+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What two themes regarding white-collar work does the author mention?
   answer: The author discusses the contrast between the banal reality of work and

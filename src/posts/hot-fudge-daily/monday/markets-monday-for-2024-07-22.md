@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-07-22"
 permalink: "/archive/markets-monday-for-2024-07-22/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-23 21:56:16.403190+00:00
+tags: ['Markets Monday']
 faq:
 - question: What is the date of this Markets Monday post?
   answer: The date of the post is 2024-07-22.

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-09-01"
 permalink: "/archive/markets-monday-for-2025-09-01/"
 description: "China's vertical integration coverage on a quiet US Labor Day"
 date: 2025-09-01
+tags: ['Markets Monday']
 faq:
 - question: Why were US markets closed recently?
   answer: US markets were closed due to Labor Day.

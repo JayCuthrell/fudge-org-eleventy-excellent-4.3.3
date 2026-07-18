@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-07-03"
 permalink: "/archive/throwback-thursday-for-2025-07-03/"
 description: "AI job replacement claims in 2025 from CEOs with SXSW 2024 insights from the field"
 date: 2025-07-04 04:08:40.810+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the author's stance on CEOs claiming that AI will replace current
     jobs?

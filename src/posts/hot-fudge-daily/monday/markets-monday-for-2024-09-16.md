@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-09-16"
 permalink: "/archive/markets-monday-for-2024-09-16/"
 description: "This week&#39;s edition highlights must-read insights from Greg Meyer on the evolving data operations market."
 date: 2024-09-17 03:22:22.753903+00:00
+tags: ['Markets Monday']
 faq:
 - question: Who is the writer behind the Finding Data Operations newsletter?
   answer: The writer behind Finding Data Operations is Greg Meyer.

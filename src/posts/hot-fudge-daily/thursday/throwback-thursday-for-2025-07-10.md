@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-07-10"
 permalink: "/archive/throwback-thursday-for-2025-07-10/"
 description: "Diving into the power-hungry world of data centers and their sustainability!"
 date: 2025-07-10 23:36:54.131+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is a central theme discussed in the blog post?
   answer: The blog post focuses on the theme of power, specifically regarding its

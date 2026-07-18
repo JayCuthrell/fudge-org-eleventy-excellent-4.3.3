@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-12-24"
 permalink: "/archive/hot-takes-tuesday-for-2024-12-24/"
 description: "Exploring two Paypal mafia stories about major investments in tech and infrastructure."
 date: 2024-12-25 02:48:36.616043+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much funding is mentioned for the first story regarding processing
     power?

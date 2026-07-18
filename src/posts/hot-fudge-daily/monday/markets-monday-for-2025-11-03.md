@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-11-03"
 permalink: "/archive/markets-monday-for-2025-11-03/"
 description: "Top movers focused on semiconductors, software, and IT services."
 date: 2025-11-03
+tags: ['Markets Monday']
 faq:
 - question: Which technology sectors performed the best today?
   answer: Today's top technology performers were companies specializing in semiconductors,

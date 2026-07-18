@@ -3,6 +3,7 @@ title: "Sneak Peak Saturday for 2024-06-15"
 permalink: "/archive/sneak-peak-saturday-for-2024-06-15/"
 description: "Unveiling overlooked tech news with a sprinkle of satire in our latest edition of Sneak Peak Saturday."
 date: 2024-06-15 16:20:10.858386+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the purpose of the 'Sneak Peak Saturday' blog post?
   answer: The post aims to unveil overlooked tech news from the week with a sprinkle

@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-12-01"
 permalink: "/archive/markets-monday-for-2025-12-01/"
 description: "AI Infrastructure day for Nebius and CoreWeave"
 date: 2025-12-01
+tags: ['Markets Monday']
 faq:
 - question: What kind of companies did the screener identify as being in demand?
   answer: The screener identified 'picks and shovels' purveyors of the AI compute

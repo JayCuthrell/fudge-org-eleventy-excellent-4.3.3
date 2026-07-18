@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-06-26"
 permalink: "/archive/throwback-thursday-for-2025-06-26/"
 description: "Microsoft&#39;s BSOD is getting a makeover—say hello to the Black Screen of Death!"
 date: 2025-06-26 20:40:26.324706+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What change is Microsoft making to the classic Blue Screen of Death?
   answer: Microsoft is changing the classic Blue Screen of Death (BSOD) to a Black

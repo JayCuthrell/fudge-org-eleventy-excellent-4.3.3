@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-07-29"
 permalink: "/archive/hot-takes-tuesday-for-2025-07-29/"
 description: "Another week and another roundup of AI firms raking in fresh funding"
 date: 2025-07-29
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the highest amount of funding listed in the post?
   answer: Anthropic received the highest funding amount, totaling $5 billion.

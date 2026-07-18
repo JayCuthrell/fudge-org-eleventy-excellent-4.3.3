@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-08-27"
 permalink: "/archive/hot-takes-tuesday-for-2024-08-27/"
 description: "Exploring changes in the VMware community, hot takes on funds, funding, M&amp;A, and the evolving cloud landscape."
 date: 2024-08-27 22:18:13.391791+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: When did the author first experience VMworld?
   answer: The author's first VMworld experience was in 2010.

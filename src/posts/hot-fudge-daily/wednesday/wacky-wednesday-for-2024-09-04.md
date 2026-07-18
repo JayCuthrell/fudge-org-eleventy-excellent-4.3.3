@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2024-09-04"
 permalink: "/archive/wacky-wednesday-for-2024-09-04/"
 description: "I curate the top Slack links for you every week in this safe-for-work email."
 date: 2024-09-05 00:16:01.371854+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often are the link lists published?
   answer: The lists are published each Wednesday.

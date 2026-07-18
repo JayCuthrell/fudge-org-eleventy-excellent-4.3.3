@@ -3,6 +3,7 @@ title: "Hot Takes Tuesday"
 permalink: "/archive/hot-takes-tuesday/"
 description: "Off the cuff analysis in a rapid fire format."
 date: 2024-06-05 02:30:21.468419+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much funding did Pika raise?
   answer: Pika raised $80 million.

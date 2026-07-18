@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-11-12"
 permalink: "/archive/hot-takes-tuesday-for-2024-11-12/"
 description: "Insights from the All Things Open conference and two FinOps investments!"
 date: 2024-11-13 04:33:50.517686+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which conference did the author attend where they met with the LocalStack
     team?

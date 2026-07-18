@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-10-29"
 permalink: "/archive/wacky-wednesday-for-2025-10-29/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-10-29
+tags: ['Wacky Wednesday']
 faq:
 - question: What content is included in the 'Wacky Wonderful' section?
   answer: The 'Wacky Wonderful' section features a video about captured AI art, which

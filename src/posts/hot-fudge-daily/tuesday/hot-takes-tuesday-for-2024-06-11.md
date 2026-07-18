@@ -3,6 +3,7 @@ title: "Hot Takes Tuesday for 2024-06-11"
 permalink: "/archive/hot-takes-tuesday-for-2024-06-11/"
 description: "Big funding and M&amp;A moves in tech - from cutting-edge language models to cybersecurity startups."
 date: 2024-06-11 18:02:45.773656+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much did Cognizant pay to acquire Belcan?
   answer: Cognizant acquired Belcan for $1.8 billion.

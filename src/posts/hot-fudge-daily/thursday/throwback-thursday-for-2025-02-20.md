@@ -3,7 +3,7 @@ title: "🔙 Throwback Thursday for 2025-02-20"
 permalink: "/archive/throwback-thursday-for-2025-02-20/"
 description: "This edition highlights exciting Majorana news and its ties to over a decade of Microsoft quantum developments."
 date: 2025-02-22 19:02:58.716010+00:00
-tags: [quantum]
+tags: [quantum, 'Throwback Thursday']
 faq:
 - question: How far back does the Microsoft quantum computing news mentioned in the
     post go?

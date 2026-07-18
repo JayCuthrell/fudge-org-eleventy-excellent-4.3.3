@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2024-11-24"
 permalink: "/archive/hot-fudge-sunday-for-2024-11-24/"
 description: "Excited to share my new role at NexusTek and recap this week&#39;s market insights and hot takes!"
 date: 2024-11-24 21:20:00+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What is the Hot Fudge Sunday newsletter?
   answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the

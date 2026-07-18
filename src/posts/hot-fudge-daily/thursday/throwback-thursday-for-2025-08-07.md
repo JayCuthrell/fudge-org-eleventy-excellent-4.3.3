@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-08-07"
 permalink: "/archive/throwback-thursday-for-2025-08-07/"
 description: "Tweaking Throwback Thursday's format to make history cool again"
 date: 2025-08-07
+tags: ['Throwback Thursday']
 faq:
 - question: What is the author planning to do regarding the Throwback Thursday format?
   answer: The author is working on a historical format change for Throwback Thursday.

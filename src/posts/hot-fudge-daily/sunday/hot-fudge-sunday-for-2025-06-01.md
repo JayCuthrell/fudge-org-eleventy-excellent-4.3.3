@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-06-01"
 permalink: "/archive/hot-fudge-sunday-for-2025-06-01/"
 description: "This week&#39;s digest covers market movements post-Memorial Day and exciting new tech acquisitions."
 date: 2025-06-01 20:27:45+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: Which company was recently named to the CRN Solution Provider 500 list
     for 2025?

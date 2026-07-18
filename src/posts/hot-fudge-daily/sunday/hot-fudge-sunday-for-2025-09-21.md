@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-09-21"
 permalink: "/archive/hot-fudge-sunday-for-2025-09-21/"
 description: "IT issues in golf, markets, funding, IPOs, and H1-B visa fees"
 date: 2025-09-21
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What fee is being imposed on H1-B visas according to the Executive Order
     discussed in the post?

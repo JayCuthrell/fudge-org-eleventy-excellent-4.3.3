@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-05-18"
 permalink: "/archive/hot-fudge-sunday-for-2025-05-18/"
 description: "This week, I&#39;m sharing insights from Qlik Connect and upcoming talks on AI and business modernization."
 date: 2025-05-18 18:43:53.435037+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What upcoming events is the author participating in during late May and
     early June 2025?

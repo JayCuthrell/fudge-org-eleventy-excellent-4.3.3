@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-09-22"
 permalink: "/archive/markets-monday-for-2025-09-22/"
 description: "Top movers in semiconductors, data infrastructure, AI, and solar"
 date: 2025-09-22
+tags: ['Markets Monday']
 faq:
 - question: Which industries are represented in the provided market mover data?
   answer: The data covers the semiconductor and semiconductor equipment industry,

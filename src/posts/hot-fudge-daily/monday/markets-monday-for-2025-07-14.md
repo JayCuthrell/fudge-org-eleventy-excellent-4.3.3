@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-07-14"
 permalink: "/archive/markets-monday-for-2025-07-14/"
 description: "Last week was bland, this week we're diving into Quantum Computing, AI, Software, and Space!"
 date: 2025-07-14 23:54:08.321+00:00
+tags: ['Markets Monday']
 faq:
 - question: What topics are covered in this week's update?
   answer: This week's update covers Quantum Computing, AI, Software, and Space.

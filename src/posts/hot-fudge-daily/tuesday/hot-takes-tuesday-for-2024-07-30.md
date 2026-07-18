@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-07-30"
 permalink: "/archive/hot-takes-tuesday-for-2024-07-30/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-31 03:10:09.057968+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the date of this Hot Takes Tuesday post?
   answer: This Hot Takes Tuesday post is for 2024-07-30.

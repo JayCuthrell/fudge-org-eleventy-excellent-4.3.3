@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-10-14"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-14/"
 description: "The past week of AI related funding from insurance to devices"
 date: 2025-10-14
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the highest amount of funding mentioned in the
     post?

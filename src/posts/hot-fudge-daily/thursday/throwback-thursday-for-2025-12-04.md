@@ -3,7 +3,7 @@ title: "🔙 Throwback Thursday for 2025-12-04"
 permalink: "/archive/throwback-thursday-for-2025-12-04/"
 description: "Quantum supremacy, Let's Encrypt, and long haul in flight WiFi"
 date: 2025-12-04
-tags: [quantum]
+tags: [quantum, 'Throwback Thursday']
 faq:
 - question: What is Google Workspace Studio?
   answer: Google Workspace Studio is a no-code tool designed for creating AI agents.

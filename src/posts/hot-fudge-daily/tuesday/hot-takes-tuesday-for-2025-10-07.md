@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-10-07"
 permalink: "/archive/hot-takes-tuesday-for-2025-10-07/"
 description: "The Tuesday sample of $20.272B raised for AI"
 date: 2025-10-07
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What does FurtherAI do and how much funding did it receive?
   answer: FurtherAI automates insurance tasks using AI and received $25M in funding.

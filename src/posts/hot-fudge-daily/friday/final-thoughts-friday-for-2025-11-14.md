@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-11-14"
 permalink: "/archive/final-thoughts-friday-for-2025-11-14/"
 description: "Big bet on AI data centers in Texas"
 date: 2025-11-14
+tags: ['Final Thoughts Friday']
 faq:
 - question: How much money is Google investing in new data centers in Texas?
   answer: Google is investing $40 billion in new data centers in Texas.

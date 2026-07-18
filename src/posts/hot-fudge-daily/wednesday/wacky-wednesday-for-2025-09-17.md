@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-09-17"
 permalink: "/archive/wacky-wednesday-for-2025-09-17/"
 description: "Roll over Rick Roll"
 date: 2025-09-17
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the suggested use for the content provided?
   answer: The content is suggested as a suitable substitution for Rick Roll targeting

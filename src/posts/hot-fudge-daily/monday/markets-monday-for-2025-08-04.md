@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-08-04"
 permalink: "/archive/markets-monday-for-2025-08-04/"
 description: "Initial Fudge Factor screener for VSAT, QNTM, ARQQ, CABO, GTLB, RBRK, XPEL, and VCEL."
 date: 2025-08-04
+tags: ['Markets Monday']
 faq:
 - question: What does the provided table represent?
   answer: The table represents a list of companies with their respective stock symbols

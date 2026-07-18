@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-08-21"
 permalink: "/archive/throwback-thursday-for-2025-08-21/"
 description: "A decade-long showdown between Apple's App Store and Epic Games"
 date: 2025-08-21
+tags: ['Throwback Thursday']
 faq:
 - question: What is the subject of the blog post?
   answer: The blog post provides a look back at a decade of the Apple App Store versus

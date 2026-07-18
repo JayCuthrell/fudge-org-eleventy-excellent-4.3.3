@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-10-23"
 permalink: "/archive/throwback-thursday-for-2025-10-23/"
 description: "Looking back at the tech news from October 23, 2020, 2015, and 2010."
 date: 2025-10-23
+tags: ['Throwback Thursday']
 faq:
 - question: What was the status of Quibi 5 years ago?
   answer: Five years ago, Quibi was a short-form video service known for having a

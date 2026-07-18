@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2024-09-08"
 permalink: "/archive/hot-fudge-sunday-for-2024-09-08/"
 description: "This edition dives into tech market insights and fascinating throwbacks!"
 date: 2024-09-08 15:50:00+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What is the Hot Fudge Sunday newsletter?
   answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the

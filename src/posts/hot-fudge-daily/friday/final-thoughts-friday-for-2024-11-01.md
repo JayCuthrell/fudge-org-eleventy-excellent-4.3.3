@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-11-01"
 permalink: "/archive/final-thoughts-friday-for-2024-11-01/"
 description: "I had a blast at All Things Open and dissected the mixed tech coverage on Intel."
 date: 2024-11-02 03:29:12.820200+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: Which conference did the author attend for the first time?
   answer: The author attended the All Things Open conference for the first time.

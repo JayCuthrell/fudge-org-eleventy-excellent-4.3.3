@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-02-10"
 permalink: "/archive/markets-monday-for-2025-02-10/"
 description: "This edition highlights key market indicators for tech stocks using Yahoo Finance insights."
 date: 2025-02-11 05:31:02.609145+00:00
+tags: ['Markets Monday']
 faq:
 - question: What source does the author use for their weekly market indicator?
   answer: The author uses a simple Yahoo Finance webpage to view key market indicators.

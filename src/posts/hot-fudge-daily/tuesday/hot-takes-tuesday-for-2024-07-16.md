@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2024-07-16"
 permalink: "/archive/hot-takes-tuesday-for-2024-07-16/"
 description: "Tech funding and M&amp;A trends in AI, cybersecurity, and GenAI discussed with a touch of humor."
 date: 2024-07-17 03:25:05.142725+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is the author's perspective on the future of GenAI for enterprise
     applications?

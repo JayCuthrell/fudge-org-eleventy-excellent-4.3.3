@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-10-01"
 permalink: "/archive/wacky-wednesday-for-2025-10-01/"
 description: "Reminiscing about SXSW chats on the future of AI in film"
 date: 2025-10-01
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the concept of the 'choose your own adventure' movie described
     by the filmmaker?

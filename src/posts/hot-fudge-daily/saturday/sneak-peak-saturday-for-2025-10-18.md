@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-10-18"
 permalink: "/archive/sneak-peak-saturday-for-2025-10-18/"
 description: "Google Privacy Sandbox reaches a depth of six feet"
 date: 2025-10-18
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the primary goal of Google's Privacy Sandbox initiative?
   answer: The goal of the initiative was to end the use of third-party cookies.

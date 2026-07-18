@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-11-14"
 permalink: "/archive/throwback-thursday-for-2024-11-14/"
 description: "Exploring the evolution from cable connections to hassle-free file sharing innovations!"
 date: 2024-11-16 16:25:49.653124+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What was the original purpose of the DLNA certification introduced in
     2008?

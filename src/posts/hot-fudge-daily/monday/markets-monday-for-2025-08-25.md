@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-08-25"
 permalink: "/archive/markets-monday-for-2025-08-25/"
 description: "A fun theory about ASTS, NN, and RBLX"
 date: 2025-08-25
+tags: ['Markets Monday']
 faq:
 - question: What is the primary focus of AST SpaceMobile and Nextnav according to
     the author's thesis?

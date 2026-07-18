@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-11-12"
 permalink: "/archive/wacky-wednesday-for-2025-11-12/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-11-12
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the content of the video titled 'How to Start an F-16 (Bully in
     the Alley Remix)'?

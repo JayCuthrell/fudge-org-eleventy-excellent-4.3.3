@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-01-31"
 permalink: "/archive/final-thoughts-friday-for-2025-01-31/"
 description: "This week, I explored the ups and downs of the AI boom&#39;s supremacy claims."
 date: 2025-02-02 00:10:16.135349+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: How did the author describe the state of AI-related claims this week?
   answer: The author described this week as a moment of whipsawing and fragility in

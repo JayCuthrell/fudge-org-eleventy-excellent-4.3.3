@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-08-30"
 permalink: "/archive/sneak-peak-saturday-for-2025-08-30/"
 description: "The bumpy road to AI-powered fast-food voice orders"
 date: 2025-08-30
+tags: ['Sneak Peak Saturday']
 faq:
 - question: Why might some scenarios be better suited for physical controls instead
     of touch screens?

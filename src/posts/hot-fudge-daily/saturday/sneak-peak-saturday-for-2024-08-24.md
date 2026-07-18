@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-08-24"
 permalink: "/archive/sneak-peak-saturday-for-2024-08-24/"
 description: "Exploring the difference between peak and peek in news coverage with a roundup of Friday&#39;s &#39;quietly mentioned&#39; stories."
 date: 2024-08-24 17:26:38.225887+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What does the author suggest about news released on Fridays?
   answer: The author suggests that news updates are sometimes released on Fridays

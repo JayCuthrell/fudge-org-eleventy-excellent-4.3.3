@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-10-17"
 permalink: "/archive/final-thoughts-friday-for-2025-10-17/"
 description: "Power vs. Ping vs. Plate"
 date: 2025-10-17
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the primary value of the data centers acquired by the investment
     consortium?

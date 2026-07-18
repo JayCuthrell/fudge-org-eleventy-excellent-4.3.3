@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-09-06"
 permalink: "/archive/final-thoughts-friday-for-2024-09-06/"
 description: "The past week in BGP, Internet Archive, Salesforce + Own(Backup), and YouTube/Google."
 date: 2024-09-07 02:41:22.829403+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What events does the author have scheduled for the remainder of 2024?
   answer: 'The author is scheduled to attend four events: AI Field Day 5 (September

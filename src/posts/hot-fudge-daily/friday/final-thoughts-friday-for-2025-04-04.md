@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-04-04"
 permalink: "/archive/final-thoughts-friday-for-2025-04-04/"
 description: "This week, I dive into how silicon photonics will revolutionize AI workloads."
 date: 2025-04-05 03:46:03.039473+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is silicon photonics expected to change in the future?
   answer: Silicon photonics will fundamentally alter existing AI workload architectural

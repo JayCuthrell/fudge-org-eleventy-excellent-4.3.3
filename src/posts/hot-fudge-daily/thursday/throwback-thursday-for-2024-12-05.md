@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-12-05"
 permalink: "/archive/throwback-thursday-for-2024-12-05/"
 description: "I’m reflecting on two years of Google NotebookLM and its impressive AI updates."
 date: 2024-12-06 05:39:30.442690+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: When was Google NotebookLM first launched?
   answer: Google NotebookLM was launched two years ago.

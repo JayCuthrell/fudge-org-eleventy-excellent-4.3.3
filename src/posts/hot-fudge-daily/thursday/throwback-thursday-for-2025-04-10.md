@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-04-10"
 permalink: "/archive/throwback-thursday-for-2025-04-10/"
 description: "I delve into why Salt Typhoon briefly faded from the headlines amid other distractions."
 date: 2025-04-11 04:59:18.153547+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: Why did the Salt Typhoon incident disappear from the headlines previously?
   answer: It was seemingly knocked out of the headlines by other shiny object squirrels.

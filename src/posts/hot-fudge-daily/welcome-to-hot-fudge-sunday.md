@@ -3,6 +3,7 @@ title: "🌶️ Welcome to Hot Fudge Sunday"
 permalink: "/archive/welcome-to-hot-fudge-sunday/"
 description: "Welcome to the age of Fudge Factor and Hot Fudge Sunday, where deep research and syndication strategies are key."
 date: 2024-08-04 21:00:00+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What is the difference between Hot Fudge Sunday and Hot Fudge Daily?
   answer: Hot Fudge Sunday is a free weekly newsletter published every Sunday, while

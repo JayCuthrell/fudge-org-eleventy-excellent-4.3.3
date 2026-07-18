@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-03-09"
 permalink: "/archive/hot-fudge-sunday-for-2025-03-09/"
 description: "This week&#39;s Hot Fudge Sunday highlights AI insights, job seekers, and more!"
 date: 2025-03-09 17:30:00+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What is the Hot Fudge Sunday newsletter?
   answer: Hot Fudge Sunday is a free weekly newsletter that provides a digest of the

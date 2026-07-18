@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-04-29"
 permalink: "/archive/hot-takes-tuesday-for-2025-04-29/"
 description: "This edition dives into Tuesday&#39;s unexpected state funding and the future of machine creation."
 date: 2025-04-30 03:20:10.260957+00:00
+tags: ['Hot Takes Tuesday']
 faq:
 - question: What is unique about the funding example mentioned regarding states?
   answer: Typically, funding discussions center on startups, but the post highlights

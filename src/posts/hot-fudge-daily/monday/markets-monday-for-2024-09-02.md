@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-09-02"
 permalink: "/archive/markets-monday-for-2024-09-02/"
 description: "Labor Day edition: markets closed, tech reading recommendations, IPv4 costs, Yahoo finance recap."
 date: 2024-09-02 19:56:35.073613+00:00
+tags: ['Markets Monday']
 faq:
 - question: Are markets open today in the United States?
   answer: No, markets are closed today because it is Labor Day in the United States.

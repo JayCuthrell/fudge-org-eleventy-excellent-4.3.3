@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2025-10-22"
 permalink: "/archive/wacky-wednesday-for-2025-10-22/"
 description: "Wacky. Wayback. Whoa."
 date: 2025-10-22
+tags: ['Wacky Wednesday']
 faq:
 - question: What content is associated with the 'Wacky Wonderful' section?
   answer: 'The ''Wacky Wonderful'' section includes a link to ''In the air tonight''

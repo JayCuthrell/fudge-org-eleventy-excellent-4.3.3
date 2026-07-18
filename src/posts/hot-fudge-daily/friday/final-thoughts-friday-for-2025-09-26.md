@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-09-26"
 permalink: "/archive/final-thoughts-friday-for-2025-09-26/"
 description: "Stargate, Oracle co-CEOs, datacenter funding and construction"
 date: 2025-09-26
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is the primary focus of the recent news regarding Stargate?
   answer: The recent news highlights Stargate and the appointment of new co-CEOs,

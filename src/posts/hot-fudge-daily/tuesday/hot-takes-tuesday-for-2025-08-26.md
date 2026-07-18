@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-08-26"
 permalink: "/archive/hot-takes-tuesday-for-2025-08-26/"
 description: "AI drawing major funding continues"
 date: 2025-08-26
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much capital did Casca raise for its AI-powered loan origination tools?
   answer: Casca raised $29 million.

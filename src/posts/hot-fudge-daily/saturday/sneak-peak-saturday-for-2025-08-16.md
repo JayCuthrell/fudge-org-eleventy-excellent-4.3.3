@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-08-16"
 permalink: "/archive/sneak-peak-saturday-for-2025-08-16/"
 description: "Screen recording utilities and call recording laws"
 date: 2025-08-16
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the author's approach to screen recording utilities during meetings?
   answer: The author joins meetings with these utilities but makes an effort to remove

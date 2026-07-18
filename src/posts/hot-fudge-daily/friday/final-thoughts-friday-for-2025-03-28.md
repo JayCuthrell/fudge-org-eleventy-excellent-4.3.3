@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-03-28"
 permalink: "/archive/final-thoughts-friday-for-2025-03-28/"
 description: "I delve into Signal&#39;s unexpected mainstream news moment and highlight Meredith Whittaker at SXSW."
 date: 2025-03-29 02:08:36.704960+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: Who is Meredith Whittaker?
   answer: Meredith Whittaker is the President of Signal.

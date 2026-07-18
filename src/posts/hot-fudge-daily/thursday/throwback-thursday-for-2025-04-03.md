@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-04-03"
 permalink: "/archive/throwback-thursday-for-2025-04-03/"
 description: "Explore the power of joint ventures in this week&#39;s Throwback!"
 date: 2025-04-04 03:22:38.134238+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the core suggestion provided in the blog post for dealing with
     competition?

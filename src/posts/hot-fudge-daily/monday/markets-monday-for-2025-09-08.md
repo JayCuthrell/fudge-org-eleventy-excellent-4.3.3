@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-09-08"
 permalink: "/archive/markets-monday-for-2025-09-08/"
 description: "Updating my screener with ALAB and APP leading the way"
 date: 2025-09-08
+tags: ['Markets Monday']
 faq:
 - question: Which company listed in the screener experienced the highest percentage
     change?

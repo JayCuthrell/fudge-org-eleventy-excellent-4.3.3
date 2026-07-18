@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-04-21"
 permalink: "/archive/markets-monday-for-2025-04-21/"
 description: "This edition focuses on my weekly Market Monday recap, highlighting key tech stocks and trends."
 date: 2025-04-22 03:37:17.645750+00:00
+tags: ['Markets Monday']
 faq:
 - question: What tool does the author recommend for creating a custom market heat
     map view?

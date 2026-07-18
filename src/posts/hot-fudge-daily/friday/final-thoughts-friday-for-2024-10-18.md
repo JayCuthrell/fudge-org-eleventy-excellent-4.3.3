@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2024-10-18"
 permalink: "/archive/final-thoughts-friday-for-2024-10-18/"
 description: "A week of Google and Amazon moves in nuclear power from small modular reactors."
 date: 2024-10-18 23:39:46.776015+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: When does the author plan to publish their AI Field Day 5 delegate notes?
   answer: The author intends to publish them as soon as possible, with a worst-case

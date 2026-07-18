@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-12-19"
 permalink: "/archive/throwback-thursday-for-2024-12-19/"
 description: "Exploring the implications of link rot and what it means when the web forgets."
 date: 2024-12-20 05:44:29.016888+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the subject matter of the blog post?
   answer: The blog post discusses the concept of link rot, which refers to the phenomenon

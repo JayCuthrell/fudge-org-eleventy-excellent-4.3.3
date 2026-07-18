@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2024-12-04"
 permalink: "/archive/wacky-wednesday-for-2024-12-04/"
 description: "This week’s email highlights intriguing links from my Slack community explorations!"
 date: 2024-12-05 05:43:24.661490+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: When does the author select the links?
   answer: The author goes through Slack communities and selects links every Wednesday.

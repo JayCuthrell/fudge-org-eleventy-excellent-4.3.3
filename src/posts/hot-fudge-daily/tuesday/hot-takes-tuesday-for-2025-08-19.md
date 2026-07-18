@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-08-19"
 permalink: "/archive/hot-takes-tuesday-for-2025-08-19/"
 description: "Funding for AI from web crawlers to... mattresses?"
 date: 2025-08-19
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company mentioned in the post received the largest amount of funding?
   answer: Eight Sleep received the largest amount of funding at $100M.

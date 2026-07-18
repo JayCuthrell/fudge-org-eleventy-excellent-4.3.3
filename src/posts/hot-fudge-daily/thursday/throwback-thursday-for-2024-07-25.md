@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-07-25"
 permalink: "/archive/throwback-thursday-for-2024-07-25/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-25 10:06:35+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the date of this Throwback Thursday blog post?
   answer: The blog post is dated 2024-07-25.

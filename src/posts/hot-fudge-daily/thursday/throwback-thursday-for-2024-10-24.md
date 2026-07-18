@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-10-24"
 permalink: "/archive/throwback-thursday-for-2024-10-24/"
 description: "The Raspberry Pi&#39;s evolution is impressive!"
 date: 2024-10-26 05:58:40.136275+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What was the price of the computer mentioned from 2011?
   answer: The computer mentioned from 2011 cost $25.

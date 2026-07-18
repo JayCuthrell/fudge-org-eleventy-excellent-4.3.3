@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2024-12-26"
 permalink: "/archive/throwback-thursday-for-2024-12-26/"
 description: "Reflecting on my journey from Nortel in the &#39;90s to the hybrid cloud with SAP’s evolution."
 date: 2024-12-27 02:47:08.794235+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: When was the author born?
   answer: The author was born in 1972.

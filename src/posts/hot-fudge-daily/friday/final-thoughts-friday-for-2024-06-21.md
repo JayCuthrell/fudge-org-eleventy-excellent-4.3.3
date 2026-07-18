@@ -3,6 +3,7 @@ title: "Final Thoughts Friday for 2024-06-21"
 permalink: "/archive/final-thoughts-friday-for-2024-06-21/"
 description: "Busy week with hosting events, planning future gatherings, and transitioning to a new subscription fee structure."
 date: 2024-06-21 16:35:16.334897+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: Where does the author normally work?
   answer: The author normally works out of The Vault in Beaufort, NC USA.

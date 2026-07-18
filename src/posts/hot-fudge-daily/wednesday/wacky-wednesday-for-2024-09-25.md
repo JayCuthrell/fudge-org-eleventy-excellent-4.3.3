@@ -3,6 +3,7 @@ title: "🤪 Wacky Wednesday for 2024-09-25"
 permalink: "/archive/wacky-wednesday-for-2024-09-25/"
 description: "This week&#39;s highlights include lab-grown diamonds and caffeinated ramen!"
 date: 2024-09-25 23:16:11.301087+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: How often are these interesting links shared?
   answer: The links are curated and shared every Wednesday.

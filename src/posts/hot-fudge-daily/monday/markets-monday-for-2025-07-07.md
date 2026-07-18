@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-07-07"
 permalink: "/archive/markets-monday-for-2025-07-07/"
 description: "A much more tepid Monday this week"
 date: 2025-07-08 02:28:17.545+00:00
+tags: ['Markets Monday']
 faq:
 - question: How does the spice level of this week's update compare to last week?
   answer: This week's update is much less spicy compared to last week.

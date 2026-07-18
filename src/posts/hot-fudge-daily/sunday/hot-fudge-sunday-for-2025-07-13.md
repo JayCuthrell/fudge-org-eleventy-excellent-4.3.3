@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-07-13"
 permalink: "/archive/hot-fudge-sunday-for-2025-07-13/"
 description: "Automation goals, market spice, AI funding, power in tech, Langchain community & Intel's future"
 date: 2025-07-13 13:00:00.000+00:00
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What is the primary theme discussed in the 'Throwback Thursday' section?
   answer: The primary theme discussed is power, specifically focusing on its importance

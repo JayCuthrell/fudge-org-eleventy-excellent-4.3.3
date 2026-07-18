@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-07-27"
 permalink: "/archive/sneak-peak-saturday-for-2024-07-27/"
 description: "🏖️ We’re taking a break this week for the summer 🏖️"
 date: 2024-07-27 11:10:21+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: Is there a new tech news post for July 27, 2024?
   answer: No, there is no new content this week as the team is taking a break for

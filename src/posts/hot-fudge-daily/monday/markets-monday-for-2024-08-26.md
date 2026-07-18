@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-08-26"
 permalink: "/archive/markets-monday-for-2024-08-26/"
 description: "Flip a coin. The tech press predicts NVIDIA earnings will impact future tech market... or maybe not."
 date: 2024-08-26 22:26:22.177397+00:00
+tags: ['Markets Monday']
 faq:
 - question: When are NVIDIA's earnings scheduled to be released?
   answer: NVIDIA's earnings are scheduled for Wednesday, August 28, 2024.

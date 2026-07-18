@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-12-02"
 permalink: "/archive/hot-takes-tuesday-for-2025-12-02/"
 description: "Funding flows for AI, chips, and robotics"
 date: 2025-12-02
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company mentioned in the list received the highest amount of funding?
   answer: Black Forest Labs received the highest funding amount, totaling $300 million.

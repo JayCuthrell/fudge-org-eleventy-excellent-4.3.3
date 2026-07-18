@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-10-11"
 permalink: "/archive/sneak-peak-saturday-for-2025-10-11/"
 description: "Cyber criminal whack-a-mole"
 date: 2025-10-11
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What action did the FBI take regarding BreachForums?
   answer: The FBI seized the domains for the data leak and extortion site known as

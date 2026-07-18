@@ -3,7 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-09-06"
 permalink: "/archive/sneak-peak-saturday-for-2025-09-06/"
 description: "Dreaming big with $600B"
 date: 2025-09-06
-tags: [quantum]
+tags: [quantum, 'Sneak Peak Saturday']
 faq:
 - question: What is the projected timeline for the potential $600B investment in AI
     infrastructure?

@@ -3,6 +3,7 @@ title: "Wacky Wednesday "
 permalink: "/archive/wacky-wednesday/"
 description: "Explore the wild and wacky world of shared links from online Slack communities."
 date: 2024-06-06 05:04:02.100411+00:00
+tags: ['Wacky Wednesday']
 faq:
 - question: What is the focus of the Wacky Wednesday blog post?
   answer: 'The blog post focuses on sharing interesting, wild, and wacky links that

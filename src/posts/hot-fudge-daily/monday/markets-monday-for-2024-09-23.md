@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-09-23"
 permalink: "/archive/markets-monday-for-2024-09-23/"
 description: "This edition highlights key market insights and urges readers to check out Coté&#39;s Wunderkammer!"
 date: 2024-09-24 01:05:39.116233+00:00
+tags: ['Markets Monday']
 faq:
 - question: Who is the author of Coté's Wunderkammer?
   answer: The newsletter is written by Michael Coté.

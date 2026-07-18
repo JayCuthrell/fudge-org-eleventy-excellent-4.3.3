@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-11-04"
 permalink: "/archive/hot-takes-tuesday-for-2025-11-04/"
 description: "Funding for AI, robotics, and cybersecurity"
 date: 2025-11-04
+tags: ['Hot Takes Tuesday']
 faq:
 - question: Which company received the highest amount of funding in the list?
   answer: Beacon Software received the highest amount of funding with $250M.

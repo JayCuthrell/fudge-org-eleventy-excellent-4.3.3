@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2024-11-18"
 permalink: "/archive/markets-monday-for-2024-11-18/"
 description: "Key tech indicators and a snapshot of today&#39;s market movements."
 date: 2024-11-19 03:28:23.844338+00:00
+tags: ['Markets Monday']
 faq:
 - question: What source does the author use to track their key market indicator?
   answer: The author uses the Yahoo Finance website to track their key market indicator.

@@ -3,6 +3,7 @@ title: "Throwback Thursday for 2024-07-04"
 permalink: "/archive/throwback-thursday-for-2024-07-04/"
 description: "Throwback Thursday review of past predictions &amp; news coverage, Micron&#39;s enduring tech legacy highlighted."
 date: 2024-07-04 23:17:24.099581+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What is the format of the new Throwback Thursday posts?
   answer: Throwback Thursday is based on the 'Shot and Chaser' sections of the Fudge

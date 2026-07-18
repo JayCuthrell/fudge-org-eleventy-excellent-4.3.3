@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-03-14"
 permalink: "/archive/final-thoughts-friday-for-2025-03-14/"
 description: "This week, I’m diving into RCS interoperability and enhancing chat security with E2EE!"
 date: 2025-03-15 02:28:36.885142+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What technology is being used to provide end-to-end encryption for RCS?
   answer: The Messaging Layer Security (MLS) protocol is being used to provide end-to-end

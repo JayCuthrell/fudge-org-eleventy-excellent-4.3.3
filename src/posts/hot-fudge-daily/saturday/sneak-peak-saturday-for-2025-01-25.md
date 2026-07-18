@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2025-01-25"
 permalink: "/archive/sneak-peak-saturday-for-2025-01-25/"
 description: "Amid Friday&#39;s frantic deadlines, catch up on the week’s overlooked news gems and memes!"
 date: 2025-01-25 17:06:35.239948+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What happens to news coverage as the work week approaches Friday?
   answer: News coverage often reaches a fever pitch as deadlines approach by the end

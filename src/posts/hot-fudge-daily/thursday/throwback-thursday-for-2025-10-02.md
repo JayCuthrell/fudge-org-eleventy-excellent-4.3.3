@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-10-02"
 permalink: "/archive/throwback-thursday-for-2025-10-02/"
 description: "Time-tripping through tech: CEOs, Alphabet, and subway WiFi"
 date: 2025-10-02
+tags: ['Throwback Thursday']
 faq:
 - question: What major corporate restructuring happened on October 2, 2015?
   answer: On October 2, 2015, Google became a subsidiary of Alphabet.

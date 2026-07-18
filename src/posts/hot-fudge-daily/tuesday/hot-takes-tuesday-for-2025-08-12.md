@@ -3,6 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-08-12"
 permalink: "/archive/hot-takes-tuesday-for-2025-08-12/"
 description: "Dollars flowing to AI companies continues"
 date: 2025-08-12
+tags: ['Hot Takes Tuesday']
 faq:
 - question: How much funding did Tahoe Therapeutics receive?
   answer: Tahoe Therapeutics, which builds AI models of cells, received $30 million

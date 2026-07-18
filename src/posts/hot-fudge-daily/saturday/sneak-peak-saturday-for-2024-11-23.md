@@ -3,6 +3,7 @@ title: "🔮 Sneak Peak Saturday for 2024-11-23"
 permalink: "/archive/sneak-peak-saturday-for-2024-11-23/"
 description: "This week, I&#39;m highlighting under-the-radar stories that often slip through Friday&#39;s news crack."
 date: 2024-11-23 16:07:59.254878+00:00
+tags: ['Sneak Peak Saturday']
 faq:
 - question: What is the common trope regarding news updates released on a Friday?
   answer: The trope suggests that news updates are often quietly released on a Friday

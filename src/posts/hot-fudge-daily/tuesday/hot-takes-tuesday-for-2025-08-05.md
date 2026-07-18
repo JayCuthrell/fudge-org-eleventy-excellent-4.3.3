@@ -3,7 +3,7 @@ title: "🔥 Hot Takes Tuesday for 2025-08-05"
 permalink: "/archive/hot-takes-tuesday-for-2025-08-05/"
 description: "AI and quantum computing funding continues the trend"
 date: 2025-08-05
-tags: [quantum]
+tags: [quantum, 'Hot Takes Tuesday']
 faq:
 - question: Which companies listed in the post received over $1 billion in funding?
   answer: Reflection AI and Luma AI both received over $1 billion in funding.

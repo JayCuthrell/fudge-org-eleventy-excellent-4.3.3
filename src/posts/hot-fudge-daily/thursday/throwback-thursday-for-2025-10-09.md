@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-10-09"
 permalink: "/archive/throwback-thursday-for-2025-10-09/"
 description: "A look at Intel's journey through manufacturing dominance, struggles, and its latest comeback attempt."
 date: 2025-10-09
+tags: ['Throwback Thursday']
 faq:
 - question: What is the focus of Intel's 2025 news?
   answer: The 2025 news focuses on Intel's massive 700-acre Arizona fab and the 18A

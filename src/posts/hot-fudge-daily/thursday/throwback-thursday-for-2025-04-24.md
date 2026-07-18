@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-04-24"
 permalink: "/archive/throwback-thursday-for-2025-04-24/"
 description: "Reflecting on LinkedIn&#39;s rapid evolution in identity verification over the past three years."
 date: 2025-04-25 04:45:37.010388+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: When did LinkedIn first enter the identity verification space?
   answer: LinkedIn entered the identity verification space three years ago.

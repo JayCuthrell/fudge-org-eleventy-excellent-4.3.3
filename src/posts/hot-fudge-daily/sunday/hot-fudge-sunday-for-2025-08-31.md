@@ -3,6 +3,7 @@ title: "🌶️ Hot Fudge Sunday for 2025-08-31"
 permalink: "/archive/hot-fudge-sunday-for-2025-08-31/"
 description: "NexusTek, NC TECH, AI, and OpenToWork Alumni"
 date: 2025-08-31
+tags: ['Hot Fudge Sunday']
 faq:
 - question: What recent professional updates did the author share regarding their
     career?

@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-08-22"
 permalink: "/archive/final-thoughts-friday-for-2025-08-22/"
 description: "Intel, the U.S. Government, and the market"
 date: 2025-08-22
+tags: ['Final Thoughts Friday']
 faq:
 - question: What is considered the biggest story of the week?
   answer: The biggest story of the week is the relationship between Intel and the

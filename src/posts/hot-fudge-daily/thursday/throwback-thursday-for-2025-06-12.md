@@ -3,6 +3,7 @@ title: "🔙 Throwback Thursday for 2025-06-12"
 permalink: "/archive/throwback-thursday-for-2025-06-12/"
 description: "AI crawlers are evolving, reshaping how we access instant search results online."
 date: 2025-06-13 03:48:34.246840+00:00
+tags: ['Throwback Thursday']
 faq:
 - question: What kind of crawlers are currently experiencing growth according to the
     post?

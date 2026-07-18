@@ -3,6 +3,7 @@ title: "Final Thoughts Friday"
 permalink: "/archive/final-thoughts-friday/"
 description: "Looking back at the week with an eye to the future"
 date: 2024-06-07 22:24:46.226198+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What was the author's primary takeaway from Qlik Connect?
   answer: The author's key takeaway is that the Qlik user community consists of passionate

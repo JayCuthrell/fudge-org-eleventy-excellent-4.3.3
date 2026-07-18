@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-12-05"
 permalink: "/archive/final-thoughts-friday-for-2025-12-05/"
 description: "Netflix buys WBD and Meta buys Limitless"
 date: 2025-12-05
+tags: ['Final Thoughts Friday']
 faq:
 - question: What company is Netflix reportedly planning to acquire?
   answer: Netflix is planning to spend approximately $83 billion to acquire Warner

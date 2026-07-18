@@ -3,6 +3,7 @@ title: "📈 Markets Monday for 2025-02-24"
 permalink: "/archive/markets-monday-for-2025-02-24/"
 description: "This edition recaps market insights using Yahoo Finance&#39;s stock screener for tech trends."
 date: 2025-02-25 03:15:45.740710+00:00
+tags: ['Markets Monday']
 faq:
 - question: What tool does the author recommend for creating a custom market heat
     map?

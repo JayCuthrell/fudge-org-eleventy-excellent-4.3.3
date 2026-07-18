@@ -3,6 +3,7 @@ title: "✅ Final Thoughts Friday for 2025-01-17"
 permalink: "/archive/final-thoughts-friday-for-2025-01-17/"
 description: "This week, I&#39;m exploring the buzz around drones and the rise of Agentic AI."
 date: 2025-01-18 06:58:13.933746+00:00
+tags: ['Final Thoughts Friday']
 faq:
 - question: What topics is the author reflecting on at the end of the week?
   answer: The author is reflecting on the implications of drones and autonomous technology.
