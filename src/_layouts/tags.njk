@@ -5,6 +5,7 @@ layout: base
 <div class="region">
   <div class="wrapper flow">
     <h1 class="gradient-text-linear text-step-4">{{ title }}</h1>
+        {% include "partials/sponsor-snippet.njk" %}
     {{ content | safe }}
   </div>
 </div>

@@ -16,6 +16,7 @@ permalink: 'archive/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNum
 
     {% svg "divider/waves", null, "divider" %}
   </header>
+  
 <div class="region flow">
   <div id="search" class="search-ui"></div>
 </div>
@@ -44,7 +45,7 @@ permalink: 'archive/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNum
     --pagefind-ui-font: var(--font-base, sans-serif); 
   }
 </style>
-
+    {% include "partials/sponsor-snippet.njk" %}
   <custom-masonry layout="50-50">
 		{% asyncEach item in pagination.items %}
 			{% include "partials/card-blog.njk" %}

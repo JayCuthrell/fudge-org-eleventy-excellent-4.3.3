@@ -4,7 +4,6 @@ permalink: /sponsorship/index.html
 description: Become a sponsor
 layout: page
 ---
-
 Senior executives and technologists with budgetary decision authority start their week more informed with [Fudge Factor (was Fudge Sunday)](https://fudge.org) and [Hot Fudge Daily](https://hot.fudge.org). Each edition educates with informed opinions on technology trends for readers at established iconic companies as well as innovative startups from the Americas, Europe, and Asia.
 
 [Sponsorship](mailto:newsletter@fudge.org?SUBJECT=Sponsorship+of+Newsletter) brings your unique message to our growing readership.
@@ -23,5 +22,8 @@ Senior executives and technologists with budgetary decision authority start thei
       Web visitors per month
     </li>
  </ul>
+
+ <!-- Include the sponsor snippet here -->
+  {% include "partials/sponsor.njk" %}
 
 To learn more about sponsorship opportunities, [contact us](mailto:newsletter@fudge.org?SUBJECT=Sponsorship+of+Newsletter).

@@ -4,3 +4,5 @@ permalink: /about/index.html
 description: About fudge.org
 layout: page
 ---
+
+    {% include "partials/sponsor-snippet.njk" %}

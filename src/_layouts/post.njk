@@ -32,6 +32,8 @@ schema: BlogPosting
 
     {{ content | safe }}
 
+    {% include "partials/sponsor.njk" %}
+
   <hr class="divider" />
     <nav class="pagination" aria-label="Post navigation">
       <ul class="cluster" role="list">
