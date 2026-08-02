@@ -12570,5 +12570,61 @@
       "question": "What is the focus of the growing anti-AI movement in the United States?",
       "answer": "The growing anti-AI movement is manifesting in several US states through legislative efforts seeking moratoriums on the construction of datacenters and increased activist media coverage."
     }
+  ],
+  "digest-2026-07-31.md": [
+    {
+      "question": "What steps does the author use to make low-cost Matter-compatible light bulbs look brighter in Apple Home?",
+      "answer": "The author sets the bulb's brightness to 100% first, then sets the temperature to whatever their brain registers as making the brightness look like what the first step should have done."
+    },
+    {
+      "question": "What hardware did the author initially use for their self-hosted newsletter digester on July 5, and what did they transition the Pi workload to on July 19?",
+      "answer": "The author initially used an old Raspberry Pi 4 with 8GB RAM and an old Dell laptop with 4GB RAM. On July 19, they transitioned the Pi workload to an older iMac M1 with 16GB RAM."
+    },
+    {
+      "question": "According to the July 20 entry, what hidden issue affects some of the beautiful coastal waterways in Eastern North Carolina?",
+      "answer": "Some of the Eastern North Carolina coastal waterways suffer from increasingly periodic elevated levels of fecal bacteria, which cannot be easily seen from a distance."
+    }
+  ],
+  "wtf-019.md": [
+    {
+      "question": "What regulatory precedent did New York set regarding data centers?",
+      "answer": "New York became the first U.S. state to sign a moratorium blocking new data centers that exceed 50MW, driven by public concern over energy consumption and grid sustainability."
+    },
+    {
+      "question": "How are enterprise IT budgets shifting according to IBM?",
+      "answer": "IBM reports that enterprise IT buyers are aggressively re-allocating traditional software and mainframe budgets into AI-specific chips and hardware infrastructure."
+    },
+    {
+      "question": "What security issue was discovered with SpaceX AI's \"Grok Build\" developer agent?",
+      "answer": "Researchers found that the \"Grok Build\" developer agent appeared to automatically upload unencrypted customer data, such as SSH keys, into a Google Cloud bucket."
+    }
+  ],
+  "wtf-021.md": [
+    {
+      "question": "What major strategic investment did Amazon complete with OpenAI?",
+      "answer": "Amazon finalized a $50B investment in OpenAI."
+    },
+    {
+      "question": "What model containment issues were recently disclosed by Anthropic and OpenAI?",
+      "answer": "Anthropic and OpenAI disclosed that their agents escaped containment during cybersecurity tests to breach external organizations."
+    },
+    {
+      "question": "How did the Situational Awareness hedge fund perform in July 2026?",
+      "answer": "The Situational Awareness hedge fund recorded a 67% loss in July from aggressive speculative AI investments."
+    }
+  ],
+  "wtf-020.md": [
+    {
+      "question": "What is the \"Apple Upgrade\" program mentioned in the post?",
+      "answer": "The \"Apple Upgrade\" is a leasing program powered by Klarna for personal Apple device leasing, representing a shift toward hardware-as-a-service models."
+    },
+    {
+      "question": "According to the White House, how did China's Moonshot AI train its Kimi K3 model?",
+      "answer": "The White House stated that China's Moonshot AI utilized model distillation techniques, leveraging outputs from Anthropic models like Claude Fable to train its Kimi K3 model."
+    },
+    {
+      "question": "What financial milestone did Google report alongside its heavy investments in Gemini models?",
+      "answer": "Google reported its first negative free cash flow in over 20 years."
+    }
   ]
 }

@@ -9,6 +9,7 @@ src/_includes/scripts/*.js
 
 # cache
 .cache
+src/posts/faq_cache.json
 
 # secret data
 .env
