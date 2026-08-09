@@ -12626,5 +12626,19 @@
       "question": "What financial milestone did Google report alongside its heavy investments in Gemini models?",
       "answer": "Google reported its first negative free cash flow in over 20 years."
     }
+  ],
+  "wtf-022.md": [
+    {
+      "question": "How much parameter scale is ByteDance training its new AI model with?",
+      "answer": "ByteDance is training a new AI model with 10 trillion parameters as part of an industry-wide commitment to raw computational scale."
+    },
+    {
+      "question": "What approach did AMD's newly acquired AI chip company, Taalas, use to boost inference performance?",
+      "answer": "Taalas uses a model-specific integrated circuit (MSIC) approach that integrates model weights directly into silicon."
+    },
+    {
+      "question": "Why did Microsoft implement spending limits on employee use of AI tools?",
+      "answer": "Microsoft implemented spending limits to discourage token-maximizing behaviors and emphasize measurable productivity outcomes."
+    }
   ]
 }
