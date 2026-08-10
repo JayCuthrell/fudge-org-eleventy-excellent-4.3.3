@@ -8,7 +8,21 @@ eleventyExcludeFromCollections: true
     <title>{{ youtubePodcast.title }}</title>
     <link>{{ youtubePodcast.link }}</link>
     <language>en-us</language>
+    
+    <!-- Show-level descriptions required by Apple -->
+    <description>What The Fudge podcast by Jay Cuthrell on fudge.org.</description>
+    <itunes:summary>What The Fudge podcast by Jay Cuthrell on fudge.org.</itunes:summary>
+    
     <itunes:author>Jay Cuthrell</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <copyright>&#xA9; 2026 Jay Cuthrell</copyright>
+    
+    <!-- Required owner block for Apple Podcasts Connect verification -->
+    <itunes:owner>
+      <itunes:name>Jay Cuthrell</itunes:name>
+      <itunes:email>jay@cuthrell.com</itunes:email>
+    </itunes:owner>
+
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://fudge.org/assets/images/template/podcast.png"/>
     <itunes:category text="Technology"/>
