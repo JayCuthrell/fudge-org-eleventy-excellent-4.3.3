@@ -12640,5 +12640,19 @@
       "question": "Why did Microsoft implement spending limits on employee use of AI tools?",
       "answer": "Microsoft implemented spending limits to discourage token-maximizing behaviors and emphasize measurable productivity outcomes."
     }
+  ],
+  "wtf-023.md": [
+    {
+      "question": "Why did OpenAI pause development on its upcoming Astra model?",
+      "answer": "OpenAI paused development of the Astra model due to their new internal security standards."
+    },
+    {
+      "question": "How is Anthropic addressing compliance with the EU AI Act?",
+      "answer": "Anthropic announced embedded watermarks and C2PA metadata for generated content as the EU AI Act takes hold."
+    },
+    {
+      "question": "What valuation do investors expect for Anthropic's October IPO?",
+      "answer": "Investors expect a valuation of over $2 trillion ($2T+) for Anthropic's October IPO."
+    }
   ]
 }
