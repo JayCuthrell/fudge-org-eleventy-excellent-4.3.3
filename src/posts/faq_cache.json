@@ -12654,5 +12654,33 @@
       "question": "What valuation do investors expect for Anthropic's October IPO?",
       "answer": "Investors expect a valuation of over $2 trillion ($2T+) for Anthropic's October IPO."
     }
+  ],
+  "digest-2026-08-31.md": [
+    {
+      "question": "What plan does the author have for managing their podcast RSS feeds going forward?",
+      "answer": "The author plans to implement podcast RSS/XML in 11ty and treat both SoundCloud and YouTube as syndication targets."
+    },
+    {
+      "question": "What actions did the author take after inadvertently sending invitations to over 200 contacts through Collective[i]?",
+      "answer": "The author disabled the setting allowing Collective[i] to send automatic connector requests on their behalf and deactivated their intelligence.com account."
+    },
+    {
+      "question": "What technology does the author mention as opening the door to unencumbered ownership of tone?",
+      "answer": "The author mentions Neural Amp Modeler (NAM) Architecture 2 (A2)."
+    }
+  ],
+  "wtf-024.md": [
+    {
+      "question": "What are the updated API token prices for OpenAI's GPT-5.6 Sol?",
+      "answer": "OpenAI lowered the API token prices for GPT-5.6 Sol by 20%, resulting in input costs of $4 per million tokens and output costs of $20 per million tokens."
+    },
+    {
+      "question": "How much is Stripe acquiring OpenRouter for according to the report?",
+      "answer": "Stripe agreed to acquire OpenRouter for $7.5 billion."
+    },
+    {
+      "question": "What milestones did Google DeepMind report regarding Gemma open models?",
+      "answer": "Google DeepMind reported that Gemma open models exceeded 1 billion cumulative downloads and developers published more than 100,000 variants in two years."
+    }
   ]
 }
