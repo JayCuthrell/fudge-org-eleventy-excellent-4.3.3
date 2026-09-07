@@ -118,7 +118,7 @@ For my Source references, I use the 11ty plugin [unfurl](https://github.com/davi
 
 The Netlify settings I've selected are minimal. I could be using more Netlify functionality but, for now, I opt to keep things simple.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a33dfa3c-cf79-4281-a11f-7417a35d8f20/deploy-status)](https://app.netlify.com/sites/fudge-org-eleventy-excellent/deploys)
+[Netlify Status](https://app.netlify.com/sites/fudge-org-eleventy-excellent/deploys)
 
 I stage locally using ```npm start``` and when I am pleased with the results I commit to main in GitHub which triggers deployment to Netlify per Branches and deploy contexts within Site Configuration on Netlify.
 
