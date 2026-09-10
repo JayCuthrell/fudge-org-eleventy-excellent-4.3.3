@@ -1,8 +1,8 @@
 {
   "internet-access.md": [
     {
-      "question": "What does the author mean by \"monotone\" management?",
-      "answer": "The author uses the term \"monotone\" to describe a management style where a manager assumes all employees are either fully independent (\"big boys/girls\") or require massive micromanagement (\"complete ninnies\"), showing a rare ability to adapt or shift gears between the two."
+      "question": "What does the author mean by monotone management?",
+      "answer": "The author uses the term monotone to describe a management style where a manager assumes all employees are either fully independent (big boys/girls) or require massive micromanagement (complete ninnies), showing a rare ability to adapt or shift gears between the two."
     },
     {
       "question": "What is the difference between problem solvers and quota workers as described in the post?",
@@ -20,7 +20,7 @@
     },
     {
       "question": "In which section of the Kubernetes documentation can the canonical definition of Operators be found?",
-      "answer": "The canonical definition of Operators is located in the \"Extending\" section of the Kubernetes documentation."
+      "answer": "The canonical definition of Operators is located in the Extending section of the Kubernetes documentation."
     },
     {
       "question": "What is the primary purpose of using Kubernetes Operators?",
@@ -29,8 +29,8 @@
   ],
   "a-spotlight-on-ai-on-devices.md": [
     {
-      "question": "What does the acronym \"DPWCG\" stand for, as proposed by the author?",
-      "answer": "The acronym \"DPWCG\" stands for deterministic power, weight, cooling, and geometry, which refers to a growing list of A.I. initiatives focused on these criteria."
+      "question": "What does the acronym DPWCG stand for, as proposed by the author?",
+      "answer": "The acronym DPWCG stands for deterministic power, weight, cooling, and geometry, which refers to a growing list of A.I. initiatives focused on these criteria."
     },
     {
       "question": "What is Keep?",
@@ -136,7 +136,7 @@
     },
     {
       "question": "What new section is the author considering experimenting with for the newsletter next year?",
-      "answer": "The author is considering experimenting with a \"Links From Our Sponsor\" section next year, after being approached by an advertiser."
+      "answer": "The author is considering experimenting with a Links From Our Sponsor section next year, after being approached by an advertiser."
     }
   ],
   "supercloudbusting.md": [
@@ -202,11 +202,11 @@
     },
     {
       "question": "What term does the 2022 HashiCorp and Forrester Consulting study use to refer to centralized cloud functions like a Cloud Center of Excellence (CCoE)?",
-      "answer": "The study refers to these centralized cloud functions as \"platform teams.\""
+      "answer": "The study refers to these centralized cloud functions as platform teams."
     },
     {
       "question": "According to HashiCorp and Forrester Consulting, what is the main problem facing multicloud adoption?",
-      "answer": "The main problem is not the technology itself, but rather the people—specifically, the lack of people available to staff \"cloud platform teams\" and \"Cloud Centers of Excellence (CCoE)\" teams."
+      "answer": "The main problem is not the technology itself, but rather the people—specifically, the lack of people available to staff cloud platform teams and Cloud Centers of Excellence (CCoE) teams."
     }
   ],
   "the-end-of-the-inflated-expectations.md": [
@@ -254,7 +254,7 @@
   "van-halen-iso-9000.md": [
     {
       "question": "What will the Internet of Things (IoT) become as parsing software pervades everyday life?",
-      "answer": "According to the post, the Internet of Things will fast become the \"Internet of Verified Ordering of Things.\""
+      "answer": "According to the post, the Internet of Things will fast become the Internet of Verified Ordering of Things."
     },
     {
       "question": "What examples of future technology capabilities are mentioned in the text?",
@@ -268,7 +268,7 @@
   "generative-ai-thru-this.md": [
     {
       "question": "What new acronym does the author suggest adding to the online lexicon, and what does it stand for?",
-      "answer": "The author suggests adding the acronym \"IANALLM\", which stands for \"I am not a large language model\"."
+      "answer": "The author suggests adding the acronym IANALLM, which stands for I am not a large language model."
     },
     {
       "question": "According to the author, what is the key to achieving exhaustive productivity in platform engineering?",
@@ -276,7 +276,7 @@
     },
     {
       "question": "What prediction does the author make regarding domain-specific languages (DSLs) and prompt engineers?",
-      "answer": "The author predicts there will be progressions in DSLs, leading to the rise of \"DSL poets\" (prompt engineers) who will flourish and write the essential abstractions for what was once considered business-as-usual IT."
+      "answer": "The author predicts there will be progressions in DSLs, leading to the rise of DSL poets (prompt engineers) who will flourish and write the essential abstractions for what was once considered business-as-usual IT."
     }
   ],
   "hot-takes-tuesday-for-2025-03-11.md": [
@@ -328,7 +328,7 @@
     },
     {
       "question": "What was the author's reaction to trying the recent updates of Google NotebookLM a few months ago?",
-      "answer": "The author tried the updates a few months ago and thought they were \"pretty cool stuff!\"."
+      "answer": "The author tried the updates a few months ago and thought they were pretty cool stuff!."
     },
     {
       "question": "What is happening with the Google NotebookLM team exactly two years after its launch?",
@@ -337,8 +337,8 @@
   ],
   "fudge-sunday-once-in-a-pipeline.md": [
     {
-      "question": "Who coined the term \"Technical Debt\" and when was it coined?",
-      "answer": "The term \"Technical Debt\" was coined by Ward Cunningham approximately 30 years ago."
+      "question": "Who coined the term Technical Debt and when was it coined?",
+      "answer": "The term Technical Debt was coined by Ward Cunningham approximately 30 years ago."
     },
     {
       "question": "What is the difference between the Showback, Chargeback, and Shameback stages of policy progression?",
@@ -351,7 +351,7 @@
   ],
   "cant-buy-me-lead-time.md": [
     {
-      "question": "How does the author of the blog post define \"lead time\" in the context of software development?",
+      "question": "How does the author of the blog post define lead time in the context of software development?",
       "answer": "The author defines lead time as the measurement of the time between when a developer contributes to the product experience until an end user of that product experiences a desirable impact from the developer's contribution."
     },
     {
@@ -365,15 +365,15 @@
   ],
   "the-5-ps-of-workloads.md": [
     {
-      "question": "What does the author mean by the term \"Cloud Computing Canard\"?",
-      "answer": "The author uses \"Cloud Computing Canard\" to describe the vast oversimplification of IT workload diversity, specifically referring to the rigid \"pets vs. cattle\" duality that incorrectly suggests there are only two categories of workloads."
+      "question": "What does the author mean by the term Cloud Computing Canard?",
+      "answer": "The author uses Cloud Computing Canard to describe the vast oversimplification of IT workload diversity, specifically referring to the rigid pets vs. cattle duality that incorrectly suggests there are only two categories of workloads."
     },
     {
-      "question": "What are the \"5 P's of Workloads\" proposed by the author?",
+      "question": "What are the 5 P's of Workloads proposed by the author?",
       "answer": "The 5 P's of Workloads are a tiered classification system used to rationalize applications within an IT portfolio. They consist of Parrots (long-lived legacy workloads), Parakeets (frequently replaced tactical legacy workloads), Poultry (highly integrated, uniform deployments), Popeyes (orchestrated, self-service workloads or 'Poultry as a Service'), and Pigeons (failed, overly complex and sprawling implementations)."
     },
     {
-      "question": "How does the author define a \"Pigeon\" workload?",
+      "question": "How does the author define a Pigeon workload?",
       "answer": "A Pigeon workload is a failed IT execution where an attempt to create a new delivery method results in an overly complex, sprawling, and cumbersome implementation. It becomes a nuisance that multiplies, requiring maintenance from those who feed it while everyone else forgets why the workload mattered or who owns it."
     }
   ],
@@ -393,12 +393,12 @@
   ],
   "the-fudge-faq.md": [
     {
-      "question": "Why did the author choose the nickname \"fudge\"?",
-      "answer": "The nickname started during the days of MUDs and chatters on MegaDiner. The author, who is an engineer, chose \"fudge\" because most good engineering involves some sort of \"fudge\" factor."
+      "question": "Why did the author choose the nickname fudge?",
+      "answer": "The nickname started during the days of MUDs and chatters on MegaDiner. The author, who is an engineer, chose fudge because most good engineering involves some sort of fudge factor."
     },
     {
-      "question": "Where does the name \"qthrul\" come from?",
-      "answer": "The name \"qthrul\" (pronounced Q - Thrul) comes from the numerous mispronunciations and bastardizations of the author's uncommon last name, Cooterell."
+      "question": "Where does the name qthrul come from?",
+      "answer": "The name qthrul (pronounced Q - Thrul) comes from the numerous mispronunciations and bastardizations of the author's uncommon last name, Cooterell."
     },
     {
       "question": "What are the author's ICQ contact numbers?",
@@ -411,7 +411,7 @@
       "answer": "The author views LinkedIn Newsletters as a silo because, despite being able to see their followers, they cannot export them to a new platform without using automation that potentially violates LinkedIn's terms of service."
     },
     {
-      "question": "What is the author's \"hot take\" regarding cloud service providers (CSPs) and AI chips?",
+      "question": "What is the author's hot take regarding cloud service providers (CSPs) and AI chips?",
       "answer": "The author's hot take is that cloud service providers will continue to offer NVIDIA, Intel, and AMD chips while also moving forward with their own proprietary chips, which will eventually make their way from the cloud to the edge and the core."
     },
     {
@@ -421,11 +421,11 @@
   ],
   "thinking-out-loud.md": [
     {
-      "question": "What is the \"Adaptability Paradox\" discussed in the blog post?",
-      "answer": "The blog post describes Kris Krüg's \"Adaptability Paradox\" as the tension between the need for change and the quest for a stable identity. It questions how one can change with the times without losing sight of who they are, or keep their profile updated without forgetting the \"password to their own soul.\""
+      "question": "What is the Adaptability Paradox discussed in the blog post?",
+      "answer": "The blog post describes Kris Krüg's Adaptability Paradox as the tension between the need for change and the quest for a stable identity. It questions how one can change with the times without losing sight of who they are, or keep their profile updated without forgetting the password to their own soul."
     },
     {
-      "question": "What kind of \"avatars\" does the author reflect on having?",
+      "question": "What kind of avatars does the author reflect on having?",
       "answer": "The author reflects on having various avatars throughout their life, including an online writer avatar, a telco ISP consultant nerd avatar from the late 1990s and 2000s, and a datacenter cloud consultant nerd avatar from the 2010s. They also speculate about potential past avatars like an engineering student, lab grunt, busboy, or retail assistant."
     },
     {
@@ -436,15 +436,15 @@
   "pipes-before-pipelines.md": [
     {
       "question": "What was ReadWriteHack, and what was the author's role?",
-      "answer": "ReadWriteHack was a channel on ReadWriteWeb (now ReadWrite) where the author would read about new tools or concepts and then write short \"hacks\" with links to try them out. Readers were encouraged to participate by reading, writing, and \"hacking\" around."
+      "answer": "ReadWriteHack was a channel on ReadWriteWeb (now ReadWrite) where the author would read about new tools or concepts and then write short hacks with links to try them out. Readers were encouraged to participate by reading, writing, and hacking around."
     },
     {
       "question": "What was Yahoo Pipes, and what was its significance for future technology?",
-      "answer": "Yahoo Pipes was a tool that the author wrote about in late 2010, which eventually went offline in late 2015. It was significant because it \"glimpsed into a lowcode nocode future of user friendlier integration platform as a service (iPaaS)\" and outlined a technique now taken for granted using tools like Grammarly or Eleventy's Inclusive Language Plugin."
+      "answer": "Yahoo Pipes was a tool that the author wrote about in late 2010, which eventually went offline in late 2015. It was significant because it glimpsed into a lowcode nocode future of user friendlier integration platform as a service (iPaaS) and outlined a technique now taken for granted using tools like Grammarly or Eleventy's Inclusive Language Plugin."
     },
     {
       "question": "How are modern data pipelines, such as in Google Maps, leveraging A.I. today and in the future?",
-      "answer": "Modern Google Maps experiences increasingly leverage A.I. to provide a preview of directions, exemplified by its \"Immersive View\" feature. A.I. claims are integrated into product marketing and IT processes for data enrichment, with a promise of future \"copilots\" that move beyond simple autocomplete, such as for tasks in Microsoft Excel."
+      "answer": "Modern Google Maps experiences increasingly leverage A.I. to provide a preview of directions, exemplified by its Immersive View feature. A.I. claims are integrated into product marketing and IT processes for data enrichment, with a promise of future copilots that move beyond simple autocomplete, such as for tasks in Microsoft Excel."
     }
   ],
   "memo-to-the-cloud.md": [
@@ -463,16 +463,16 @@
   ],
   "on-metrics.md": [
     {
-      "question": "What is the author's primary concern regarding \"marketing intelligence\" services?",
+      "question": "What is the author's primary concern regarding marketing intelligence services?",
       "answer": "The author questions the general notion of tracking service utilization in the fast-paced world of iterative development with anything but the very broadest and most fluffy of metrics, especially when dealing with a constantly changing landscape."
     },
     {
-      "question": "Why does the author describe tracked online properties as \"moving targets\"?",
-      "answer": "The author considers properties like Google+ as \"moving targets\" because they evolve through new signatures, A/B testing, deep personalization, mobile or closed loop networks, leverage of partners, or shifts in delivery infrastructure to favor SSL-enabled experiences."
+      "question": "Why does the author describe tracked online properties as moving targets?",
+      "answer": "The author considers properties like Google+ as moving targets because they evolve through new signatures, A/B testing, deep personalization, mobile or closed loop networks, leverage of partners, or shifts in delivery infrastructure to favor SSL-enabled experiences."
     },
     {
       "question": "According to the post, how does user privacy and data ownership impact third-party tracking services?",
-      "answer": "The quality of time spent and sharing gestures (text updates vs. photos vs. movies) become harder to glean as this data is considered part of the privacy contract and the salable asset of the property, with the user often being \"what is for sale\" if the product is free."
+      "answer": "The quality of time spent and sharing gestures (text updates vs. photos vs. movies) become harder to glean as this data is considered part of the privacy contract and the salable asset of the property, with the user often being what is for sale if the product is free."
     }
   ],
   "esteem-is-stem-plus-ethics-plus-empathy.md": [
@@ -506,7 +506,7 @@
   "emerging-hype.md": [
     {
       "question": "What was the top blog post topic identified by searching Gartner blogs using keywords from the 2020 Hype Cycle for Emerging Technologies?",
-      "answer": "\"Social Distancing Technologies\" enjoyed the top topic spot, matching the Peak of Inflated Blog Post Themes."
+      "answer": "Social Distancing Technologies enjoyed the top topic spot, matching the Peak of Inflated Blog Post Themes."
     },
     {
       "question": "When did blogging become a formal content channel for Gartner?",
@@ -514,7 +514,7 @@
     },
     {
       "question": "Which topic is predicted to be a significant focus for future blog posts?",
-      "answer": "The \"Digital Twin\" topic is predicted to be significant, as it enjoyed a high number of blog posts and is considered broad enough to sweep in many more stories and blog posts in the coming years."
+      "answer": "The Digital Twin topic is predicted to be significant, as it enjoyed a high number of blog posts and is considered broad enough to sweep in many more stories and blog posts in the coming years."
     }
   ],
   "be-my-advisor.md": [
@@ -2045,8 +2045,8 @@
   ],
   "whats-golden-path.md": [
     {
-      "question": "How does the Spotify engineering team define a \"golden path\"?",
-      "answer": "Spotify describes a \"golden path\" as a journey towards conspicuous and continuous improvements in the essential toolchain for a growing software development team."
+      "question": "How does the Spotify engineering team define a golden path?",
+      "answer": "Spotify describes a golden path as a journey towards conspicuous and continuous improvements in the essential toolchain for a growing software development team."
     },
     {
       "question": "What is the author's personal definition of a golden path?",
@@ -2054,7 +2054,7 @@
     },
     {
       "question": "What concern does Kaspar von Grünberg of Humanitec raise regarding golden paths?",
-      "answer": "Kaspar von Grünberg highlights the \"slippery slope\" where golden paths can potentially become \"cages\" for developers."
+      "answer": "Kaspar von Grünberg highlights the slippery slope where golden paths can potentially become cages for developers."
     }
   ],
   "gitops-goes-the-world.md": [
@@ -3030,11 +3030,11 @@
     },
     {
       "question": "Why did multiple newsletters appear on the blog on November 30th?",
-      "answer": "The blog author noted that their Activepieces automation incorrectly identified the feed on fudge.org as being \"new,\" which caused multiple newsletter entries to be posted at once."
+      "answer": "The blog author noted that their Activepieces automation incorrectly identified the feed on fudge.org as being new, which caused multiple newsletter entries to be posted at once."
     },
     {
       "question": "What is the author's advice regarding televised sports?",
-      "answer": "The author suggests that a \"pro tip\" for watching televised sports is to turn the volume to zero."
+      "answer": "The author suggests that a pro tip for watching televised sports is to turn the volume to zero."
     }
   ],
   "digest-2026-03-31.md": [
@@ -3908,7 +3908,7 @@
   "south-by-southwest-bound-and-down.md": [
     {
       "question": "What is the title of the proposal submitted for the SxSW 2024 panel?",
-      "answer": "The proposal title is \"Have Your AI Call My AI in 2024.\""
+      "answer": "The proposal title is Have Your AI Call My AI in 2024."
     },
     {
       "question": "When does the voting period for the SxSW 2024 PanelPicker occur?",
@@ -3916,7 +3916,7 @@
     },
     {
       "question": "What was the name of the blog post written by the author during their first time attending SxSW in 2008?",
-      "answer": "The author wrote a post titled \"The Taco Thesis\" during their first time at SxSW in 2008."
+      "answer": "The author wrote a post titled The Taco Thesis during their first time at SxSW in 2008."
     }
   ],
   "south-by-southwest-2025-senior-moments.md": [
@@ -4188,7 +4188,7 @@
   "2025-12-10.md": [
     {
       "question": "What issue is the author experiencing with Google Workspace Studio?",
-      "answer": "The author is receiving an error message stating, \"The agent couldn’t complete with its current set up.\""
+      "answer": "The author is receiving an error message stating, The agent couldn’t complete with its current set up."
     },
     {
       "question": "Which tech companies were acquired in the first 10 days of December 2025 according to the post?",
@@ -4196,7 +4196,7 @@
     },
     {
       "question": "Why does the author think Google Workspace Studio is malfunctioning?",
-      "answer": "The author believes the service is likely being \"hugged to death\" as its rollout expands beyond the initial alpha access."
+      "answer": "The author believes the service is likely being hugged to death as its rollout expands beyond the initial alpha access."
     }
   ],
   "markets-monday-for-2024-08-26.md": [
@@ -4636,7 +4636,7 @@
   "markets-monday-for-2024-12-23.md": [
     {
       "question": "What tool does the author use to analyze stocks for Market Monday?",
-      "answer": "The author uses the Yahoo Finance screener (now part of the \"Research Hub\") to look at key market indicators."
+      "answer": "The author uses the Yahoo Finance screener (now part of the Research Hub) to look at key market indicators."
     },
     {
       "question": "What is the 'spicy level' for the stocks featured this week?",
@@ -5994,7 +5994,7 @@
   "final-thoughts-friday-for-2025-07-04.md": [
     {
       "question": "What is the primary topic discussed in the blog post?",
-      "answer": "The blog post focuses on \"Section 174,\" which is described as the big tech story of the week."
+      "answer": "The blog post focuses on Section 174, which is described as the big tech story of the week."
     },
     {
       "question": "How will the changes to Section 174 likely impact the software development industry?",
@@ -9736,11 +9736,11 @@
     },
     {
       "question": "What term does the author use to describe the act of releasing news on a Friday to minimize attention?",
-      "answer": "The author refers to this practice as \"peak patronizing publishing.\""
+      "answer": "The author refers to this practice as peak patronizing publishing."
     },
     {
       "question": "What is the primary topic discussed regarding news cycles in the post?",
-      "answer": "The post discusses the phenomenon of the \"Friday news dump,\" where news is released late in the week to avoid significant public or media attention."
+      "answer": "The post discusses the phenomenon of the Friday news dump, where news is released late in the week to avoid significant public or media attention."
     }
   ],
   "sneak-peak-saturday-for-2024-08-17.md": [
@@ -11266,7 +11266,7 @@
     },
     {
       "question": "What is one of the key features highlighted for Gemini 3?",
-      "answer": "A key feature of Gemini 3 is its \"Deep Think\" reasoning mode."
+      "answer": "A key feature of Gemini 3 is its Deep Think reasoning mode."
     }
   ],
   "wacky-wednesday-for-2025-12-03.md": [
@@ -12595,8 +12595,8 @@
       "answer": "IBM reports that enterprise IT buyers are aggressively re-allocating traditional software and mainframe budgets into AI-specific chips and hardware infrastructure."
     },
     {
-      "question": "What security issue was discovered with SpaceX AI's \"Grok Build\" developer agent?",
-      "answer": "Researchers found that the \"Grok Build\" developer agent appeared to automatically upload unencrypted customer data, such as SSH keys, into a Google Cloud bucket."
+      "question": "What security issue was discovered with SpaceX AI's Grok Build developer agent?",
+      "answer": "Researchers found that the Grok Build developer agent appeared to automatically upload unencrypted customer data, such as SSH keys, into a Google Cloud bucket."
     }
   ],
   "wtf-021.md": [
@@ -12615,8 +12615,8 @@
   ],
   "wtf-020.md": [
     {
-      "question": "What is the \"Apple Upgrade\" program mentioned in the post?",
-      "answer": "The \"Apple Upgrade\" is a leasing program powered by Klarna for personal Apple device leasing, representing a shift toward hardware-as-a-service models."
+      "question": "What is the Apple Upgrade program mentioned in the post?",
+      "answer": "The Apple Upgrade is a leasing program powered by Klarna for personal Apple device leasing, representing a shift toward hardware-as-a-service models."
     },
     {
       "question": "According to the White House, how did China's Moonshot AI train its Kimi K3 model?",
