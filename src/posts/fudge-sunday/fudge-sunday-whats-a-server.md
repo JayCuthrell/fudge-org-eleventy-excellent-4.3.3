@@ -10,7 +10,7 @@ faq:
     other servers or clients.
 - question: What are the three categories of servers as identified by IDC?
   answer: 'IDC categorizes servers into three buckets: Volume (generic, vanity-free
-    servers used by hyperscale cloud providers), Midrange (traditional datacenter
+    servers used by hyperscale cloud providers), Midrange (traditional data center 
     servers with human-friendly designs and branding), and High-End (servers designed
     for intense workloads and high-performance computing).'
 - question: What is the core mission of Oxide Computer?
@@ -59,8 +59,8 @@ When someone thinks of servers, there is usually a short list of brands that com
 Note: IDC simplifies many different ways to view servers into 3 buckets
 
 1. *Volume* - Volume means these are the types of servers that are vanity free, generic spartan features, and highly valued by hyperscale cloud service providers and similarly ambitious scale oriented companies such as Amazon, Microsoft, Facebook, Google, Alibaba, Tencent, and Baidu which was also known as the “Super 7”.
-2. *Midrange* - Midrange are the types of servers most people have when someone says servers with very human friendly front cover bezels, buttons, and human friendly considerations in physical designs within more traditional datacenter settings. In a nutshell, you can point to the front and declare “Oh, that’s a Dell server” because you see a logo or a stylistic fascia.
-3. *High-End* - High-End are the types of servers that are sought out when the most intense workloads within high performance computing datacenter settings. Like Midrange, High-End are considered worth the extra cost for extra capabilities as well as capacities and that can also include seeing a logo or a stylistic fascia.
+2. *Midrange* - Midrange are the types of servers most people have when someone says servers with very human friendly front cover bezels, buttons, and human friendly considerations in physical designs within more traditional data center settings. In a nutshell, you can point to the front and declare “Oh, that’s a Dell server” because you see a logo or a stylistic fascia.
+3. *High-End* - High-End are the types of servers that are sought out when the most intense workloads within high performance computing data center settings. Like Midrange, High-End are considered worth the extra cost for extra capabilities as well as capacities and that can also include seeing a logo or a stylistic fascia.
 
 [www.idc.com](https://www.idc.com/getdoc.jsp?containerId=prUS47961621&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 

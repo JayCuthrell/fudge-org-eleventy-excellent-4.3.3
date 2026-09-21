@@ -5,7 +5,7 @@ date: 2021-08-01 18:39:44+00:00
 tags: ['Fudge Sunday']
 faq:
 - question: What is Microsoft's Project Natick?
-  answer: Project Natick is an experimental undersea datacenter that provided a stable,
+  answer: Project Natick is an experimental undersea data center that provided a stable,
     server-friendly dry nitrogen environment, housing 864 servers with 27.6 PB of
     storage over two years of experimental learning.
 - question: How is the value of a network described in the article?
@@ -33,7 +33,7 @@ Journey - Wheel in the Sky (Official Video - 1978)
 
 This is the fifth and final of the series. By now, we’ve talked a bit about data centers that are on the surface of the Earth and those that might be above it in the sky and beyond.
 
-While we haven’t spent much time on the majority of what covers the earth, it’s a good time to remember it’s the seas that dominate and make this the blue planet. The point being, where there can be data there may very well be a datacenter that follows.
+While we haven’t spent much time on the majority of what covers the earth, it’s a good time to remember it’s the seas that dominate and make this the blue planet. The point being, where there can be data there may very well be a data center that follows.
 
 Example: Microsoft’s Project Natick
 
@@ -41,7 +41,7 @@ Example: Microsoft’s Project Natick
 * 864 Servers with 27.6 PB of storage
 * 2 years of experimental learning
 
-Microsoft reveals findings from Project Natick, its experimental undersea datacenter
+Microsoft reveals findings from Project Natick, its experimental undersea data center 
 
  **Made of silver, not of clay**
 

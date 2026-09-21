@@ -8,7 +8,7 @@ faq:
   answer: Depending on the context, the phrase refers to the various locations where
     data solutions can be implemented, addressing the entire spectrum of data needs
     from small to large-scale operations. 'Edge' refers to distributed computing at
-    the source of data, 'core' refers to on-premises datacenters or private clouds,
+    the source of data, 'core' refers to on-premises data center s or private clouds,
     and 'cloud' refers to public cloud providers, such as hyperscale cloud service
     providers or managed service providers.
 - question: How do the cost models typically differ between the Edge, Core, and Cloud
@@ -59,7 +59,7 @@ My first uses of ```edge to core to cloud``` on [my blog / newsletter](/archive)
 Depending on the context, my use of ```edge to core to cloud``` refers to the various locations where data solutions can be implemented. In the context of product management, ```edge to core to cloud``` addresses the entire spectrum of data needs, from small to large-scale operations.
 
 - ```Edge``` usually refers to edge computing (or distributed computing) which could mean a cloud computing model that is placed at the very edge of a network where data is created, captured, and manipulated.
-- ```Core``` usually refers to on-premises datacenters which could mean a cloud computing model that would probably be described as a *private cloud*.
+- ```Core``` usually refers to on-premises data center s which could mean a cloud computing model that would probably be described as a *private cloud*.
 - ```Cloud``` might refer to hyperscale cloud service providers like AWS, Azure, GCP, OCI, etc. that would probably be described as a *public cloud* but it doesn't necessarily need to be hyperscale and could easily be a managed service provider (MSP) operating below hyperscale.
 
 > Note: To add to this mix of terms, "hybrid cloud" and "multicloud" or "hybrid multicloud" might be a combination of both ```core``` and ```cloud```. There is even the notion of a "[supercloud](/archive/supercloudbusting/)". Or, you could say "soup to nuts" if the context is ```edge to cloud```. 🍲 🥜
@@ -71,7 +71,7 @@ There are a few generalities to consider for the computing paradigms. However, t
 | Computing Paradigm | Location Generalities |
 |---|---|
 | Edge | Distributed IT infrastructure at the source of data generation nearer to the edge of a network |
-| Core | Central datacenters or colocation of IT infrastructure |
+| Core | Central data center s or colocation of IT infrastructure |
 | Cloud | IT Infrastructure as a Service (IaaS) provided by cloud service providers or managed service providers |
 
 Of course, in the world of business, cost is another distinction. To simplify further, the general trends of capital expense and operating expense are weighted.
@@ -130,7 +130,7 @@ For these CSPs, processing power will be a fascinating topic as different player
 | Computing Paradigm | Processing Power |
 |---|---|
 | Edge | Limited processing power (as compared to core and cloud) optimized for real-time data analysis |
-| Core | High processing power for complex workloads and analytics that can scale up (based on CAPEX budget) and scale out within the limits of datacenter capacity |
+| Core | High processing power for complex workloads and analytics that can scale up (based on CAPEX budget) and scale out within the limits of data center capacity |
 | Cloud | Highest scalable processing power for scale up and scale out (based on OPEX budget) for massive datasets and applications within the limits of regions and availability zones |
 
 As for ```cloud```, custom ASICs at CSPs will challenge the notion that AMD, Intel, or NVIDIA are the only chips to consider within AWS and Azure. Furthermore, custom ASICs being used by CSPs will open the possibilities for chips to reach ```edge``` and ```core``` use cases in the future — which might be interesting for the OEMs.

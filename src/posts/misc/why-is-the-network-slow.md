@@ -15,7 +15,7 @@ faq:
 - question: How have companies like AWS and Microsoft Azure addressed latency concerns
     for cloud services?
   answer: These companies have worked to move cloud resources closer to users by building
-    massive datacenters near major population centers. Examples include AWS Local
+    massive data center s near major population centers. Examples include AWS Local
     Zones and Microsoft Azure Edge Zones, which help meet the latency requirements
     for modern applications.
 ---
@@ -98,7 +98,7 @@ https://www.techmeme.com/130327/p44#a130327p44
 
 #### 10 years of latency focused progress...
 
-One of my favorite memories at SxSW over a decade ago was a blogger lounge moment where gaming rigs with big screens and controllers were sitting on the table tops... but the consoles were not doing the computing. In this demo environment, the bloggers were playing games on computing resources *several miles away in a datacenter* and this proof of concept would increasingly become part of the "streaming" and "on demand" nature of entertainment over the network.
+One of my favorite memories at SxSW over a decade ago was a blogger lounge moment where gaming rigs with big screens and controllers were sitting on the table tops... but the consoles were not doing the computing. In this demo environment, the bloggers were playing games on computing resources *several miles away in a data center * and this proof of concept would increasingly become part of the "streaming" and "on demand" nature of entertainment over the network.
 
 https://www.techmeme.com/131018/p22#a131018p22
 https://www.techmeme.com/181112/p7#a181112p7
@@ -112,7 +112,7 @@ Experimentation in so-called cloud gaming was ongoing.
 https://www.techmeme.com/190319/p36#a190319p36
 https://www.techmeme.com/191005/p7#a191005p7
 
-Around this time, even AWS elected to move the cloud closer to the users by exploring massive datacenters being built closer to major population centers. Today, AWS Local continues expanding as have the investments that anticipate the latency requirements for applications that 5G has marketed over the years and Microsoft Azure was not far behind with their Azure Edge Zones.
+Around this time, even AWS elected to move the cloud closer to the users by exploring massive data center s being built closer to major population centers. Today, AWS Local continues expanding as have the investments that anticipate the latency requirements for applications that 5G has marketed over the years and Microsoft Azure was not far behind with their Azure Edge Zones.
 
 https://www.techmeme.com/191203/p29#a191203p29
 https://www.techmeme.com/200331/p21#a200331p21

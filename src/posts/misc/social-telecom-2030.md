@@ -294,7 +294,7 @@ Commensurate patterns will represent the proportional response to a perceived ne
 
 #### Prevalent placements
 
-By 2020, there are multiple competing ways of operating essential applications within a managed hosted environment if an on premises datacenter is not ideal. From Amazon Web Services to Google Cloud Platform to Microsoft Azure to Oracle Cloud, there are hyperscale sized options as marketing .
+By 2020, there are multiple competing ways of operating essential applications within a managed hosted environment if an on premises data center is not ideal. From Amazon Web Services to Google Cloud Platform to Microsoft Azure to Oracle Cloud, there are hyperscale sized options as marketing .
 
 Also, like the early days of selecting a telecom carrier for circuits and Internet egress, there is much work to be done in normalized connectivity options in an emerging marketplace. Essentially, a social telecom 2030 reality will require accessible and effective peering across boundaries that exist today as well as easily consumable patterns that are advsiable as well as a growing ecosystem of partners that will design fit for purpose approaches to meet the use cases of the next decade.
 

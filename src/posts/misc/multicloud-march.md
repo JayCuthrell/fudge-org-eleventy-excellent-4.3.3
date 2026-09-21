@@ -34,7 +34,7 @@ Multicloud Rosetta Stone Required
 
 Cloud service providers are growing in number. So too are their product marketing teams that each try to make unique or differentiated claims about their portfolio.
 
-My prior decade in converged infrastructure while creating private clouds taught me the value of deterministic power, weight, cooling, and geometry for a ease of datacenter deployment. In essence, for cloud service providers, direct connectivity is the next progression: (aspiration) deterministic latency.
+My prior decade in converged infrastructure while creating private clouds taught me the value of deterministic power, weight, cooling, and geometry for a ease of data center deployment. In essence, for cloud service providers, direct connectivity is the next progression: (aspiration) deterministic latency.
 
 Of course, there are only so many ways to uniquely describe or brand similar things like throughput. Yet, the naming continues to stay, mostly, on… brand.
 

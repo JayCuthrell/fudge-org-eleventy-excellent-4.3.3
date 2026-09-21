@@ -26,7 +26,7 @@ Source: [Apple’s Literal “Scary Fast” Event on 500ish by M.G. Siegler](htt
 
 In related inspiration, if you aren't already reading [Matt Baker's newsletter or following his updates on LinkedIn](https://www.linkedin.com/in/mwbaker/recent-activity/all/), here are a few recent gems:
 
-> [...] it will run in the cloud, in the datacenter, at the edge, and on your workstations and notebooks
+> [...] it will run in the cloud, in the data center , at the edge, and on your workstations and notebooks
 Source: [LinkedIn](https://www.linkedin.com/pulse/generative-ai-hulksmash-matt-baker/)
 
 > [...] the author massively optimized the model adaptation process. Performing fine-tuning on a 7 billion parameter LLM on a SINGLE rather small GPU with only 16GB of memory.

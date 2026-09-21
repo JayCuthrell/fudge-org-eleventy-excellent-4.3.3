@@ -65,7 +65,7 @@ The Internet experiment becomes *social*.
 
 Helping build a multi billion dollar run rate business for converged infrastructure and hyperconverged infrastructure by 2015 meant two things. First, it meant that IT consumption patterns were shifting as the decade of post public cloud brought in private cloud and hybrid cloud control planes. Second, the things connecting were going to be less about humans being social and more about machines being social or augmenting their human benefactors.
 
-By 2020, the notion of companies buying servers, storage arrays, and networking it all together in your own datacenter would become either a Luddite era throwback to 2005 or a bold statement that public cloud is not one size fits all.
+By 2020, the notion of companies buying servers, storage arrays, and networking it all together in your own data center would become either a Luddite era throwback to 2005 or a bold statement that public cloud is not one size fits all.
 
 **[2015](https://fudge.org/archive/my-fifth-year-at-vce?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 

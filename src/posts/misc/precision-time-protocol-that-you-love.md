@@ -56,7 +56,7 @@ A lot actually — and the software too[4](#footnote-4). As mentioned in Fudge S
 And their memory's like a train 🎶
 ---------------------------------
 
-Fourth, now, it's worth taking an open standard view for what we think of as a traditional datacenter and the microdatacenters that will be closer to us at the edge of the network. This video from Open Compute Project goes into more detail on the Time Appliance Project (TAP)[5](#footnote-5).
+Fourth, now, it's worth taking an open standard view for what we think of as a traditional data center and the microdatacenters that will be closer to us at the edge of the network. This video from Open Compute Project goes into more detail on the Time Appliance Project (TAP)[5](#footnote-5).
 
 As the dish outside the window fills with rain 🎶
 ------------------------------------------------

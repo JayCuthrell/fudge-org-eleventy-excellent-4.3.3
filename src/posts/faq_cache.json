@@ -12682,5 +12682,19 @@
       "question": "What milestones did Google DeepMind report regarding Gemma open models?",
       "answer": "Google DeepMind reported that Gemma open models exceeded 1 billion cumulative downloads and developers published more than 100,000 variants in two years."
     }
+  ],
+  "wtf-025.md": [
+    {
+      "question": "Why has demand for traditional software engineers decreased according to the post?",
+      "answer": "Demand for traditional software engineers has decreased as automated developer loops and agentic orchestration increasingly handle baseline coding tasks, which is causing technical talent to shift toward robotics and physical AI."
+    },
+    {
+      "question": "What physical and kinetic infrastructure disruptions affected AWS data centers in 2026?",
+      "answer": "AWS experienced permanent data loss and facilities remaining mostly offline following kinetic drone strikes in the Middle East, alongside power grid instability that prompted plans to add $8 billion worth of backup generators."
+    },
+    {
+      "question": "How is Apple reportedly planning to re-enter the enterprise server market?",
+      "answer": "Apple is reportedly considering a return to the enterprise server market by utilizing its own M8 Ultra chips to power localized AI servers designed for sensitive on-premises inference workloads."
+    }
   ]
 }
