@@ -12696,5 +12696,19 @@
       "question": "How is Apple reportedly planning to re-enter the enterprise server market?",
       "answer": "Apple is reportedly considering a return to the enterprise server market by utilizing its own M8 Ultra chips to power localized AI servers designed for sensitive on-premises inference workloads."
     }
+  ],
+  "wtf-026.md": [
+    {
+      "question": "How much venture capital funding has been invested in quantum computing companies in 2026?",
+      "answer": "Venture capital investments in quantum computing companies have surpassed $4 billion for 2026."
+    },
+    {
+      "question": "What is Google's Project Suncatcher and when will it launch?",
+      "answer": "Project Suncatcher will launch on October 1, 2026, featuring four custom Trillium TPUs that operate on solar power in outer space."
+    },
+    {
+      "question": "What is Pilgrim developing with its $25M seed funding?",
+      "answer": "Pilgrim is using the $25M seed funding to develop a device that combines air sampling and localized genomic sequencing for detecting and identifying airborne biological threats."
+    }
   ]
 }
