@@ -3,15 +3,25 @@ permalink: /podcast.xml
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>{{ youtubePodcast.title }}</title>
     <link>{{ youtubePodcast.link }}</link>
     <atom:link href="https://fudge.org/podcast.xml" rel="self" type="application/rss+xml" />
-    <language>en-US</language>
+    <language>en</language>
+    
+    <!-- PSP-1 / Podcasting 2.0 Show-Level Tags -->
+    <!-- You should generate a permanent UUIDv4 for your show and replace the placeholder below -->
+    <podcast:guid>d9471def-ac04-5c12-a27e-6930431499f1</podcast:guid>
+    <podcast:locked owner="jay@cuthrell.com">yes</podcast:locked>
+    <podcast:person role="host">Jay Cuthrell</podcast:person>
     
     <!-- Show-level descriptions required by Apple -->
-    <description>What The Fudge podcast by Jay Cuthrell on fudge.org.</description>
+    <description>What The Fudge podcast by Jay Cuthrell that started in 2026. Episodes can be found on fudge.org which hosts his blog and newsletter content from 1998 to Present.</description>
     <itunes:summary>What The Fudge podcast by Jay Cuthrell on fudge.org.</itunes:summary>
     
     <itunes:author>Jay Cuthrell</itunes:author>
