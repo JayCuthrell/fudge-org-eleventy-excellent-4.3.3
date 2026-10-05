@@ -12724,5 +12724,19 @@
       "question": "What observation was shared regarding the spelling of the word 'bait' on September 5?",
       "answer": "The author noted: 'you can't spell bait without AI.'"
     }
+  ],
+  "wtf-027.md": [
+    {
+      "question": "What shift is occurring regarding autonomous agent environments?",
+      "answer": "There is a shift from ephemeral chat toward persistent autonomous agent environments running in dedicated cloud compute instances."
+    },
+    {
+      "question": "What is Digitaal Autonome Werkomgeving Overheid (DAWO)?",
+      "answer": "Digitaal Autonome Werkomgeving Overheid (DAWO) is a NixOS-based digital work environment."
+    },
+    {
+      "question": "What is the purpose of the Fairwind Program?",
+      "answer": "The Fairwind Program gives trusted partners a critical head start against cyber threats, while making sure models are deployed safely and responsibly."
+    }
   ]
 }
