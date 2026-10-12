@@ -12738,5 +12738,19 @@
       "question": "What is the purpose of the Fairwind Program?",
       "answer": "The Fairwind Program gives trusted partners a critical head start against cyber threats, while making sure models are deployed safely and responsibly."
     }
+  ],
+  "wtf-028.md": [
+    {
+      "question": "Which company did Cloudflare acquire to bolster Workers?",
+      "answer": "Cloudflare acquired the server-side runtime Deno to bolster Workers."
+    },
+    {
+      "question": "What shift in official terminology are US government agencies making regarding AI?",
+      "answer": "Government agencies are shifting their official phrasing from AI to Superintelligence (SI)."
+    },
+    {
+      "question": "How many startups reached decacorn status in 2026 according to the post?",
+      "answer": "Over 42 startups reached decacorn status in 2026."
+    }
   ]
 }
