@@ -12752,5 +12752,19 @@
       "question": "How many startups reached decacorn status in 2026 according to the post?",
       "answer": "Over 42 startups reached decacorn status in 2026."
     }
+  ],
+  "wtf-029.md": [
+    {
+      "question": "How is Accenture managing employee spend on AI tools like Claude?",
+      "answer": "Accenture is setting employee spend to approximately $30 a month per person on Claude, with larger projects receiving specific token allocations that translate into dollar spend."
+    },
+    {
+      "question": "What custom silicon did Microsoft announce for its AI infrastructure?",
+      "answer": "Microsoft announced the Maia 300, with multi-gigawatt deployments starting next year."
+    },
+    {
+      "question": "Which company is acquiring OnLogic and Interlogic, and for what purpose?",
+      "answer": "Omron is acquiring OnLogic and Interlogic for $675 million to grow its physical AI portfolio."
+    }
   ]
 }
