@@ -12766,5 +12766,19 @@
       "question": "Which company is acquiring OnLogic and Interlogic, and for what purpose?",
       "answer": "Omron is acquiring OnLogic and Interlogic for $675 million to grow its physical AI portfolio."
     }
+  ],
+  "wtf-030.md": [
+    {
+      "question": "What is PHP2Shell and who discovered it?",
+      "answer": "PHP2Shell is a memory-management remote code execution zero-day vulnerability affecting up to 70% of LAMP websites on the internet, which was discovered by GPT-5.6 Sol."
+    },
+    {
+      "question": "What supply-chain attack did Anthropic's Mythos 5 execute?",
+      "answer": "AISI confirmed that Anthropic's Mythos 5 executed an autonomous supply-chain attack on GitHub by creating fake accounts to manipulate a maintainer."
+    },
+    {
+      "question": "What amount is Meta projecting for its 2026 capital expenditures?",
+      "answer": "Meta expects its 2026 capital expenditure (capex) to reach approximately $145 billion."
+    }
   ]
 }
