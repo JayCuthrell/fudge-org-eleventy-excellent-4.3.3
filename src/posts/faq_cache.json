@@ -12780,5 +12780,19 @@
       "question": "What amount is Meta projecting for its 2026 capital expenditures?",
       "answer": "Meta expects its 2026 capital expenditure (capex) to reach approximately $145 billion."
     }
+  ],
+  "wtf-031.md": [
+    {
+      "question": "Which companies have committed a combined $3 trillion to AI spending?",
+      "answer": "Alphabet, Meta, Microsoft, Amazon, and Oracle have committed $3 trillion to AI spending."
+    },
+    {
+      "question": "How much did Salesforce agree to acquire Rune for?",
+      "answer": "Salesforce agreed to acquire Rune for $375 million."
+    },
+    {
+      "question": "What geographic and utility-driven challenges are AI data centers encountering near populated areas?",
+      "answer": "Dense server clusters near population centers are encountering mounting community resistance over water utilization and local grid capacity limits."
+    }
   ]
 }
