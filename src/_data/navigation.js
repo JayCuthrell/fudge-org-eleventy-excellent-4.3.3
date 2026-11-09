@@ -1,6 +1,10 @@
 export default {
    top: [
     {
+      text: 'About',
+      url: '/about/'
+    },
+    {
       text: 'Archive',
       url: '/archive/'
     },
@@ -11,10 +15,6 @@ export default {
     {
       text: 'Sponsors',
       url: '/sponsorship/'
-    },
-     {
-      text: 'CO2',
-      url: '/sustainability/'
     },
     {
       text: '🚀 SVC 🛰️',
